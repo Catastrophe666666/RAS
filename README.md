@@ -1,0 +1,133 @@
+# RAS Journal Data
+
+This repository contains cleaned datasets and interactive network visualizations for a digital humanities project on the journal materials of the Royal Asiatic Society (RAS), covering the period from **1858 to 1948**.
+
+The project organizes article-level metadata into author, subject, and year-based tables, and further transforms the data into network-ready formats for analyzing the historical development of scholarly attention, subject categories, and author–subject relationships over time.
+
+## Project Overview
+
+The repository is designed to support exploratory analysis of English-language scholarship related to China and Asia from the late Qing period through the Republican era. The data can be used to examine questions such as:
+
+* How did the thematic focus of RAS journal articles change between 1858 and 1948?
+* Which subject areas became more or less prominent over time?
+* How were authors connected to different subject categories?
+* Which subjects occupied more central positions in the author–subject network?
+* How can historical journal metadata be represented through network analysis and time-window visualization?
+
+## Repository Structure
+
+```text
+RAS/
+├── author_subject_year_tables/
+│   ├── RAS_author_subject_year_1858-1948_utf8_2levsubjects.csv
+│   └── RAS_author_subject_year_1858-1948_utf8_simplified_before_lcsh_namecorrected.csv
+│
+├── Time_Window/
+│   ├── subject_l1_time_lcsh_namecorrected.csv
+│   └── subject_l2_time_lcsh_namecorrected.csv
+│
+├── Network_Attributes/
+│   ├── network_edges_article_level_lcsh_namecorrected.csv
+│   ├── network_edges_author_subject_time_lcsh_namecorrected.csv
+│   ├── network_nodes_author_subject_lcsh_namecorrected.csv
+│   ├── subject_diversity_lcsh_namecorrected.csv
+│   ├── subject_mapping_lcsh_review_namecorrected.csv
+│   └── subject_network_centrality_time_lcsh_namecorrected.csv
+│
+└── Network_Html/
+    ├── author_subject_network_lcsh_interactive_namecorrected.html
+    └── subject_time_evolution_lcsh_namecorrected.html
+```
+
+## Data Description
+
+### `author_subject_year_tables/`
+
+This folder contains the main article-level metadata tables.
+
+* `RAS_author_subject_year_1858-1948_utf8_2levsubjects.csv`
+  Main dataset with author, subject, year, and two-level subject classification.
+
+* `RAS_author_subject_year_1858-1948_utf8_simplified_before_lcsh_namecorrected.csv`
+  A simplified version of the author–subject–year table before the two-level subject classification.
+
+### `Time_Window/`
+
+This folder contains subject-frequency data organized by time windows.
+
+* `subject_l1_time_lcsh_namecorrected.csv`
+  Time-window data for Level 1 subject categories.
+
+* `subject_l2_time_lcsh_namecorrected.csv`
+  Time-window data for Level 2 subject categories.
+
+These files are useful for tracing broad and fine-grained subject changes across different historical periods.
+
+### `Network_Attributes/`
+
+This folder contains network-ready files for author–subject analysis.
+
+* `network_edges_article_level_lcsh_namecorrected.csv`
+  Article-level edge list connecting authors and subjects.
+
+* `network_edges_author_subject_time_lcsh_namecorrected.csv`
+  Author–subject edge list with time information.
+
+* `network_nodes_author_subject_lcsh_namecorrected.csv`
+  Node table for the author–subject network.
+
+* `subject_diversity_lcsh_namecorrected.csv`
+  Subject diversity measures.
+
+* `subject_mapping_lcsh_review_namecorrected.csv`
+  Subject mapping table used for reviewed and corrected subject classification.
+
+* `subject_network_centrality_time_lcsh_namecorrected.csv`
+  Subject centrality measures across time windows.
+
+### `Network_Html/`
+
+This folder contains interactive HTML visualizations.
+
+* `author_subject_network_lcsh_interactive_namecorrected.html`
+  Interactive author–subject network visualization.
+
+* `subject_time_evolution_lcsh_namecorrected.html`
+  Interactive visualization of subject evolution over time.
+
+To view these files, download the repository and open the HTML files locally in a browser.
+
+## Possible Uses
+
+This dataset can support:
+
+* Digital humanities research
+* Historical bibliography analysis
+* Subject classification analysis
+* Network analysis of authors and topics
+* Time-series visualization of scholarly attention
+* Exploratory research on the development of Anglophone scholarship on China and Asia
+
+## Suggested Workflow
+
+1. Start with the article-level tables in `author_subject_year_tables/`.
+2. Use `Time_Window/` files to examine subject changes over time.
+3. Use `Network_Attributes/` files for network analysis in R, Python, Gephi, or other visualization tools.
+4. Open the files in `Network_Html/` for interactive exploration.
+
+## Example Research Questions
+
+This repository can be used to explore:
+
+* Which subject categories dominated RAS journal publications in different periods?
+* Did the journal’s scholarly attention shift from antiquarian, linguistic, or religious topics toward modern political, social, or economic concerns?
+* Which authors were associated with the widest range of subject areas?
+* Which subject categories served as bridges between different authors or scholarly communities?
+* How did the structure of author–subject relationships change from the nineteenth century to the early twentieth century?
+
+## Notes
+
+The datasets have gone through subject classification, name correction, and LCSH-related review. However, because the source material comes from historical journal records, users should still treat the data as a research dataset that may require further checking for specific scholarly claims.
+
+
+No license has been specified yet. Please contact the repository owner before reusing, redistributing, or publishing the dataset.
