@@ -22,10 +22,6 @@ RAS/
 │   ├── RAS_author_subject_year_1858-1948_utf8_2levsubjects.csv
 │   └── RAS_author_subject_year_1858-1948_utf8_simplified_before_lcsh_namecorrected.csv
 │
-├── Time_Window/
-│   ├── subject_l1_time_lcsh_namecorrected.csv
-│   └── subject_l2_time_lcsh_namecorrected.csv
-│
 ├── Network_Attributes/
 │   ├── network_edges_article_level_lcsh_namecorrected.csv
 │   ├── network_edges_author_subject_time_lcsh_namecorrected.csv
@@ -34,68 +30,26 @@ RAS/
 │   ├── subject_mapping_lcsh_review_namecorrected.csv
 │   └── subject_network_centrality_time_lcsh_namecorrected.csv
 │
-└── Network_Html/
-    ├── author_subject_network_lcsh_interactive_namecorrected.html
-    └── subject_time_evolution_lcsh_namecorrected.html
+├── Network_Html/
+│   ├── author_subject_network_lcsh_interactive_namecorrected.html
+│   └── subject_time_evolution_lcsh_namecorrected.html
+│
+└── README.md
 ```
 
-## Data Description
+### Folder Description
 
-### `author_subject_year_tables/`
+* `author_subject_year_tables/`
+  Contains the main author–subject–year datasets for the RAS journal materials from 1858 to 1948. These files preserve article-level metadata and subject classification information.
 
-This folder contains the main article-level metadata tables.
+* `Network_Attributes/`
+  Contains network-ready datasets, including author–subject edge lists, node attributes, subject diversity measures, subject mapping files, and subject centrality measures over time.
 
-* `RAS_author_subject_year_1858-1948_utf8_2levsubjects.csv`
-  Main dataset with author, subject, year, and two-level subject classification.
+* `Network_Html/`
+  Contains interactive HTML visualizations for exploring the author–subject network and the evolution of subject categories across time.
 
-* `RAS_author_subject_year_1858-1948_utf8_simplified_before_lcsh_namecorrected.csv`
-  A simplified version of the author–subject–year table before the two-level subject classification.
-
-### `Time_Window/`
-
-This folder contains subject-frequency data organized by time windows.
-
-* `subject_l1_time_lcsh_namecorrected.csv`
-  Time-window data for Level 1 subject categories.
-
-* `subject_l2_time_lcsh_namecorrected.csv`
-  Time-window data for Level 2 subject categories.
-
-These files are useful for tracing broad and fine-grained subject changes across different historical periods.
-
-### `Network_Attributes/`
-
-This folder contains network-ready files for author–subject analysis.
-
-* `network_edges_article_level_lcsh_namecorrected.csv`
-  Article-level edge list connecting authors and subjects.
-
-* `network_edges_author_subject_time_lcsh_namecorrected.csv`
-  Author–subject edge list with time information.
-
-* `network_nodes_author_subject_lcsh_namecorrected.csv`
-  Node table for the author–subject network.
-
-* `subject_diversity_lcsh_namecorrected.csv`
-  Subject diversity measures.
-
-* `subject_mapping_lcsh_review_namecorrected.csv`
-  Subject mapping table used for reviewed and corrected subject classification.
-
-* `subject_network_centrality_time_lcsh_namecorrected.csv`
-  Subject centrality measures across time windows.
-
-### `Network_Html/`
-
-This folder contains interactive HTML visualizations.
-
-* `author_subject_network_lcsh_interactive_namecorrected.html`
-  Interactive author–subject network visualization.
-
-* `subject_time_evolution_lcsh_namecorrected.html`
-  Interactive visualization of subject evolution over time.
-
-To view these files, download the repository and open the HTML files locally in a browser.
+* `README.md`
+  Provides an overview of the project, dataset structure, possible uses, and suggested research directions.
 
 ## Possible Uses
 
