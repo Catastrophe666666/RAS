@@ -1,0 +1,1020 @@
+---
+title: "RAS_Author_Subject"
+author: "Xiaoye Zhu"
+date: "2026-06-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+if (requireNamespace("knitr", quietly = TRUE)) {
+  knitr::opts_chunk$set(echo = TRUE)
+}
+```
+
+```{r}
+# ============================================================
+# RAS author-subject-time network with LCSH subject headings
+# Base R version: no external R packages are required.
+# ============================================================
+```
+
+```{r}
+# ------------------------------------------------------------
+# 1. Read data
+# ------------------------------------------------------------
+
+output_dir <- Sys.getenv("RAS_OUTPUT_DIR", "C:/ras_text_analysis")
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+source_override <- Sys.getenv("RAS_SOURCE_CSV", "")
+output_suffix <- if (source_override != "") "_namecorrected" else ""
+if (source_override != "") {
+  file_in <- file.path(output_dir, "RAS_author_subject_year_1858-1948_utf8_simplified_namecorrected_lcsh.csv")
+  backup_path <- file.path(output_dir, "RAS_author_subject_year_1858-1948_utf8_simplified_before_lcsh_namecorrected.csv")
+} else {
+  file_in <- "C:/ras_text_analysis/RAS_author_subject_year_1858-1948_utf8_simplified.csv"
+  backup_path <- "C:/ras_text_analysis/RAS_author_subject_year_1858-1948_utf8_simplified_before_lcsh.csv"
+}
+
+if (!file.exists(backup_path)) {
+  if (source_override != "") {
+    file.copy(source_override, backup_path)
+  } else {
+    file.copy(file_in, backup_path)
+  }
+}
+
+source_path <- if (source_override != "") source_override else if (file.exists(backup_path)) backup_path else file_in
+
+parse_csv_line <- function(line) {
+  chars <- strsplit(line, "", fixed = TRUE)[[1]]
+  fields <- character()
+  current <- character()
+  in_quotes <- FALSE
+  i <- 1
+
+  while (i <= length(chars)) {
+    ch <- chars[i]
+
+    if (ch == "\"") {
+      if (in_quotes && i < length(chars) && chars[i + 1] == "\"") {
+        current <- c(current, "\"")
+        i <- i + 1
+      } else {
+        in_quotes <- !in_quotes
+      }
+    } else if (ch == "," && !in_quotes) {
+      fields <- c(fields, paste0(current, collapse = ""))
+      current <- character()
+    } else {
+      current <- c(current, ch)
+    }
+
+    i <- i + 1
+  }
+
+  c(fields, paste0(current, collapse = ""))
+}
+
+read_ras_csv <- function(path) {
+  lines <- readLines(path, encoding = "UTF-8", warn = FALSE)
+  lines[1] <- sub("^\ufeff", "", lines[1])
+  header <- parse_csv_line(lines[1])
+  rows <- lapply(lines[-1], parse_csv_line)
+
+  rows <- lapply(rows, function(x) {
+    if (length(x) < length(header)) {
+      x <- c(x, rep("", length(header) - length(x)))
+    }
+    if (length(x) > length(header)) {
+      x <- c(x[seq_len(length(header) - 1)], paste(x[length(header):length(x)], collapse = ","))
+    }
+    x
+  })
+
+  out <- as.data.frame(do.call(rbind, rows), stringsAsFactors = FALSE, check.names = FALSE)
+  names(out) <- header
+  out[out %in% c("NA", "N/A")] <- NA
+  out
+}
+
+df_raw <- read_ras_csv(source_path)
+
+str(df_raw)
+```
+
+```{r}
+# ------------------------------------------------------------
+# 2. Basic cleaning
+# ------------------------------------------------------------
+
+squish <- function(x) {
+  x <- ifelse(is.na(x), "", as.character(x))
+  x <- gsub("\\s+", " ", x, perl = TRUE)
+  trimws(x)
+}
+
+normalize_author_name <- function(x) {
+  x <- squish(x)
+  x <- gsub("^(trans\\.?|translated by)\\s+", "", x, ignore.case = TRUE, perl = TRUE)
+  x <- gsub("\\s*-\\s*", "-", x, perl = TRUE)
+  x <- gsub("\\s*'\\s*", "'", x, perl = TRUE)
+  x <- gsub("\\s+,", ",", x, perl = TRUE)
+  x <- gsub('^"\\s*Ardsheal\\s*"\\s*Sections.*$', "Ardsheal", x, ignore.case = TRUE, perl = TRUE)
+  aliases <- c(
+    "E. H. PARKER" = "Parker, E. H.",
+    "Thos. W. KINGSMILL" = "Kingsmill, T. W.",
+    "Siren, 0." = "Siren, O.",
+    "T., C. B." = "T. C. B.",
+    "Fishcher, E. S." = "Fischer, E. S.",
+    "Edgins, J." = "Edkins, J.",
+    "Zwehtkoff, P., Trans. Carles, W. R." = "Carles, W. R."
+  )
+  matched <- match(x, names(aliases))
+  x[!is.na(matched)] <- unname(aliases[matched[!is.na(matched)]])
+  squish(x)
+}
+
+extract_year <- function(x) {
+  x <- as.character(x)
+  m <- regexpr("\\d{4}", x, perl = TRUE)
+  out <- rep(NA_integer_, length(x))
+  ok <- m > 0
+  out[ok] <- as.integer(substr(x[ok], m[ok], m[ok] + 3))
+  out
+}
+
+df <- df_raw
+df$master_id <- as.character(df$master_id)
+missing_master_id <- is.na(df$master_id) | trimws(df$master_id) == ""
+if (any(missing_master_id)) {
+  df$master_id[missing_master_id] <- paste0("INDEX_", sprintf("%05d", which(missing_master_id)))
+}
+df$author_raw <- normalize_author_name(df$author)
+df$subject_raw <- squish(df$subject)
+df$title <- squish(df$title)
+df$notes <- squish(df$notes)
+df$year_start <- suppressWarnings(as.integer(df$year_start))
+df$year_end <- suppressWarnings(as.integer(df$year_end))
+
+year_from_year_col <- extract_year(df$year)
+df$year_start[is.na(df$year_start)] <- year_from_year_col[is.na(df$year_start)]
+df$year_end[is.na(df$year_end)] <- df$year_start[is.na(df$year_end)]
+df$year_end[df$year_end < df$year_start] <- df$year_start[df$year_end < df$year_start]
+```
+
+```{r}
+# ------------------------------------------------------------
+# 3. Define time windows
+#    Analysis uses the full available journal range.
+# ------------------------------------------------------------
+
+window_size <- 10
+base_year <- 1858
+network_end_year <- max(df$year_end, df$year_start, na.rm = TRUE)
+journal_year_span <- paste0(min(df$year_start, na.rm = TRUE), "-", network_end_year)
+
+df$time_window_start <- base_year + floor((df$year_start - base_year) / window_size) * window_size
+df$time_window_end <- pmin(df$time_window_start + window_size - 1, network_end_year)
+final_partial <- df$time_window_start == network_end_year & df$time_window_start > base_year
+if (any(final_partial, na.rm = TRUE)) {
+  df$time_window_start[final_partial] <- df$time_window_start[final_partial] - window_size
+  df$time_window_end[final_partial] <- network_end_year
+}
+df$time_window <- paste0(df$time_window_start, "-", df$time_window_end)
+```
+
+```{r}
+# ------------------------------------------------------------
+# 4. Subject splitting and LCSH normalization
+# ------------------------------------------------------------
+
+normalize_subject <- function(x) {
+  x <- ifelse(is.na(x), "", as.character(x))
+  x <- tolower(x)
+  x <- gsub("[\u2013\u2014]", "-", x, perl = TRUE)
+  x <- gsub("\\s+", " ", x, perl = TRUE)
+  trimws(x)
+}
+
+protected_subjects <- c(
+  "associations and institutions",
+  "far eastern languages",
+  "fine arts",
+  "literature and language",
+  "political economy",
+  "political science",
+  "religion of china",
+  "science in general",
+  "social customs"
+)
+
+split_subjects <- function(x) {
+  x_norm <- normalize_subject(x)
+
+  if (is.na(x_norm) || x_norm == "") {
+    return("unknown")
+  }
+
+  if (x_norm %in% protected_subjects) {
+    return(x_norm)
+  }
+
+  x_norm <- gsub("\\s*,\\s*(and|or|&)\\s+", ", ", x_norm, perl = TRUE)
+  x_norm <- gsub("\\s*;\\s*(and|or|&)\\s+", "; ", x_norm, perl = TRUE)
+
+  parts <- unlist(strsplit(
+    x_norm,
+    "\\s*,\\s*|\\s*;\\s*|\\s*:\\s*|\\s+-\\s+|\\s+and\\s+|\\s*&\\s*",
+    perl = TRUE
+  ))
+  parts <- trimws(gsub("^(and|or)\\b\\s*|^&\\s*", "", parts, perl = TRUE))
+  parts <- unique(parts[parts != ""])
+
+  if (length(parts) == 0) {
+    return("unknown")
+  }
+
+  parts
+}
+
+lcsh_subject_mapping <- data.frame(
+  subject_split = c(
+    "agriculture", "ancient history", "anthropology", "antiquities", "archaeology",
+    "architecture", "arts", "asia", "associations and institutions", "astronomy",
+    "biographical history", "biography", "botany", "bronze", "buddhism",
+    "chemistry", "christianity", "chronology", "coinage", "communications",
+    "confucianism", "contemporary history", "decorative arts", "economics",
+    "education", "ethnology", "far eastern languages", "fine arts", "folklore",
+    "general descriptions", "geography", "geology", "government", "history",
+    "hydrology", "individuals of history", "industry", "inscriptions", "islam",
+    "judaism", "language", "languages", "law", "literature",
+    "literature and language", "medicine", "meteorology", "military", "minor arts",
+    "miscellaneous", "modern history", "mohammedanism", "music", "mythology",
+    "navigation", "numismatics", "painting", "philosophy", "political economy",
+    "political science", "political theory", "porcelain", "religion",
+    "religion of china", "science in general", "sculpture", "social customs",
+    "taoism", "trade", "travel", "travels", "unknown", "zoology"
+  ),
+  subject_l2 = c(
+    "Agriculture", "History, Ancient", "Anthropology", "Antiquities", "Archaeology",
+    "Architecture", "Art", "Asia", "Associations, institutions, etc.", "Astronomy",
+    "Biography", "Biography", "Botany", "Bronzes", "Buddhism",
+    "Chemistry", "Christianity", "Chronology, Historical", "Numismatics", "Telecommunication",
+    "Confucianism", "History, Modern (20th century)", "Decorative arts", "Economics",
+    "Education", "Ethnology", "East Asian languages", "Art", "Folklore",
+    "Travel", "Geography", "Geology", "Government", "History",
+    "Hydrology", "Biography", "Industries", "Unknown", "Islam",
+    "Judaism", "Language and languages", "Language and languages", "Law", "Literature",
+    "Language and languages", "Medicine", "Meteorology", "Military art and science", "Decorative arts",
+    "Unknown", "History, Modern", "Islam", "Music", "Mythology",
+    "Navigation", "Numismatics", "Painting", "Philosophy", "Economics",
+    "Political science", "Political science--Philosophy", "Porcelain", "Religion",
+    "China--Religion", "Science", "Sculpture", "Manners and customs",
+    "Taoism", "Commerce", "Travel", "Travel", "Unknown", "Zoology"
+  ),
+  subject_l1 = c(
+    "Natural Sciences", "History and Chronology", "Anthropology and Social Customs", "Arts and Archaeology", "Arts and Archaeology",
+    "Arts and Archaeology", "Arts and Archaeology", "Geography and Travel", "Politics, Government, and Law", "Natural Sciences",
+    "History and Chronology", "History and Chronology", "Natural Sciences", "Arts and Archaeology", "Religion and Philosophy",
+    "Natural Sciences", "Religion and Philosophy", "History and Chronology", "Arts and Archaeology", "Economy, Trade, and Technology",
+    "Religion and Philosophy", "History and Chronology", "Arts and Archaeology", "Economy, Trade, and Technology",
+    "Education", "Anthropology and Social Customs", "Literature and Language", "Arts and Archaeology", "Anthropology and Social Customs",
+    "Geography and Travel", "Geography and Travel", "Natural Sciences", "Politics, Government, and Law", "History and Chronology",
+    "Natural Sciences", "History and Chronology", "Economy, Trade, and Technology", "Unknown", "Religion and Philosophy",
+    "Religion and Philosophy", "Literature and Language", "Literature and Language", "Politics, Government, and Law", "Literature and Language",
+    "Literature and Language", "Natural Sciences", "Natural Sciences", "Military", "Arts and Archaeology",
+    "Unknown", "History and Chronology", "Religion and Philosophy", "Arts and Archaeology", "Anthropology and Social Customs",
+    "Geography and Travel", "Arts and Archaeology", "Arts and Archaeology", "Religion and Philosophy", "Economy, Trade, and Technology",
+    "Politics, Government, and Law", "Politics, Government, and Law", "Arts and Archaeology", "Religion and Philosophy",
+    "Religion and Philosophy", "Natural Sciences", "Arts and Archaeology", "Anthropology and Social Customs",
+    "Religion and Philosophy", "Economy, Trade, and Technology", "Geography and Travel", "Geography and Travel", "Unknown", "Natural Sciences"
+  ),
+  mapping_note = c(
+    "", "", "", "", "",
+    "", "LCSH standard form", "", "LCSH standard form", "",
+    "", "", "", "LCSH standard form", "",
+    "", "", "LCSH standard form", "LCSH standard form", "LCSH standard form",
+    "", "Use 20th century, not docx 21st century", "", "",
+    "", "", "LCSH standard form", "LCSH standard form", "",
+    "Merged with travel", "", "", "", "",
+    "", "", "LCSH standard form", "User-reviewed as Unknown", "",
+    "", "LCSH standard form", "LCSH standard form", "", "",
+    "Protected compound mapped to LCSH language term", "", "", "LCSH standard form", "LCSH standard form",
+    "User-reviewed as Unknown", "", "LCSH updated term", "", "",
+    "", "", "", "", "User-reviewed category",
+    "", "LCSH-style subdivision", "", "",
+    "ASCII form of China--Religion", "", "", "LCSH standard form",
+    "", "LCSH standard form", "", "", "Blank or unmapped subject", ""
+  ),
+  stringsAsFactors = FALSE
+)
+
+lcsh_subject_mapping$subject_split <- normalize_subject(lcsh_subject_mapping$subject_split)
+```
+
+```{r}
+# ------------------------------------------------------------
+# 5. Expand article-subject rows and apply reviewed LCSH mapping
+# ------------------------------------------------------------
+
+subject_split_list <- lapply(df$subject_raw, split_subjects)
+row_index <- rep(seq_len(nrow(df)), lengths(subject_split_list))
+df_subject_expanded <- df[row_index, , drop = FALSE]
+rownames(df_subject_expanded) <- NULL
+df_subject_expanded$subject_split <- normalize_subject(unlist(subject_split_list, use.names = FALSE))
+df_subject_expanded$subject_raw_norm <- normalize_subject(df_subject_expanded$subject_raw)
+
+map_idx <- match(df_subject_expanded$subject_split, lcsh_subject_mapping$subject_split)
+df_subject_expanded$subject_l2 <- lcsh_subject_mapping$subject_l2[map_idx]
+df_subject_expanded$subject_l1 <- lcsh_subject_mapping$subject_l1[map_idx]
+df_subject_expanded$mapping_note <- lcsh_subject_mapping$mapping_note[map_idx]
+
+df_subject_expanded$subject_l2[is.na(df_subject_expanded$subject_l2)] <- "Unknown"
+df_subject_expanded$subject_l1[is.na(df_subject_expanded$subject_l1)] <- "Unknown"
+df_subject_expanded$mapping_note[is.na(df_subject_expanded$mapping_note)] <- "No reviewed LCSH rule; assigned Unknown"
+
+df_subject_expanded <- df_subject_expanded[
+  !duplicated(paste(df_subject_expanded$master_id, df_subject_expanded$subject_l2, sep = "\r")),
+]
+rownames(df_subject_expanded) <- NULL
+
+subject_mapping_lcsh_review <- aggregate(
+  rep(1, nrow(df_subject_expanded)),
+  by = df_subject_expanded[c("subject_raw", "subject_raw_norm", "subject_split", "subject_l2", "subject_l1", "mapping_note")],
+  FUN = sum
+)
+names(subject_mapping_lcsh_review)[ncol(subject_mapping_lcsh_review)] <- "article_rows"
+subject_mapping_lcsh_review <- subject_mapping_lcsh_review[order(-subject_mapping_lcsh_review$article_rows), ]
+
+write.csv(
+  subject_mapping_lcsh_review,
+  file.path(output_dir, paste0("subject_mapping_lcsh_review", output_suffix, ".csv")),
+  row.names = FALSE,
+  fileEncoding = "UTF-8"
+)
+```
+
+```{r}
+# ------------------------------------------------------------
+# 6. Export expanded CSV with new LCSH subjects
+#    This overwrites the selected CSV; the original is backed up once.
+# ------------------------------------------------------------
+
+all_counts <- tapply(df_subject_expanded$subject_l2, df_subject_expanded$master_id, function(x) length(unique(x)))
+network_rows_for_count <- df_subject_expanded$subject_l2 != "Unknown"
+network_counts <- tapply(
+  df_subject_expanded$subject_l2[network_rows_for_count],
+  df_subject_expanded$master_id[network_rows_for_count],
+  function(x) length(unique(x))
+)
+
+df_subject_expanded$n_subjects_article_all <- as.integer(all_counts[df_subject_expanded$master_id])
+df_subject_expanded$n_subjects_article_network <- as.integer(network_counts[df_subject_expanded$master_id])
+df_subject_expanded$n_subjects_article_network[is.na(df_subject_expanded$n_subjects_article_network)] <- 0L
+df_subject_expanded$subject_weight <- ifelse(
+  df_subject_expanded$subject_l2 == "Unknown" | df_subject_expanded$n_subjects_article_network == 0,
+  0,
+  1 / df_subject_expanded$n_subjects_article_network
+)
+
+df_subject_export <- df_subject_expanded[c(
+  "master_id", "year", "volume", "author", "author_raw",
+  "subject_l1", "subject_l2", "subject_raw", "subject_raw_norm", "subject_split",
+  "title", "year_start", "year_end", "notes", "time_window",
+  "n_subjects_article_all", "n_subjects_article_network", "subject_weight", "mapping_note"
+)]
+df_subject_export$subject <- df_subject_export$subject_l2
+df_subject_export <- df_subject_export[c(
+  "master_id", "year", "volume", "author", "author_raw",
+  "subject", "subject_l1", "subject_l2", "subject_raw", "subject_raw_norm", "subject_split",
+  "title", "year_start", "year_end", "notes", "time_window",
+  "n_subjects_article_all", "n_subjects_article_network", "subject_weight", "mapping_note"
+)]
+
+write.csv(df_subject_export, file_in, row.names = FALSE, fileEncoding = "UTF-8")
+```
+
+```{r}
+# ------------------------------------------------------------
+# 7. Build author and subject nodes
+#    Unknown subjects are excluded.
+# ------------------------------------------------------------
+
+df_network <- df_subject_expanded[
+  df_subject_expanded$subject_l1 != "Unknown" &
+    df_subject_expanded$subject_l2 != "Unknown" &
+    !is.na(df_subject_expanded$author_raw) &
+    df_subject_expanded$author_raw != "",
+]
+
+author_labels <- unique(df_network$author_raw)
+author_nodes <- data.frame(
+  node_id = paste0("A_", seq_along(author_labels)),
+  node_label = author_labels,
+  node_type = "author",
+  stringsAsFactors = FALSE
+)
+author_nodes$first_year <- sapply(author_labels, function(a) min(df_network$year_start[df_network$author_raw == a], na.rm = TRUE))
+author_nodes$last_year <- sapply(author_labels, function(a) max(df_network$year_end[df_network$author_raw == a], na.rm = TRUE))
+author_nodes$article_count <- sapply(author_labels, function(a) length(unique(df_network$master_id[df_network$author_raw == a])))
+author_nodes$subject_count <- sapply(author_labels, function(a) length(unique(df_network$subject_l2[df_network$author_raw == a])))
+author_nodes$subject_l1 <- NA_character_
+author_nodes$author_count <- NA_integer_
+
+subject_pairs <- unique(df_network[c("subject_l2", "subject_l1")])
+subject_nodes <- data.frame(
+  node_id = paste0("S_", seq_len(nrow(subject_pairs))),
+  node_label = subject_pairs$subject_l2,
+  node_type = "subject",
+  subject_l1 = subject_pairs$subject_l1,
+  stringsAsFactors = FALSE
+)
+subject_nodes$first_year <- sapply(subject_nodes$node_label, function(s) min(df_network$year_start[df_network$subject_l2 == s], na.rm = TRUE))
+subject_nodes$last_year <- sapply(subject_nodes$node_label, function(s) max(df_network$year_end[df_network$subject_l2 == s], na.rm = TRUE))
+subject_nodes$article_count <- sapply(subject_nodes$node_label, function(s) length(unique(df_network$master_id[df_network$subject_l2 == s])))
+subject_nodes$author_count <- sapply(subject_nodes$node_label, function(s) length(unique(df_network$author_raw[df_network$subject_l2 == s])))
+subject_nodes$subject_count <- NA_integer_
+
+nodes <- rbind(
+  author_nodes[c("node_id", "node_label", "node_type", "first_year", "last_year", "article_count", "subject_count", "subject_l1", "author_count")],
+  subject_nodes[c("node_id", "node_label", "node_type", "first_year", "last_year", "article_count", "subject_count", "subject_l1", "author_count")]
+)
+```
+
+```{r}
+# ------------------------------------------------------------
+# 8. Build author-subject-time edges
+# ------------------------------------------------------------
+
+edges_article_level <- data.frame(
+  from = author_nodes$node_id[match(df_network$author_raw, author_nodes$node_label)],
+  to = subject_nodes$node_id[match(df_network$subject_l2, subject_nodes$node_label)],
+  author = df_network$author_raw,
+  subject_l2 = df_network$subject_l2,
+  subject_l1 = df_network$subject_l1,
+  master_id = df_network$master_id,
+  title = df_network$title,
+  volume = df_network$volume,
+  year_start = df_network$year_start,
+  year_end = df_network$year_end,
+  time_window = df_network$time_window,
+  subject_weight = df_network$subject_weight,
+  subject_raw = df_network$subject_raw,
+  stringsAsFactors = FALSE
+)
+
+edge_groups <- split(
+  edges_article_level,
+  interaction(
+    edges_article_level$from,
+    edges_article_level$to,
+    edges_article_level$author,
+    edges_article_level$subject_l2,
+    edges_article_level$subject_l1,
+    edges_article_level$time_window,
+    drop = TRUE,
+    sep = "\r"
+  )
+)
+
+edges_ast <- do.call(rbind, lapply(edge_groups, function(x) {
+  data.frame(
+    from = x$from[1],
+    to = x$to[1],
+    author = x$author[1],
+    subject_l2 = x$subject_l2[1],
+    subject_l1 = x$subject_l1[1],
+    time_window = x$time_window[1],
+    article_count = length(unique(x$master_id)),
+    weight = sum(x$subject_weight, na.rm = TRUE),
+    first_year = min(x$year_start, na.rm = TRUE),
+    last_year = max(x$year_end, na.rm = TRUE),
+    titles = paste(unique(x$title), collapse = " | "),
+    stringsAsFactors = FALSE
+  )
+}))
+rownames(edges_ast) <- NULL
+
+write.csv(nodes, file.path(output_dir, paste0("network_nodes_author_subject_lcsh", output_suffix, ".csv")), row.names = FALSE, fileEncoding = "UTF-8")
+write.csv(edges_article_level, file.path(output_dir, paste0("network_edges_article_level_lcsh", output_suffix, ".csv")), row.names = FALSE, fileEncoding = "UTF-8")
+write.csv(edges_ast, file.path(output_dir, paste0("network_edges_author_subject_time_lcsh", output_suffix, ".csv")), row.names = FALSE, fileEncoding = "UTF-8")
+```
+
+```{r}
+# ------------------------------------------------------------
+# 9. Build standalone interactive HTML
+#    No external JavaScript libraries are required.
+# ------------------------------------------------------------
+
+html_path <- file.path(output_dir, paste0("author_subject_network_lcsh_interactive", output_suffix, ".html"))
+bundle_dir <- file.path(output_dir, paste0("ras-author-subject-network", output_suffix))
+bundle_path <- file.path(bundle_dir, "index.html")
+
+if (!dir.exists(bundle_dir)) {
+  dir.create(bundle_dir, recursive = TRUE)
+}
+
+json_escape <- function(x) {
+  x <- ifelse(is.na(x), "", as.character(x))
+  x <- gsub("\\\\", "\\\\\\\\", x, perl = TRUE)
+  x <- gsub("\"", "\\\\\"", x, perl = TRUE)
+  x <- gsub("\r", "\\\\r", x, perl = TRUE)
+  x <- gsub("\n", "\\\\n", x, perl = TRUE)
+  x <- gsub("\t", "\\\\t", x, perl = TRUE)
+  paste0("\"", x, "\"")
+}
+
+json_number <- function(x) {
+  x <- suppressWarnings(as.numeric(x))
+  ifelse(is.na(x), "null", as.character(x))
+}
+
+node_to_json <- function(x) {
+  paste0(
+    "{",
+    "\"id\":", json_escape(x$node_id), ",",
+    "\"label\":", json_escape(x$node_label), ",",
+    "\"type\":", json_escape(x$node_type), ",",
+    "\"subject_l1\":", json_escape(x$subject_l1), ",",
+    "\"article_count\":", json_number(x$article_count), ",",
+    "\"subject_count\":", json_number(x$subject_count), ",",
+    "\"author_count\":", json_number(x$author_count),
+    "}"
+  )
+}
+
+edge_to_json <- function(x) {
+  paste0(
+    "{",
+    "\"from\":", json_escape(x$from), ",",
+    "\"to\":", json_escape(x$to), ",",
+    "\"author\":", json_escape(x$author), ",",
+    "\"subject_l2\":", json_escape(x$subject_l2), ",",
+    "\"subject_l1\":", json_escape(x$subject_l1), ",",
+    "\"master_id\":", json_escape(x$master_id), ",",
+    "\"title\":", json_escape(x$title), ",",
+    "\"volume\":", json_escape(x$volume), ",",
+    "\"year_start\":", json_number(x$year_start), ",",
+    "\"year_end\":", json_number(x$year_end), ",",
+    "\"time_window\":", json_escape(x$time_window), ",",
+    "\"weight\":", json_number(x$subject_weight),
+    "}"
+  )
+}
+
+nodes_json <- paste0("[", paste(vapply(split(nodes, seq_len(nrow(nodes))), node_to_json, character(1)), collapse = ","), "]")
+edges_json <- paste0("[", paste(vapply(split(edges_article_level, seq_len(nrow(edges_article_level))), edge_to_json, character(1)), collapse = ","), "]")
+
+df_author_all <- df_subject_expanded[
+  !is.na(df_subject_expanded$author_raw) &
+    df_subject_expanded$author_raw != "",
+]
+
+author_article_rows <- do.call(rbind, lapply(split(df_author_all, interaction(df_author_all$author_raw, df_author_all$master_id, drop = TRUE, sep = "\r")), function(x) {
+  subject_l2 <- unique(x$subject_l2[x$subject_l2 != "Unknown" & !is.na(x$subject_l2)])
+  subject_l1 <- unique(x$subject_l1[x$subject_l1 != "Unknown" & !is.na(x$subject_l1)])
+  data.frame(
+    author = x$author_raw[1],
+    master_id = x$master_id[1],
+    title = x$title[1],
+    volume = x$volume[1],
+    year_start = x$year_start[1],
+    year_end = x$year_end[1],
+    time_window = x$time_window[1],
+    subject_l2 = paste(subject_l2, collapse = "; "),
+    subject_l1 = paste(subject_l1, collapse = "; "),
+    stringsAsFactors = FALSE
+  )
+}))
+rownames(author_article_rows) <- NULL
+author_article_rows <- author_article_rows[order(author_article_rows$author, author_article_rows$year_start, author_article_rows$title), ]
+
+author_stats <- do.call(rbind, lapply(split(df_author_all, df_author_all$author_raw), function(x) {
+  data.frame(
+    author = x$author_raw[1],
+    article_count = length(unique(x$master_id)),
+    subject_count = length(unique(x$subject_l2[x$subject_l2 != "Unknown" & !is.na(x$subject_l2)])),
+    first_year = min(x$year_start, na.rm = TRUE),
+    last_year = max(x$year_end, na.rm = TRUE),
+    stringsAsFactors = FALSE
+  )
+}))
+rownames(author_stats) <- NULL
+author_stats <- author_stats[order(-author_stats$article_count, author_stats$author), ]
+
+author_stat_to_json <- function(x) {
+  paste0(
+    "{",
+    "\"author\":", json_escape(x$author), ",",
+    "\"article_count\":", json_number(x$article_count), ",",
+    "\"subject_count\":", json_number(x$subject_count), ",",
+    "\"first_year\":", json_number(x$first_year), ",",
+    "\"last_year\":", json_number(x$last_year),
+    "}"
+  )
+}
+
+author_article_to_json <- function(x) {
+  paste0(
+    "{",
+    "\"author\":", json_escape(x$author), ",",
+    "\"master_id\":", json_escape(x$master_id), ",",
+    "\"title\":", json_escape(x$title), ",",
+    "\"volume\":", json_escape(x$volume), ",",
+    "\"year_start\":", json_number(x$year_start), ",",
+    "\"year_end\":", json_number(x$year_end), ",",
+    "\"time_window\":", json_escape(x$time_window), ",",
+    "\"subject_l2\":", json_escape(x$subject_l2), ",",
+    "\"subject_l1\":", json_escape(x$subject_l1),
+    "}"
+  )
+}
+
+author_stats_json <- paste0("[", paste(vapply(split(author_stats, seq_len(nrow(author_stats))), author_stat_to_json, character(1)), collapse = ","), "]")
+author_articles_json <- paste0("[", paste(vapply(split(author_article_rows, seq_len(nrow(author_article_rows))), author_article_to_json, character(1)), collapse = ","), "]")
+
+html <- c(
+'<!doctype html>',
+'<html lang="en">',
+'<head>',
+'<meta charset="utf-8">',
+'<meta name="viewport" content="width=device-width, initial-scale=1">',
+paste0('<title>RAS Author-Subject Network, ', journal_year_span, '</title>'),
+'<style>',
+':root { color-scheme: light; --ink:#19212a; --muted:#667085; --line:#d7dee8; --panel:#f7f9fc; --accent:#1f6f78; --author:#2f5d8c; }',
+'* { box-sizing: border-box; }',
+'body { margin:0; font-family: Arial, Helvetica, sans-serif; color:var(--ink); background:#ffffff; }',
+'.app { min-height:100vh; display:grid; grid-template-columns: minmax(0, 1fr) 360px; }',
+'.stage { display:flex; flex-direction:column; min-width:0; border-right:1px solid var(--line); }',
+'.topbar { padding:14px 18px 10px; border-bottom:1px solid var(--line); background:#fff; }',
+'.title { margin:0; font-size:19px; font-weight:700; letter-spacing:0; }',
+'.meta { margin-top:4px; color:var(--muted); font-size:12px; }',
+'.tabs { display:flex; gap:6px; margin-top:12px; }',
+'.tab { width:auto; height:32px; padding:0 12px; border:1px solid var(--line); border-radius:6px; background:#fff; color:#263241; cursor:pointer; font-weight:600; }',
+'.tab.active { background:#e7f2f3; border-color:#91b8bd; color:#174c54; }',
+'.controls { display:grid; grid-template-columns: 1.1fr 0.9fr 0.9fr auto auto; gap:8px; align-items:end; margin-top:12px; }',
+'label { display:block; color:var(--muted); font-size:11px; margin-bottom:4px; }',
+'input, select, button { width:100%; height:34px; border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--ink); font-size:13px; padding:0 10px; }',
+'button { cursor:pointer; background:#f3f7f8; font-weight:600; }',
+'button:hover { background:#e8f1f2; }',
+'.canvas-wrap { position:relative; flex:1; min-height:620px; background:#fbfcfe; }',
+'.all-authors-wrap { display:none; flex:1; min-height:620px; overflow:auto; padding:18px; background:#fbfcfe; }',
+'.author-stat-row { display:grid; grid-template-columns:minmax(150px, 260px) minmax(0, 1fr) 58px 70px; gap:10px; align-items:center; padding:7px 0; border-bottom:1px solid #edf1f6; font-size:12px; cursor:pointer; }',
+'.author-stat-row:hover { background:#f5f8fb; }',
+'.author-stat-name { font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }',
+'.author-stat-track { height:16px; background:#edf3f7; border:1px solid #dce6ee; border-radius:4px; overflow:hidden; }',
+'.author-stat-fill { height:100%; background:#2f5d8c; }',
+'.author-stat-num, .author-stat-years { color:var(--muted); text-align:right; }',
+'canvas { width:100%; height:100%; display:block; }',
+'.hint { position:absolute; left:14px; bottom:12px; color:#6f7b88; font-size:12px; background:rgba(255,255,255,0.86); border:1px solid var(--line); border-radius:6px; padding:7px 9px; }',
+'.side { background:#fff; display:flex; flex-direction:column; min-width:0; }',
+'.side-head { padding:16px; border-bottom:1px solid var(--line); }',
+'.side-title { margin:0; font-size:17px; font-weight:700; overflow-wrap:anywhere; }',
+'.side-sub { margin-top:5px; color:var(--muted); font-size:12px; }',
+'.stats { display:grid; grid-template-columns:1fr 1fr; gap:8px; padding:12px 16px; border-bottom:1px solid var(--line); background:var(--panel); }',
+'.stat { background:#fff; border:1px solid var(--line); border-radius:6px; padding:8px; }',
+'.stat strong { display:block; font-size:17px; }',
+'.stat span { color:var(--muted); font-size:11px; }',
+'.author-panel { padding:12px 16px; border-bottom:1px solid var(--line); background:#fff; }',
+'.author-panel-title { font-size:12px; font-weight:700; color:#263241; margin-bottom:8px; }',
+'.author-bars { display:flex; flex-direction:column; gap:5px; }',
+'.author-bar-row { display:grid; grid-template-columns:minmax(92px, 132px) minmax(0, 1fr) 32px; gap:7px; align-items:center; font-size:11px; color:#3d4754; cursor:pointer; }',
+'.author-name { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }',
+'.author-track { height:13px; background:#eef3f7; border:1px solid #dde5ee; border-radius:4px; overflow:hidden; }',
+'.author-fill { height:100%; background:#2f5d8c; }',
+'.author-count { text-align:right; color:var(--muted); }',
+'.list { overflow:auto; padding:12px 16px 18px; }',
+'.article { border-bottom:1px solid #edf1f6; padding:10px 0; }',
+'.article:last-child { border-bottom:0; }',
+'.article-title { font-size:13px; line-height:1.35; font-weight:600; }',
+'.article-meta { margin-top:5px; color:var(--muted); font-size:12px; line-height:1.35; }',
+'.legend { display:flex; flex-wrap:wrap; gap:6px; padding:10px 18px; border-bottom:1px solid var(--line); background:#fff; }',
+'.chip { display:inline-flex; align-items:center; gap:5px; font-size:11px; color:#3d4754; }',
+'.dot { width:10px; height:10px; border-radius:50%; display:inline-block; }',
+'@media (max-width: 900px) { .app { grid-template-columns:1fr; } .side { min-height:420px; border-top:1px solid var(--line); } .controls { grid-template-columns:1fr 1fr; } .canvas-wrap { min-height:520px; } }',
+'</style>',
+'</head>',
+'<body>',
+'<div class="app">',
+'  <main class="stage">',
+'    <div class="topbar">',
+paste0('      <h1 class="title">RAS Author-Subject Network, ', journal_year_span, '</h1>'),
+'      <div class="meta">Subject-normalized author-subject network. Unknown subjects are excluded.</div>',
+'      <div class="tabs">',
+'        <button class="tab active" data-view="networkView">Network</button>',
+'        <button class="tab" data-view="allAuthorsView">All Authors</button>',
+'      </div>',
+'      <div class="controls">',
+'        <div><label for="search">Search</label><input id="search" type="search" placeholder="Author or LCSH subject"></div>',
+'        <div><label for="windowFilter">Time window</label><select id="windowFilter"></select></div>',
+'        <div><label for="categoryFilter">Subject area</label><select id="categoryFilter"></select></div>',
+'        <div><label>&nbsp;</label><button id="fitBtn">Fit</button></div>',
+'        <div><label>&nbsp;</label><button id="resetBtn">Reset</button></div>',
+'      </div>',
+'    </div>',
+'    <div id="legend" class="legend"></div>',
+'    <div class="canvas-wrap">',
+'      <canvas id="network"></canvas>',
+'      <div class="hint">Drag nodes to reposition. Click a node to see article titles, years, and LCSH subjects.</div>',
+'    </div>',
+'    <div id="allAuthorsView" class="all-authors-wrap"></div>',
+'  </main>',
+'  <aside class="side">',
+'    <div class="side-head">',
+'      <h2 id="panelTitle" class="side-title">Select a node</h2>',
+'      <div id="panelSub" class="side-sub">Click an author or LCSH subject in the network.</div>',
+'    </div>',
+'    <div class="stats">',
+'      <div class="stat"><strong id="visibleNodeCount">0</strong><span>visible nodes</span></div>',
+'      <div class="stat"><strong id="visibleEdgeCount">0</strong><span>visible article links</span></div>',
+'    </div>',
+'    <div class="author-panel">',
+'      <div class="author-panel-title">Top authors by article count</div>',
+'      <div id="authorBars" class="author-bars"></div>',
+'    </div>',
+'    <div id="articleList" class="list"></div>',
+'  </aside>',
+'</div>',
+'<script>',
+'const nodes = ', nodes_json, ';',
+'const edges = ', edges_json, ';',
+'const authorStats = ', author_stats_json, ';',
+'const authorArticles = ', author_articles_json, ';',
+'const subjectColors = {',
+'  "Anthropology and Social Customs":"#7b4f9d",',
+'  "Arts and Archaeology":"#b85c38",',
+'  "Economy, Trade, and Technology":"#26736b",',
+'  "Education":"#677a1f",',
+'  "Geography and Travel":"#2271a5",',
+'  "History and Chronology":"#8f5a12",',
+'  "Literature and Language":"#685bc7",',
+'  "Military":"#6b7280",',
+'  "Natural Sciences":"#2f855a",',
+'  "Politics, Government, and Law":"#9f3a4a",',
+'  "Religion and Philosophy":"#b23a71"',
+'};',
+'const authorColor = "#2f5d8c";',
+'const canvas = document.getElementById("network");',
+'const ctx = canvas.getContext("2d");',
+'const searchEl = document.getElementById("search");',
+'const windowFilter = document.getElementById("windowFilter");',
+'const categoryFilter = document.getElementById("categoryFilter");',
+'const articleList = document.getElementById("articleList");',
+'const panelTitle = document.getElementById("panelTitle");',
+'const panelSub = document.getElementById("panelSub");',
+'const visibleNodeCount = document.getElementById("visibleNodeCount");',
+'const visibleEdgeCount = document.getElementById("visibleEdgeCount");',
+'const authorBars = document.getElementById("authorBars");',
+'const allAuthorsView = document.getElementById("allAuthorsView");',
+'const canvasWrap = document.querySelector(".canvas-wrap");',
+'const legendEl = document.getElementById("legend");',
+'let activeView = "networkView";',
+'let width = 0, height = 0, scale = 1, offsetX = 0, offsetY = 0;',
+'let dragging = null, selectedId = null, hoverId = null;',
+'const nodeById = new Map(nodes.map(n => [n.id, n]));',
+'const degree = new Map();',
+'edges.forEach(e => { degree.set(e.from, (degree.get(e.from)||0)+1); degree.set(e.to, (degree.get(e.to)||0)+1); });',
+'nodes.forEach((n, i) => {',
+'  const ring = n.type === "subject" ? 0.32 : 0.46;',
+'  const angle = (i / nodes.length) * Math.PI * 2;',
+'  n.x = Math.cos(angle) * ring;',
+'  n.y = Math.sin(angle) * ring;',
+'  n.vx = 0; n.vy = 0; n.fixed = false;',
+'});',
+'function uniq(arr) { return Array.from(new Set(arr)).sort(); }',
+'function optionize(select, values, allLabel) {',
+'  select.innerHTML = "";',
+'  const all = document.createElement("option"); all.value = ""; all.textContent = allLabel; select.appendChild(all);',
+'  values.forEach(v => { const o = document.createElement("option"); o.value = v; o.textContent = v; select.appendChild(o); });',
+'}',
+'optionize(windowFilter, uniq(edges.map(e => e.time_window)), "All windows");',
+'optionize(categoryFilter, uniq(edges.map(e => e.subject_l1)), "All subject areas");',
+'const legend = document.getElementById("legend");',
+'Object.entries(subjectColors).forEach(([label, color]) => {',
+'  const chip = document.createElement("span"); chip.className = "chip";',
+'  chip.innerHTML = `<span class="dot" style="background:${color}"></span>${label}`;',
+'  legend.appendChild(chip);',
+'});',
+'function filteredEdges() {',
+'  const q = searchEl.value.trim().toLowerCase();',
+'  return edges.filter(e => {',
+'    if (windowFilter.value && e.time_window !== windowFilter.value) return false;',
+'    if (categoryFilter.value && e.subject_l1 !== categoryFilter.value) return false;',
+'    if (q && !(e.author.toLowerCase().includes(q) || e.subject_l2.toLowerCase().includes(q) || e.title.toLowerCase().includes(q))) return false;',
+'    return true;',
+'  });',
+'}',
+'function visibleData() {',
+'  const fe = filteredEdges();',
+'  const ids = new Set(); fe.forEach(e => { ids.add(e.from); ids.add(e.to); });',
+'  const vn = nodes.filter(n => ids.has(n.id));',
+'  return {vn, fe, ids};',
+'}',
+'function radius(n) { return Math.max(4, Math.min(18, 4 + Math.sqrt(degree.get(n.id)||1) * (n.type === "subject" ? 1.2 : 0.8))); }',
+'function color(n) { return n.type === "author" ? authorColor : (subjectColors[n.subject_l1] || "#666"); }',
+'function resize() {',
+'  const rect = canvas.getBoundingClientRect();',
+'  const dpr = window.devicePixelRatio || 1;',
+'  width = rect.width; height = rect.height;',
+'  canvas.width = Math.max(1, Math.floor(width * dpr)); canvas.height = Math.max(1, Math.floor(height * dpr));',
+'  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);',
+'  fit(false);',
+'}',
+'function worldToScreen(n) { return {x: width/2 + offsetX + n.x * scale, y: height/2 + offsetY + n.y * scale}; }',
+'function screenToWorld(x, y) { return {x:(x - width/2 - offsetX)/scale, y:(y - height/2 - offsetY)/scale}; }',
+'function fit(redraw = true) {',
+'  const {vn} = visibleData(); if (!vn.length) return;',
+'  const xs = vn.map(n => n.x), ys = vn.map(n => n.y);',
+'  const minX = Math.min(...xs), maxX = Math.max(...xs), minY = Math.min(...ys), maxY = Math.max(...ys);',
+'  scale = Math.min(width / Math.max(0.2, maxX-minX), height / Math.max(0.2, maxY-minY)) * 0.76;',
+'  offsetX = -((minX + maxX) / 2) * scale;',
+'  offsetY = -((minY + maxY) / 2) * scale;',
+'  if (redraw) draw();',
+'}',
+'function simulate() {',
+'  const {vn, fe, ids} = visibleData();',
+'  const visibleSet = ids;',
+'  for (let step = 0; step < 2; step++) {',
+'    for (let i=0; i<vn.length; i++) {',
+'      const a = vn[i];',
+'      for (let j=i+1; j<vn.length; j++) {',
+'        const b = vn[j];',
+'        let dx = a.x-b.x, dy = a.y-b.y, d2 = dx*dx+dy*dy+0.002;',
+'        const force = 0.00038 / d2;',
+'        if (!a.fixed) { a.vx += dx*force; a.vy += dy*force; }',
+'        if (!b.fixed) { b.vx -= dx*force; b.vy -= dy*force; }',
+'      }',
+'    }',
+'    fe.forEach(e => {',
+'      const a = nodeById.get(e.from), b = nodeById.get(e.to); if (!a || !b) return;',
+'      let dx = b.x-a.x, dy = b.y-a.y, d = Math.sqrt(dx*dx+dy*dy)+0.001;',
+'      const target = 0.18, f = (d-target)*0.004;',
+'      if (!a.fixed) { a.vx += dx/d*f; a.vy += dy/d*f; }',
+'      if (!b.fixed) { b.vx -= dx/d*f; b.vy -= dy/d*f; }',
+'    });',
+'    vn.forEach(n => {',
+'      if (!n.fixed) {',
+'        n.vx += -n.x * 0.0008; n.vy += -n.y * 0.0008;',
+'        n.vx *= 0.82; n.vy *= 0.82;',
+'        n.x += n.vx; n.y += n.vy;',
+'      }',
+'    });',
+'  }',
+'}',
+'function draw() {',
+'  const {vn, fe, ids} = visibleData();',
+'  ctx.clearRect(0,0,width,height);',
+'  visibleNodeCount.textContent = vn.length.toString();',
+'  visibleEdgeCount.textContent = fe.length.toString();',
+'  ctx.lineWidth = 1;',
+'  fe.forEach(e => {',
+'    const a = nodeById.get(e.from), b = nodeById.get(e.to); if (!a || !b) return;',
+'    const pa = worldToScreen(a), pb = worldToScreen(b);',
+'    ctx.strokeStyle = selectedId && (e.from === selectedId || e.to === selectedId) ? "rgba(28,70,86,0.55)" : "rgba(115,131,150,0.18)";',
+'    ctx.beginPath(); ctx.moveTo(pa.x, pa.y); ctx.lineTo(pb.x, pb.y); ctx.stroke();',
+'  });',
+'  vn.forEach(n => {',
+'    const p = worldToScreen(n); const r = radius(n);',
+'    const active = n.id === selectedId || n.id === hoverId;',
+'    ctx.beginPath(); ctx.arc(p.x, p.y, active ? r+3 : r, 0, Math.PI*2);',
+'    ctx.fillStyle = color(n); ctx.globalAlpha = active ? 1 : 0.88; ctx.fill(); ctx.globalAlpha = 1;',
+'    ctx.strokeStyle = "#fff"; ctx.lineWidth = active ? 3 : 1.5; ctx.stroke();',
+'    if (active || n.type === "subject") {',
+'      ctx.font = active ? "bold 12px Arial" : "11px Arial";',
+'      ctx.fillStyle = "#1d2733";',
+'      ctx.textAlign = "center";',
+'      ctx.fillText(n.label.length > 28 ? n.label.slice(0, 27) + "..." : n.label, p.x, p.y - r - 7);',
+'    }',
+'  });',
+'}',
+'function articlesForNode(id) {',
+'  const relevant = filteredEdges().filter(e => e.from === id || e.to === id);',
+'  const seen = new Set();',
+'  return relevant.filter(e => { const key = `${e.master_id}|${e.subject_l2}`; if (seen.has(key)) return false; seen.add(key); return true; })',
+'    .sort((a,b) => (a.year_start-b.year_start) || a.title.localeCompare(b.title));',
+'}',
+'function uniqueArticlesForAuthor(author) {',
+'  const win = activeView === "allAuthorsView" ? windowFilter.value : "";',
+'  return authorArticles.filter(e => e.author === author && (!win || e.time_window === win)).sort((a,b) => (a.year_start-b.year_start) || a.title.localeCompare(b.title));',
+'}',
+'function showAuthorArticles(author, count) {',
+'  const rows = uniqueArticlesForAuthor(author);',
+'  panelTitle.textContent = author;',
+'  panelSub.textContent = `Author article count: ${count}. Hover another bar or click a network node to change this list.`;',
+'  articleList.innerHTML = rows.map(e => {',
+'    const vol = e.volume ? `${escapeHtml(e.volume)} - ` : "";',
+'    return `<div class="article"><div class="article-title">${escapeHtml(e.title)}</div><div class="article-meta">${vol}${e.year_start} - ${escapeHtml(e.subject_l2)} - ${escapeHtml(e.subject_l1)}</div></div>`;',
+'  }).join("") || "<div class=\\"article-meta\\">No articles for this author.</div>";',
+'}',
+'function renderAuthorBars() {',
+'  const rows = authorStats.slice(0, 15).map(r => ({author:r.author, count:Number(r.article_count)}));',
+'  const maxCount = Math.max(1, ...rows.map(r => r.count));',
+'  authorBars.innerHTML = rows.map(r => `<div class="author-bar-row" data-author="${escapeHtml(r.author)}" data-count="${r.count}" title="${escapeHtml(r.author)}: ${r.count} articles"><div class="author-name">${escapeHtml(r.author)}</div><div class="author-track"><div class="author-fill" style="width:${Math.max(3, r.count/maxCount*100)}%"></div></div><div class="author-count">${r.count}</div></div>`).join("");',
+'  authorBars.querySelectorAll(".author-bar-row").forEach(row => row.addEventListener("mouseenter", () => showAuthorArticles(row.dataset.author, row.dataset.count)));',
+'}',
+'function authorRowsForWindow() {',
+'  const win = windowFilter.value;',
+'  if (!win) return authorStats.map(r => ({author:r.author, count:Number(r.article_count), subject_count:Number(r.subject_count || 0), first_year:r.first_year, last_year:r.last_year}));',
+'  const grouped = new Map();',
+'  authorArticles.filter(e => e.time_window === win).forEach(e => {',
+'    const old = grouped.get(e.author) || {author:e.author, ids:new Set(), subjects:new Set(), first_year:Number(e.year_start), last_year:Number(e.year_end)};',
+'    old.ids.add(e.master_id);',
+'    String(e.subject_l2 || "").split(";").map(s => s.trim()).filter(Boolean).forEach(s => old.subjects.add(s));',
+'    old.first_year = Math.min(old.first_year, Number(e.year_start));',
+'    old.last_year = Math.max(old.last_year, Number(e.year_end));',
+'    grouped.set(e.author, old);',
+'  });',
+'  return Array.from(grouped.values()).map(r => ({author:r.author, count:r.ids.size, subject_count:r.subjects.size, first_year:r.first_year, last_year:r.last_year})).sort((a,b) => b.count-a.count || a.author.localeCompare(b.author));',
+'}',
+'function renderAllAuthors() {',
+'  const q = searchEl.value.trim().toLowerCase();',
+'  const rows = authorRowsForWindow().filter(r => !q || r.author.toLowerCase().includes(q));',
+'  const maxCount = Math.max(1, ...rows.map(r => Number(r.count || 0)));',
+'  allAuthorsView.innerHTML = rows.map(r => `<div class="author-stat-row" data-author="${escapeHtml(r.author)}" data-count="${r.count}" title="${escapeHtml(r.author)}: ${r.count} articles"><div class="author-stat-name">${escapeHtml(r.author)}</div><div class="author-stat-track"><div class="author-stat-fill" style="width:${Math.max(2, Number(r.count || 0)/maxCount*100)}%"></div></div><div class="author-stat-num">${r.count}</div><div class="author-stat-years">${r.first_year}-${r.last_year}</div></div>`).join("");',
+'  allAuthorsView.querySelectorAll(".author-stat-row").forEach(row => {',
+'    row.addEventListener("mouseenter", () => showAuthorArticles(row.dataset.author, row.dataset.count));',
+'    row.addEventListener("click", () => showAuthorArticles(row.dataset.author, row.dataset.count));',
+'  });',
+'}',
+'function setView(view) {',
+'  activeView = view;',
+'  document.querySelectorAll(".tab").forEach(btn => btn.classList.toggle("active", btn.dataset.view === view));',
+'  const networkMode = view === "networkView";',
+'  canvasWrap.style.display = networkMode ? "block" : "none";',
+'  legendEl.style.display = networkMode ? "flex" : "none";',
+'  allAuthorsView.style.display = networkMode ? "none" : "block";',
+'  windowFilter.disabled = false;',
+'  categoryFilter.disabled = !networkMode;',
+'  document.getElementById("fitBtn").disabled = !networkMode;',
+'  if (!networkMode) {',
+'    panelTitle.textContent = "All Authors";',
+'    const rows = authorRowsForWindow();',
+'    const win = windowFilter.value || "All windows";',
+'    panelSub.textContent = `${rows.length} authors in ${win}. Hover a bar to view article details.`;',
+'    visibleNodeCount.textContent = rows.length.toString();',
+'    visibleEdgeCount.textContent = rows.reduce((s,r)=>s+Number(r.count || 0),0).toString();',
+'    renderAllAuthors();',
+'  } else {',
+'    fit();',
+'    draw();',
+'  }',
+'}',
+'function selectNode(id) {',
+'  selectedId = id;',
+'  const n = nodeById.get(id);',
+'  if (!n) return;',
+'  const rows = articlesForNode(id);',
+'  panelTitle.textContent = n.label;',
+'  panelSub.textContent = n.type === "author" ? `Author · ${rows.length} article-subject links` : `${n.subject_l1} · ${rows.length} article links`;',
+'  articleList.innerHTML = "";',
+'  if (!rows.length) { articleList.innerHTML = "<div class=\\"article-meta\\">No articles match the current filters.</div>"; draw(); return; }',
+'  rows.forEach(e => {',
+'    const div = document.createElement("div"); div.className = "article";',
+'    const vol = e.volume ? `${escapeHtml(e.volume)} - ` : "";',
+'    div.innerHTML = `<div class="article-title">${escapeHtml(e.title)}</div><div class="article-meta">${vol}${e.year_start} - ${escapeHtml(e.subject_l2)} - ${escapeHtml(e.subject_l1)}</div>`;',
+'    articleList.appendChild(div);',
+'  });',
+'  draw();',
+'}',
+'function escapeHtml(s) { return String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;"}[c])); }',
+'function pickNode(x, y) {',
+'  const {vn} = visibleData();',
+'  for (let i=vn.length-1; i>=0; i--) {',
+'    const n = vn[i], p = worldToScreen(n), r = radius(n) + 6;',
+'    if ((p.x-x)*(p.x-x) + (p.y-y)*(p.y-y) <= r*r) return n;',
+'  }',
+'  return null;',
+'}',
+'canvas.addEventListener("pointerdown", ev => {',
+'  const rect = canvas.getBoundingClientRect(); const x = ev.clientX-rect.left, y = ev.clientY-rect.top;',
+'  const n = pickNode(x, y);',
+'  if (n) { dragging = n; n.fixed = true; selectNode(n.id); canvas.setPointerCapture(ev.pointerId); }',
+'});',
+'canvas.addEventListener("pointermove", ev => {',
+'  const rect = canvas.getBoundingClientRect(); const x = ev.clientX-rect.left, y = ev.clientY-rect.top;',
+'  if (dragging) { const w = screenToWorld(x, y); dragging.x = w.x; dragging.y = w.y; dragging.vx = 0; dragging.vy = 0; draw(); return; }',
+'  const n = pickNode(x, y); hoverId = n ? n.id : null; canvas.style.cursor = n ? "pointer" : "default"; draw();',
+'});',
+'canvas.addEventListener("pointerup", ev => { if (dragging) { dragging.fixed = false; dragging = null; } });',
+'[searchEl, windowFilter, categoryFilter].forEach(el => el.addEventListener("input", () => { selectedId = null; if (activeView === "allAuthorsView") { setView("allAuthorsView"); } else { fit(); draw(); } }));',
+'document.getElementById("fitBtn").addEventListener("click", () => fit());',
+'document.getElementById("resetBtn").addEventListener("click", () => { searchEl.value = ""; windowFilter.value = ""; categoryFilter.value = ""; selectedId = null; fit(); draw(); });',
+'document.querySelectorAll(".tab").forEach(btn => btn.addEventListener("click", () => setView(btn.dataset.view)));',
+'window.addEventListener("resize", resize);',
+'renderAuthorBars();',
+'renderAllAuthors();',
+'resize();',
+'let ticks = 0;',
+'function loop() { if (ticks < 900) { simulate(); ticks++; } draw(); requestAnimationFrame(loop); }',
+'loop();',
+'</script>',
+'</body>',
+'</html>'
+)
+
+writeLines(html, html_path, useBytes = TRUE)
+writeLines(html, bundle_path, useBytes = TRUE)
+```

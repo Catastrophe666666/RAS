@@ -1,0 +1,497 @@
+from,to,author,subject_l2,subject_l1,time_window,article_count,weight,first_year,last_year,titles
+A_14,S_3,"Bridgman, E. C.",Ethnology,Anthropology and Social Customs,1858-1867,1,1,1859,1859,Sketches of the Miau - tsze
+A_3,S_3,"Macgowan, D. J.",Ethnology,Anthropology and Social Customs,1858-1867,1,1,1858,1858,Contribution to the ethnology of Eastern Asia
+A_1,S_14,"Edkins, J.",Mythology,Anthropology and Social Customs,1858-1867,1,1,1859,1859,A Sketch of the Tauist Mythology in its modern form
+A_47,S_14,"Watters, T.",Mythology,Anthropology and Social Customs,1858-1867,1,1,1867,1867,Chinese notions about pigeons and doves
+A_2,S_20,"Wylie, A.",Antiquities,Arts and Archaeology,1858-1867,1,1,1864,1864,"Remarks on some impressions from a Lapidary Inscription at Keu - yung - kwan, on the Great Wall near Peking"
+A_32,S_23,Bastion,Archaeology,Arts and Archaeology,1858-1867,1,1,1865,1865,The Remains of Ancient Kambodia
+A_37,S_25,"Keer, J. G.",Architecture,Arts and Archaeology,1858-1867,1,1,1866,1866,Description of the Great Examination Hall at Canton
+A_7,S_7,"Syle, E. W.",Music,Arts and Archaeology,1858-1867,1,1,1859,1859,On the Musical Notation of the Chinese
+A_2,S_2,"Wylie, A.",Numismatics,Arts and Archaeology,1858-1867,1,1,1858,1858,Coins of the Ta - ts'ing or present dynasty of China *
+A_9,S_10,"Pompe van Meedervoort, J. L. C.",Education,Education,1858-1867,1,1,1859,1859,On the Study of the Natural Sciences in Japan
+A_22,S_5,"Canny, J. M.",Travel,Geography and Travel,1858-1867,1,1,1864,1864,The Sea-board of Russian Manchuria
+A_21,S_5,"Dickson, W.",Travel,Geography and Travel,1858-1867,1,1,1864,1864,"Narrative of an overland trip, through Hunan, from Canton to Hankow"
+A_1,S_5,"Edkins, J.",Travel,Geography and Travel,1858-1867,1,1,1865,1865,A Visit to the Agricultural Mongols
+A_5,S_5,"Foote, A. H.",Travel,Geography and Travel,1858-1867,1,1,1858,1858,Visit to Simoda and Hakodadi in Japan
+A_19,S_5,"Lindau, R.",Travel,Geography and Travel,1858-1867,1,1,1864,1864,"Notes on the city of Yedo, the capital of Japan *"
+A_35,S_5,"Martin, W. A. P.",Travel,Geography and Travel,1858-1867,2,2,1864,1865,"Account of an overland journey from Peking to Shanghai, February and March 1865 | Account of an overland journey from Peking to Shanghai, February and March 1866"
+A_12,S_5,"Swinhoe, R.",Travel,Geography and Travel,1858-1867,1,1,1859,1859,Narrative of a visit to the island of Formosa
+A_25,S_5,"Wilds, E.",Travel,Geography and Travel,1858-1867,1,1,1864,1864,Report on the appearance of the Rugged Islands
+A_11,S_5,"Williams, S. W.",Travel,Geography and Travel,1858-1867,1,1,1859,1859,Lecture on Japan
+A_36,S_5,"Williamson, A.",Travel,Geography and Travel,1858-1867,1,1,1866,1866,"Notes of a Journey from Peking to Chefoo via Grand Canal , Yen -chow -foo, &c"
+A_2,S_5,"Wylie, A.",Travel,Geography and Travel,1858-1867,1,1,1864,1864,"Overland journey from St. Petersburg to Pekin, The"
+A_44,S_27,"Mayers, W. F.","Chronology, Historical",History and Chronology,1858-1867,1,1,1867,1867,Chinese chronological tables
+A_11,S_26,"Williams, S. W.",History,History and Chronology,1858-1867,1,1,1866,1866,Political intercourse between China and Lewchew
+A_39,S_15,"Butcher, C. H.","History, Modern (20th century)",History and Chronology,1858-1867,1,1,1866,1866,"Retrospect of events in the north of China, 1866"
+A_17,S_15,Editorial Committee,"History, Modern (20th century)",History and Chronology,1858-1867,1,1,1860,1860,"Record of occurrences, 1860"
+A_23,S_15,"Jamieson, R. A.","History, Modern (20th century)",History and Chronology,1858-1867,1,1,1864,1864,"Retrospect of events in the north of China, 1861-1864"
+A_29,S_15,"Kingsmill, T. W.","History, Modern (20th century)",History and Chronology,1858-1867,2,2,1865,1867,"Retrospect of events in China and Japan | Retrospect of events in China and Japan, 1867"
+A_11,S_15,"Williams, S. W.","History, Modern (20th century)",History and Chronology,1858-1867,1,1,1859,1859,Narrative of the American Embassy to Peking
+A_27,S_6,"Gamble, W.",Literature,Literature and Language,1858-1867,1,1,1864,1864,Specimen of a new font of Chinese movable type belonging to the American Presbyterian Mission *
+A_23,S_6,"Jamieson, R. A.",Literature,Literature and Language,1858-1867,1,1,1864,1864,The Hieroglyphic Character of the Chinese written Lan. 113
+A_3,S_6,"Macgowan, D. J.",Literature,Literature and Language,1858-1867,1,1,1859,1859,Chinese bibliography
+A_9,S_6,"Pompe van Meedervoort, J. L. C.",Literature,Literature and Language,1858-1867,1,1,1860,1860,Dissection of a Japanese criminal
+A_33,S_13,"Jarvie, R.",Agriculture,Natural Sciences,1858-1867,1,1,1864,1864,Respecting China grass
+A_13,S_13,"Robertson, D. B.",Agriculture,Natural Sciences,1858-1867,1,1,1859,1859,Cotton in China
+A_46,S_13,"Simon, G. E.",Agriculture,Natural Sciences,1858-1867,1,1,1867,1867,"Carte agricole generale de l'Empire Chinois. Texte preface, legende et repertoire"
+A_36,S_13,"Williamson, A.",Agriculture,Natural Sciences,1858-1867,2,2,1867,1867,"Notes on the north of China, its productions and communications | Notes on the productions, chiefly mineral of Shantung"
+A_3,S_16,"Macgowan, D. J.",Astronomy,Natural Sciences,1858-1867,1,1,1860,1860,"On the Cosmical Phenomena observed in the neighborhood of Shanghai , during the past thirteen centuries"
+A_2,S_16,"Wylie, A.",Astronomy,Natural Sciences,1858-1867,2,2,1866,1867,Notes on the opinions of the Chinese with regard to eclipses | Eclipses recorded in Chinese works
+A_31,S_22,"Collins, V. D.",Botany,Natural Sciences,1858-1867,1,1,1865,1865,"Sorgo, or Northern Chinese sugar cane"
+A_28,S_24,Lamprey,Chemistry,Natural Sciences,1858-1867,1,1,1864,1864,"Remarks on the "" water we use "" in Shanghai"
+A_40,S_18,"Bickmore, A. S.",Geology,Natural Sciences,1858-1867,1,1,1867,1867,"Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *"
+A_1,S_18,"Edkins, J.",Geology,Natural Sciences,1858-1867,1,1,1867,1867,The Bituminous coal mines west of Peking
+A_29,S_18,"Kingsmill, T. W.",Geology,Natural Sciences,1858-1867,2,2,1865,1866,A Sketch of the Geology of Quang -tung Province | Notes on some outlying coal-fields in the south-eastern provinces of China
+A_28,S_18,Lamprey,Geology,Natural Sciences,1858-1867,1,1,1865,1865,Notes on the geology of the Great Plain *
+A_16,S_18,"Shock, W. H.",Geology,Natural Sciences,1858-1867,1,1,1860,1860,"Notes on the mineral resources of Japan, etc."
+A_1,S_9,"Edkins, J.",Hydrology,Natural Sciences,1858-1867,1,1,1860,1860,On the ancient mouths of Yangts<U+00EF> kiang
+A_24,S_9,Edwards,Hydrology,Natural Sciences,1858-1867,1,1,1864,1864,Extracts from a report on the present condition of the sea wall at the head of Hang - chow Bay
+A_43,S_9,"Ellias, N.",Hydrology,Natural Sciences,1858-1867,1,1,1867,1867,Notes on a portion of the old bed of the Yellow River an the water supply of the Grand Canal
+A_48,S_9,The Hankow Times,Hydrology,Natural Sciences,1858-1867,1,1,1867,1867,"Flood in the Han River 1857 "" The Hankow Times """
+A_8,S_9,"Ward, J.",Hydrology,Natural Sciences,1858-1867,1,1,1859,1859,"Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow"
+A_20,S_19,"Henderson, J.",Medicine,Natural Sciences,1858-1867,1,1,1864,1864,"Medicine and medical practice of the Chinese, The"
+A_18,S_4,"Courtney, C. F. A.",Meteorology,Natural Sciences,1858-1867,1,1,1860,1860,Temperature of Hakodadi
+A_17,S_4,Editorial Committee,Meteorology,Natural Sciences,1858-1867,1,1,1860,1860,Winds and weather at Chefoo
+A_10,S_4,"Fedorovitch, J.",Meteorology,Natural Sciences,1858-1867,1,1,1859,1859,"Thermometrical observations, taken during a passage from Nagasaki to Shanghai"
+A_20,S_4,"Henderson, J.",Meteorology,Natural Sciences,1858-1867,1,1,1864,1864,Notes on some of the physical causes which modify climate
+A_26,S_4,Hollingworth and Piry,Meteorology,Natural Sciences,1858-1867,1,1,1864,1864,"Barometric and thermometric observations taken September 1864, with a view to determining the height of Lew Shan"
+A_4,S_4,"Nicolson, F. W.",Meteorology,Natural Sciences,1858-1867,1,1,1858,1858,"On Cyclones , or the Law of Storms"
+A_6,S_4,"Shadwell, C. F. A.",Meteorology,Natural Sciences,1858-1867,2,2,1859,1860,Memorandum on the present state of some of the magnetic elements in china and palces adjacent | Supplemental memorandum on the present state of the magnetic elements in China and places adjacent
+A_38,S_11,"McCartee, D. B.",Zoology,Natural Sciences,1858-1867,1,1,1866,1866,On some Wild Silkworms of China
+A_42,S_11,"Pryer, W. B.",Zoology,Natural Sciences,1858-1867,1,1,1867,1867,Entomology of Shanghai
+A_12,S_11,"Swinhoe, R.",Zoology,Natural Sciences,1858-1867,3,3,1859,1865,Notes on some new species of birds found on the island of Formosa | The Small Chinese Lark | Birds and beasts of Formosa
+A_3,S_12,"Macgowan, D. J.",Law,"Politics, Government, and Law",1858-1867,1,1,1859,1859,On the Banishment of Criminals in China
+A_34,S_12,"Stronach, W. T.",Law,"Politics, Government, and Law",1858-1867,1,1,1864,1864,"Traces of the Judicium dei, or ordeal in Chinese law"
+A_1,S_1,"Edkins, J.",Buddhism,Religion and Philosophy,1858-1867,1,1,1858,1858,"A Buddhist Shastra , Translated from the Chinese"
+A_23,S_1,"Jamieson, R. A.",Buddhism,Religion and Philosophy,1858-1867,1,1,1864,1864,Remarks upon exhibiting a To - lo Pall to the Society
+A_30,S_21,"Brown, S. R.",Christianity,Religion and Philosophy,1858-1867,1,1,1865,1865,Annals of the Western Ocean
+A_45,S_21,"Forrest, R. J.",Christianity,Religion and Philosophy,1858-1867,1,1,1867,1867,The Christianity of Hung Tsiu Tsuen ; a review of Taeping Books
+A_41,S_21,"Gardener, C. T.",Christianity,Religion and Philosophy,1858-1867,1,1,1867,1867,Trans. Of inscription on tablet at Hangkow recording the changing the T'ien Chu Tang (Roman Catholic Church) into the T'ien Hao Tung *
+A_1,S_17,"Edkins, J.",Confucianism,Religion and Philosophy,1858-1867,1,1,1860,1860,A Sketch of the Life of Confucius
+A_1,S_8,"Edkins, J.",Philosophy,Religion and Philosophy,1858-1867,1,1,1859,1859,Notices of the character and writings of Meh tsi
+A_15,S_8,"John, G.",Philosophy,Religion and Philosophy,1858-1867,1,1,1860,1860,"The Ethics of the Chinese, with special reference to the doctrine of Human Nature and Sin"
+A_70,S_3,"Bretschneider, E.",Ethnology,Anthropology and Social Customs,1868-1877,1,1,1876,1876,Notices of the mediaeval geography and history of Central and Western Asia *
+A_29,S_3,"Kingsmill, T. W.",Ethnology,Anthropology and Social Customs,1868-1877,1,1,1876,1876,Short notes on the identification of the Yue - ti and Kiang tribes of ancient Chinese history
+A_3,S_3,"Macgowan, D. J.",Ethnology,Anthropology and Social Customs,1868-1877,1,1,1869,1870,Notes on the Chihkiang Miautsz
+A_12,S_3,"Swinhoe, R.",Ethnology,Anthropology and Social Customs,1868-1877,1,1,1871,1872,The Aborigines of Hainan
+A_66,S_3,"Taintor, E. C.",Ethnology,Anthropology and Social Customs,1868-1877,1,1,1875,1875,The Aborigines of Northern Formosa
+A_56,S_14,"Stent, G. C.",Mythology,Anthropology and Social Customs,1868-1877,1,1,1871,1872,Chinese legends
+A_47,S_14,"Watters, T.",Mythology,Anthropology and Social Customs,1868-1877,1,1,1874,1874,Chinese fox - myths
+A_38,S_20,"McCartee, D. B.",Antiquities,Arts and Archaeology,1868-1877,1,1,1869,1870,"Trans. of the inscriptions upon a stone tablet commemorating the repairs upon the Ch'eng Hwang Miau, or Temple of the Tutelary Deity of the City"
+A_51,S_20,"Medhurst, W. H.",Antiquities,Arts and Archaeology,1868-1877,1,1,1868,1868,"Tablet of Y<U+00FC>, The"
+A_64,S_23,"Bushell, S. W.",Archaeology,Arts and Archaeology,1868-1877,1,1,1874,1874,"Stone drums of the Chou Dynasty, The *"
+A_57,S_23,"Thompson, J.",Archaeology,Arts and Archaeology,1868-1877,1,1,1871,1872,On the Antiquities of Cambodia
+A_63,S_7,"Dennys, N. B.",Music,Arts and Archaeology,1868-1877,1,1,1874,1874,Short notes on Chinese instruments of music *
+A_49,S_7,"Jenkins, B.",Music,Arts and Archaeology,1868-1877,1,1,1868,1868,Notions of the ancient Chinese respecting music
+A_56,S_7,"Stent, G. C.",Music,Arts and Archaeology,1868-1877,1,1,1871,1872,Chinese lyrics
+A_46,S_28,"Simon, G. E.",Economics,"Economy, Trade, and Technology",1868-1877,2,2,1868,1870,Note sur les petites societes d'argent en Chine | Sur les Institutions de Cr<U+00E9>dit en Chine
+A_54,S_10,"Moule, G. E.",Education,Education,1868-1877,1,1,1869,1870,"Notes on the provincial examination of Chekiang, 1870, with a version of one of the essays"
+A_68,S_31,"Palladius, A.",Geography,Geography and Travel,1868-1877,1,1,1876,1876,"Elucidations of Marco Polo's travels in North China, drawn from Chinese sources"
+A_69,S_5,"Holcombe, C.",Travel,Geography and Travel,1868-1877,1,1,1876,1876,Notes made on a tour through Shan - hsi and Shen - hsi
+A_52,S_5,"Markham, J.",Travel,Geography and Travel,1868-1877,1,1,1869,1870,"Notes on the Shantung Province, being a journey from Chefoo to Tsiuhsien, the city of Mencius"
+A_12,S_5,"Swinhoe, R.",Travel,Geography and Travel,1868-1877,1,1,1871,1872,Narrative of an exploring visit to Hainan
+A_2,S_5,"Wylie, A.",Travel,Geography and Travel,1868-1877,1,1,1868,1868,"Itinerary of a jouney through the Provinces of Hoo - pih, Sze - chuen and Shen - se"
+A_29,S_29,"Kingsmill, T. W.",Biography,History and Chronology,1868-1877,1,1,1874,1874,"The legend of Wen Wang, founder of the dynasty of the Chows in China"
+A_50,S_29,"Preston, C. F.",Biography,History and Chronology,1868-1877,1,1,1868,1868,"Lok Ping Chiung, late Governor General of Sze - chuen, Notices of"
+A_72,S_26,"Hobson, H. E.",History,History and Chronology,1868-1877,1,1,1877,1877,"Fort Zelandia, and the Dutch occupation of Formosa"
+A_29,S_26,"Kingsmill, T. W.",History,History and Chronology,1868-1877,1,1,1871,1872,"The Mythical origin of the Chow or Djow Dynasty, as set forth in the ""Shoo-king"""
+A_44,S_26,"Mayers, W. F.",History,History and Chronology,1868-1877,1,1,1871,1872,A Historical and statistical sketch of the island of Hainan
+A_61,S_26,"Schmidt, C.",History,History and Chronology,1868-1877,1,1,1874,1874,Extracts from the history of Shanghai
+A_47,S_26,"Watters, T.",History,History and Chronology,1868-1877,1,1,1871,1872,The Life and works of Han Yu or Han Wen-Kung
+A_11,S_26,"Williams, S. W.",History,History and Chronology,1868-1877,1,1,1869,1870,Journal of a mission to Lewchew in 1801
+A_67,S_15,"Cordier, H.","History, Modern (20th century)",History and Chronology,1868-1877,1,1,1875,1875,Narrative of recent events in Tong - king
+A_17,S_15,Editorial Committee,"History, Modern (20th century)",History and Chronology,1868-1877,3,3,1868,1874,"Retrospect of events in China and Japan, 1868 | Retrospect of events in China, etc., 1871, 1872 | Retrospect of events in China, 1873"
+A_71,S_15,"Little, A. J.","History, Modern (20th century)",History and Chronology,1868-1877,1,1,1876,1876,"Retrospect of events in China, 1875"
+A_62,S_15,"Viguier, S. A.","History, Modern (20th century)",History and Chronology,1868-1877,1,1,1874,1874,Brief account of the French Expedition of 1866 into Indo - China
+A_11,S_15,"Williams, S. W.","History, Modern (20th century)",History and Chronology,1868-1877,1,1,1874,1874,Recollections of China prior to 1840
+A_35,S_6,"Martin, W. A. P.",Literature,Literature and Language,1868-1877,1,1,1877,1877,On the Styles of Chinese epistolary composition
+A_54,S_6,"Moule, G. E.",Literature,Literature and Language,1868-1877,1,1,1875,1875,"Notes on Col. Yule's edition of Marco Polo's "" Quinsay "" *"
+A_55,S_13,"Smith, F. P.",Agriculture,Natural Sciences,1868-1877,1,1,1869,1870,Chinese chemical manufactures
+A_40,S_18,"Bickmore, A. S.",Geology,Natural Sciences,1868-1877,1,1,1868,1868,Some remarks on recent elevations of land in China and Japan
+A_29,S_18,"Kingsmill, T. W.",Geology,Natural Sciences,1868-1877,1,1,1868,1868,Notes on the coal fields and general geology of the neighbourhood of Nagasaki *
+A_46,S_18,"Simon, G. E.",Geology,Natural Sciences,1868-1877,1,1,1868,1868,Note sur quelques unes des recherches que l'on pourrait faire en Chine at au Japon au point de vue de la geologie et de la paleontologie
+A_43,S_9,"Ellias, N.",Hydrology,Natural Sciences,1868-1877,1,1,1868,1868,Report of an exploration of the new course of the Yellow River
+A_3,S_19,"Macgowan, D. J.",Medicine,Natural Sciences,1868-1877,3,3,1871,1875,"Chinese use of shad in consumption and iodine Plants in scrofula | On the "" Mutton wine "" of the Mongols and analagous preparations of the Chinese | Notes on Chinese toxicology"
+A_1,S_4,"Edkins, J.",Meteorology,Natural Sciences,1868-1877,1,1,1877,1877,On Chinese names for boats and boat gear with remarks on the Chinese use of the mariner's compass
+A_59,S_4,Meteorological Committee,Meteorology,Natural Sciences,1868-1877,1,1,1871,1872,"Meteorological observations, April - December 1872"
+A_60,S_4,Shanghai Meteorological Committee,Meteorology,Natural Sciences,1868-1877,1,1,1873,1873,Weather report for 1873
+A_58,S_11,"David, Le P. A.",Zoology,Natural Sciences,1868-1877,1,1,1871,1872,Quelques renseignments sur l'histoire naturelle de la Chine septentrionale et occidentale
+A_73,S_11,"Mollendorf, 0. F. von",Zoology,Natural Sciences,1868-1877,1,1,1877,1877,"The Vertebrata of the Province of Chihli, with notes on Chinese zoological nomenclature"
+A_53,S_1,"Eitel, E. J.",Buddhism,Religion and Philosophy,1868-1877,1,1,1869,1870,The Fabulous source of the Hoang-ho
+A_47,S_1,"Watters, T.",Buddhism,Religion and Philosophy,1868-1877,1,1,1875,1875,"Notes on the "" Miao - fa - lien - hua - ching "", a Buddhist sutra in Chinese"
+A_1,S_17,"Edkins, J.",Confucianism,Religion and Philosophy,1868-1877,1,1,1874,1874,"Visit to the city of Confucius, A"
+A_65,S_30,"Camajee, D. N.",Religion,Religion and Philosophy,1868-1877,1,1,1875,1875,"Legends of the ancient Mazdayacnian prophets, and the story of Zoroaster"
+A_44,S_30,"Mayers, W. F.",Religion,Religion and Philosophy,1868-1877,1,1,1869,1870,"On Wen - ch'ang, the god of literature, his history and worship"
+A_29,S_3,"Kingsmill, T. W.",Ethnology,Anthropology and Social Customs,1878-1887,1,1,1884,1884,"Serica of Ptolemy and its inhabitants, The"
+A_80,S_20,"Rhein, J.",Antiquities,Arts and Archaeology,1878-1887,1,1,1879,1879,Rock inscriptions at the north side of Yentai Hill *
+A_64,S_2,"Bushell, S. W.",Numismatics,Arts and Archaeology,1878-1887,1,1,1880,1880,Coins of the present dynasty of China *
+A_81,S_2,"Haas, J.",Numismatics,Arts and Archaeology,1878-1887,1,1,1879,1879,Siamese coinage *
+A_87,S_2,"Toda, E.",Numismatics,Arts and Archaeology,1878-1887,1,1,1882,1882,Annam and its minor currency
+A_88,S_34,"Hirth, F.",Porcelain,Arts and Archaeology,1878-1887,1,1,1887,1887,Ancient porcelain : a study in Chinese mediaeval industry and trade
+A_3,S_28,"Macgowan, D. J.",Economics,"Economy, Trade, and Technology",1878-1887,1,1,1886,1886,Chinese guilds or chambers of commerce and trades unions
+A_74,S_28,"Parker, E. H.",Economics,"Economy, Trade, and Technology",1878-1887,1,1,1887,1887,The Salt revenue of China
+A_88,S_10,"Hirth, F.",Education,Education,1878-1887,1,1,1887,1887,The Chinese Oriental College
+A_99,S_31,"Allen, H. J.",Geography,Geography and Travel,1878-1887,2,2,1886,1886,Where was Ta - ts ' in ? | Ta - ts ' in and dependent states
+A_88,S_31,"Hirth, F.",Geography,Geography and Travel,1878-1887,2,2,1886,1886,"Reply to Mr. H. J. Allen's paper "" Where was Ta - ts ' in ? "" | Reply to Mr. H. J. Allen's paper "" Ta - ts ' in and dependent states "" *"
+A_96,S_31,"Phillips, G.",Geography,Geography and Travel,1878-1887,2,2,1885,1886,"The Seaports of India and Ceylon | Seaports of India and Ceylon, as described by Chinese voyagers of the 15th Century, together with an account of Chinese navigation, The ; Part II *"
+A_93,S_31,"Playfair, G. M. H.",Geography,Geography and Travel,1878-1887,1,1,1885,1885,The Mystery of Ta - ts ' in
+A_86,S_5,"Anderson, G. C.",Travel,Geography and Travel,1878-1887,1,1,1882,1882,Notes on the south coast of Saghalien
+A_101,S_5,"Carles, W. R.",Travel,Geography and Travel,1878-1887,1,1,1886,1886,Corea
+A_90,S_5,"Imbault-Huart, C.",Travel,Geography and Travel,1878-1887,1,1,1883,1883,Fragmens d'un voyage dans l'interieur de la Chine
+A_100,S_5,"Legge, J.",Travel,Geography and Travel,1878-1887,1,1,1886,1886,"Defense of the trans. of a passage in the "" Tsochwan"
+A_71,S_5,"Little, A. J.",Travel,Geography and Travel,1878-1887,1,1,1883,1883,Notes on Szechuen and the Yangtse valley
+A_91,S_5,"Morrison, G. J.",Travel,Geography and Travel,1878-1887,1,1,1883,1883,"Some notes of a trip to Corea, in July and August, 1883"
+A_74,S_5,"Parker, E. H.",Travel,Geography and Travel,1878-1887,3,3,1884,1884,"Journey in Chekiang, A | Journey in Fukien, A * | Journey from Foochow to Wenchow, through Central Fukien, A"
+A_29,S_29,"Kingsmill, T. W.",Biography,History and Chronology,1878-1887,1,1,1879,1879,"The story of Shun, the Emperor"
+A_95,S_27,"Nocentini, L.","Chronology, Historical",History and Chronology,1878-1887,1,1,1887,1887,"Names of the sovereigns of the old Corean states, etc."
+A_93,S_27,"Playfair, G. M. H.","Chronology, Historical",History and Chronology,1878-1887,1,1,1886,1886,Alphabetical list of the dynastic and reign - titles of Chinese Emperors
+A_1,S_26,"Edkins, J.",History,History and Chronology,1878-1887,1,1,1883,1883,What did the ancient Chinese know of the Greeks and Romans
+A_29,S_26,"Kingsmill, T. W.",History,History and Chronology,1878-1887,1,1,1879,1879,The Intercourse of China with Central and Western Asia in the Second Century B.C.
+A_74,S_26,"Parker, E. H.",History,History and Chronology,1878-1887,1,1,1886,1886,"Manchu relations with Tibet, or Si - tsang"
+A_92,S_33,"H., F.",Language and languages,Literature and Language,1878-1887,1,1,1885,1885,"Derivation of the German word "" huhnerauger """
+A_1,S_6,"Edkins, J.",Literature,Literature and Language,1878-1887,1,1,1886,1886,"Philological importance of geographical terms in the "" Shi - ki """
+A_97,S_6,"Gabelentz, G. von der",Literature,Literature and Language,1878-1887,1,1,1885,1885,Some additions to my Chinese grammar
+A_85,S_6,"Giles, H. A.",Literature,Literature and Language,1878-1887,3,3,1882,1886,"Notes on Chinese composition | The Hung Lou M<U+00EA>ng, commonly called <U+201C> The Dream of the Red Chamber "" | The Family names"
+A_92,S_6,"H., F.",Literature,Literature and Language,1878-1887,1,1,1886,1886,Pen - ts ' ao - meng - ch'uan
+A_88,S_6,"Hirth, F.",Literature,Literature and Language,1878-1887,1,1,1886,1886,"Chinese equivalents of the letter "" R "" in foreign names"
+A_90,S_6,"Imbault-Huart, C.",Literature,Literature and Language,1878-1887,1,1,1884,1884,"Poete Chinois du XVIIIe siecle, Yuan Tseu - ts ' ai, sa vie et ses oeuvres, Un"
+A_3,S_6,"Macgowan, D. J.",Literature,Literature and Language,1878-1887,1,1,1886,1886,Histrionic notes
+A_95,S_6,"Nocentini, L.",Literature,Literature and Language,1878-1887,1,1,1885,1885,Sinology in Italy
+A_74,S_6,"Parker, E. H.",Literature,Literature and Language,1878-1887,1,1,1878,1878,The Comparative study of Chinese dialects
+A_94,S_6,T. C. B.,Literature,Literature and Language,1878-1887,1,1,1885,1885,"How snow inspired verse, and a rash order made the flowers bloom ("" Ching - hua- yuan, Chapter IV)"
+A_101,S_13,"Carles, W. R.",Agriculture,Natural Sciences,1878-1887,1,1,1887,1887,Remarks on the production of salt in China
+A_83,S_13,"Guppy, H. B.",Agriculture,Natural Sciences,1878-1887,1,1,1883,1883,Samshu - brewing in North China
+A_88,S_13,"Hirth, F.",Agriculture,Natural Sciences,1878-1887,1,1,1885,1885,Western appliances in the Chinese printing industry
+A_75,S_16,"Hosie, A.",Astronomy,Natural Sciences,1878-1887,1,1,1878,1878,"Sunspots and sun - shadows observed in China, B. C. 28 - A. D. 1617"
+A_70,S_22,"Bretschneider, E.",Botany,Natural Sciences,1878-1887,1,1,1880,1880,Early European researches into the flora of China
+A_103,S_22,"Henry, A.",Botany,Natural Sciences,1878-1887,1,1,1887,1887,Chinese names of plants
+A_102,S_18,"Becher, H. M.",Geology,Natural Sciences,1878-1887,1,1,1887,1887,Notes on the mineral resources of Eastern Shantung
+A_83,S_18,"Guppy, H. B.",Geology,Natural Sciences,1878-1887,3,3,1881,1883,"Some notes on the geology of Takow, Formosa | On the geology of the neighbourhood of Nagasaki | Notes on some dikes at the mouth of the Nankow pass *"
+A_89,S_18,"Kleinwachter, G.",Geology,Natural Sciences,1878-1887,1,1,1883,1883,Researches into the geology of Formosa *
+A_83,S_9,"Guppy, H. B.",Hydrology,Natural Sciences,1878-1887,1,1,1881,1881,"Notes on the hydrology of the Yang - tse, the Yellow River, and the Pei - ho *"
+A_84,S_4,"Dechevrens, Le P. M.",Meteorology,Natural Sciences,1878-1887,1,1,1881,1881,"The Climate of Shanghai, its meteorological conditions"
+A_76,S_4,"Fritsche, H.",Meteorology,Natural Sciences,1878-1887,1,1,1878,1878,The Climate of Eastern Asia
+A_75,S_4,"Hosie, A.",Meteorology,Natural Sciences,1878-1887,1,1,1878,1878,"Droughts in China, A. D. 620-1643"
+A_78,S_4,"Schulze, F. W.",Meteorology,Natural Sciences,1878-1887,1,1,1879,1879,Periodical change of terrestrial magnetism *
+A_77,S_11,"Fauvel, A. A.",Zoology,Natural Sciences,1878-1887,1,1,1879,1879,Alligators in China *
+A_41,S_11,"Gardener, C. T.",Zoology,Natural Sciences,1878-1887,1,1,1884,1884,"Animal, fossil, mineral and vegetable products of the consular district of Ichang"
+A_88,S_32,"Hirth, F.",Government,"Politics, Government, and Law",1878-1887,2,2,1882,1887,The Hoppo - book of 1753 | Notes on the early history of the salt monopoly in China
+A_79,S_12,"Mollendorf, P. G. von",Law,"Politics, Government, and Law",1878-1887,1,1,1879,1879,The Family law of the Chinese and its comparative relations with that of other nations
+A_54,S_1,"Moule, G. E.",Buddhism,Religion and Philosophy,1878-1887,1,1,1884,1884,"Buddist sheet - tract, containing an apologue of human life, A *"
+A_99,S_17,"Allen, H. J.",Confucianism,Religion and Philosophy,1878-1887,1,1,1886,1886,Is Confucius a myth ?
+A_82,S_8,"Balfour, F. H.",Philosophy,Religion and Philosophy,1878-1887,1,1,1880,1880,"The "" Naturalistic "" philosophy of China"
+A_29,S_30,"Kingsmill, T. W.",Religion,Religion and Philosophy,1878-1887,1,1,1878,1878,"The Ancient language and cult of the Chows ; critical and exegetical notes on the "" Shi- king """
+A_98,S_30,"Macintyre, J.",Religion,Religion and Philosophy,1878-1887,1,1,1886,1886,Roadside religion in Manchuria
+A_110,S_3,"Fraser, E. H.",Ethnology,Anthropology and Social Customs,1888-1897,1,1,1891,1892,The Fish - skin Tartars
+A_29,S_3,"Kingsmill, T. W.",Ethnology,Anthropology and Social Customs,1888-1897,2,2,1896,1897,"Huns of Europe, The (Notes on E. H. Parker's paper "" Inscriptions de l'Orkhon "") | Chinese system of family relationship and its Aryan affinities, The"
+A_74,S_3,"Parker, E. H.",Ethnology,Anthropology and Social Customs,1888-1897,1,1,1896,1897,Inscriptions de l'Orkho
+A_1,S_25,"Edkins, J.",Architecture,Arts and Archaeology,1888-1897,1,1,1889,1890,Chinese architecture
+A_108,S_25,"Fries, S. R. von",Architecture,Arts and Archaeology,1888-1897,1,1,1889,1890,"The "" Tent theory "" of Chinese architecture"
+A_72,S_25,"Hobson, H. E.",Architecture,Arts and Archaeology,1888-1897,1,1,1888,1888,The Porcelain Pagoda of Nanking
+A_64,S_2,"Bushell, S. W.",Numismatics,Arts and Archaeology,1888-1897,1,1,1894,1895,"Hsi Hsia Dynasty of Tangut, their money and peculiar script, The *"
+A_41,S_2,"Gardener, C. T.",Numismatics,Arts and Archaeology,1888-1897,1,1,1892,1893,"Coinage of Corea, The *"
+A_106,S_2,"Morse, H. B.",Numismatics,Arts and Archaeology,1888-1897,1,1,1889,1890,Currency and measures in China
+A_121,S_2,"Taylor, F. E.",Numismatics,Arts and Archaeology,1888-1897,1,1,1896,1897,Scarcity of copper cash and the rise in prices
+A_118,S_28,"BUSHELL, S. W.",Economics,"Economy, Trade, and Technology",1888-1897,1,1,1895,1896,"THE HSI HSIA DYNASTY OF TANGUT, THEIR MONEY AND PECULIAR SCRIPT."
+A_74,S_28,"Parker, E. H.",Economics,"Economy, Trade, and Technology",1888-1897,4,4,1894,1896,"Financial capacity of China, The | Chinese revenue | THE FINANCIAL CAPACITY OF CHINA. | CHINESE REVENUE."
+A_70,S_31,"Bretschneider, E.",Geography,Geography and Travel,1888-1897,1,1,1894,1895,"Chinese geographical names mentioned in the "" Pen Ts ' ao Kang Mu """
+A_117,S_5,"IMBAULT HUART, C.",Travel,Geography and Travel,1888-1897,1,1,1895,1896,LE VOYAGE DE L'AMBASSADE HOLLANDAISE DE 1656 A TRAVERS LA PROVINCE DE CANTON.
+A_90,S_5,"Imbault-Huart, C.",Travel,Geography and Travel,1888-1897,1,1,1894,1895,"Voyage de l'Ambassade Hollandaise de 1656 a travers la Province de Canton, Le"
+A_101,S_26,"Carles, W. R.",History,History and Chronology,1888-1897,1,1,1888,1888,A Corean monument to Manchu clemency
+A_115,S_26,"Clarke, G. W.",History,History and Chronology,1888-1897,1,1,1893,1894,"Yu - li or Precious Records, The *"
+A_119,S_26,"FRASER, M. F. A.",History,History and Chronology,1888-1897,1,1,1895,1896,A MANCHU UKASE.
+A_107,S_26,"Faber, E.",History,History and Chronology,1888-1897,1,1,1889,1890,Prehistoric China
+A_116,S_26,"Fraser, M. F. A.",History,History and Chronology,1888-1897,1,1,1894,1895,"Manchu ukase, A"
+A_96,S_26,"Phillips, G.",History,History and Chronology,1888-1897,1,1,1888,1888,"Changchow, the capital of Funkien in Mongol times"
+A_114,S_26,"Scott, J.",History,History and Chronology,1888-1897,1,1,1893,1894,Stray notes on Corean history and literature
+A_113,S_26,"Volpicelli, Z. H.",History,History and Chronology,1888-1897,1,1,1892,1893,Early Portuguese commerce and settlements in China *
+A_79,S_6,"Mollendorf, P. G. von",Literature,Literature and Language,1888-1897,2,2,1889,1897,"Essay on Manchu literature | Limitations of comparative philology, On the"
+A_104,S_13,"Jamieson, G.",Agriculture,Natural Sciences,1888-1897,1,1,1888,1888,Tenure of land in China and the condition of the rural population
+A_29,S_16,"Kingsmill, T. W.",Astronomy,Natural Sciences,1888-1897,1,1,1891,1892,A Comparative table of the ancient lunar asterisms
+A_70,S_22,"Bretschneider, E.",Botany,Natural Sciences,1888-1897,1,1,1894,1895,Botanicon Sinicum Part III. Botanical investigations into the materia medica of the ancient Chinese
+A_107,S_22,"Faber, E.",Botany,Natural Sciences,1888-1897,1,1,1890,1891,"General remarks on "" Botanicon Sinicum """
+A_105,S_9,Moore,Hydrology,Natural Sciences,1888-1897,1,1,1888,1888,The Bore of the Tsien - tang Kiang (Hang - chau Bay)
+A_112,S_9,"Rosthorn, A. von",Hydrology,Natural Sciences,1888-1897,1,1,1892,1893,River stages and branch routes from Ssuch ' uan to Yunnan and Kuichou
+A_109,S_11,"Hallifax, T. E.",Zoology,Natural Sciences,1888-1897,1,1,1889,1890,Note on the comparative longevity of males and females in Japan
+A_112,S_32,"Rosthorn, A. von",Government,"Politics, Government, and Law",1888-1897,1,1,1892,1893,"Salt administration of Ssuch'uan, The"
+A_79,S_12,"Mollendorf, P. G. von",Law,"Politics, Government, and Law",1888-1897,1,1,1892,1893,"Family law of the Chinese, The"
+A_111,S_1,"Groot, J. J. M. de",Buddhism,Religion and Philosophy,1888-1897,1,1,1891,1892,Militant spirit of the Buddhist clergy in China
+A_74,S_21,"Parker, E. H.",Christianity,Religion and Philosophy,1888-1897,1,1,1889,1890,Notes on the Nestorians in China
+A_120,S_8,"Forke, A.",Philosophy,Religion and Philosophy,1888-1897,1,1,1896,1897,Wang - chung and Plato on death and immortality
+A_54,S_35,"Moule, G. E.",Taoism,Religion and Philosophy,1888-1897,1,1,1888,1888,A guide to True Vacuity
+A_126,S_3,"Betts, G. E.",Ethnology,Anthropology and Social Customs,1898-1907,1,1,1900,1901,Social life of the Miao Tsi
+A_29,S_3,"Kingsmill, T. W.",Ethnology,Anthropology and Social Customs,1898-1907,3,3,1901,1906,"Hirth, Dr. F., and the Hiung Nu | Mantses and the Golden Chersonese, The | Ancient Tibet and its frontagers"
+A_135,S_14,"Box, E.",Mythology,Anthropology and Social Customs,1898-1907,1,1,1905,1905,Shanghai folk - lore
+A_64,S_2,"Bushell, S. W.",Numismatics,Arts and Archaeology,1898-1907,1,1,1900,1901,Additional coins of the present dynasty *
+A_106,S_2,"Morse, H. B.",Numismatics,Arts and Archaeology,1898-1907,1,1,1907,1907,Currency in China *
+A_131,S_28,"Ferguson, J. C.",Economics,"Economy, Trade, and Technology",1898-1907,1,1,1906,1906,Notes on Chinese banking system in Shanghai
+A_128,S_28,"Mencarini, J.",Economics,"Economy, Trade, and Technology",1898-1907,1,1,1900,1901,"Philippine Chinese labour question, The"
+A_132,S_5,"Carey, F. W.",Travel,Geography and Travel,1898-1907,1,1,1905,1905,Notes of an overland journey from Szemao to Rangoon *
+A_128,S_5,"Mencarini, J.",Travel,Geography and Travel,1898-1907,1,1,1905,1905,Java
+A_133,S_5,"Watson, W. C. H.",Travel,Geography and Travel,1898-1907,1,1,1905,1905,Journey to Sungp ' an *
+A_1,S_29,"Edkins, J.",Biography,History and Chronology,1898-1907,1,1,1903,1904,"Kwo Tsi, an eminent military commander of the Tang Dynasty"
+A_131,S_29,"Ferguson, J. C.",Biography,History and Chronology,1898-1907,1,1,1903,1904,Wang An - shih
+A_134,S_26,"Leavenworth, C. S.",History,History and Chronology,1898-1907,1,1,1905,1905,"History of the Loochoo Islands, The"
+A_130,S_26,"Walshe, W. G.",History,History and Chronology,1898-1907,1,1,1900,1901,"Ancient city of Shaohing, The"
+A_123,S_13,E. BRASS,Agriculture,Natural Sciences,1898-1907,1,1,1898,1899,SEALING AND WHALING IN THE NORTHERN PACIFIC.
+A_127,S_13,"Vale, J.",Agriculture,Natural Sciences,1898-1907,2,2,1900,1905,Irrigation of the Ch'eng tu Plain | Irrigation of the Ch'eng tu Plain and beyond *
+A_29,S_16,"Kingsmill, T. W.",Astronomy,Natural Sciences,1898-1907,1,1,1907,1907,"Two zodiacs (solar and lunar), their origin and connections, The"
+A_107,S_22,"Faber, E.",Botany,Natural Sciences,1898-1907,1,1,1907,1907,Contribution to the nomenclature of Chinese plants
+A_122,S_32,BYRON BRENAN,Government,"Politics, Government, and Law",1898-1907,1,1,1898,1899,THE OFFICE OF DISTRICT MAGISTRATE IN CHINA.
+A_124,S_32,"Bourne, F. S. A.",Government,"Politics, Government, and Law",1898-1907,1,1,1900,1901,Possible and impossible reforms
+A_136,S_12,"Alabaster, E.",Law,"Politics, Government, and Law",1898-1907,1,1,1906,1906,Notes on Chinese law and practice preceding revision
+A_125,S_12,"Williams, E. T.",Law,"Politics, Government, and Law",1898-1907,1,1,1907,1907,Witchcraft in the Chinese penal code
+A_54,S_17,"Moule, G. E.",Confucianism,Religion and Philosophy,1898-1907,1,1,1900,1901,"Notes on the Ting - chi, or half - yearly sacrifice to Confucius *"
+A_35,S_36,"Martin, W. A. P.",Judaism,Religion and Philosophy,1898-1907,1,1,1906,1906,"Jewish monument at Kaifungfu, The"
+A_1,S_8,"Edkins, J.",Philosophy,Religion and Philosophy,1898-1907,1,1,1900,1901,"Siun King, the philosopher, and his relations with contemporary schools of thought"
+A_120,S_8,"Forke, A.",Philosophy,Religion and Philosophy,1898-1907,1,1,1901,1902,"Chinese sophists, The"
+A_129,S_8,"Macklin, W. E.",Philosophy,Religion and Philosophy,1898-1907,1,1,1900,1901,Mencius and some other reformers of China
+A_125,S_30,"Williams, E. T.",Religion,Religion and Philosophy,1898-1907,1,1,1900,1901,Some popular religious literature of the Chinese
+A_151,S_3,"Edgar, J. H.",Ethnology,Anthropology and Social Customs,1908-1917,1,1,1917,1917,"Country and some customs of the Szechwan Mantze, The"
+A_164,S_14,"Hodous, L.",Mythology,Anthropology and Social Customs,1908-1917,1,1,1917,1917,"Dragon, The"
+A_143,S_20,"Warren, G. G.",Antiquities,Arts and Archaeology,1908-1917,1,1,1915,1915,The Wu Pan tablet
+A_138,S_23,"Alexeieff, V.",Archaeology,Arts and Archaeology,1908-1917,1,1,1909,1909,Archaeological survey of the environs of China's ancient capitals
+A_152,S_23,"Couling, S.",Archaeology,Arts and Archaeology,1908-1917,1,1,1914,1914,"Oracle - bones from Honan, The *"
+A_151,S_23,"Edgar, J. H.",Archaeology,Arts and Archaeology,1908-1917,1,1,1917,1917,Stone implements on the Upper Yangtze and Min Rivers *
+A_137,S_23,"Moule, A. C.",Archaeology,Arts and Archaeology,1908-1917,1,1,1910,1910,"Christian monument at Hsi - an - fu, The"
+A_144,S_23,"Stanley, A.",Archaeology,Arts and Archaeology,1908-1917,1,1,1915,1915,Putoshan *
+A_143,S_23,"Warren, G. G.",Archaeology,Arts and Archaeology,1908-1917,1,1,1912,1912,Three sites in Hunan connected with the classical legendary history of China *
+A_152,S_25,"Couling, S.",Architecture,Arts and Archaeology,1908-1917,1,1,1915,1915,Chinese pagodas
+A_144,S_37,"Stanley, A.",Decorative arts,Arts and Archaeology,1908-1917,3,3,1912,1914,Chinese art metal work * | Chinese embroidery and other textile work * | Chinese wood carving *
+A_29,S_7,"Kingsmill, T. W.",Music,Arts and Archaeology,1908-1917,1,1,1910,1910,"Music of China, The *"
+A_137,S_7,"Moule, A. C.",Music,Arts and Archaeology,1908-1917,1,1,1908,1908,"List of the musical and other sound - producing instruments of the Chinese, A *"
+A_168,S_2,"Ros, G.",Numismatics,Arts and Archaeology,1908-1917,1,1,1917,1917,Coins of the Republic of China *
+A_131,S_38,"Ferguson, J. C.",Painting,Arts and Archaeology,1908-1917,2,2,1914,1917,""" Ink Remains "", by An I - chou | "" Ink Remains "" by An I - chou, See also N. Q."
+A_169,S_39,"Segalen, V.",Sculpture,Arts and Archaeology,1908-1917,1,1,1917,1917,Recent discoveries in ancient Chinese sculpture *
+A_139,S_5,"Arnold, J. H.",Travel,Geography and Travel,1908-1917,1,1,1909,1909,"The Ascent of Mt. Morrison (Niitaka Yama),"
+A_147,S_5,"Shields, E. T.",Travel,Geography and Travel,1908-1917,1,1,1913,1913,Omei San : the sacred mountain of West China
+A_137,S_27,"Moule, A. C.","Chronology, Historical",History and Chronology,1908-1917,1,1,1914,1914,"Table of the Emperors of the Yuan Dynasty, A"
+A_161,S_26,"Latourette, K. S.",History,History and Chronology,1908-1917,1,1,1916,1916,Survey of the work by Western students of Chinese history
+A_160,S_26,"Parker, A. P.",History,History and Chronology,1908-1917,1,1,1916,1916,Some notes on the history and folk lore of old Shanghai
+A_74,S_26,"Parker, E. H.",History,History and Chronology,1908-1917,1,1,1913,1913,Mongolia after the Genghizides and before the Manchus
+A_142,S_15,"Williams, F. W. (ed.)","History, Modern (20th century)",History and Chronology,1908-1917,1,1,1911,1911,The journal of the S. Wells Williams (April 1858 - January 1860)
+A_167,S_33,"Lanning, G.",Language and languages,Literature and Language,1908-1917,1,1,1917,1917,"Kinship of the English and Chinese languages, The"
+A_153,S_6,Ardsheal,Literature,Literature and Language,1908-1917,2,2,1914,1915,Reminiscenes of a Chinese Viceroy's secretary
+A_155,S_6,"Bradley, C. B.",Literature,Literature and Language,1908-1917,1,1,1915,1915,"Tone - accents of two Chinese dialects, The *"
+A_152,S_6,"Couling, S.",Literature,Literature and Language,1908-1917,1,1,1917,1917,"Morrison Library, The G. E."
+A_145,S_6,Timothy Richard.Litt.D.,Literature,Literature and Language,1908-1917,2,2,1913,1913,Introduction to a great Chinese epic or religious allegory by Ch'iu Ch'ang Ch ' un | One of the World's Literary Masterpieces
+A_143,S_6,"Warren, G. G.",Literature,Literature and Language,1908-1917,1,1,1916,1916,M.Chavannes ' editions of Ssu - ma Chien
+A_156,S_16,"Tyler, W. F.",Astronomy,Natural Sciences,1908-1917,1,1,1915,1915,"On a large meteorite February 13, 1915 *"
+A_157,S_22,"Ward, F. K.",Botany,Natural Sciences,1908-1917,1,1,1916,1916,Notes on the flora of the W. Ssuch ' uan Mountains
+A_151,S_18,"Edgar, J. H.",Geology,Natural Sciences,1908-1917,1,1,1914,1914,from Batang to Menkong * Through the land of deep corrosions
+A_151,S_9,"Edgar, J. H.",Hydrology,Natural Sciences,1908-1917,1,1,1914,1914,The Great wall
+A_151,S_4,"Edgar, J. H.",Meteorology,Natural Sciences,1908-1917,1,1,1914,1914,Notes on temperatures in high altitudes on the Tibetan border
+A_158,S_11,"Annandale, N.",Zoology,Natural Sciences,1908-1917,1,1,1916,1916,"Freshwater sponges from the T'ai Hu (Great Lake) of the Kiangsu Province, China"
+A_166,S_11,"Laver, H. E.",Zoology,Natural Sciences,1908-1917,1,1,1917,1917,Land birds and others met with at sea off the coast of China in 1915
+A_148,S_11,"N. G. Moffett, L. I. and Gee,",Zoology,Natural Sciences,1908-1917,1,1,1913,1913,Check list of birds of the Lower Yangtze valley from Hankow to the sea
+A_149,S_11,"Richmond, C. W.",Zoology,Natural Sciences,1908-1917,1,1,1913,1913,Appendix
+A_159,S_11,"Sowerby, A. de C.",Zoology,Natural Sciences,1908-1917,1,1,1916,1916,Recent research upon the mammalia of North China
+A_144,S_11,"Stanley, A.",Zoology,Natural Sciences,1908-1917,2,2,1914,1916,"Collection of Chinese reptiles in the Shanghai Museum, The | Two new species of Chinese snakes *"
+A_140,S_11,"Touche, J. D. D. La",Zoology,Natural Sciences,1908-1917,1,1,1909,1909,"Collection of birds in the Shanghai Museum, The"
+A_154,S_12,"Lobingier, C. S.",Law,"Politics, Government, and Law",1908-1917,1,1,1914,1914,"Bibliographical introduction to the study of Chinese law, A"
+A_74,S_12,"Parker, E. H.",Law,"Politics, Government, and Law",1908-1917,1,1,1909,1909,"The Principles of Chinese law and equity,"
+A_162,S_1,"Inglis, J. W.",Buddhism,Religion and Philosophy,1908-1917,2,2,1917,1917,"Vows of Amida, The | Nestorian share in Buddhist translation, The"
+A_137,S_21,"Moule, A. C.",Christianity,Religion and Philosophy,1908-1917,2,2,1910,1915,Notices of the Nestorian missions from Chinese sources other than the Christian monument * | Notices of Christianity in China. Extracted from Marco Polo *
+A_141,S_17,"Hall, J. C.",Confucianism,Religion and Philosophy,1908-1917,1,1,1910,1910,"Confucian reformers in Japan in the 18th Century, The (Trans. of Dazai's "" Exposition of Doctrine "")"
+A_125,S_17,"Williams, E. T.",Confucianism,Religion and Philosophy,1908-1917,1,1,1913,1913,"State religion of china during the Manchu Dynasty, The *"
+A_146,S_8,"Henke, F. G.",Philosophy,Religion and Philosophy,1908-1917,1,1,1913,1913,The philosophy of Wang Yang Ming
+A_165,S_30,"Ayscough, F. W.",Religion,Religion and Philosophy,1908-1917,1,1,1917,1917,Shrines of History. Peak of the East T'ai Shan *
+A_163,S_30,"Chatley, H.",Religion,Religion and Philosophy,1908-1917,1,1,1917,1917,Magical practice in China
+A_137,S_30,"Moule, A. C.",Religion,Religion and Philosophy,1908-1917,1,1,1912,1912,T'ai Shan *
+A_170,S_30,"Wright, H. K.",Religion,Religion and Philosophy,1908-1917,1,1,1917,1917,"Religious element in the Tso Chuan, The"
+A_150,S_35,"Wilhelm, R.",Taoism,Religion and Philosophy,1908-1917,1,1,1914,1914,On the Sources of Chinese Taoism
+A_185,S_3,"Dodd, W. C.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1920,1920,"Relation of Chinese and Siamese, The *"
+A_151,S_3,"Edgar, J. H.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1922,1922,Notes on names of non - Chinese tribes in Western Szechwan
+A_131,S_3,"Ferguson, J. C.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1924,1924,Southern Migration of the Sung Dynasty
+A_176,S_3,"Kliene, C.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1923,1923,Some similarities in Chinese and ancient Egyptian culture
+A_221,S_3,"Kojeuroff, G. P.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1927,1927,Some contributions to the anthropology of the buriats
+A_154,S_3,"Lobingier, C. S.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1919,1919,"Early Malays and their neighbours, The"
+A_187,S_3,"Moninger, M. M.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1921,1921,"Hainanese Miao, The *"
+A_208,S_3,"Shirokogoroff, S. M.",Ethnology,Anthropology and Social Customs,1918-1927,2,2,1924,1926,Who are the Northern Chinese ? | Northern Tungus migrations in the Far East
+A_188,S_3,"Wilkinson, H. P.",Ethnology,Anthropology and Social Customs,1918-1927,1,1,1921,1921,Exogamy in China
+A_163,S_41,"Chatley, H.",Folklore,Anthropology and Social Customs,1918-1927,1,1,1924,1924,"Dead Hand in China, The"
+A_209,S_41,"Mironov, N. D. and Shirokogoroff, S. M.",Folklore,Anthropology and Social Customs,1918-1927,1,1,1924,1924,Sramana - Shaman
+A_219,S_20,G. S. S. G.,Antiquities,Arts and Archaeology,1918-1927,1,1,1926,1926,Some notes on the remains of a phallic shrine in Japan
+A_190,S_20,"Werner, E. T. C.",Antiquities,Arts and Archaeology,1918-1927,1,1,1926,1926,"Postscript on tomb - destruction, A"
+A_173,S_23,Hutson J.,Archaeology,Arts and Archaeology,1918-1927,2,2,1922,1923,"Shuh country, The | The Shuh country"
+A_131,S_38,"Ferguson, J. C.",Painting,Arts and Archaeology,1918-1927,1,1,1918,1918,Ku K'ai - chih's scroll in the British Museum *
+A_131,S_42,"Ferguson, J. C.",Asia,Geography and Travel,1918-1927,1,1,1926,1926,General survey of standard Chinese histories
+A_211,S_42,"MacNair, H. F.",Asia,Geography and Travel,1918-1927,1,1,1925,1925,Some observation on China's international relations
+A_137,S_42,"Moule, A. C.",Asia,Geography and Travel,1918-1927,1,1,1927,1927,"Siege of Saianfu and the murder of Achmach Bailo, The"
+A_151,S_31,"Edgar, J. H.",Geography,Geography and Travel,1918-1927,1,1,1926,1926,"Tibetan and his environment : an interpretation, The"
+A_216,S_31,Hosie,Geography,Geography and Travel,1918-1927,1,1,1926,1926,"Map of China in the making, A"
+A_106,S_31,"Morse, H. B.",Geography,Geography and Travel,1918-1927,1,1,1921,1921,"Lampacao, a mystery of the Far East"
+A_206,S_31,"Torrance, T.",Geography,Geography and Travel,1918-1927,1,1,1924,1924,History of Shuh a free translation of the Shuh Chi
+A_190,S_31,"Werner, E. T. C.",Geography,Geography and Travel,1918-1927,1,1,1925,1925,"Burial place of Genghis Kwan, The"
+A_165,S_5,"Ayscough, F. W.",Travel,Geography and Travel,1918-1927,2,2,1921,1923,"Notes on the symbolism of the Purple Forbidden City * | Preliminary notes on the literary background of the "" Great River """
+A_177,S_5,"Edmunds, C. K.",Travel,Geography and Travel,1918-1927,1,1,1919,1919,Thirty thousand miles in China *
+A_204,S_5,"Fischer, E. S.",Travel,Geography and Travel,1918-1927,1,1,1923,1923,Modern travel from Tai Yuan Fu via Mount Wu Tai to the Mongolian frontier
+A_189,S_5,"Kemp, E. G.",Travel,Geography and Travel,1918-1927,1,1,1921,1921,"Highways and byways of Kweichow, The *"
+A_184,S_5,"King, G. E.",Travel,Geography and Travel,1918-1927,1,1,1919,1919,Notes on Kansu
+A_205,S_29,"Darroch, J.",Biography,History and Chronology,1918-1927,1,1,1923,1923,A page of ancient Chinese history
+A_175,S_29,"Morgan, E.",Biography,History and Chronology,1918-1927,1,1,1927,1927,Chou - kung ; The Duke of Chou
+A_218,S_29,"Teesdale, J. H.",Biography,History and Chronology,1918-1927,1,1,1926,1926,"Li Sin Cheng, the Chung Wang or "" Faithful Prince """
+A_176,S_26,"Kliene, C.",History,History and Chronology,1918-1927,1,1,1918,1918,Chinese puzzledom
+A_167,S_26,"Lanning, G.",History,History and Chronology,1918-1927,1,1,1920,1920,Names and nicknames of the Shanghai settlements
+A_175,S_26,"Morgan, E.",History,History and Chronology,1918-1927,1,1,1926,1926,League of nations in ancient China
+A_165,S_6,"Ayscough, F. W.",Literature,Literature and Language,1918-1927,1,1,1920,1920,Chinese poetry and its connotations *
+A_201,S_6,"Budd, C.",Literature,Literature and Language,1918-1927,1,1,1923,1923,"Snowstorm, A"
+A_131,S_6,"Ferguson, J. C.",Literature,Literature and Language,1918-1927,3,3,1919,1925,"Recent books by a Chinese scholar | "" Fir - flower Tablets "" | Stories in Chinese paintings, I"
+A_191,S_6,"Fletcher, W. J. B.",Literature,Literature and Language,1918-1927,2,2,1921,1921,"Trip to Hua Kang, A | Song of a skirt, The"
+A_194,S_6,"Gaunt, T.",Literature,Literature and Language,1918-1927,1,1,1922,1922,Ling Yin monastery poem
+A_193,S_6,"Hudson, E.",Literature,Literature and Language,1918-1927,5,5,1922,1927,"Lan - tsih * | Drought, The | Then and now | Night in the mountains, A | Little Lu - fu, and looking at a painting by Wang - tzu"
+A_202,S_6,"Jamieson, C. A.",Literature,Literature and Language,1918-1927,1,1,1923,1923,Chu - goh Leang and the arrows
+A_176,S_6,"Kliene, C.",Literature,Literature and Language,1918-1927,2,2,1919,1921,"Land of Peach Bloom, The | Marriage maker, The"
+A_220,S_6,"Leung, G. K.",Literature,Literature and Language,1918-1927,1,1,1927,1927,Mei Lan - Fang (the man and his art)
+A_212,S_6,"Sheppard, G. W. (ed.)",Literature,Literature and Language,1918-1927,1,1,1925,1925,"Edict of Ch ' in Shih Huang, A"
+A_178,S_6,"Williams, C. A. S.",Literature,Literature and Language,1918-1927,1,1,1919,1919,Chinese metaphorical zoology
+A_179,S_13,"Skvortzow, B. W.",Agriculture,Natural Sciences,1918-1927,4,4,1919,1922,"Notes on the agriculture, botany and the zoology of China, Sections i - xxxii * | Notes on the agriculture, botany and the zoology of China, Sections xxxiii- xxxviii * | Notes on the agriculture, botany and the zoology of China, Sections xxxix - xlvi * | Notes on the agriculture, botany and the zoology of China, Sections xlvii - xlix *"
+A_206,S_13,"Torrance, T.",Agriculture,Natural Sciences,1918-1927,1,1,1924,1924,Origin and history of the irrigation work of the Chengtu Plain
+A_180,S_13,Yan Taz Chiu,Agriculture,Natural Sciences,1918-1927,1,1,1919,1919,Chemical industry in Kwangtung Province
+A_199,S_22,"Cowdry, N. H.",Botany,Natural Sciences,1918-1927,1,1,1922,1922,Plants from Peitaiho
+A_183,S_22,"Gee, N. G.",Botany,Natural Sciences,1918-1927,1,1,1919,1919,"Beginning of the study of the flora and fauna of Soochow and vicinity, A"
+A_196,S_22,"Hers, J.",Botany,Natural Sciences,1918-1927,1,1,1922,1922,Chinese names of plants ; a preliminary list of the trees and shrubs of North Honan
+A_214,S_18,"Barbour, G. B.",Geology,Natural Sciences,1918-1927,1,1,1925,1925,"Springs of Tsinanfu, The"
+A_163,S_18,"Chatley, H.",Geology,Natural Sciences,1918-1927,1,1,1920,1920,China's petrified sun - rays
+A_192,S_18,Heidenstem,Geology,Natural Sciences,1918-1927,1,1,1922,1922,"Growth of the Yangtze delta, The *"
+A_195,S_18,"Norin, E.",Geology,Natural Sciences,1918-1927,1,1,1922,1922,Notes on the coal and Iron Ore deposits of Central Shansi
+A_215,S_18,"Turner, F. B.",Geology,Natural Sciences,1918-1927,1,1,1926,1926,Flood and famine in North China
+A_163,S_9,"Chatley, H.",Hydrology,Natural Sciences,1918-1927,1,1,1918,1918,River problems in China *
+A_183,S_11,"Gee, N. G.",Zoology,Natural Sciences,1918-1927,1,1,1926,1926,Chinese fresh water sponges
+A_197,S_11,"Jacot, A. P.",Zoology,Natural Sciences,1918-1927,5,5,1922,1927,"Oribatoidae Sinensis, Part I | Oribatoidae Sinensis, Part II | Oribatoidea Sinensis, Part III | Shantung foraminifera | Genus gueldenstaedtia (leguminoseae), The"
+A_181,S_11,"Kellogg, C. R.",Zoology,Natural Sciences,1918-1927,1,1,1919,1919,"List of the birds in the Museum of the Anglo - Chinese College of Foochow, China"
+A_166,S_11,"Laver, H. E.",Zoology,Natural Sciences,1918-1927,1,1,1918,1918,"Some notes on land - birds, including also general remarks on the birds observed at sea on the coast of China in 1916"
+A_182,S_11,"Moore, A.",Zoology,Natural Sciences,1918-1927,1,1,1919,1919,"Attractions of entomology, The"
+A_200,S_11,"Riley, J. H. and Richmond, C. W.",Zoology,Natural Sciences,1918-1927,2,2,1922,1922,"Partial bibliography of Chinese birds, A | Partial bibliography of Chinese birds, A (complementary to the List given in Vol 53, pp. 196-237)"
+A_198,S_11,"Sjolander, D.",Zoology,Natural Sciences,1918-1927,1,1,1922,1922,"Distribution and habits of the Argali sheep of Central Asia, The *"
+A_159,S_11,"Sowerby, A. de C.",Zoology,Natural Sciences,1918-1927,1,1,1922,1922,"Natural history of China, The"
+A_206,S_11,"Torrance, T.",Zoology,Natural Sciences,1918-1927,1,1,1926,1926,"Chinese cat, The"
+A_210,S_11,"Wilder, G. D. and Hubbard, H. W.",Zoology,Natural Sciences,1918-1927,2,2,1924,1926,List of the birds of Chihli Province | Corrections and additions to the list of the birds of Chihli Province
+A_131,S_43,"Ferguson, J. C.",Political science,"Politics, Government, and Law",1918-1927,1,1,1927,1927,Political parties of the Northern Sung Dynasty
+A_203,S_1,"Stael-Holstein, Baron A. von",Buddhism,Religion and Philosophy,1918-1927,1,1,1923,1923,Hsuan - tsang and modern research
+A_207,S_21,"Heeren, J. J.",Christianity,Religion and Philosophy,1918-1927,1,1,1923,1923,Bishop Della Chiesa and the story of his lost grave *
+A_190,S_21,"Werner, E. T. C.",Christianity,Religion and Philosophy,1918-1927,2,2,1921,1922,"Christ in the "" Li Tai Shen Hsien T'ung Chien "" | Christ in the "" Li Tai Shen Hsien Tung Chien "" *"
+A_186,S_40,"Mason, I.",Islam,Religion and Philosophy,1918-1927,2,2,1920,1925,"Chinese life of Mohammed, A | Notes on Chinese Mohammedan Literature"
+A_171,S_40,"Zwemer, S. M.",Islam,Religion and Philosophy,1918-1927,1,1,1918,1918,Animistic elements in Moslem prayer
+A_174,S_8,"Bruce, J. P.",Philosophy,Religion and Philosophy,1918-1927,1,1,1918,1918,"Theistic import of the Sung philosophy, The"
+A_217,S_8,"Freeman, M.",Philosophy,Religion and Philosophy,1918-1927,1,1,1926,1926,"Yen Hsi Chai, a 17th century philosopher"
+A_175,S_8,"Morgan, E.",Philosophy,Religion and Philosophy,1918-1927,1,1,1920,1920,"Destiny, fate"
+A_213,S_8,"Pott, F. L. H.",Philosophy,Religion and Philosophy,1918-1927,1,1,1925,1925,"Teaching of Micius, The"
+A_143,S_8,"Warren, G. G.",Philosophy,Religion and Philosophy,1918-1927,1,1,1924,1924,Was Chu Hsi a materialist ?
+A_151,S_30,"Edgar, J. H.",Religion,Religion and Philosophy,1918-1927,1,1,1922,1922,Note on Chiang sacrifice and litholatry
+A_207,S_30,"Heeren, J. J.",Religion,Religion and Philosophy,1918-1927,1,1,1925,1925,Some new light on the life and times of Bishop Della Chiesa
+A_173,S_30,Hutson J.,Religion,Religion and Philosophy,1918-1927,1,1,1918,1918,"Domestic altar, The"
+A_175,S_30,"Morgan, E.",Religion,Religion and Philosophy,1918-1927,1,1,1918,1918,"Case of ritualism, A"
+A_208,S_30,"Shirokogoroff, S. M.",Religion,Religion and Philosophy,1918-1927,1,1,1923,1923,General theory of shamanism among the Tungus
+A_206,S_30,"Torrance, T.",Religion,Religion and Philosophy,1918-1927,1,1,1923,1923,"Religion of the Ch'iang, The *"
+A_190,S_30,"Werner, E. T. C.",Religion,Religion and Philosophy,1918-1927,1,1,1923,1923,Chinese composite deities
+A_172,S_35,"Ling, P. C.",Taoism,Religion and Philosophy,1918-1927,1,1,1918,1918,"Eight Immortals of the Taoist religion, The"
+A_175,S_35,"Morgan, E.",Taoism,Religion and Philosophy,1918-1927,2,2,1921,1923,"Operations and manifestations of the Tao exemplified in history, The | Taoist superman, The"
+A_256,S_44,"Grabau, A. W.",Anthropology,Anthropology and Social Customs,1928-1937,1,1,1934,1934,"Beginning of the human race, The"
+A_249,S_44,"Kulp, D. H",Anthropology,Anthropology and Social Customs,1928-1937,1,1,1932,1932,Chinese anthropometrics : studies in Chekiang and Kwangtung
+A_265,S_3,"Andrew, G. F.",Ethnology,Anthropology and Social Customs,1928-1937,1,1,1935,1935,Men and matters in the land of the Yellow Earth
+A_163,S_3,"Chatley, H.",Ethnology,Anthropology and Social Customs,1928-1937,1,1,1929,1929,Did ancient Chinese culture come from Egypt ?
+A_244,S_3,"Gapanovich, J. J.",Ethnology,Anthropology and Social Customs,1928-1937,1,1,1931,1931,"Asiatic origin of South American man, The"
+A_224,S_41,Wang Kuo Wei（王国维）,Folklore,Anthropology and Social Customs,1928-1937,1,1,1928,1928,Chinese foot measures of the past nineteen centuries
+A_250,S_20,"Murphy, D. C.",Antiquities,Arts and Archaeology,1928-1937,1,1,1932,1932,"Research museum in Far Eastern antiquities, A"
+A_234,S_20,"Talbot, R. M.",Antiquities,Arts and Archaeology,1928-1937,1,1,1929,1929,"List of legible inscriptions on stones in the foreign cemetery on Double Island, Swatow, 1922"
+A_131,S_23,"Ferguson, J. C.",Archaeology,Arts and Archaeology,1928-1937,2,2,1935,1936,"Inscriptions on bronzes | Six horses of T'ang T'ai Tsung, The"
+A_204,S_23,"Fischer, E. S.",Archaeology,Arts and Archaeology,1928-1937,1,1,1933,1933,"T'ai Miao, a description of the supreme hall of sacrefices of the Forbidden City"
+A_267,S_23,"Gibson, H. E.",Archaeology,Arts and Archaeology,1928-1937,2,2,1936,1937,"Inscribed bones of Shang, The | Music and musical instruments of Shang"
+A_268,S_23,"Prip-Moller, J.",Archaeology,Arts and Archaeology,1928-1937,1,1,1936,1936,"On the building history of the Pao Shu T'a, Hangchow"
+A_257,S_23,Teng Kuei（滕固）,Archaeology,Arts and Archaeology,1928-1937,1,1,1934,1934,Bamboo and bamboo painting
+A_163,S_25,"Chatley, H.",Architecture,Arts and Archaeology,1928-1937,1,1,1936,1936,T'ai Chi Shang Yun the chinese astrological theory of creation
+A_131,S_38,"Ferguson, J. C.",Painting,Arts and Archaeology,1928-1937,2,2,1932,1934,"Stories in Chinese paintings, III | Painters among Catholic missionaries and their helpers in Peking"
+A_261,S_38,"Siren, O.",Painting,Arts and Archaeology,1928-1937,1,1,1935,1935,How the Chinese llok upon the art of painting
+A_241,S_34,"Abraham, R. D.",Porcelain,Arts and Archaeology,1928-1937,1,1,1931,1931,Chinese pottery and porcelain : an appreciation
+A_131,S_34,"Ferguson, J. C.",Porcelain,Arts and Archaeology,1928-1937,2,2,1928,1932,Shapes of porcelain vessels | Porcelains of successive dynasties
+A_271,S_28,"Ch'en, S. C.",Economics,"Economy, Trade, and Technology",1928-1937,1,1,1936,1936,"Sang Hung - yang, economist of the early Han"
+A_259,S_28,"Gale, E. M., Boodberg, P. A. and Lin, T. C.",Economics,"Economy, Trade, and Technology",1928-1937,1,1,1934,1934,Discourses on salt and iron (Yen T'ieh Lun : Chaps. XX - XXVIII)
+A_232,S_28,"Kann, E.",Economics,"Economy, Trade, and Technology",1928-1937,1,1,1929,1929,"Gold in China : in its historical, practical and financial aspects"
+A_226,S_10,"Phelps, D. L.",Education,Education,1928-1937,1,1,1928,1928,"Place of Music in the Platonic and Confucian systems of moral education, The"
+A_231,S_42,Chang Hsin-hai（张歆海）,Asia,Geography and Travel,1928-1937,1,1,1929,1929,Some types of Chinese historical thought
+A_137,S_42,"Moule, A. C.",Asia,Geography and Travel,1928-1937,1,1,1928,1928,"Murder of Achmach Bailo, The"
+A_165,S_31,"Ayscough, F. W.",Geography,Geography and Travel,1928-1937,1,1,1930,1930,"Symbolism of the Forbidden City, Peking, The *"
+A_263,S_31,"Drake, F. S.",Geography,Geography and Travel,1928-1937,1,1,1935,1935,China's North - west passage : a chapter in its opening
+A_204,S_31,"Fischer, E. S.",Geography,Geography and Travel,1928-1937,1,1,1930,1930,"Journey to the Tung Ling and a visit to the desecrated Eastern Mausolea of the Ta Tsing dynasty, in 1929, A"
+A_253,S_31,"Gale, E. M.",Geography,Geography and Travel,1928-1937,1,1,1937,1937,Chekiang highways
+A_223,S_31,"Hayes, L. N.",Geography,Geography and Travel,1928-1937,1,1,1928,1928,The Great Wall of China
+A_222,S_31,"MacGillivray, D.",Geography,Geography and Travel,1928-1937,1,1,1928,1928,"Jews of Honan, The"
+A_248,S_31,"Moyer, R. T.",Geography,Geography and Travel,1928-1937,1,1,1932,1932,"Aridity of North China, The"
+A_270,S_31,"Nystrom, E. T.",Geography,Geography and Travel,1928-1937,1,1,1936,1936,"Geophysical prospecting for gold, metallic ores and petroleum and its possible application in China, The"
+A_252,S_31,"Penniston, J. B.",Geography,Geography and Travel,1928-1937,1,1,1933,1933,"Origin of loess, The"
+A_254,S_5,Cheng Te-k'un,Travel,Geography and Travel,1928-1937,2,2,1933,1934,"Travels of Emperor Mu, The | Travels of Emperor MU, The (concluded)"
+A_263,S_5,"Drake, F. S.",Travel,Geography and Travel,1928-1937,1,1,1936,1936,China's Northwest passage : the struggle for the Tarim Basin in the later Han dynasty
+A_237,S_5,Wu Lieh-teh（伍连德）,Travel,Geography and Travel,1928-1937,1,1,1933,1933,Early Chinese travellers and their successors
+A_229,S_29,Hu Shih（胡适）,Biography,History and Chronology,1928-1937,1,1,1928,1928,"Wang Mang, the socialist emperor of nineteen centuries ago"
+A_163,S_27,"Chatley, H.","Chronology, Historical",History and Chronology,1928-1937,2,2,1931,1934,"History of the days of the week, The | Cycles of Cathay, The"
+A_235,S_26,"Buxton, D.",History,History and Chronology,1928-1937,1,1,1930,1930,"Light thrown on ancient Chinese history by recent archaeological discoveries, The *"
+A_163,S_26,"Chatley, H.",History,History and Chronology,1928-1937,1,1,1933,1933,Futher notes on the history of the days of the week
+A_266,S_26,"Dubs, H. H.",History,History and Chronology,1928-1937,1,1,1936,1936,Han Kao - Tsu and Hsiang Yu
+A_131,S_26,"Ferguson, J. C.",History,History and Chronology,1928-1937,1,1,1933,1933,Loyang as the national capital
+A_253,S_26,"Gale, E. M.",History,History and Chronology,1928-1937,1,1,1933,1933,Some Chinese sources for the study of Northeastern Asia
+A_272,S_26,"Goodrich, L. C.",History,History and Chronology,1928-1937,1,1,1937,1937,Korean interference with Chinese historical records
+A_242,S_26,"Haward, E.",History,History and Chronology,1928-1937,1,1,1931,1931,"Indian frontier, The"
+A_247,S_26,"Hughes, E. R.",History,History and Chronology,1928-1937,1,1,1932,1932,Political indealists and realists of China of the fourth and third centruies B. C.
+A_236,S_26,"Soothill, W. E.",History,History and Chronology,1928-1937,1,1,1930,1930,Kingship in China *
+A_264,S_33,Lin Tung-chi（林同济）,Language and languages,Literature and Language,1928-1937,1,1,1935,1935,"Word "" one "" in Chinese poetry, The"
+A_255,S_33,"Rispaud, P. J.",Language and languages,Literature and Language,1928-1937,1,1,1933,1933,Notes sur les alphabets lu du Yun - nan et les denominations ethniques donnees aux T'ay
+A_230,S_6,"Biallas, F. X.",Literature,Literature and Language,1928-1937,1,1,1928,1928,"K'u Yuan, his life and poems"
+A_201,S_6,"Budd, C.",Literature,Literature and Language,1928-1937,1,1,1930,1930,Chinese poems
+A_131,S_6,"Ferguson, J. C.",Literature,Literature and Language,1928-1937,1,1,1930,1930,"Stories in Chinese painting, II"
+A_193,S_6,"Hudson, E.",Literature,Literature and Language,1928-1937,1,1,1928,1928,"Kite's message, The"
+A_262,S_6,Lin Yu-tang（林语堂）,Literature,Literature and Language,1928-1937,1,1,1935,1935,"Technique and spirit of Chinese poetry, The"
+A_258,S_6,"Lyon, D. W.",Literature,Literature and Language,1928-1937,1,1,1934,1934,"Past decade in Chinese literature, The"
+A_225,S_6,"Meerkerk, M. E. R. F.",Literature,Literature and Language,1928-1937,1,1,1928,1928,"A German translation of the Hsi Hsiang Chi, A review"
+A_175,S_6,"Morgan, E.",Literature,Literature and Language,1928-1937,1,1,1932,1932,Studies in conduct and character
+A_248,S_13,"Moyer, R. T.",Agriculture,Natural Sciences,1928-1937,1,1,1937,1937,Some observations on the agriculture of inner Mongola
+A_238,S_16,Coching Chu（竺可桢）,Astronomy,Natural Sciences,1928-1937,1,1,1931,1931,Climatic changes during historic time in China
+A_266,S_16,"Dubs, H. H.",Astronomy,Natural Sciences,1928-1937,1,1,1935,1935,Eclipses during the first fifty years of the earlier Han dynasty
+A_197,S_22,"Jacot, A. P.",Botany,Natural Sciences,1928-1937,1,1,1928,1928,Contributions from the Herbarium of the Shantung Christian University
+A_233,S_22,"Liu, J. C.",Botany,Natural Sciences,1928-1937,1,1,1929,1929,"List of plant names included in the Cowdry Chihli flora, not recorded in the Index Florae Sinensis and its two supplements, A"
+A_239,S_22,"Porterfield, W. M.",Botany,Natural Sciences,1928-1937,1,1,1931,1931,Bamboos in China
+A_227,S_18,"Englaender, A. L.",Geology,Natural Sciences,1928-1937,2,2,1928,1929,"Origin and growth of deserts and the encroachment of the desert on North - China, The | Some notes on Aisa's Ice Age"
+A_237,S_19,Wu Lieh-teh（伍连德）,Medicine,Natural Sciences,1928-1937,1,1,1931,1931,Early days of Western medicine in China
+A_240,S_11,"Ping, C.",Zoology,Natural Sciences,1928-1937,1,1,1931,1931,Preliminary notes on the natural history of Nanking
+A_217,S_43,"Freeman, M.",Political science,"Politics, Government, and Law",1928-1937,1,1,1928,1928,"Ch'ing dynasty criticism of Sung politico - philosophy, The"
+A_260,S_1,Lee Shao-chang（李绍昌）,Buddhism,Religion and Philosophy,1928-1937,1,1,1934,1934,"Prajna - Paramita Hridaya Sutra or "" Essence of transcendental wisdom "" The (Hsuan Chuang, A. D. VIIth Cent.)"
+A_246,S_21,"Saeki, P. Y.",Christianity,Religion and Philosophy,1928-1937,4,4,1932,1936,"Hsu - T'ing Mi - shi - so Sutra, or Jesus - Messian - Sutra, The | Translation of the fragments of the Nestorian writing in China, The | Translation of the fragments of the Nestorian writing in China, The (concluded) | Old problems concerning the Nestorian monument"
+A_269,S_17,"Brown, M. H.",Confucianism,Religion and Philosophy,1928-1937,1,1,1936,1936,"Chinese attitude to peace and war in pre - Confucian Times, The"
+A_186,S_40,"Mason, I.",Islam,Religion and Philosophy,1928-1937,2,2,1929,1931,"Mohammedans of China : when, and how they first came, The | Chinese - Moslem chronology"
+A_120,S_8,"Forke, A.",Philosophy,Religion and Philosophy,1928-1937,1,1,1930,1930,"Philosopher Yang Hsiung, The *"
+A_217,S_8,"Freeman, M.",Philosophy,Religion and Philosophy,1928-1937,1,1,1933,1933,"Philosophy of Tai Tung - yuan, The"
+A_175,S_8,"Morgan, E.",Philosophy,Religion and Philosophy,1928-1937,1,1,1931,1931,"Cosmic spirit, The"
+A_243,S_8,Tsai Yuen-Pei（蔡元培）,Philosophy,Religion and Philosophy,1928-1937,1,1,1931,1931,"Chinese nation and the doctrine of the golden mean, The"
+A_251,S_30,"Bishop, C. W.",Religion,Religion and Philosophy,1928-1937,1,1,1933,1933,"Worship of Earth in Ancient China, The"
+A_245,S_30,"Johnston, R. F.",Religion,Religion and Philosophy,1928-1937,1,1,1932,1932,"Poet - monk of Modern China, A"
+A_228,S_30,"White, L. M.",Religion,Religion and Philosophy,1928-1937,1,1,1928,1928,Early Christianity in Japan
+A_125,S_30,"Williams, E. T.",Religion,Religion and Philosophy,1928-1937,2,2,1935,1936,"Worship of Lei Tsu, patron saint of silk workers, The | Agricultural rites in the religion of old China"
+A_282,S_3,"Ankerson, W. A.",Ethnology,Anthropology and Social Customs,1938-1948,1,1,1946,1946,"Chinese shadow play, The"
+A_278,S_3,"Poston, D. G.",Ethnology,Anthropology and Social Customs,1938-1948,1,1,1940,1940,Bits of old Soochow
+A_159,S_3,"Sowerby, A. de C.",Ethnology,Anthropology and Social Customs,1938-1948,1,1,1939,1939,Some Chinese animal myths and legends (presidential address)
+A_279,S_23,"Beath, S. S.",Archaeology,Arts and Archaeology,1938-1948,1,1,1946,1946,Ching Te Chen procelain city of emperors
+A_263,S_23,"Drake, F. S.",Archaeology,Arts and Archaeology,1938-1948,1,1,1940,1940,"Inscribed Chou pottery vessel, An"
+A_277,S_23,"Dunlap, E. W.",Archaeology,Arts and Archaeology,1938-1948,1,1,1940,1940,"Chin Shan Tsui Temple Peitaiho, The"
+A_131,S_23,"Ferguson, J. C.",Archaeology,Arts and Archaeology,1938-1948,1,1,1946,1946,Decorations of Chinese bronzes
+A_159,S_23,"Sowerby, A. de C.",Archaeology,Arts and Archaeology,1938-1948,1,1,1938,1938,Pottery tomb figures of ancient China (presidential address)
+A_267,S_28,"Gibson, H. E.",Economics,"Economy, Trade, and Technology",1938-1948,1,1,1940,1940,Cowries as money during the Shang and Chou periods
+A_204,S_31,"Fischer, E. S.",Geography,Geography and Travel,1938-1948,1,1,1940,1940,Jehol
+A_175,S_26,"Morgan, E.",History,History and Chronology,1938-1948,1,1,1938,1938,Times and manners in the age of the Emperor Kang Hsi
+A_280,S_26,"Roberts, D.",History,History and Chronology,1938-1948,1,1,1946,1946,Interpretations of Chinese history
+A_276,S_26,"Tomkinson, L.",History,History and Chronology,1938-1948,1,1,1940,1940,Chinese historical attitudes to peace and war
+A_267,S_33,"Gibson, H. E.",Language and languages,Literature and Language,1938-1948,1,1,1939,1939,"Evolution of Chinese characters beginning from Shang pictographs, The"
+A_288,S_33,"Gillett, M. C.",Language and languages,Literature and Language,1938-1948,1,1,1948,1948,Some notes on the blue Turkish tongue
+A_273,S_33,"Stifler, S. R.",Language and languages,Literature and Language,1938-1948,1,1,1938,1938,"Language students of the East India company's Canton factory, The"
+A_274,S_33,Wen Yu,Language and languages,Literature and Language,1938-1948,1,1,1938,1938,"Influence of liquids upon the dissolution of initial consonant groups of the indo sinic families, The"
+A_283,S_6,"Schwarz, K. L.",Literature,Literature and Language,1938-1948,1,1,1946,1946,Bibliographical catalogue of European books printed before 1900
+A_275,S_19,"Read, B. E.",Medicine,Natural Sciences,1938-1948,1,1,1940,1940,Insects used in Chinese medicine
+A_285,S_11,"House, I. E.",Zoology,Natural Sciences,1938-1948,1,1,1948,1948,"Butterfly hunting in Pi Hu, S. Chekiang"
+A_159,S_11,"Sowerby, A. de C.",Zoology,Natural Sciences,1938-1948,1,1,1940,1940,Some remarkable animals of China (presidential address)
+A_281,S_12,"Ruffe, M. D'Auxion de",Law,"Politics, Government, and Law",1938-1948,1,1,1946,1946,Criminal law in ancient China
+A_287,S_21,Chang Hsing Lang（张星烺）,Christianity,Religion and Philosophy,1938-1948,1,1,1948,1948,"Cause which induced the monk I - szu, the Nestorian Archbishop of Ch'ang an, to come to China and the exact date of his arrival, The"
+A_284,S_21,"Francis, J. de",Christianity,Religion and Philosophy,1938-1948,1,1,1948,1948,"Missionary contribution to Chinese nationalism, A"
+A_204,S_30,"Fischer, E. S.",Religion,Religion and Philosophy,1938-1948,1,1,1946,1946,"Sacred Lamaist dances, The"
+A_267,S_30,"Gibson, H. E.",Religion,Religion and Philosophy,1938-1948,1,1,1938,1938,Domesticated animals of Shang and their sacrifice
+A_175,S_30,"Morgan, E.",Religion,Religion and Philosophy,1938-1948,1,1,1939,1939,Sacrifices in ancient China
+A_125,S_30,"Williams, E. T.",Religion,Religion and Philosophy,1938-1948,1,1,1939,1939,Worshipping imperial ancestors in Peking
+A_286,S_30,Yao Shan-yu,Religion,Religion and Philosophy,1938-1948,1,1,1948,1948,"Cosmological and anthropological philosophy of Tung Chung - shu, The"

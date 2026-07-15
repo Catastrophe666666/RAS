@@ -1,0 +1,34 @@
+﻿topic_id,topic_size,article_count,topic_size_share,article_coverage,interpretability,topic_words,coverage_score_norm,size_score_norm,interpretability_score_norm,importance_score,importance_rank
+0,2189,144,0.151603297,0.329519451,0.532689921,"cochin, tab, chinensis, folio, sinensis, var, genus, breadth, chusan, infra",0.812121212,1,0.265662166,0.692594459,1
+1,1664,166,0.115243438,0.3798627,0.538273452,"coal, limestone, mile, left bank, right bank, gorge, shore, sandstone, tide, navigable",0.945454545,0.747959674,0.319588183,0.671000801,2
+2,1225,175,0.08483967,0.400457666,0.534948919,"altar, marble, pillars, pagodas, terrace, architecture, towers, monuments, offerings, coffin",1,0.537205953,0.287479683,0.608228545,3
+4,792,142,0.054851444,0.324942792,0.537383984,"kwo, rebels, eldest son, eunuch, an-shih, wang an-shih, annam, rebel, generals, defeat",0.8,0.329332693,0.31099766,0.480110118,4
+21,305,78,0.021123346,0.178489703,0.579141647,"thou, thy, hell, sins, creator, yima, hells, brightness, demon, deus",0.412121212,0.095535286,0.714295212,0.407317237,5
+3,868,84,0.060114966,0.19221968,0.547137158,"treaty, garnier, tong-king, treaties, commissioners, kweiliang, mandarins, negotiations, americans, audience",0.448484848,0.365818531,0.405194292,0.406499224,6
+9,597,87,0.041346354,0.199084668,0.549045484,"destiny, ultimate, taoism, immortality, holy men, immaterial, plato, senses, cosmic, tse",0.466666667,0.235717715,0.423624998,0.37533646,7
+10,562,102,0.038922363,0.233409611,0.54133543,"road shanghai, honorary, branch asiatic, election, hon, society's, s'hai, robert, list members, histories",0.557575758,0.218915026,0.349160915,0.375217233,8
+30,115,10,0.00796454,0.022883295,0.608723686,"tungus, goldi, northern tungus, reindeer, amur, shamanism, complex, amur river, orotchis, pal",0,0.004320691,1,0.334773564,9
+23,240,37,0.01662165,0.084668192,0.583440136,"mohammed, prophet, moslem, moslems, islam, koran, mecca, mosque, jews, medina",0.163636364,0.064330293,0.755810233,0.32792563,10
+11,310,62,0.021469631,0.14187643,0.561021832,"great drought, tls, likin, land-tax, taels year, hkiang, catties, tax, ch'wan, revenue",0.315151515,0.09793567,0.539293155,0.317460113,11
+26,197,56,0.013643604,0.128146453,0.568475095,"vols, bithe, road shanghai, manchu chinese, vide wylie, bithe vols, libraries, vols large, svo, der gabelentz",0.278787879,0.04368699,0.611277137,0.311250669,12
+25,129,17,0.008934137,0.038901602,0.595867777,"magnetic, magnetism, terrestrial, terrestrial magnetism, periodical, hemisphere, axis, nucleus, dip, attraction",0.042424242,0.011041767,0.875836997,0.309767669,13
+6,380,42,0.026317612,0.09610984,0.56733495,"mint, obverse, coin, tael, coinage, annam, minor currency, annam minor, dollar, obverse reverse",0.193939394,0.131541047,0.600265561,0.308582,14
+7,452,80,0.031304107,0.183066362,0.531871645,"wares, pottery, bronzes, porcelains, painting, chinese art, bronze, chinese porcelain, potteries, artistic",0.424242424,0.166106577,0.257759221,0.282702741,15
+20,299,70,0.020707805,0.160183066,0.541304704,"teachings, chu hsi, meh, chai, human nature, confucianists, micius, ssu-ma, disciple, yao shun",0.363636364,0.092654825,0.34886416,0.268385116,16
+12,400,79,0.027702749,0.180778032,0.530575692,"classifier, tones, shuo, corean, vowels, ideographic, elementary characters, elementary, k'ang hsi, vowel",0.418181818,0.141142583,0.245242841,0.268189081,17
+27,145,43,0.010042247,0.098398169,0.564279831,"eunuchs, great officer, mencius reformers, reformers china, reformers, hospital, avoided, avoidance, exogamy, avoiding",0.2,0.018722996,0.570759071,0.263160689,18
+14,324,65,0.022439227,0.148741419,0.539853968,"cycle, lunar, solar, eclipses, jupiter, equinox, solstice, astronomical, zodiac, asterisms",0.333333333,0.104656745,0.334852888,0.257614322,19
+19,274,63,0.018976383,0.14416476,0.535669489,"migration, migrations, south america, tibetans, philippines, lamaism, aryan, anthropological, immigrants, lhasa",0.321212121,0.080652904,0.294438979,0.232101335,20
+16,333,39,0.023062539,0.089244851,0.545238881,"tai-y, fut, elle, tait, concubine, femme, madame, vous, ouang, avait",0.175757576,0.108977436,0.386860638,0.223865217,21
+17,286,47,0.019807466,0.107551487,0.540312212,"chinese law, witchcraft, penalty, law practice, offence, infanticide, offences, penal, district magistrate, robbery",0.224242424,0.086413826,0.33927863,0.21664496,22
+18,220,50,0.015236512,0.114416476,0.54121824,"family law, law chinese, exogamy, patria, marry, contract, bride, widow, husband's, marriages",0.242424242,0.054728757,0.34802909,0.215060696,23
+24,132,48,0.009141907,0.109839817,0.542299622,"kabaran, iii iii, yukan, tze, heen, mun, tsz, keang, itinerary, yeh",0.23030303,0.012481997,0.35847313,0.200419386,24
+8,535,44,0.037052427,0.100686499,0.521898632,"tom, western asia, central western, mohammedan, medieval geography, history central, turkish, notices medieval, uigurs, samarcand",0.206060606,0.205952952,0.161439372,0.191150977,25
+22,133,17,0.009211164,0.038901602,0.557696229,"pawn, games, cannon, chess, file, rook, moves, knight, adversary, diagram",0.042424242,0.012962074,0.507174317,0.187520211,26
+15,197,20,0.013643604,0.04576659,0.546054551,"temperature, eastern asia, vapour, latitude, spring summer, celsius, minimum, humidity, hkiang, maximum",0.060606061,0.04368699,0.394738418,0.166343823,27
+29,106,31,0.007341229,0.070938215,0.543269405,"vegetation, agricole, carte, sahara, carte agricole, grazing, cultures, glaciers, agricole rale, rale l'empire",0.127272727,0,0.367839344,0.165037357,28
+13,217,32,0.015028742,0.073226545,0.535543999,"chinese musical, musical instruments, holes, diameter, inches long, pipe, drum, inches diameter, pipes, gong",0.133333333,0.053288526,0.29322699,0.159949617,29
+32,113,21,0.007826027,0.04805492,0.546625994,"airs, drama, actor, musical instruments, actors, chinese respecting, mei, ming huang, stone drums, hsuan wang",0.066666667,0.003360538,0.400257439,0.156761548,30
+28,159,43,0.011011843,0.098398169,0.518488083,"savages, garments, women wear, men wear, taiga, waist, petticoats, anduri, orotchi, pepos",0.2,0.025444071,0.12850012,0.117981397,31
+31,226,21,0.015652053,0.04805492,0.519279109,"l'on, leurs, ses, fait, guild, quelques, ceux, que l'on, temps, elles",0.066666667,0.057609217,0.136139888,0.086805257,32
+5,315,23,0.021815915,0.052631579,0.505183106,"aug, feb, mar, nov dec, jan feb, jan, july aug, aug sept, dec, sept oct",0.078787879,0.100336054,0,0.059707978,33
