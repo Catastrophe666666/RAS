@@ -1,0 +1,385 @@
+THE TONE-ACCENTS OF TWO
+CHINESE DIALECTS.
+By Dr. CORNELIUS BEACH BRADLEY.
+A-CANTONESE.
+The Cantonese words whose "tones" are analyzed on Chart A
+were spoken by Mr. Sun Yap Shang, a native of Canton and
+resident there throughout most of his life, until a few years ago he
+came to Oakland, California, where he is now a well-known teacher
+of that dialect. Each word was a typical example of one of the
+ten "tones" of the traditional list. The records were made by the
+Rousselot apparatus. Of each record the wave-lengths (represent-
+ing time of vibration) were carefully measured and plotted,
+forming the curves or patterns of pitch shown on the chart. Each
+curve is there identified both by the number-in arabic numerals-
+and by the name assigned to that particular "tone" in the native
+list. The hair-line curves shown in the chart are plotted from
+duplicate records taken for control of results. In all these cases
+the correspondence between duplicate and original turned out to
+be so surprisingly close as to give assurance both as to the general
+accuracy of the method and as to consistency of utterance on the
+part of the speaker.
+From the first it seemed doubtful whether under conditions
+of actual speech such an unusual number of tonal species could be
+certainly distinguished either in hearing or in utterance. But
+when once the figures were plotted, and it was possible to make
+definite comparison of them, the doubt was greatly strengthened.
+Very few of these figures show any clear-cut distinction of form.
+Tone 1, to be sure, with its deep curving drop, and Tone 4 with
+its single short sharp note, are unmistakable. But the other eight
+seemed at first a mere huddle of featureless shapes all crowded
+into the narrow compass of mid-voice pitch. Nowhere among
+them is there a rising glide or a circumflex or a low-pitched level
+note- all of which are figures of real individuality and character,
+and by no means uncommon in tonal languages. Nevertheless,
+after further study certain marked resemblances between members
+1 For much valuable assistance in making these records the writer is
+indebted to Professor T. T. Waterman of the Department of Anthropology
+in the University of California,
+
+A-CANTONESE
+A
+G
+F
+E
+I
+1 Shang Ping
+D
+G
+upper even
+B
+A
+2
+Shong Shong
+G
+upper upper
+F
+G
+FE
+E
+D
+VI
+4 Shong Yap
+upper entering
+5 Ha Ping
+lower even
+10 Chung Ping
+middle even
+D
+IV
+9 Chung Yap
+middle entering
+7 Ha Hui
+B
+lower recoding
+A
+G
+8 Ha Yap
+lower entering
+F
+E
+||
+6 Ha Shong
+Lower upper
+3 Shong Hui
+upper receding
+
+TONE-ACCENTS OF TWO CHINESE DIALECTS
+39
+of this group of eight began to appear, leading to a rearrangement
+of them in four groups, each group consisting of two obviously
+similar figures, constituting apparently a single species or type.
+This would be a simplification of the scheme very much to be
+wished, but before accepting it even tentatively certain matters
+must be considered.
+1. In all similar studies so far undertaken, the one abiding
+feature of these "tones" has proved to be the general figure or
+pattern of movement as regards pitch. Considerable differences in
+detail are freely allowed, and indeed for the most part pass un-
+noticed, as may be seen in Chart B, where several examples of the
+same "tone" uttered consecutively by the same person are plotted
+side by side.
+2. The feature least stable is absolute pitch, that is, definite
+position on the musical scale. Examples of large variation in this
+feature may be seen in groups IV and VI on Chart A, and under
+I in Chart B. That this must be so becomes plain when we
+recall that in singing each succeeding note takes its place at a
+measured interval of pitch from its immediate predecessor, so that
+each note furnishes a definite cue for the pitch of the next one.
+In singing, therefore, it is possible for a trained voice guided by a
+trained ear to approximate that interval so nearly that the ear
+of the listener is entirely satisfied; though even so it can never
+be mathematically correct. But in speech there are no measured
+intervals at all, and no constants of pitch to measure from. In
+tonal languages no vowel takes its cue of pitch from its neighbor,
+but only from a general sense of the relation of its "tone" to the
+general scheme of the voice. Under such conditions it is
+impossible for the organs of speech to strike accurately and
+maintain consistently, or for the ear to judge with even approximate
+accuracy, the definite pitch of any vowel in the flow of words.
+proof be needed of this statement, one has only to look at the pairs
+of duplicates shown on the chart-duplicates which, as has already
+been said, are remarkable for the accuracy of their reproduction.
+The words in each case were the same, and were uttered in close
+sequence; yet they differ in pitch sometimes as much as three
+semitones. "Tone" then, in our sense of the word, is not exactly
+pitch at all, but rather a patterned change or movement within
+the field of pitch. If the general pattern or figure remain the
+same, small differences of absolute pitch do not compel us to
+assume that we are dealing with different species.
+If
+3. Vowel-quantity is a thing strictly observed, I believe, in
+all languages of the Chinese type. If "tone" be a patterned
+change or movement of pitch, quantity is time elapsed during the
+movement. Longer time allowance favors a fuller execution of
+the pattern. Shorter time compels more or less abridgement.
+Time-that is, quantity-is the horizontal ordinate of the chart,
+
+40
+TONE-ACCENTS OF TWO CHINESE DIALECTS
+while pitch is the vertical one. Long quantity therefore appears
+as long reach of the figure across the chart. If a given pattern is
+found in both long and short forms, the long would naturally be
+accounted the type or species, since it is the more fully characterized,
+while the short would be the variety.
+Turning now to the chart, we observe that in group II No. 5
+is a third longer than No. 2; in group III No. 7 is a third
+longer than No. 8; in group IV No. 9 is half as long again as
+No. 10. In all these cases the patterns are strikingly similar,
+save that No. 9 has made use of its longer time to throw in a
+preliminary flourish. Unless further investigation should invali-
+date these results, it would seem that these six "tones" of the
+Cantonese list should be reduced to three species, each having
+perhaps a short variety.
+The case of group V is not so clear. The resemblance
+between its members is not so compelling, and the quantity affords
+no clue. It seems altogether unlikely that within so narrow a
+compass of pitch two distinct species, each with the same pro-
+nounced rising vanish, could be successfully maintained. Final
+determination of the matter could only be accomplished by one
+who could compare the results of a large series of instrumental
+records with the reports of a trained ear on the living speech.
+4. So far as I know, long quantity "by position" as in
+Latin and Greek prosody has no place in the Chinese scheme.
+But in one tongue of the Chinese type-namely the Siamese-
+there is the interesting case in which a short vowel followed by
+either of the nasals, m, n, or ng, in syllabic closure, has its tonal
+function continued in the nasal, so that its "tone" invariably has
+the full pattern of the long vowels. This comes about through
+the fact that the nasals are vowel-like-if indeed they be not
+vowels altogether, as some are ready to claim-and sufficiently
+sonorous to take full intonation. This feature is emphasized by
+the fact that the only other syllabic closure ever heard in the
+Siamese language is that of the unvoiced stops, p, t, k, and the
+glottal stop which is not recognized in English. That is, all short
+vowels in closed syllables are either lengthened by continuation
+into a nasal, or are abruptly chopped off by the guillotine of an
+unvoiced stop which is not even exploded. That closure does
+affect tone is shown not only by the amplification of pattern in
+the case of the nasals, but by the fact that in the other case
+the vowels are limited to two special "tones," the one a sharp
+high-pitched note extremely short (identical with Tone 4 of the
+Cantonese scheme), and the other a very short variety of the
+"depressed level tone" of long vowels. All this suggests the
+1 Cf. My paper on the Graphic Analysis of the Tone-accents of the Siamese
+Language, in Journal of the American Oriental Society, vol. xxxi, pp. 287-88.
+
+TONE-ACCENTS OF TWO CHINESE DIALECTS
+41
+need of a careful examination of this field in the Chinese dialects
+also if the theory of their "tones" is ever to be placed on a sure
+basis.
+To sum up this part of the discussion-(1) In the records
+of the eight traditional "tones" here in question there seem to
+be but four real patterns or figures of movement, and this fact
+strongly suggests the reduction of the eight to four. (2) The
+slight differences of pitch noted within some of the pairs so grouped
+offer no valid objection to their association under one species, since
+the differences are no greater than those often found between
+consecutive utterances of the very same word. (3) The minor
+differences of figure or pattern which appear are in some cases fully
+accounted for by demonstrated difference in vowel-quantity, which,
+as is well known, does often materially modify the tonal pattern. (4)
+In other cases the observed facts of a kindred speech suggest an
+examination of the syllables which are listed by the natives as of a
+given "tone," to ascertain whether they are open or closed; and,
+if closed, whether the closure is by sonorous consonants which
+extend the vowel tone, or by stops which abruptly cut it off.
+If this tentative combination and reduction is found to be in
+accord with the facts, the Cantonese scheme of "tones" would be
+brought into workable dimensions, and the "huddle about the
+mid-voice pitch" would be greatly relieved. But even so it would
+not entirely amend the lack of bold and unmistakable distinctions
+in this group of "tones." The level line of IV indeed is ordina-
+rily an unmistakable figure; but here its neighbors on either side
+are too nearly like it and like each other to make discrimination
+between the three seem either very easy or very sure in actual
+practice. Languages of this type are not only limited to monosyl-
+labic words, but the number of possible monosyllables is in some
+dialects greatly reduced by allowing very few consonants to take
+the final place in the syllable. The result is that there are not
+monosyllables enough to furnish forth the necessary vocabulary
+unless difference of tone be added to the possible differences of
+articulate elements alone. One wonders therefore whether, when
+they were about it, the founders of the Cantonese dialect failed to
+develope distinctions which really distinguish, or whether the present
+situation is the result of a sort of tonal decay.
+I feel sure that the figures on the chart are truthful repre-
+sentations to the eye of the various movements of pitch in the
+particular words which were spoken into the receiver of the
+recording instrument. It is possible, of course, that the speaker's
+accent was at fault, or that he did not speak words which properly
+represent the "tones" indicated, neither of which, however, I think
+could have been so. But, barring this possibility, it seems certain
+that in three, or perhaps four, instances, a given pattern was
+duplicated under another name. The evidence is there on the
+
+42
+TONE-ACCENTS OF TWO CHINESE DIALECTS
+chart. A much larger series of records, and records of many
+different voices, must of course be examined before any general
+conclusion can be reached. But for this particular voice and for
+this series of records the following summary and reclassification
+I think will hold. I offer it only as a starting point for further
+investigation and comparison by those who are more fully equipped
+and more fortunately placed for the accomplishment of the task.
+The Tone-patterns of Cantonese Speech-Description and
+Reclassification.
+I (Tone 1).-A drop of increasing steepness through more
+than an octave from a level start at high pitch of voice. Long in
+quantity.
+II (Tones 2 and 5).-A straightaway glide from about
+mid-voice pitch, dropping gradually through less than an octave.
+Long, with probably a shorter variety.
+III (Tones 7 and 8).-A short drop from about mid-voice
+pitch, merging some three tones below into a level run. Long,
+with well-marked short variety.
+IV (Tones 9 and 10).-A level run at a little above mid-
+voice pitch. Long, with well-marked short variety. (Identical
+with the "middle tone" of the Siamese.)
+V (Tones 3 and 6).-A preliminary movement of uncertain
+figure at the depressed level of III, ending with a rising vanish.
+Possibly meant for the reverse of III.
+VI (Tone 4). A high note, extremely short, in which the
+vowel tone is abruptly cut off by the closure of an unvoiced stop
+not exploded. Identical with the "high abrupt" or "high
+explosive" of the Siamese.)
+B-PEKINGESE.
+The speech here recorded and analyzed is that of Mr. K. S. C.
+Kiang, Assistant in Chinese in the University of California,
+brought up from infancy in Peking, and resident there nearly all
+his life. The purity of his accent is vouched for by Professor
+John Fryer.
+In plotting the results on Chart B, no attempt was made-
+as was done in the other case-to soften or generalize the minute
+inaccuracies or eccentricities of execution which seem to be present
+in every vocal utterance.
+the superior delicacy of instrumental analysis as compared with
+These are here retained as illustrating
+Tone I are absolutely unheard-are all blended into a single level
+To the ear the serpentine wanderings of
+note; and the three glides of Tones II, III, and IV, give not the
+even the trained ear.
+
+A
+C
+G
+F-
+B-PEKINGESE
+TONE I HIGH LEVEL
+A-
+G
+F
+D
+C
+B
+TONE II SHORT RISE
+TONE III LONG RISE
+TONE IV LONG FALL
+A
+G
+F
+E
+D
+C
+-B-
+A
+G
+
+TONE-ACCENTS OF TWO CHINESE DIALECTS
+43
+slightest hint of uncertainty in attack or of hesitation in move-
+ment such as appears in the chart. For all ordinary purposes,
+however, the generalized form is no doubt preferable as less
+confusing, and as presenting more clearly the features which are
+constant. The small number of tonal patterns found in the
+Pekingese has permitted the plotting of several examples of each
+which may serve further to illustrate these points.
+The chief features of the Pekingese scheme as here shown
+are: (1) its simplicity, due to the fewness of its "tones" and to
+their remarkable consistency of adherence to type; and (2) the
+high pitch and small compass of voice used in their execution.
+This last might of course be merely a personal peculiarity of the
+speaker, but Dr. Fryer is inclined to regard it as a general
+characteristic of the northern dialect. The only point of doubt
+which appears is caused by the very close resemblance between
+Tones II and III, raising the question as to whether they are not
+really one. This will be considered in the discussion of the
+individual Tones, to which we now pass.
+Tone I is discerned by the ear as a high-pitched level note,
+near the upper limit of the speaking voice. Instrumental analysis
+of it, while in general confirming the impression of the ear,
+discloses a constant wavering or "wobbling" of the voice about a
+central line of level pitch. This central line seems to be the note
+which it is intended to strike and hold, but from which in its
+execution the voice continually sags or wanders, and to which it
+has to be continually brought back by a series of infinitesimal
+readjustments in the tension of the vocal chords. As has already
+been said, the same phenomenon, in the form of hesitation and
+correction, may be traced in nearly all the other lines plotted on
+this chart.
+Tones II and III may be best considered together. They are
+both rising glides ranging through the greater part of an octave,
+and reaching the high level of Tone I. Typically, however, III
+begins at a point about three semitones lower than II, and ranges
+upwards through a whole octave; while II begins at about C,
+and covers only three-fourths of an octave. III, moreover, has
+usually a short preliminary movement before the rise actually
+begins. This is understood by the ear-if it notes it at all-as
+a short level run.
+This preliminary is commonly absent from II,
+or is much reduced. Yet II sometimes shows it unmistakably,
+Then III typically
+and III sometimes lacks it altogether.
+stretches over a wider horizontal space on the chart, that is,
+occupies longer time-a natural result of its double movement
+and of its longer climb. But it is not so in every case. Indeed,
+were not the word here spoken known to be of Tone III, the
+example shown on the extreme left of group III would be taken
+for an unusually perfect specimen of Tone II.
+
+44
+TONE-ACCENTS OF TWO CHINESE DIALECTS
+On none of the lines then which we have been considering
+can groups II and III be really distinguished. The examples
+might be so arranged as to form a continuous series. According to
+all scientific canons they should be considered a single species.
+Should further examination of vocabulary, syllabication, and
+current usage discover a division along some such line as vowel-
+quantity, or syllabic closure, the longer form would naturally be
+considered the type, while the shorter would be the variety.
+Tone IV is simply III reversed. It is a long descending
+glide, beginning near where III ends, and ending near where III
+begins. The initial uncertainties, moreover, carry a suggestion of
+a preliminary run which may or may not be confirmed by further
+examination.
+Note-A few weeks ago, when these studies were already under way
+the writer learned that a Scandinavian scholar, whose name, however, could
+not be recalled by his informant, had recently published a study of certain
+of the Chinese "tones." In the troublous days since then the writer has
+not been able to get track of the paper, nor to secure any further informa-
+tion regarding it. Under the circumstances it was thought best to complete
+what was begun and let the results take their chance. Being thus independ-
+ently obtained, and very likely secured by independent methods and
+dealing with different material, they should be of some value, if only for
+corroboration or as a starting point for further investigation.

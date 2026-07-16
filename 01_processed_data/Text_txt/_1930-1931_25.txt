@@ -1,0 +1,839 @@
+## p. 137 (#427) ############################################
+
+THE WESTERN TRANSCRIPTION OF
+CHINESE
+By CHARLES S. GARDNER
+The adoption of a single unified system of English
+transcription of Chinese sounds for use by all writers
+save professional phoneticians offers such manifold and
+obvious advantages as scarcely to justify re-statement.
+The principles upon which the necessary agreement
+among sinologists might be obtained do, however, require
+careful consideration.
+Is agreement upon the Wade system as it stands an
+attainable objective? It embodies brief clear forms of
+international character, more wisely and consistently
+combined than in any other of the numerous and often
+rather grotesque efforts of the period of early experi-
+ment. It has received widespread recognition for its
+genuine merits, and has accordingly been more often
+employed than any other in books of reference.
+Notable as were the advantages of "Wade" its
+defects are no less serious. From the standpoint of most
+Chinese speakers it is incomplete at one important point:
+by representing as ch- ch'-, and hs- (before -i and -ü)
+three mongrel initials of recent local Pekingese dialect,
+it makes impossible differentiation of their proper com-
+ponents (j- vs. dz-, ch- vs. ts-, hs- vs. s-) of which the
+identity has been preserved distinct in most of the vast
+area where some "Mandarin" dialect is spoken, and even
+in Peking before -a, -e, -o, and -u. Again, while the
+Wade system enables the student initiated into its
+mysteries to read with assurance the other sounds
+transcribed, its assumed pronunciations are so arbitrary
+as to render well-nigh hopeless any attempt to read it with-
+out special instruction. More than this, the frequent use
+of the apostrophe-to say nothing of a peculiar diacritical
+
+
+## p. 138 (#428) ############################################
+
+138 THE WESTERN TRANSCRIPTION OF CHINESE
+mark found only in special fonts of type-invites con-
+fusion of the skilled proof-reader and of the sinologist.
+Finally, despite the wide vogue of the Wade system,
+it has so far failed of obtaining universal acceptance that
+many of the most careful and conscientious scholars in
+all countries resolutely avoid it. It seems no exaggera-
+tion to say that the Wade system has been tried for
+seventy years and has been found wanting. Let us then
+forthright recognize that in continuing the old propa-
+ganda for "Wade" we are struggling for an object
+impossible of realization; and let us instead commence an
+organized search for the bases of desirable modification.
+It has been suggested that a system adapted to every
+use other than phonetic dissertation is desirable. It may
+assist in the solution of very real difficulties to divide
+them, and to consider first what may be the essential
+requirements of the professed sinologist. These may be
+truthfully compressed into a brief and simple formula:
+consistency in completeness.
+The need for completeness requires no argument.
+It is obvious that no important element in the standard
+Chinese "Mandarin" syllabary- whatever phonetic
+variations local pronunciation may give it-can properly
+be ignored. The Wade system is complete for Pekingese,
+but for Pekingese only; and therefore requires supple-
+ment of the three forms dz-, ts-, and s- before -i and -ü,
+as already suggested, to be fit for general use. On the
+other hand, there is no reason for multiplying transcrip-
+tions of a single standard syllable to meet local variations
+in pronunciation. For example, if in some parts of the
+lower Long River valley and of Sz Chuan an initial nasal
+is prefixed to certain words, such variation is regular
+and requires no written expression; just as, were it
+instead represented by ng-, the symbol could as regularly
+be ignored as superfluous by the Pekingese.
+Consistency clearly demands that aspiration be
+uniformly represented, whether by insertion of an
+apostrophe, a diacritical mark, or supplementary letter
+(h); or by variation of initial consonants. Only con-
+fusion can result from failure to apply some one of these
+methods consistently. Each letter employed should,
+moreover, have a single constant value in a given
+position, whether initial or final, although that value may
+properly change with change of position. Thus initial
+h- cannot advantageously be employed to represent
+
+
+## p. 139 (#429) ############################################
+
+THE WESTERN TRANSCRIPTION OF CHINESE
+139
+simultaneously a gutteral fricative before -a, -e, -o, -ü;
+and also a sibilant before -i and -ü. Nor can initial
+g- well fluctuate from "hard" to "soft" before these
+same vowels.
+The professed sinologist, who knows the pronuncia-
+tion of the whole Chinese syllabary independently of all
+transcription, can use upon necessity any system which
+embodies this minimum formula, consistency in com-
+pleteness, however bizarre may be the particular
+symbols selected: most scholars of the present day are
+familiar with at least three systems. This does not,
+however, by any means imply that all are equally
+convenient. Convenience for the scholar as for others
+depends in large measure upon intelligent application of
+two further principles: simplicity, and avoidance of
+forms liable to confusion.
+The serious student of Chinese, as of any other
+language, can never hope to acquire correct pronunciation
+by reading: oral instruction is for him evidently
+essential. But the public is not open to instruction of
+any kind, and it becomes accordingly desirable to repre-
+sent the Chinese sounds by letters which as nearly as
+possible suggest them directly. Employment of elaborate
+combinations of vowels or consonants, of strange or
+inverted letters, of diacritical marks wholly unknown or
+but partly understood, only serves to repel the general
+reader and to exaggerate the already too prevalent
+misapprehension that Chinese is difficult to pronounce.
+Strange letters and diacritical signs are
+absolutely ruled out by their absence from most fonts of
+type in Britain, America, and the Far East.
+moreover
+Use of the apostrophe as a sign of aspiration leads
+to constant confusion through its mistaken elision and
+insertion, and through failure to recogize as inaspirate
+words which do not contain it.
+it. Wherever it is
+encountered, or wherever it is absent but might be
+intended, doubt lingers as to the correctness of the actual
+reading. This is in fact one of the most serious
+objections to the existing Wade system. Another is its
+use of final -ih as a symbol for the supradental vowel
+which in Peking has the value of an abbreviated vocalic
+-r. In some parts of the country this becomes a short -i
+(as in ship), justifying phonetically the symbol adopted
+by Wade; but this symbol has the enormous practical
+
+
+## p. 140 (#430) ############################################
+
+140 THE WESTERN TRANSCRIPTION OF CHINESE
+disadvantage that most readers outside China are
+entirely unable to distinguish it in pronunciation from
+plain -i. The ï which has frequently been advanced as
+an alternative is open to precisely the same objection,
+plus the equally serious ones that it is even more liable
+to mistake than the apostrophe, and that it does not
+exist in most Anglo-American and Sino-Japanese fonts
+of type. Other solutions of these problens are urgently
+needed.
+It has been often stated that any acceptable system
+must be "international" in character. This proposition
+demands careful analysis. Is our aim to be a sort of
+Chinese Esperanto which can really satisfy no one?
+Must we discard all letters of the alphabet which are
+differently pronounced by different nations? Obviously
+this is impossible, unless we be prepared to create a
+wholly new alphabet.
+There are in the world to-day seven conspicuously
+important groups of sinologists: the French, Russians,
+Germans, Britons, Americans, Japanese, and Chinese
+(other important but smaller groups-Swedes, Dutch,
+etc.—are linguistically versatile). The French have
+consistently employed for the past three decades a
+national system of their own; and if they in time
+adopt any other, it will be because they recognize
+the advantages of international coöperation (as now
+with Japanese and Sanskrit), not because an inter-
+national system is more convenient for French speakers.
+To the Russians it is matter of little consequence what
+symbols the other western nations agree to adopt;
+for the benefit of Russian readers they employ different
+ones in any event. The interests of the Germans are
+closely identified with our own, and those of the
+British and Americans are identical. The great major-
+ity of Japanese and Chinese who employ the western
+alphabet owe their principal acquaintance with it to
+the English language: their interests too are identical
+with ours.
+Thus, to re-capitulate briefly: four of the seven
+present groups of sinologists are English-speaking
+groups; the fifth, the German, has few divergent
+1 The Dutch, moreover, have recently perfected a national
+system of their own for local use.
+
+
+## p. 141 (#431) ############################################
+
+THE WESTERN TRANSCRIPTION OF CHINESE
+141
+3
+interests; while of the remaining two, one is indifferent²
+and the other to be cajoled only by union of the rest.
+Recent awakening of interest in China among American
+universities, and large endowments for its study render
+inevitable future increase of importance of the English-
+speaking group. Let us not then hastily attach too much
+significance to such sonorous phrases as: "Such a form
+would be excellent for English speakers but for an
+international public quite unacceptable." In fact, our
+"international public" is mainly an English-speaking
+public.
+As guiding principles for modification of the Wade
+system we have then only four: completeness, consis-
+tency, simplicity, and avoidance of confusion. In
+seeking to apply them it is important to remember that
+numerous reference works (however few in proportion
+to those of future generations) have employed that
+system, and that their use should not be hampered more
+than necessary by any radical changes.
+It has already been suggested that the use of the
+apostrophe or of a diacritical sign of any sort to mark
+aspiration, while acceptable upon phonetic grounds, is
+not satisfactory for typographical reasons. Insertion of
+an h, the recognized sign of aspiration in transcription
+of Sanskrit, is another phonetically satisfactory solution
+which is practically disadvantageous: chhi, chha, and
+chhu are clumsy forms; and if tchi, tcha, and tchu be
+substituted, their inaspirate counter-parts tci, ica, and
+tcu appear still more barbarous.
+In many ways the most satisfactory method of
+separating inaspirates from aspirate is the simple and
+direct one of using distinctive initial consonants:
+inaspirate b-, d-, g-, j-, and dz- conveniently balance
+aspirate p-, t-, k-, ch-, and ts-. Complete elimination of
+uncertainty which these alternates afford is of equal
+advantage to layman and to scholar. To the layman,
+also, the forms suggested approach more closely to
+actual pronunciation than do those of the Wade system.
+2 Prof. Alexéiev of the Academy of Sciences, Leningrad, is
+personally a keen authority on Chinese phonetics, but he recognizes
+that neither in phonetic studies nor in publications for Russian
+readers can either "Wade" or any "modified Wade" be employed.
+Like virtually all European sinologists, he speaks perfect English.
+3 In 1928, 111 institutions reported 281 courses dealing with
+the Far East to the Institute of Pacific Relations.
+
+
+## p. 142 (#432) ############################################
+
+142
+THE WESTERN TRANSCRIPTION OF CHINESE
+Those phoneticians who complain that b-, d-, g-, j-, and
+dz- are usually voiced or sonant whereas the Chinese
+are voiceless or surd, prefer not to dwell upon the fact
+that in English simple p-, t-, k-, ch-, and ts- are usually
+aspirate. To students it is surely as easy to teach that
+the former Chinese sounds should be pronounced without
+"voice" as that Wade's series of aspirates are presumed
+to be without aspiration. For the professional phoneti-
+cian likewise, details of any system for general use are
+relatively inconsequential: for his own research and
+publication he must use another in any event.
+If any
+modifications are to be adopted, let them give help where
+help is most greatly needed.
+Wade adopted initial j- as a symbol for what, to the
+English ear, is rather an initial r-. In so doing, he
+adopted the French approach to one of the few difficult
+sounds of the language, hoping thus to win over the
+French to his system of romanization-without, however,
+any success whatever, since the French are the one
+people who have not made any use of it. Under the
+circumstances, and in view of the obvious fact that we
+cannot label the j- as "French" for the benefit of general
+readers, it seems sensible to avail ourselves of the
+nearest equivalent possible and to reinstate r- in its
+natural place. It should be noted that by so doing a
+fruitful source of confusion is eliminated, since failure
+to recognize Wade's j- as something other than it seems
+results in pronunciation of a common, but totally
+different series of words. Those formed from initial r-,
+on the other hand, are not liable to any confusion
+whatever.
+Completion of the standard Chinese syllabary
+requires, as already stated, recognition of the various
+sounds j- and dz-, ch- and ts-, hs- and s- before
+-i and -ü, in consistency with the first two pairs
+recognized by Wade (in conformity to present Peking
+dialect) before the other vowels. Because dictionaries
+based on the Wade system do not indicate these proper
+distinctions before -i and -ü, students whose training is
+confined to Peking and who rely solely on English
+dictionaries will at the outset find it difficult to maintain
+them. It should not, however, be very difficult to
+re-arrange any standard dictionary to represent them.
+Meanwhile no serious confusion results from continuing
+to reflect their Pekingese fusion as j-, ch-, and hs-
+
+
+## p. 143 (#433) ############################################
+
+THE WESTERN TRANSCRIPTION OF CHINESE
+143
+(Wade's ch-, ch'- and hs-), desirable as it is to add dz-,
+ts-, and s-.
+There are in Chinese eight rather widely different
+vowel sounds which require clear-cut differentiation.
+For a, e, i, o, u we must, with Wade, adopt the Italian
+values for the simple reason that in English each one
+varies widely. The French u, again with him, we can
+conveniently represent in its German guise as ü, a
+symbol which is widely recogized, and which fortunately
+exists in many fonts of type. Substitution of w or v
+results in uncouth forms which would require explana-
+tion, and which must cause particular and needless
+difficulties for German readers.
+It has been suggested that neither Wade's -ih nor -ï
+is a satisfactory transcription for the supradental vowel
+which in Peking has the value of ir in English "shirt.”
+The former is distinctive in print, but suggests to the
+tongue no sound other than simple -i. It seems that the
+best and simplest solution is to substitute Pekingese -ir
+for -ih: the former may be as grossly mispronounced as
+the latter, but unlike it, can lead to no confusion
+whatever, a consideration of utmost importance even for
+those areas in China where -ir is less suggestive of local
+dialect than -ih. Unlike -ih moreover, it does not appear
+an insuperable obstacle to the uninitiated: the veriest
+tyro can be sure of being understood by other westerners
+at least, a consideration of manifest importance to the
+Chinese government since it favours public discussion and
+formation of intelligent western opinion upon Chinese
+affairs.
+The last of the Chinese vowels, and the only one
+which offers serious difficulty to us foreigners, is
+pronounced with the tongue in almost the same position
+as the foregoing one. The sound produced is merely a
+sonant -z, a sort of buzz terminating in the closing of
+the throat with a faint vocalic sound not identified with
+any one of our recognized "five vowels," but rather a
+cross between a and u. Various have been the attempts
+to circumvent this nuisance, to represent the final vocalic
+resonance with an ï, or with a u doctored with cryptic
+signs or with extra consonants: but none has been
+satisfactory. Not even consistency has been maintained
+in representing within a single system the three forms
+in which this Jonah among sounds appears. Dr. Y. R.
+Jao while teaching Chinese at Harvard University from
+
+
+## p. 144 (#434) ############################################
+
+144
+THE WESTERN TRANSCRIPTION OF CHINESE
+1922 to 1924, used probably the most satisfactory symbol
+for this sound which, has thus far been proposed: simple
+-z, unadulterated with any one of our usual vowels. The
+resulting combined forms: sz, dz, and tz are less formidable
+than any of the many others which have been proposed,
+and they do lead to pronunciation at least suggestively
+correct.¹
+Serious discrepancy in actual pronunciation between
+the three great branches of the “Mandarin” dialect
+exists at only a single point. The initial unvoiced
+palatal j- (e.g., Jiang, river) of Peking is in Nanking a
+gutteral g- (giang) only before -i and -ü. Conversely,
+the gutteral g- of Nanking is in Peking an unvoiced
+palatal j- only before these same vowels. No matter
+whether j- or g- be employed, distinction must be made one
+place or the other between palatal and gutteral position.
+Inasmuch as the Wade system has made forms based on
+the Peking dialect familiar, it seems on the whole the part
+of prudence to proceed conservatively, and to defer
+abandonment of j- for g- until such time as there may be
+further proof that that dialect is no longer standard.
+It would manifestly be ridiculous to suggest that
+because the great seal characters marked a striking
+advance over any medium of communication the Chinese
+had hitherto known, they ought never to have proceeded
+to evolve their modern script. Is it less ridiculous to
+suggest that because the Wade system and Giles'
+modifications of it marked a great advance over earlier
+methods of alphabetic transcription, we should be
+content to receive it, and recognizing its imperfections
+to pass it on without attempt at improvement to
+the numberless generations to come? Shall we permit
+a system which has received but grudging adherence
+over a paltry seventy years to cast a permanent shadow
+over the limitless future? Or if we find the road to a
+partial improvement, shall we hesitate and invite others
+to precede us, lest agreement and perfection be not
+instantly attained?
+Note on place-names.
+It seems fairly evident that no solid advantage can
+be derived by tampering with individualized place-names
+4 Sz is parallel to sa, se, si, so, su; dz to dza, dze, dzi, dzo, dzu;
+tz to tsa, tse, tsi, tso, tsu; all of which exist.
+
+
+## p. 145 (#435) ############################################
+
+THE WESTERN TRANSCRIPTION OF CHINESE
+145
+which already serve admirably the essential purpose of
+sure identification: Peking, Canton, and the like. No
+one outside Italy makes himself ridiculous by speaking
+of Firenze for Florence, Venezia for Venice. On the
+other hand, many less individualized place-names do
+demand modification to avoid possibility of confusion.
+We are free to say Florence for Firenze only because
+there is no European city whose real name is Florence.
+Again, there seems no sound reason for writing Peiping,
+Hopei-confusing aspirates and inaspirates-when it
+is as easy to write Beiping, Hobei. In general, it seems
+desirable that all place-names which have not become
+widely known in established forms should be transcribed
+as exactly as a system adapted to general use permits."
+5 Place-names of this character were employed as illustrations
+in a pamphlet on this subject circulated a year ago by the writer
+only because the use of characters was impossible and these names
+could most easily be recognized.
+6 In the earlier pamphlet already referred to, it was suggested
+that the symbol ö, employed for thirty years by the French School
+at Hanoi, might be utilized to harmonize differences in pronunciation
+between Peking and the area to the south of it, Pekingese writing
+Hö (in place of e.g. Goodrich's Hê), others plain Ho, both appearing
+in ordinary print as Ho. This suggestion has been so widely
+misunderstood that it seems wiser to drop it completely, and to
+cleave only to Ho, leaving this adequate symbol to be differently
+pronounced in the different localities.
+10
+
+
+## p. 146 (#436) ############################################
+
+146 THE WESTERN TRANSCRIPTION OF CHINESE
+A
+Chuo
+Ai
+Chü
+Dzung
+An
+Ang
+Dzüch
+Ao
+Ba
+Da
+* En
+Bai
+敗 ​Dai
+1t
+Er
+Ban
+* Dan
+Fa
+DICTIONARY ARRANGEMENT OF THE REVISED SYLLABARY
+獨 ​Dzun 迎 ​Hsin 忻 ​Jian
+Hsing 行 ​Jieh
+Chüan 犬 ​Dzü
+Chüeh
+Chün 羣 ​Dzin
+Hsiu 休 ​Jün
+Hsiung
+Kai
+Kan
+· Kang
+學 ​Kao
+訓 ​Ken
+俊 ​Hsi
+恩
+​許
+​Hsian
+Bang
+Dang
+Fan
+Bao
+保 ​Dao
+J
+Fang
+Bei
+De
+德
+​Fei
+Ben
+* Dei
+Fen
+耳 ​Hsieh
+法 ​Hsin
+凡 ​Hu
+方 ​Hua
+非 ​Huai
+分 ​Huan
+湖 ​Keng
+化 ​Ko
+淮 ​Kou
+Beng 崩
+​Deng
+Feng
+Huang
+皇
+​Bi
+必 ​Di
+Biao
+Diao
+Bieh
+別 ​Dieh
+地 ​Fo
+雕 ​Fou
+迭 ​Fu
+佛 ​Hui
+否 ​Hun
+父 ​Hung
+Bien 便 ​Dien
+Gai
+Bin
+Gan
+賓 ​Ding
+Bing 兵 ​Diu
+Gang 鋼 ​Ja
+札 ​Kung
+Bo
+博 ​Do
+Gao
+Jai
+齋 ​Kuo
+Bu
+Dou
+Gei
+給 ​Jan
+占 ​La
+Cha
+茶 ​Du
+Chai
+Duan
+Gen 根 ​Jang
+短 ​Geng 更 ​Jao
+張 ​Lai
+詔 ​Lan
+Chang
+Chan 產 ​Dui
+Chao 鈔 ​Dung
+Go
+各​Je
+者 ​Lang
+Dun
+Gou
+Jen
+眞 ​Lao T
+Gu
+Jeng
+正 ​Le
+Che
+車 ​Dz
+Gua
+Ji
+計 ​Lei
+Chen 臣 ​Dza
+Guai
+怪 ​Jia
+Leng
+Cheng 成 ​Dzai
+Guan
+Jiang
+江 ​Li
+Chi
+Dzan 贊 ​Guang
+光 ​Jiao
+Chia
+Dzang 葬 ​Guei
+Chiang
+Dzao
+早 ​Gun
+鬼 ​Jieh
+棍 ​Jien
+Chiao 橋 ​Dze
+則 ​Gung
+Chien 欠 ​Dzei
+Guo
+I Jin
+國
+​Chin 欽 ​Dzen
+Ha
+(Jio)
+Ching 頃 ​Dzeng 增 ​Hai
+集 ​Han
+(Chio) 曜 ​Dzi
+Chir
+Chiu
+求 ​Dziao 焦 ​Hao
+Dziang 將 ​Hang
+Chiung Dzieh 借 ​Hei
+Cho
+Dzien 漸 ​Hen
+Chou 仇 ​Dzin 進 ​Heng
+(Chua) f (Dzio) 爵 ​Hou
+Chu
+Dzing #Ho
+瑞 ​Dziu
+Chuai
+Chuan JI Dzo
+就 ​Hsi
+作 ​Hsia
+Chuang 創 ​Dzou 走 ​Hsiang
+Jing
+Jir
+漢 ​Jiu
+Jiung
+Jo
+Jou
+Ju
+Jua
+交 ​Liang
+*Liao
+見 ​Lieh
+金 ​Lien
+京 ​Lin
+角 ​Ling
+Liu
+九 ​Lo
+扃 ​Lou
+酌 ​Lu
+州 ​Luan
+竹 ​Lun
+抓 ​Lung
+(Juai) 拽 ​Li
+后 ​Juan 專 ​Lüan
+Juang Яt Lüeh
+Jui
+項 ​Jun
+Jung
+Chui 吹 ​Dzu
+祖 ​Hsiao
+Chun 春 ​Dzuan
+1 Hsieh
+Chung 充 ​Dzui
+罪 ​Hsien
+現 ​Jü
+Juo
+追 ​Ma
+准 ​Mai
+Man
+Mang
+Mao
+改 ​Huo
+甘​I
+Ku
+Kua
+囘 ​Kuai
+渾 ​Kuan
+洪 ​Kuang
+火 ​Kuei
+易 ​Kun
+卷​決​君​開​刋​抗​考​肯​坑​可口​苦​誇​塊​寬​呪​愧​坤​孔​括​拉​來​覽​郎​老​樂​累​冷​立​兩​料​列​連​林​另​流​羅​樓​路​卵​論​龍​律​懋​略​馬​買​滿​忙​毛
+​Optional variants are placed between brackets.
+
+
+## p. 147 (#437) ############################################
+
+THE WESTERN TRANSCRIPTION OF CHINESE
+147
+Mei
+美 ​Ou
+Men
+門 ​Pa
+Meng
+Pai
+Mi
+Miao
+Mieh
+Pao
+Mien
+Min
+Ming
+明
+​Miu
+Mo
+Mou
+Mu
+Pei
+Pen
+Peng
+謬 ​Pi
+* Piao
+Pieh
+* Pien
+Na
+納 ​Pin
+Nai
+Nan
+Nang
+Ping
+Po
+Pou
+Nao
+鬧 ​Pu
+Nei
+內 ​Ran
+(Nen) 嫩 ​Rang
+Neng 能 ​Rao
+Ni
+你​Re
+Niang 娘 ​Ren
+Niao 烏 ​Reng
+Nieh
+#Rir
+Nien
+年 ​Ro
+Nin
+您 ​Rou
+Ning 寧 ​Ru
+Niu
+4 Ruan
+Νο
+諾 ​Rui
+Nou
+耨 ​Run
+Nu
+奴 ​Rung
+Nuan 煖 ​Sa
+Nun
+Nung
+Nü
+Sai
+San
+女 ​Sang
+Nüeh 虐 ​Sao
+0
+Se
+偶​怕​排​判​旁​砲​陪​盆​朋​皮​票​撇​片​品​平​破​剖​普​然​讓​擾​熱​人​仍​日​若​柔​如​輭​瑞​閏​榮​薩塞​三​桑​掃​色
+​Sen
+Seng
+排 ​Sha
+Shan
+Shang
+Shao
+Pan
+Pang
+Shai
+Tsun
+Tsung
+Tsü
+Tsüan
+Tu
+Tuan
+Tui
+森 ​Sin
+Sz
+Ta
+Tai
+Tan
+Tang
+少
+​Tao
+She
+設​Te
+特 ​Tun
+Shen
+身 ​Teng
+騰 ​Tung
+Sheng
+普 ​Shui
+Shir
+Shou
+Shu
+Shua
+Shuai
+Shuan
+Shuang
+Shun
+Shuo
+擾​Si
+人 ​Siao
+仍 ​Sieh
+Sien
+生 ​Ti
+石 ​Tiao
+Tieh
+Tien
+Tz
+Wa
+Wai
+Wan
+Ting
+廷 ​Wang
+熱 ​Siang
+*
+若 ​Sin
+Sing
+Siu
+So
+Sou
+Su
+Suan
+Sui
+Sun
+Sung
+Sü
+Süan
+虧​帥​孿​雙​水​順​朔​西​相​小寫​先​心​星​修​所​捜​速​算​隨​孫​宋​須​宣
+​To
+拖 ​Wei
+Tou
+頭 ​Wen
+Tsa
+擦 ​Weng
+Tsai
+順 ​Tsan
+朔 ​Tsang
+Tsao
+* Wo
+蠶 ​Wu
+倉 ​Ya
+草 ​Yai
+Tse
+Yang
+小 ​Tsen
+Tseng
+Yao
+Yeh
+Tsiao
+Tsieh
+Tsien + Yung
+#Tsin
+速 ​Tsing
+算​(Tsio)
+Tsiu
+秦 ​Yü
+清 ​Yüan
+Yüeh
+Yün
+Tsi
+Yen
+Tsiang
+Yin
+樵 ​Ying
+且 ​Yu
+寸​從​取​全​土​團​退屯​同​次​瓦​外​完​王位​文​翁​我​吳​牙​隘​羊​要​頁​言​因​英​尤永玉​元月​云
+​Tso
+Tsou
+Tsu
+Süeh
+Tsuan
+Tsui
+****
+
+

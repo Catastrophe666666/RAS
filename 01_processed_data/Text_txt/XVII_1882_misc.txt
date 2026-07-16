@@ -1,0 +1,1568 @@
+BIBLIOGRAPHY.
+CHINESISCHE GRAMMATIK mit Ausschluss des
+NIEDEREN STILES und der HEUTIGEN UMGANGS-SPRACHE. Von
+GEORG VON DER GABELENTZ.
+OF
+F all the Chinese grammars so far published this is the
+most perfect, inasmuch as it unites with the fulness of
+Premare's work the scholarly clearness of Schott's "Chi-
+nesische Sprachlehre." Its author is the son of a renowned
+Chinese and Manchu scholar and now occupies the Chinese
+chair at the University of Leipsie; he has for a considerable
+number of years made the analysis of ancient written Chinese
+his chief study, and appears thus to have been specially qualified
+for the work he has given us. In writing this exhaustive work
+he meant it to become a detailed scientific hand-book for the
+classical and post-classical language, embracing all the material
+the present state of sinology furnishes; one of its main
+purposes would
+appear to be to enable the student to read and
+understand Chinese without the assistance of either teacher
+or translation, and to express his thoughts correctly in the
+language thus learned.
+The Grammar is divided into three books. The first of
+these contains a sort of introduction to the study of the lan-
+guage and all that had to be said about sounds, tones and
+characters; also a chapter, quite new to Chinese gram-
+matical literature, regarding the problems connected with the
+ancient sounds and etymological features of the language.
+In the introductory chapter a review is given of the history
+of the language as regards its various literary styles, its dialects
+and its relation to the languages of neighbouring countries,
+It contains in all about 4,000 examples.
+
+238
+BIBLIOGRAPHY.
+also some interesting remarks on the method to be applied to
+the study of the language. As regards the chapter following
+the introduction, the "Laut-und Betonungslehre," i.e. the study
+of sounds and tones, it is to be regretted that the author has
+never had an opportunity to make studies on the spot; a year
+spent in different provinces of the Empire would have furnished
+him with ample material for scientific research in connexion with
+the dialects, the comparative study of which would constitute
+almost a science in itself. The first book closes with a chapter
+on the fundamental principles of the language. This subject, it
+must be clear to all who have watched the progress of sinology, is
+von der Gabelentz's own province. Since the pioneering work
+of Schott, the nestor of living sinologues, no one has contributed
+so largely as von der Gabelentz towards the building up of
+a regular system of Chinese grammar. I am well aware that
+there is no lack of scholars who do not believe in any
+system; who, like the Chinese themselves, have succeeded in
+grasping the sense of a Chinese text by a sort of intuition,
+and who judge of the correctness of a sentence, instinctively,
+as it were, by the routine of reading. Many will not admit
+any other but the imperfect method adopted by the Chinese
+themselves, who, with their Hsü-tze theory, are as ignorant of
+the grammatical structure of their language as they are
+ignorant of the science of logic. This is by no means to be
+wondered at. The Iliad was written generations before the
+existence of anything like an ars grammatica, and yet Homer
+has probably not written a line which is not consistent with
+the rules of his style. He may have been unconscious of
+these rules, but he was instinctively guided by them. A
+similar process takes place with those who, without rules, write
+and read Chinese correctly. No language would be intelligible
+without a certain conventional regularity in the use of sounds
+or signs. To discover the rules unconsciously followed by
+speakers or writers of a language is the object of the
+
+BIBLIOGRAPHY.
+239
+science called grammar. The grammarian who, by means of
+analogy, lays down the terins upon which, in a language,
+human thought is expressed (whether by sounds through the
+car, or by signs through the eye), performs work not absolutely
+necessary, for language was understood before him and would
+continue to be understood without him; but he performs
+work highly useful, inasmuch as those previously unconscious
+may, through him become conscious of existing rules, which
+may be a help to those whose instinct in submitting to the rule
+is not that of the majority, and is thus likely to lead them
+into mistakes; while, on the other hand, those previously
+ignorant of the language may, through him, at once become
+acquainted with the rule without having to wait till habit
+enables them instinctively to follow it. To the latter class
+of students, especially, the grammarian furnishes a considerable
+short-cut in acquiring a language.
+It is the special merit of von der Gabelentz to have not only
+added considerably to the stock of rules discovered by his pre-
+decessors from Prémare down to Julien, but to have made a
+successful attempt to construct a complete system of Chinese
+grammar. The following results, being the substance of the
+fourth chapter of Book I., may be considered the basis upon
+which his detailed work has been built up. With regard to
+words we distinguish:-
+(a.) their fundamental meaning: whether they designate
+individuals, or classes, qualities, numerals, actions, or con-
+ditions, etc. It is from their fundamental meaning that
+we derive the categories of words which we are accustomed to
+call noun, adjective, verb, etc.; and
+(b.) the function they perform in a sentence, upon which it
+depends whether they be used as nouns, adjectives, verbs, etc.,
+or whether we have to take them as representing the case of a
+noun, the comparative degree of an adjective, gender, mood, or
+tense of a verb, etc. Thus we consider ta, great, as coming
+within the category of adjectives, whether it may or may not
+
+240
+BIBLIOGRAPHY.
+temporarily perform the functions of a noun, meaning "great-
+ness," of an adverb, meaning "in a great measure," or of a
+verb, meaning to "magnify."
+We consider the category as permanently attaching to the
+word, though the functions it performs may change.
+The whole grammar which follows is based upon syntax,
+which again consists of a few rules, more or less obligatory,
+of position. The construction of a sentence is at once the
+first object of analytical research and of the synthetical use
+of the language.
+I. Subject and predicate are essential parts of a grammatical
+sentence; the expression of the copula (or substantive verb) is
+not essential. The subject precedes the predicate: E wang, king,
+El yüeh to speak wang yueh the king said; min an,
+the people (are) quiet.
+II. A verb precedes its object. Prepositions are verbs both
+as regards their origin and their syntactic treatment.
+chih-kuo, to govern the country; Eshu nêng chih
+chih, who may know it?
+chih yu jên, to have a firm
+stand in humanity. This rule is not without exception.
+III. A grammatical part of a sentence (Satztheil) may
+consist of two or more words placed together co-ordinate to
+each other. Co-ordination may be either cumulative, as "A
+and B," or alternative, as "A or B." Ishan hai, hill
+and sea; nei wai, within and without, within or without;
+shih fei, to be or not to be, right and wrong; érh
+san, two or three.
+IV. A word by which another word is determined precedes
+the latter:
+(a.) Genitive: nai hsin, your heart; tien tzu,
+the son of heaven.
+(b.) Adjectives: Asheng jên, holy man; ta fu,
+great man, dignitary.
+(c.) Numerals: ssu fang, the four quarters.
+
+(d.) Adverbs:
+BIBLIOGRAPHY.
+pu chih, not to know;
+241
+ho
+pa lai, why not coming? wu jih san shing
+吾日三省吾身
+wu shen, I daily thrice examine my person (myself).
+V. Apposition is formed by simply placing words together.
+ti Yao, the Emperor Yao; XE wên wang-Wen rex,
+i.e. Wen, who was then king.
+*
+VI. It seems natural and is as necessary to the Chinese
+mind, as it is to ours, to begin a sentence with that part
+of it which is to form its subject. In connexion with this
+point it has to be borne in mind that the first thing we mean
+to speak of in a sentence, the psychological subject, is not
+always identical with the grammatical subject (our nominative
+case), as it may fall together with any other part of speech,
+such as a word denoting time or place, or even the gram-
+matical object, a genitive belonging to the latter, etc. Such
+words have to be considered as standing outside the syntactical
+connexion and must be given an absolute position. Chinese in
+this respect resembles French in a phrase like "votre frère,
+j'ai de ses nouvelles," etc.
+In narrative speech time is as a rule mentioned first; place,
+follows and then the subject of the action done.
+A
+ch'in ch'i-yuch hsing-yu shu-lao-tsui, in the autumn
+during the seventh month, at Sing-yu, Shu-lao died. Chun-
+ch'i IX, 12, 3.
+VII. If two or more words combine to form one part of a
+sentence they are to be treated syntactically, as one word,
+(generally a noun), though in their relation to each other.
+they retain their mutual dependence. Thus even a complete.
+sentence may be made dependent of a certain preposition,
+or be dependent as a genitive of a following word:
+*
+i chi yü li i ku, by cause of "their being bound by
+rule and law." This capacity of sentences performing as it
+were the functions of words, is one of the most important
+* China Review, Vol. V, 1877, p. 386.
+
+242
+BIBLIOGRAPHY.
+peculiarities of the language, and a most powerful agent in
+the expression of thought, both as regards strength and
+elegance.
+VIII. Sentences frequently close with certain particles
+having an affirmative, interrogative, etc., force: J'o-'hu?
+potest-ne? licet-ne? J'o-yeh, potest (licet) sone.
+IX. In other respects the position of words in a sentence is
+not influenced by its relation as a simple or compound, affirma-
+tive, interrogative, imperative, etc., clause.
+The following remarks will be endorsed by many who have
+been attempting to parse Chinese sentences, especially in
+modern documentary prose.
+"As a matter of importance in Chinese syntax, we have to
+mention the frequent suppression of the grammatical subject, in
+lieu of which, according to circumstances, a personal pro-
+noun has to be supplied. Such sentences, though logically
+complete (and therefore intelligible), are grammatically
+incomplete, and many difficulties arise from this con-
+tradiction. The words pu-kan, not to dare, may,
+as they stand, be translated as implying the first, second, or
+third person, singular or plural, or any mood of the verb.
+The translator who renders them by "I do not dare," or by
+"he did not dare," or indeed in any other manner, adds some
+accidental element; he introduces the grammatical relation
+though it be not contained in the expression. The same
+remark may be made with regard to the translation of most
+other grammatical examples considered apart from the context
+to which they belong."
+In the two divisions following the introductory one, Books
+II. and III., an exhaustive system of Chinese grammar is con-
+structed on a two-fold basis. The author calls it the Analytical
+and Synthetic system. In the former an attempt is made to
+construct an organic building by defining the grammatical
+*China Review, Vol. V, 1877, p. 387.
+
+BIBLIOGRAPHY.
+243
+phases of the language, inasmuch as they can be derived
+from the principles upon which the language is based. These
+chiefly consist in the rule of position, assisted by auxiliary
+words the meaning of which is again dependent upon position.
+The Synthetic system, on the other hand, forming Book III.
+of the work, may be called the synonymical part of the gram-
+mar, inasmuch as it shows what means are at the disposal
+of the language to express certain ideas.
+It would take us too long to enumerate even the main chapters
+of these two divisions, the methodical arrangement of which,
+quite apart from the exhaustive material contained in them,
+throws considerable light on the scientific study of Chinese.
+In the Analytical part one chapter treats of the position of
+words and of auxiliaries; another on the definition of the
+parts of speech. This latter chapter abounds with new ideas
+and plausible remarks. The principle explained by Julien as
+the clasticity of Chinese words is detailed in a really scientific
+manner. A Chinese word may be used as
+(a.) A noun, when it represents either the subject or the
+object in a sentence;
+(b.) A verb, when it represents the predicate,
+(c.) An adverb, when it is added as a determinative to
+either a verb or an adjective;
+(d.) An adjective ("adnominal" word), when it appears as
+the attribute of a noun or of a part of speech corresponding
+to a noun.
+Another chapter of importance is that on "the division of
+sentences and clauses," including remarks on the use of rhythm,
+antithesis, and parallelism for purposes of division. The
+peculiarity of the written language, the absence of all punctua-
+tion causes this point to be of the gratest value to those who
+wish to understand a Chinese text. Quite a number of words
+which we are accustomed to treat as empty signs (Hsü-tze)
+perform indeed no other service than that of dividing sentences.
+Thus,,,, etc., are always found at the close of a
+
+244
+BIBLIOGRAPHY.
+sentence;則,又,況、故,是以,今者, etc., are generally
+placed at the head. I may add that in modern documentary
+Chinese, many characters may almost be regarded as marks
+of punctuation. Besides those mentioned by von der
+Gabelentz, we find as taking the place of quotation
+marks:-,,, etc.; that of a period, all the
+characters found at the end or at the beginning of a sentence
+only. The well-known of despatches may in many cases
+be said to express what printers call a "new paragraph."
+All the adversative particles such as 詎,纸,不期,不料,
+11., etc., naturally imply what we would often mark by
+a comma or a semicolon; this applies also to the words separa-
+ting the main clause from the bye-clause in conditional, causal,
+concessive, etc., periods, such as AB, 0, 1, (after a con-
+cessive clause), , and others.
+Too much stress cannot be laid upon what we may call a
+special idiom of the Chinese language,-the power of expressing
+logical divisions by rhythm, antithesis, and parallelism.
+Rhythm, which in Western languages is confined to the poetical
+style, plays, in Chinese, a great part even in the prosiest of prose.
+An ordinary notice, found on the street corners of a city in
+Fukien, the most trivial communication to the public, reads
+like a poem on account of the rhythmical arrangement
+of its characters. Every clause has a fixed number of
+characters, say four, five, six, or seven, which is an important
+assistance in the logical division, coinciding, as a matter of
+course, with grammatical pauses. Rhythm, antithesis, and
+parallelism are in many cases the only key to open up
+passages otherwise quite unintelligible. "By knowing the
+rules of position," says von der Gabelentz, *" "I know what
+I have to look for at the head, in the middle, and at the close.
+of a sentence. But where can I find the beginning and the end
+of a sentence? Occasionally certain particles will serve as a
+"Beitrag zur Geschichte der chinesischen Grammatiken," in the Journal
+of the German Oriental Society, Vol. XXXVII. p. 605.
+
+BIBLIOGRAPHY
+245
+guide. But what am I to do, if there are none-which often
+happens? In such cases I run my eye over the text, not
+caring how many unknown characters it may contain; I
+discover here a parallelism, there an antithesis, begin to count
+the number of characters being followed by the same word,
+and soon find the key is in my hands. You see, the proceed-
+ing is as superficial and formal as possible; the sifting of
+its material part follows afterwards. But what have I
+done, then? I have simply discovered the stylistic pattern the
+author has had before his mind when writing; I am beating
+the time before knowing the tune."
+Book III., containing the synthetic system, is mainly built
+up on the grammatical heads of Western languages, though in
+a manner widely different from the superficial way in which
+some writers have attempted to force the Chinese language
+into the forms of German or French. Unfortunately, such
+attempts to decline Chinese nouns and to conjugate Chinese
+verbs (a mistake into which even the great Morrison has
+fallen in his "Chinese Grammar," the only feeble work he has
+produced,) has brought the application of a Western method
+to the study of Chinese into discredit with many. Neverthe-
+less it is, if applied in the general philosophic manner of von
+der Gabelentz's synthetic system, best adapted to introduce
+into the secret of Chinese construction all those who have no
+reason to look back with regret to the grammatical lessons of
+their college. The terms of Western grammar, it is true,
+will often mislead by not covering exactly what we wish to
+say in using them. This is a deficiency which to a small
+extent applies even to our own languages. The grammatical
+categories as they were made the basis of our present method
+of analysing language by the philosophers of the stoic school
+are in many cases no more than names of accidental phases of
+the languages. Everybody imagines he has a clear idea of
+what the term Genitive means, and yet it seems to be only
+the symbol for some kind of dependency in which one word
+
+246
+BIBLIOGRAPHY.
+may be in relation to another; in amor filii and amor dei
+we see genitives of two very different kinds, and yet nobody
+questions the right of the language to express both by the
+same form. We are therefore quite free to comprise de-
+pendence of different kinds, expressed in Chinese by ante-posi-
+tion, as one phase of the language, and to compare this to the
+Western genitive, because some or most of the relations
+expressed by it may, in some or all the languages of Europe,
+be rendered by that case. It is quite natural, apart from the
+logical necessity which often suggests comparison with our
+traditional grammar, that the student trained in Western
+terminology should declare with Julien that "sans ce langage
+de convention, il lui serait impossible de traiter, à son point
+de vue, de la Grammaire chinoise." Western terminology,
+it must be admitted, does in many cases fail to describe the
+real logical relation of certain phases of the Chinese language;
+but this is a deficiency which, on fathoming the bottom
+of grammatical philosophy, may be said to be inseparable
+from the English as from any other Western language.
+It is, however, a great convenience, and indeed, to us the only
+handle by which we can get hold of certain idioms. It may
+be as fictitious and may as much depend on a special stand
+point as the terminology of constellations is fictitious with regard
+to the real position of the stars; but it is quite as necessary to
+the writer on grammatical subjects as such terms as Orion,
+Centaurus or Ursa are to the astronomical student.
+F. HIRTH.
+
+REPORT OF THE COUNCIL
+OF THE
+CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+FOR THE YEAR 1882.
+JOURNAL, NEW SERIES, Vol. XVII. PART 2,
+(concluding the volume).
+SHANGHAI:
+Printed by NORONHA & SONS, No. 12, Canton Road.
+1884.
+
+Part
+2
+
+REPORT OF THE COUNCIL
+OF THE
+CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+FOR THE YEAR 1882.
+JOURNAL, NEW SERIES, Vol. XVII. PART 2,
+(concluding the volume).
+SHANGHAI:
+Printed by NORONHA & SONS, No. 12, Canton Road.
+-
+1884.
+
+REPORT
+OF THE
+COUNCIL OF THE CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+FOR THE YEAR 1882.
+AT the Annual Meeting, held on the 27th of January, 1882,
+the following gentlemen were elected Office Bearers for the
+year:
+*G. JAMES MORRISON, ESQ., President.
+REV. W. MUIRHEAD,
+Jos. HAAS, Esq.,
+Vice-Presidents.
+T. S. SOUTHEY, ESQ., Hon. Sec. & Treasurer.
+* MAX SLEVOGT, ESQ., Hon. Librarian.
+D. C. JANSEN, Esq., Hon. Curator.
+*THOS. W. KINGSMILL, ESQ.,
+P. G. VON MÖLLENDORFF, ESQ.,
+A. VISSIÈRE, FSQ.,
+A. J. LITTLE, ESQ.,
+E. K. BUTTLES, ESQ.,
+*A. B. STRIPLING, ESQ.,
+Councillors.
+Three vacancies occurred in the Council during the year,
+viz: Messrs. Vissière, Buttles, and P. G. von Möllendorff
+who left Shanghai; these vacancies were filled by Messrs.
+C. Imbault-Huart, F. Hirth, Ph. D., and K. J. Streich,
+respectively.
+* Re-elected.
+
+REPORT OF THE COUNCIL
+OF THE
+CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+FOR THE YEAR 1882.
+JOURNAL, NEW SERIES, Vol. XVII. PART 2,
+(concluding the volume).
+SHANGHAI:
+Printed by NORONHA & SONS, No. 12, Canton Road.
+1884.
+
+Part 2
+
+REPORT OF THE COUNCIL
+OF THE
+CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+FOR THE YEAR 1882.
+JOURNAL, NEW SERIES, Vol. XVII. PART 2,
+(concluding the volume).
+SHANGHAI:
+Printed by NORONHA & SONS, No. 12, Canton Road.
+1884.
+
+REPORT
+OF THE
+COUNCIL OF THE CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+FOR THE YEAR 1882.
+AT the Annual Meeting, held on the 27th of January, 1882,
+the following gentlemen were elected Office Bearers for the
+year:-
+*G. JAMES MORRISON, ESQ., President.
+REV. W. MUIRHEAD,
+Jos. HAAS, Esq.,
+Vice-Presidents.
+T. S. SOUTHEY, ESQ., Hon. Sec. & Treasurer.
+* MAX SLEVOGT, ESQ., Hon. Librarian.
+D. C. JANSEN, Esq., Hon. Curator.
+*THOS. W. KINGSMILL, ESQ.,
+P. G. VON MÖLLENDORFF, ESQ.,
+A. VISSIÈRE, FSQ.,
+A. J. LITTLE, ESQ.,
+E. K. BUTTLES, ESQ.,
+* A. B. STRIPLING, ESQ.,
+Councillors.
+Three vacancies occurred in the Council during the year,
+viz: Messrs. Vissière, Buttles, and P. G. von Möllendorff
+who left Shanghai; these vacancies were filled by Messrs.
+C. Imbault-Huart, F. Hirth, Ph. D., and K. J. Streich,
+respectively.
+* Re-elected.
+
+ii
+REPORT OF THE C. B. OF THE R. A. S.
+Four General Meetings of the Society were held during the
+year and the following papers were read:-
+1.-27th January, "A Report of the third International
+Congress at Venice," by Lieut. Kreitner.
+2.-31st March, "Notes on the Geology of the Neighbour-
+hood of Nagasaki," by H. B. Guppy, M.B., Surgeon
+R. N.
+31st March, "On fresh water on sand banks," by Capt.
+F. W. Schulze.
+3.-29th August, "The Hoppo Book of 1753," by F.
+Hirth, Ph. D.
+4.-7th November, "On Soochow and the neighbouring
+country, by C. Imbault-Huart.
+Seventeen Ordinary Members were elected during the year.
+Five ordinary members resigned. There were on the list of
+the Society on the 31st December, 1882, fourteen Honorary,
+twenty-six Corresponding, and one hundred and thirty-five
+Ordinary Members.
+The revised Rules were passed at a General Meeting held
+on the 7th November and came into force forthwith.
+The second part of the Society's Journal for 1881 was
+issued in March and the first part of the Journal for 1882 in
+October.
+Mention was made in last year's Report of a proposal to
+re-publish the older Journals now out of print; although a
+considerable number of members subscribed, the work could
+not have been undertaken, but for the liberality of Sir Robert
+Hart, Inspector General of Chinese Customs. It is expected
+the publications will be issued at an early date.
+An appeal made during the course of the year for contribu-
+tions of articles, was readily responded to by various of the
+most prominent sinologues. It is to be hoped that this
+supply will increase and that the learned circles of Peking and
+Hongkong will not fail to continue to send us the valuable.
+results of their painstaking and highly interesting sinological
+researches.
+
+REPORT OF THE C. B. OF THE R. A. S.
+The report of the Treasurer and a List of the Members
+are appended.
+Shanghai, 27th February, 1883.
+Treasurer's Report.
+To the President and Council of the
+CHINA BRANCH OF THE ROYAL ASIATIC SOCIETY.
+GENTLEMEN,
+In accordance with article 20 of the Society's Rules I have
+now the pleasure of rendering to you an account of the
+financial condition of the Society.
+From the enclosed 'Statement of Accounts' it will be seen
+that on the 1st of January, 1882, the Society was credited
+with the sum of $218. and that during the year the receipts
+amounted to $1,050, and consisted of the usual annual
+subscriptions mentioned in detail on the appended lists, and
+the income from the sale of Journals. I may mention that
+$130 has been received for duplicate volumes of the
+Chinese Repository sold to the German Legation at Peking.
+Subscriptions collected represent the sum of $780 against
+$650 received on the previous year. Taking into considera-
+tion the movements and shifting about of resident and non-
+resident members this is very encouraging, as it shows the
+interest taken in the welfare of the Society.
+Although the income has been in excess of former years,
+yet on the other hand the expenditure has been unusually
+heavy, amounting as it does to $1,148, and of this sum
+$1,053 has been paid out, showing a balance of $120,
+which has been duly lodged in the Hongkong & Shanghai
+
+iv
+REPORT OF THE C. B. OF THE R. A. S.
+Bank; but it must be understood that out of this credit balance,
+the sum of $94% has to be deducted in payment of Messrs.
+Noronha & Sons' outstanding account.
+The cost of printing Reports, circulars &c. has amounted to
+$133; but perhaps I should explain that the printing of Lieut.
+Kreitner's paper has been included under this heading, and
+that we have a sufficient number of copies of the revised rules
+to supply new members for some years yet to come.
+Remittances from the Booksellers, for sale of Journals,
+have not up to moment, come to hand.
+Uncollected subscriptions from non-resident members amount
+to $290.00, but it is not anticipated that these arrears will
+bring in more than about $150.00.
+After this date the Society will receive a rent of Tls. 100
+per annum from the Shanghai Library.
+In accordance with the revised rules which came into force
+during the year under review, the institution for Life member-
+ship has been introduced.
+Your Treasurer has to regret that at the present time none
+of the paying members have availed themselves of that benefit,
+which perhaps may be accounted for by the short time that
+has elapsed since the Rules have been issued.
+With regard to the Museum, the accounts will show a
+credit balance of $100 on 31st December 1882, which
+sum has been lodged in the Hongkong & Shanghai Bank.
+The receipts have consisted of the usual liberal grants made
+by the English and French Municipal Councils and of the
+very acceptable donation of $20 from Mgr. Delaplace.
+The expenditure has been greater than in previous years,
+chiefly in consequence of higher wages paid to the Taxider-
+mist.
+During the month of February the Council have decided to
+increase his salary to $10.00 a month, provided that he devotes
+the whole of his time solely for the benefit of the institute:
+heretofore the Taxidermist had been allowed the privilege of
+undertaking outside work.
+
+REPORT OF THE C. B. OF THE R. A. S.
+The Treasurer has to regret that he has been unable to pay
+interest on the money borrowed from the Committee of the
+Recreation Fund in 1875, but it is hoped the funds will admit
+of interest being paid at the end of the present year.
+I am, Gentlemen,
+Your obedient Servant,
+T. S. SOUTHEY,
+Hon. Treasurer, C. B. of R.A.S.
+Shanghai, 31st January, 1883.
+
+VI
+REPORT OF THE C. B. OF THE R. A. s.
+CHINA BRANCH OF THE ROYAL ASIATIC SOCIETY.
+STATEMENT OF RECEIPTS AND EXPENDITURE FOR THE YEAR 1882.
+RECEIPTS
+To Balance from last Account
+دو
+Dr. Guppy's balance of subscription
+,, Subscriptions for the year 1879...............
+وو
+"
+"
+"
+"
+وو
+"
+1880...
+1881........
+1882........
+25
+5555
+دو
+EXPENDITURE.
+1882
+$
+cts.
+218
+15 By Printing Reports, Circulars &c.
+50
+Book-binding
+"
+Advertizing for 1881
+"
+695
+"
+Freight and Insurance on Journals & Books..
+Fire Insurance :-
+780 00
+Books
+84 00
+130
+00
+"
+Book Case
+20
+00
+وو
+Printing Journals for 1881, part II
+5
+45
+"
+25
+00
+"
+5 69
+,, Sale of Journals.
+"
+"
+"
+دو
+دو
+Duplicates of Chinese Repository......
+Gas Meter
+Dr. Bretschneider's share of freight on books
+Rent of room to S'hai Young Men's Institute
+Interest on current account with H. & S. Bank
+888888
+$ cts.
+133 00
+56 90
+12 56
+57
+25
+29 97
+12
+17
+Tls. 2,500 at per Tls. 12.50
+Journals, 2,000" %
+» 10.00
+13 70
+45 00
+410
+SOSAN GENUINE &
+1882, I on account
+Wood Cuts and Lithograph for Journals 1882
+»Postage and Stationery
+وو
+Postage on Journals........
+,, Kelly & Walsh, Commission on collecting sub-
+scriptions at Hongkong
+Municipal and other Taxes....
+50
+250 00
+45 70
+19
+82
+21
+05
+75
+"
+Gas
+"
+"
+Sundries.
+"
+Balance ....
+1,268
+79
+E. & O. E.
+8508
+42
+59
+20 80
+120
+66
+1268 79
+Audited and found correct,
+JOSEPH HAAS.
+ALFRED B. STRIPLING.
+Hon. Treasurer.
+T. S. SOUTHEY,
+
+REPORT OF THE C. B. OF THE R. A. S.
+$
+cts.
+114
+SHANGHAI MUSEUM.
+STATEMENT OF RECEIPTS AND EXPENDITURE FOR THE YEAR 1882.
+RECEIPTS.
+To Balance from last Account
+EXPENDITURE.
+$
+cts.
+"
+Grant from English Municipal Council I'ls. 500
+"
+00 By Shanghai Library, Rent to Dec. 31 1882 Tls. 150
+Taxidermist's wages, 1 month, at $20 ...$ 20
+205
+48
+French
+100
+11
+350
+30... 330
+00
+"
+"
+"
+"
+"
+"
+"
+"
+Coolie's
+12
+5
+60 00
+"
+"
+Tls. 600
+816
+32
+"
+Donation from Mgr. Delaplace....
+Interest on Current Account with H. & S. Bank
+20
+00
+"
+New Year's Gift to Taxidermist
+Desk Table, Tls. 50.00
+10
+00
+68
+40
+5
+69
+"
+Copper tanks
+2500
+"
+Spirits for preserving specimens.
+24
+25
+"
+Glass holders, tubes and stands for same
+38
+40
+"
+Fire Insurance on Contents, Tls. 1,000 at per
+Tls. 5.00
+6 85
+"
+Cases and Specimens of Fish
+Coal
+"
+"
+Stationery for the year 1881 1
+"
+Books and Advertizing....
+3 80
+3 45
+9
+55
+6 50
+Sundries
+وو
+"
+Municipal and other Taxes
+"
+Balance lodged in H. & S. Bank
+956
+01
+35
+00
+8
+42
+100
+91
+956
+01
+E. & O. E.
+Audited and found correct,
+JOSEPH HAAS.
+ALFRED B. STRIPLING.
+T. S. SOUTHEY,
+Hon. Treasurer.
+vii
+
+viii
+REPORT OF THE C. B. OF THE R. A. S.
+LIST OF MEMBERS,
+Corrected up to 31st December, 1883.
+HONORARY.
+His Majesty LEOPOLD II., King of the Belgians.
+Alcock, Sir Rutherford, K.C. B., London.
+Hart, Sir Robert, K.C.M.G., Peking.
+Legge, Rev. J., D.D., L.L.D., Oxford.
+Medhurst, Sir Walter H., K. C.B., London.
+Parkes, Sir Harry S., K.C.B., K.C.M.G., Peking.
+Prejevalsky, Col. N., St. Petersburg.
+Richthofen, Baron Ferdinand von, Leipzig.
+Seward, The Hon. George F., U.S.
+Shadwell, Admiral Sir Charles F. A., K. C.B., Melksham, Wilts.
+Wade, Sir Thomas F., K.C.B., London.
+Williams, Rev. S. Wells, L.L.D., New Haven, U.S.
+Wylie, Alex., Esq., London.
+Yule, Col. H., c.B., London.
+
+REPORT OF THE C. B. OF THE R. A. S.
+CORRESPONDING.
+Bastian, Prof. Dr. A., Berlin.
+Bretschneider, E., Esq., M.D., St. Petersburg.
+Cox, Rev. Josiah.
+Delaplace, Mgr. L. G., Peking.
+Edkins, Rev. J., D.D., Peking.
+Fritsche, H., Esq., PH. D., St. Petersburg.
+Fryer, John, Esq., Shanghai.
+Giles, Herbert A., Esq.
+Gordon, Col. C. G., C.B.
+Hance, H. F., Esq., PH. D., Whampoa.
+Happer, Rev. A. P., D.D., Canton.
+Hepburn, J. C.. Esq., M.D., Yokohama.
+John, Rev. Griffith, Hankow.
+Keischke, Dr. Ito, Tokio.
+Kreitner, Lieut. G., Chevalier de.
+Lindau, wirkl. Leg.-Rath Dr. R., Berlin.
+Lockhart, W., Esq., M.D., London.
+Macgowan, D. J., Esq., M.D., Wenchow.
+Martin, Rev. W. A. P., D.D., LL.D., Peking.
+McCartee, D. B., Esq., M.D., New York.
+McClatchie, Rev., Thos., M.A., London.
+Moule, Right Rev. G. E., D.D., Hangchow.
+Muirhead, Rev. W., Shanghai.
+Rondot, Natalis, Esq., Lyons.
+Schereschewsky, Right Rev. S. I. J., D. D.
+Széchényi, Count Béla, Zinkendorf, Hungary.
+Williamson, Rev. A., L.L.D.
+ix
+
+I
+REPORT OF THE C. B. OF THE R. A. S.
+Acheson, James, Esq.
+Agar, Luis d', Esq.
+Alford, R. G., Esq.
+MEMBERS.
+Ailen, E. L. B., Esq.
+Allen, H. J., Esq.
+Amelunxen. E. A. von, Esq.
+Anderson, G. C., Esq.
+"Andersen, N. P., Esq.
+"Arnoux. Count G. d'
+Ayrton, W. S., Esq.
+Dowdall, C., Esq.
+*Drew, E. B., Esq.
+Baber, E. C., Esq.
+Baesler, Jos., Esq.
+Ball, J. Dyer, Esq.
+Bamford. Rev. A. J.
+*Birt, Wm., Esq.
+Bredon, M. Boyd, Esq.
+Bristow, H. B., Esq.
+Brosche, H., Esq.
+Brown, J. McLeavy, Esq.
+Bryner. J., Esq.
+Bushell. S. W., Esq., M.D.
+Butcher, Very Rev. C.H., D.D.
+Buttles, Prof. E. K.
+Callado, His Ex., E.
+Coignet, F., Esq.
+Cooper, W. M.. Esq.
+Cooverjee, P., Esq.
+Cordes, August C., Esq.
+Coughtrie, J. B., Esq.
+Deighton-Braysher, C., Esq.
+Dennys, H. L.. Esq.
+Dmitrevsky, P. A., Esq.
+Dodd, J., Esq.,
+Eitel, E. J., PH. D.
+Faragó, E., Esq.
+Fauvel, A. A., Esq.
+Ferguson. His Ex., J. H.
+Fergusson, T. T., Esq.
+Fisher, H. J., Esq.
+Forbes, F. B., Esq.
+Frater, Alex., Esq.
+Gardner. C. T., Esq.
+Gil de Uribarri, Ramiro, Esq.
+Giquel, P., Esq.
+† Glover. G. B., Esq.
+Goldsmith. B., Esq.
+Grant, P. V., Esq.,
+Gubbay. R. A., Esq.
+Guppy, H. B, Esq., M.B.
+Haas, J., Esq.
+Hague, E. P., Esq.
+Hanbury, T., Esq.
+Henderson, Ed., Esq., M.D.
+Henderson, J., Esq.
+Henry, A., Esq, M D.
+Hippisley, A. E, Esq.
+Hirth, F., Esq., PH. D.
+Hjousbery. E., Esq.
+Hobson, H. E., Esq.
+Hoetink, B., Esq.
+Holt, Rev. W. S.
+Hosie, Alex., Esq., M.A.
+How, A. J., Esq.
+Elected since issue of last list of members (April, 1882).
+† Life Member.
+
+REPORT OF THE C. B. OF THE R. A. S.
+Hübbe, P. G., Esq.
+Imbault-Huart, C., Esq.
+Jamieson, G., Esq.
+Jansen, D. C., Esq.
+Johnson, F. B., Esq.
+Johnston, J., Esq., M.D.
+Kingsmill, T. W., Esq.
+Kleinwächter, F., Esq.
+Kopsch, H., Esq.
+*Reinsdorf, F., Esq.
+Rhein, J., Esq.
+Rivington, Charles, Esq.
+*Robinson, E., Esq.
+Rocher, E., Esq.
+Ruegg, E., Esq., L.L.D.
+Russell, The Hon. James.
+Sampson, T., Esq.
+Samson, J., Esq.
+Saunders, W., Esq.
+Kleinwächter, G. H. J., Esq.
+Scherzer, F., Esq.
+Schmidt, C., Esq.
+Schultz, Capt. C. A.
+Krauss, A., Esq.
+Krey, W., Esq.
+Little, A. J., Esq.
+Little, L. S., Esq., M.D.
+Low, E. G., Esq.
+Macintyre, Rev. John.
+Maignan, H., Esq.
+Mann, James, Esq., M.D.
+* Mertz, C., Esq., PH. D.
+Möllendorff, O. F. von, Esq.,
+PH. D.
+Möllendorff, P. G. von, Esq.
+Morrison, G. J., Esq.
+* Nye, Gideon, Esq.
+Owen, Rev. G. S.
+Parker, E. H., Esq.
+*Patersson, J. W., Esq.
+Perry, W. W., Esq.
+Pichon, L., Esq., M.D.
+Pitman, J., Esq.
+Plancy, V. Collin de, Esq.
+*Poli, G. D., Esq.
+Pollock, John, Esq., M.D.
+Reid, David, Esq.
+Schulze, F. W., Esq.
+xi
+Seckendorff, Baron Edm. von.
+Shinagawa, E., Esq.
+Slevogt. M., Esq.
+Smith, The Hon. Cecil C.
+Southey, T. S., Fsq.
+Starkey, Reg. D., Esq.
+Stent, G. C., Esq.
+Streich, K. I., Esq.
+Stripling, A. B., Esq.
+Sutherland, H., Esq.
+Tanner, P., Esq.
+Tata, D. B., Esq.
+Toda, E., Esq.
+Vissière, A., Esq.
+Washbrook, W. A., Esq.
+Watters, T., Esq.
+Wetmore, W. S., Esq.
+White, F. W., Esq.
+Wicking, H., Esq.
+Wilcox, R. C., Esq.
+Wilson, J. H., Esq.
+Wood, A. G., Esq.
+Youd, F., Esq.
+
+xii
+REPORT OF THE C. B. OF THE R. A. S.
+MEMBERS OF THE COUNCIL,
+Corrected up to 31st December, 1883.
+E. B. DREW, Esq., President.
+Jos. HAAS, Esq.,
+F. HIRTH, Esq., PH. D.
+Vice-Presidents.
+T. S. SOUTHEY, Esq., Hon. Sec. & Treasurer.
+E. ROBINSON, Esq., Hon. Librarian.
+J. H. WILSON, Esq., Hon. Curator of Museum.
+G. JAMES MORRISON, Esq.
+THOS. W. KINGSMILL, Esq.
+M. SLEVOGT, Esq.,
+C. DEIGHTON BRAYSHER, Esq..
+Councillors.
+
+REVISED RULES
+OF THE
+CHINA BRANCH
+OF THE
+ROYAL ASIATIC SOCIETY,
+Instituted 24th September, 1857.
+Passed at a General Meeting held on the 7th November, 1882.
+1.-NAME AND OBJECTS.
+1. The Name of the Society shall be "THE CHINA BRANCH
+OF THE ROYAL ASIATIC SOCIETY," instead of, as formerly,
+THE NORTH-CHINA BRANCH OF THE ROYAL ASIATIC SOCIETY.
+2. The objects of the Society shall be-
+The investigation of subjects connected with China and
+the neighbouring countries.
+The holding of Meetings at which papers relating to
+such subjects shall be read and discussed.
+The issuing of a Journal and other publications.
+The maintenance of a Library and Museum.
+11.-MEMBERSHIP.
+3. The Society shall consist of "MEMBERS," "CORRESPOND-
+ING MEMBERS," and "HONORARY MEMBERS."
+4. Each Candidate for election as a MEMBER must be
+proposed and seconded by two Members of the Society, and his
+
+xiv
+REPORT OF THE C. B. OF THE R. A. S.
+name together with those of his proposer and seconder must
+be sent to the Secretary who will submit the proposal to the
+COUNCIL at their next Meeting. The COUNCIL shall decide
+upon the admission or rejection of Candidates, and the names
+of those elected shall be announced at the GENERAL MEETING
+next ensuing.
+5.
+HONORARY MEMBERS and CORRESPONDING MEMBERS
+must be proposed by the Council at a GENERAL MEETING, and
+elected at the GENERAL MEETING next ensuing.
+6. The Secretary shall send to each newly elected Member
+of the Society (of any class) a Certificate of Membership
+together with a copy of the Rules of the Society and a List
+of Members.
+7. The Subscriptions to the Society shall be as follows-
+MEMBERS, resident in Shanghai......$10 per annum.
+دو
+non-resident
+دو
+8 5
+دو
+وو
+Any of the above subscriptions may be compounded for by
+one payment of $50.
+HONORARY MEMBERS and CORRESPONDING MEMBERS pay
+no subscription.
+8. The first annual payment of MEMBERS elected in No-
+vember and December shall be considered to extend to the
+second 31st of December following their election.
+9. Resident MEMBERS, on leaving Shanghai, may have
+their names transferred to the class of non-residents; but any
+Member who remains in Shanghai for six months during any
+year shall pay his subscription as a resident MEMBER.
+10. All subscriptions shall be payable in advance, and any
+MEMBER whose subscription for any year is unpaid on the 30th
+of June of the following year shall be considered to have.
+resigned his membership; but this rule may be suspended in
+any particular case by a vote of the COUNCIL.
+
+REPORT OF THE C. B. OF THE R. A. S.
+XV
+11. MEMBERS desiring to withdraw from the Society shall
+continue to be liable for any sums due by them to the Society
+including their annual subscription for the year in which they
+signify their intention to withdraw.
+III.-OFFICERS.
+12. The Officers of the Society shall be-
+A President,
+A Senior and a Junior Vice-President,
+An Honorary Secretary,
+An Honorary Treasurer,
+An Honorary Librarian,
+An Honorary Curator,
+but any one Officer may perform the duties attaching to two
+offices.
+IV.-COUNCIL.
+13. The COUNCIL shall consist of the Officers of the Society
+for the current year, and four Members of Council.
+14. The Officers and Members of Council for the current
+year shall be elected at the ANSUAL MEETING and shall hold
+office until the next ANNUAL MEETING; but vacancies among
+the officers or Members of Council occurring during the year
+shall be filled up by a vote of the remaining Officers and Mem-
+bers of Council, provided that in case of the death of the Pre-
+sident his functions shall be discharged by the Senior Vice-
+President until the next ANNUAL MEETING, or in case of the
+President's absence until his return.
+15. The Duties of the COUNCIL shall be-"
+To administer the affairs, property, and trusts of the
+Society.
+To decide upon the admission of Candidates as "MEM-
+BERS."
+"
+
+xvi
+REPORT OF THE C. B. OF THE R. A. S.
+To propose HONORARY MEMBERS and CORRESPONDING
+MEMBERS for election.
+To decide upon the eligibility of papers to be read
+before the General Meetings.
+To select papers for publication in the Journal and to
+supervise the printing and distribution thereof.
+To select and purchase books, specimens, &c., for the
+Library and Museum.
+To accept or decline donations or gifts on behalf of the
+Society.
+To present to the Society at the expiration of their
+term of office Reports of the proceedings and con-
+dition of the various departments, and of the So-
+ciety generally.
+And generally, to do such things as may be required for the
+welfare and proper management of the Society, and to make
+and enforce such bye-laws as may be necessary for carrying
+out the above requirements.
+16. The COUNCIL shall meet for the transaction of busi-
+ness once a month, or oftener, if necessary, and at all such
+Meetings five shall be a quorum. In case of an equality
+of votes on any question the Chairman of the Meeting shall
+have a second or casting vote.
+17. The Hon. Treasurer may pay the monthly Museum
+account, which must be signed by the Hon. Curator, and he
+may on his own authority pay any incidental expenses not
+exceeding fifty dollars between any two Council Meetings,
+reporting the same to the COUNCIL at their next Meeting.
+18. As early as possible in each year, and in any case
+before the 31st January, the Hon. Treasurer shall prepare and
+submit to the COUNCIL statements of the Receipts and Dis-
+bursements of the Society for the preceeding year, ending
+on the 31st December, and in such statements the receipts and
+
+REPORT OF THE C. B. OF THE R. A. S.
+xvii
+disbursements on account of the Museum shall be kept distinct
+from the other receipts and disbursements.
+V.-MEETINGS.
+19. The ANNUAL MEETING shall be held as early in each
+year as practicable, and in any case not later than the 15th
+February. At this Meeting the outgoing COUNCIL shall present
+to the Society the Report and financial statements of the Hon.
+Treasurer, and the Reports of the various departments prepared
+by the Officers having control of them; and the officers and
+Members of Council for the ensuing year shall be elected.
+20. GENERAL MEETINGS shall be held, when practicable,
+once a month, or oftener, if expedient, for the transaction of
+business, the reading and discussing of papers approved by the
+COUNCIL, and conversation on topics connected with the general
+objects of the Society. Whenever practicable, notice of the
+subjects intended to be introduced for discussion by any
+Member of the Society shall be handed to the Secretary before
+the Meeting.
+21. At all Meetings of the Society the Chairman shall
+be entitled to a second or casting vote.
+22. Visitors may be admitted to the Meetings of the
+Society, but no visitor shall be allowed to address the Meeting,
+except by invitation of the Chairman.
+VI. PUBLICATIONS.
+23. A Journal shall be published, when practicable,
+every year under the supervision of the COUNCIL. It shall
+comprise a selection of the papers read before the Society, the
+Reports of the COUNCIL, of the Hon. Treasurer and other
+Officers of the Society, and such other original matter as the
+COUNCIL shall deem expedient to publish.
+
+xviii
+REPORT OF THE C. B. OF THE R. A. S.
+24. Every MEMBER who has paid his subscription for
+the current year, and every HONORARY MEMBER and COR-
+RESPONDING MEMBER shall be entitled to a copy of the Journal
+for the year, deliverable at the place of issue, and to a copy of
+other publications directed for distribution.
+25. The COUNCIL shall have power to present copies of
+the Journal and of other publications to other Societies and
+to distinguished individuals, and the remaining copies shall be
+sold at such prices as the COUNCIL may from time to time direct.
+26. Twenty copies of each paper published in the
+Journal shall be placed at the disposal of the Author, and the
+COUNCIL shall have power to sanction the publication in a
+separate form of papers or documents laid before the Society.
+27. All papers accepted by the Society shall become the
+property of the Society, unless the Council allow the right of
+property to be specially reserved by the contributors.
+VII. AMENDMENTS.
+28. Amendments to these Rules must be proposed in
+writing to the COUNCIL who shall, after notice given, lay them
+before a General Meeting of the Society. A Committee of
+resident MEMBERS shall thereupon be appointed in conjunction
+with the Council to report on the proposed Amendments to
+the GENERAL MEETING next ensuing, when a decision may be
+taken.
+
+CHINA BRANCH OF THE
+ROYAL ASIATIC SOCIETY.
+(Founded 1857.)
+I.-RULES for the issue of Books from the Library.
+II. LIST OF ADDITIONS to the Library for the six
+months ending 30th June, 1881.
+III. LIST OF SOCIETIES, PUBLIC INSTITUTIONS, ETC.
+exchanging Publications with the Society.
+
+CHINA BRANCH OF THE
+ROYAL ASIATIC SOCIETY.
+RULES
+for the issue of Books from the Library."
+RULE I.-The Library is open daily from 9 to 11 a.m. and from
+4 to 7.30 p.m., Sundays and holidays excepted.
+RULE II. The circulation of the books is under the control of
+the Committee of the Shanghai Library.
+RULE III.-Books are issued by the Librarian of the Shanghai
+Library only. Members are not allowed to pass them from
+one to another, nor to lend them to non-members.
+RULE IV.-Members are not to have more than three works at a
+time, nor keep any books longer than 21 days.
+RULE V.-Works of reference and certain rare and valuable
+books are not to be taken out of the Library Building,
+nor are Scientific Journals and Periodicals circulated until
+the volumes are completed and bound.
+RULE VI.-When the time allowed for the perusal of a work
+has expired, it must be returned to the Library within 24
+hours after the receipt of a notice that it is required at the
+Library, or a fine of half a dollar per day will be exacted.
+RULE VII.-Members are responsible for the careful preservation
+and safe return of all books issued to them, and they will
+be required to make good any loss or damage in these
+respects.
+*The Library is in charge of Mr. and Mrs. GALE, Librarians to the
+Shanghai Library, Upper Yuen-ming-yüon Road, No. 1. Periodicals and
+new books received by the Society are exhibited in the Reading Room of the
+Shanghai Library.
+
+RULE VIII.-If a work or any portion of it should be lost or
+damaged, defaced by writing or otherwise injured, the
+member. to whom it was issued will be responsible for its
+whole cost whatever that may be.
+RULE IX.-The infraction of any of these rules will be followed
+by the withdrawal from a member of his privilege of taking
+books out of the Library, and the payment of all penalties
+or other amounts due will be enforced in any way that
+may be thought fit.
+RULE X.-The Council of the North-China Branch of the Royal
+Asiatic Society may at any time call in all books and may
+cease to issue them for such periods as the interests of the
+Society may require.
+For the purposes of rules IV and VI, each volume of the
+Transactions of any Learned Society or similar publication shall
+be counted as one work, but under rule VIII a member may be
+called upon to replace a whole series unless the volumes can bet
+obtained separately.
+
+List of Works added to the Library of the North-China
+Branch of the Royal Asiatic Society, during
+the six months ending 30th June, 1881.
+I. Transactions of Learned Societies and Periodical Publications.
+839.-STATISTICAL SOCIETY (LONDON).
+Journal, 8vo. Vol. XLII., 1879.
+840.-ROYAL GEOGRAPHICAL SOCIETY (LONDON).
+Proceedings, 8vo. Vol. XXI., 1876-77.
+do. New Series, Vol. I., 1879.
+846.-SOCIÉTÉ DE GÉOGRAPHIE (PARIS).
+Bulletin, 8vo. VI. Series, Vol. XIX., 1880.
+do. do.
+Vol. XX., "
+851.-DEUTSCHE MORGENLÄNDISCHE GESELLSCHAFT (LEIPZIG).
+Zeitschrift, 8vo. Vol. XXXIII, 1879.
+852.-VEREIN FÜR ERDKUNDE ZU DRESDEN.
+Jahresberichte, 8vo. Vols. XVI-XVII., 1878-80.
+870.-K. PREUSSISCHE AKADEMIE DER WISSENSCHAFTEN ZU BERLIN.
+Monatsberichte, 8vo. 1874.
+do.
+do. 1880.
+873.-ORIENTALISCHES MUSEUM (VIENNA).
+Oesterreichische Monatsschrift für den Orient, 4to. Vol. V., 1879.
+879.-R. ACCADEMIA DEI LINCEI (ROME).
+Atti, Serie III., Transunti, 4to. Vol. IV., 1879-80.
+879A. JUSTUS PERTHES' GEOGRAPHISCHE ANSTALT (GOTHA).
+Dr. A. Petermann's Mittheilungen, 4to. Vol. XXVI, 1880.
+879B. FRANKFURTER VEREIN FÜR GEOGRAPHIE UND STATISTIK.
+Jahresbericht, 8vo. Vols. XXXVII-XLV., 1872-80.
+879c.-VEREIN FÜR ERDKUNDE ZU METZ.
+Jahresbericht, 8vo. Vols. I-II., 1878-79.
+880.-AMERICAN ORIENTAL SOCIETY (NEW HAVEN).
+Journal, 8vo. Vol. X., 1880.
+
+895.-NORTH-CHINA BRANCH OF THE ROYAL ASIATIC SOCIETY (SHANGHAI)
+Journal, 8vo. New Series, Vol. XIV., 1879.
+A Catalogue of the Library of the North-China Branch of the
+Royal Asiatic Society, (including the Library of Alex. Wylie,
+Esq.), systematically classed. By HENRI CORDIER. Shanghai,
+1872, 8vo.
+A Catalogue of the Library of the North-China Branch of the
+Royal Asiatic Society, (including the Library of Alex. Wylie,
+Esq.), systematically classed. Shanghai, 1881, 8vo.
+899.-ASIATIC SOCIETY OF JAPAN (YOKOHAMA).
+Transactions, 8vo. Voi. VIII, 1879-80.
+909. THE CHINESE RECORDER AND MISSIONARY JOURNAL.
+Shanghai, 8vo. Vols. VII-XI., 1876-80.
+914.-STATISTICAL DEPARTMENT, IMP. MARITIME CUSTOMS (SHANGHAI).
+Returns of Trade at the Treaty Ports for the year 1880: Part II.
+Statistics of the Trade at each Port. Shanghai: 1881, 4to.
+918.-STATISTICAL DEPARTMENT, IMP. MARITIME CUSTOMS (SHANGHAI).
+Returns of Trade at the Treaty Ports for the year 1880: Part I.
+Abstract of Trade and Customs Revenue Statistics. Shanghai:
+1881, 4to.
+920A. THE CHINA REVIEW: or, Notes and Queries on the Far East.
+Hongkong, 8vo. Vols. IV-VIII., 1875-80.
+920B. Translation of the Peking Gazette for 1878. Reprinted from the
+"North-China Herald." Shanghai: 1879, 8vo.
+9200.-THE FAR EAST. A monthly Journal, illustrated with Photographs.
+Edited by J. R. BLACK. New Series, Vols. I-II., 1776-77, bound
+in 1. Shanghai: 4to. (Without the Photographs).
+NOTE.-Periodical Publications are announced in the List of Accessions as soon
+as a volume is completed.
+II. Miscellaneous Works.
+19A. The Religions of China. Confucianism and Tâoism described and
+compared with Christianity, by JAMES LEGGE. London: Hodder,
+1880, 8vo.
+By the Author.
+43A.-The works of Confucius: Containing the original text with a trans-
+lation. Vol. I., to which is prefixed a dissertation on the Chinese
+language and character, by J. MARSHMAN. Serampore: Mission
+Press, 1809, 4to. 1 Vol. (the only one published) bound in 2.
+By D. C. Jansen, Esq.
+
+70A-Die Bevölkerung der Erde. Jährliche Übersicht über neue Arealbe-
+rechnungen, Gebietsveränderungen, Zählungen und Schätzungen
+der Bevölkerung auf der gesammten Erdoberfläche. Herausge
+geben von E. ВЕHм und H. WAGNER. Vol. VI. Gotha: Perthes,
+1880, 4to.
+By the Publisher.
+128.-Report of the Superintendent of the United States Coast Survey,
+showing the progress of the work for the fiscal year ending with
+June, 1877. Washington: 1880, 4to.
+By the U. S. Coast Survey Office.
+139.-Anales del Ministerio de Fomento de la República Mexicana. Tomo
+.III. Mexico: 1880, 8vo.
+By the Ministerio de Fomento.
+204A. A Grammar of the Hindustani Language. By JOHN SHAKESPEAR.
+London: Cox, 4to. (No title page).
+By D. C. Jansen, Esq.
+236A-An Index to Dr. Williams' "Syllabic Dictionary of the Chinese
+Language." Arranged according to Sir Thomas Wade's System
+of Orthography. By JAMES ACHESON. Hongkong and Shanghai:
+Kelly & Walsh, 1879, 8vo.
+By the Author.
+242A.-Deutsch-Chinesisches Conversationsbuch nach Joseph Edkins' "Pro-
+gressive Lessons in the Chinese spoken language," übersetzt,
+erläutert und theilweise umgearbeitet von JOSEPH HAAS. Shang-
+hai: Mission Press, 1870, 8vo.
+By the Author.
+287A-The Firagana, or Japanese Running-hand Writing. A Review of
+its most usual forms with addition of the Chinese Characters from
+which they are derived. By J. HoFFMANN. 2nd Ed. Leyden:
+Sythoff, 1861 (1 Sheet).
+By Joseph Haas, Esq.
+329A.-Die Verwandlungen des Abu Seid von Serug oder die Makamen des
+Hariri von FRIEDRICH RÜCKERT. 6. Aufl. Stuttgart: Cotta,
+1878, 12mo.
+Presented.
+474A. FR. SCHMIDT'S, P. v. GLEHN'S und A. D. BRYLKIN'S Reisen im
+Gebiete des Amurstromes und auf der Insel Sachalin (Beiträge
+zur Kenntniss des russischen Reiches, Vol. XXV). St. Petersburg:
+1868, 8vo.
+By Thomas Hanbury, Esq.
+
+599A-Report on the Irrawaddy River, by R. GORDON. Rangoon: 1879-80,
+fcp. 3 vols. bd. in 1. With an Atlas of 31 Plates.
+By the Public Works Dept., Br. Burma.
+741A. A Retrospect of Political and Commercial Affairs in China during
+the five years 1873 to 1877. Edited by R. S. GUNDRY. Shang-
+hai: N.-C. Herald Office, 1878. 8vo.
+Presented.
+741B.-China. Ergebnisse eigener Reisen und darauf gegründeter Studien
+von FERDINAND FREIHERRN VON RICHTHOFEN. Erster Band.
+Einleitender Theil. Berlin: Reimer, 1877, 4to.
+By the Author.
+764.-The Treaty Illegality of the Transit Dues and Leking Taxes actually
+levied by the Chinese Government. Bу THOMAS T. FERGUSSON.
+Shanghai: N.-C. Herald Office, 1876, 8vo.
+Presented.
+764B.-The Great Famine: Report of the China Famine Relief Committee.
+Shanghai: 1879, 8vo.
+Presented.
+764c.-Treaties between the United States of America and China, Japan,
+Lewebew and Siam, Acts of Congress, and the Attorney-General's
+opinion, with the decrees and regulations issued for the guidance
+of U. S. Consular Courts in China. Published by Authority.
+Hongkong: 1862, 8vo.
+Presented.
+812A-The Tagores of Calcutta. Reprinted from the "Indian Mirror."
+Calcutta: 1880, 8vo.
+By Dr. S. M. Tagore.
+832.-A General Catalogue of Books, arranged in classes, offered for sale by
+BERNARD QUARITCH. London: 1868, 8vo.
+By E. Toda, Esq.
+836A.-Bibliotheca Orientalis or a complete list of Books, Papers, Serials
+and Essays, published in England and the Colonies, Germany
+and France, on the History, Languages, Religions, Antiquities
+and Literature of the East. Compiled by CHARLES FRIEDERICI
+Leipzig: Schulze, 8vo.
+Vol. I-III, 1876-78 (including also Geography).
+IV, 1879.
+Purchased.
+836B.-Vierteljahrs-Catalog aller nenen Erscheinungen im Felde der Litera-
+tur in Deutschland. Nach den Wissenschaften geordnet. Vol.
+XXXV., 1880. Leipzig: Hinrichs, 8vo.
+Presented.
+
+Missing Works returned to the Library after
+completion of Catalogue.
+240A.-Chinese Dialogues, Questions, and Familiar Sentences, literally
+rendered into English, with a view to promote Commercial Inter-
+course, and to assist beginners in the language. By the late REVD.
+DR. MEDHURST. Revised by his son. Shanghai: London Mission
+Press, 1863, 8vo.
+240B. Ji-Tch'ang-K'eou-T'cou-Hoa. Dialogues Chinois à l'usage de l'E-
+cole spéciale des Langues orientales vivantes publiés avec une
+traduction et un vocabulaire chinois-français de tous les mots par
+M. STANISLAS JULIEN. I. Partie: Texte chinois. Paris: Duprat,
+1863, 8vo.
+399A.-Souvenirs d'un Voyage dans la Tartarie et le Thibet pendant les
+années 1844, 1845 et 1846 par M. Huc, Ancien Missionaire Apos-
+tolique. 3. Ed., 2 vols., 12mo. Paris: Gaume, 1857.
+420A. An authentic Account of an Embassy from the King of Great
+Britain to the Emperor of China;............together with a Relation
+of the Voyage undertaken on the occasion.........taken chiefly from
+the Papers of.........the Earl of Macartney......Sir Erasmus.Gower
+......by SIR GEORGE STAUNTON, BART. London: G. Nicol, 1797,
+2 vols., 4to. With Folio Atlas.
+583A. Hedendaegsche Historie, of Tegenwoordige Staet van alle volkern:
+erst in 't Engelsch beschreven door ТH. SALMON; Nu
+vertaelt en merkelyk vermeerdert door M. van Goch, M. D.
+I. Deel. (China, Japan, etc.) Amsterdam: Tirion, 1729, 8vo.
+716A.-Reports on Amoy and the Island of Formosa, by C. W. LE GENDRE.
+Washington: 1871, Svo.
+740A.-Illustrations of China and its People. A Series of 200 Photographs,
+with letterpress descriptive of the places and people represented.
+By J. THOMSON. London: Sampson Low, 1873-74, 4 vols., roy.
+folio.
+NOTE. In the new Edition of the Catalogue (published 1881) two numbers are
+prefixed to each volume, but, in procuring works from the Library, members
+are requested to use the OUTSIDE-NUMBERS only, which will be found to
+run through from No. 1 to No. 991.
+IN PREPARATION:-A Catalogue of the Museum Library of the North-China
+Branch of the Royal Asiatic Society (comprising the works on Naturul
+History).
+Shanghai, 1st July, 1881.
+M. SLEVOGT,
+Hon. Librarian,
+North-China Branch of the Royal Asiatic Society.
+
+List of Societies, Public Institutions, etc. exchanging
+Publications with the Society.
+ASIA.
+BATAVIA. Bataviaasch Genootschap van Kunsten en Wetenschappen.
+CALCUTTA. Asiatic Society of Bengal.
+COLOMBO. Ceylon Branch of the Royal Asiatic Society.
+HONGKONG.
+China Review.
+SHANGHAI. Statistical Department, Imperial Maritime Customs.
+Observatoire Magnétique et Météorologique de Zi-Ka-Wei.
+Chinese Recorder and Missionary Journal.
+SINGAPORE. Straits Branch of the Royal Asiatic Society.
+YOKOHAMA. Asiatic Society of Japan.
+Deutsche Gesellschaft f. Natur-und Völkerkunde Ostasiens.
+EUROPE.
+Great Britain and Ireland.
+EDINBURGH. Royal Society.
+LONDON. Geological Society.
+London and China Express.
+Royal Asiatic Society of Great Britain and Ireland.
+Royal Geographical Society.
+Royal Society of Great Britain and Ireland.
+Statistical Society.
+Trübner's American, European, and Oriental Record.
+Zoological Society.
+Germany and Austria.
+BERLIN. K. Preussische Akademie der Wissenschaften.
+Gesellschaft für Erdkunde.
+DRESDEN.
+Verein für Erdkunde.
+GOTHA. Justus Perthes' Geographische Anstalt.
+HALLE. Verein für Erdkunde.
+KÖNIGSBERG. K. Physikalisch-Ekonomische Gesellschaft.
+LEIPZIG. Deutsche Morgenländische Gesellschaft.
+Literaturblatt für Orientalische Philologie.
+MUNICH, K. Bayerische Akademie der Wissenschaften.
+VIENNA. Deutsche Rundschau f. Geographie und Statistik.
+K. K. Geographische Gesellschaft.
+K. K. Geologische Reichsanstalt.
+K. K. Zoologisch-Botanische Gesellschaft.
+Orientalisches Museum.
+
+France.
+PARIS. Revue Critique d'Histoire et de Littérature.
+Société Asiatique.
+Société d'Acclimatation.
+Société de Géographie.
+Italy.
+FLORENCE. R. Istituto di Studi Superióri (Accademia Orientale).
+ROME. R. Accademia dei Lincei.
+TURIN.
+Cosmos.
+Netherlands.
+S' GRAVENHAGE. K. Instituut voor de Taal-, Land-, en Volkenkunde
+van Nederlandsch Indië.
+Russia.
+ST. PETERSBURG. Imperatorskoye Rousskoye Gheographitcheskoye
+Obstchestvo.
+AMERICA.
+CAMBRIDGE. Museum of Comparative Zoology at Harvard College.
+MEXICO. Ministerio de Fomento.
+NEW HAVEN. American Oriental Society.
+PHILADELPHIA. American Philosophical Society.
+SALEM. Essex Institute.
+WASHINGTON. Smithsonian Institution.
+United States Coast Survey.
+United States Department of Agriculture.
+United States Geogr. Survey W. of the 100th Meridian.

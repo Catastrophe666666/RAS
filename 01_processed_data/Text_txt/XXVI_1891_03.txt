@@ -1,0 +1,1163 @@
+WEI-CH'I.
+BY Z. VOLPICELLI.
+About three years ago I wrote a short sketch on Chinese
+Chess. While gathering materials and making enquiries on
+that subject, my attention was drawn to the other great game
+of China, which she invented and which she considers far
+superior to Chess. This alone would be sufficient to awaken
+curiosity. We are so accustomed to consider Chess as
+unquestionably the royal game, that the simple statement that
+a country possesses Chess and another game, and considers
+the latter superior, is startling. We naturally feel drawn
+on to examine this unknown rival and find out for ourselves
+whether it deserves its claimed superiority. Before we know
+it, Wei-chi has therefore the merit of rousing our curiosity
+by its great reputation. Wei-ch'i is considered par ex-
+cellence the game of the literary class, while Chess is the
+favourite diversion of military men. This fact establishes its
+precedence in China and has also value in our eyes, because,
+if the flower of the nation, which is always to be found in
+the civilian class, prefers Wei-ch'i, it must possess, at least for
+the Chinese mind, great attractions.
+Even at first sight Wei-ch'i presents several striking
+peculiarities. The board on which it is played is very large,
+containing 361 places; the men are very numerous, as nearly
+200 may be required on each side, and its nature is different
+from that of the games we are already familiar with. The
+
+WEI-CH'I.
+81
+pieces cannot be moved,- -once placed on a spot they remain
+there until the end of the game, unless surrounded and
+destroyed by the enemy, when they may be removed from
+the field of battle. The game does not consist of a series of
+skilful evolutions by which each player tries to manoeuvre
+its men to the best advantage and to secure its object in the
+least number of moves; it is a game of position, each side
+tries to place the pieces in the most favourable way so as to
+secure by their combination a winning position. This last
+peculiarity lends it all its charm. We find a game totally
+different from those we have been accustomed to. The
+difference is not in detail, but in the essence of the game.
+It belongs to quite a different order from Chess and Draughts.
+Moreover, though a game of extreme difficulty, it is of the
+greatest simplicity. There is not a number of different pieces,
+each with its own peculiar move; all the men are similar,
+they can be placed anywhere, and they cannot move. Perhaps
+it is owing to this that it has altered so little in passing to
+other countries; while Japanese Chess is as different from
+Chinese as the latter is from European Chess, Wei-ch'i is
+played, one may say, identically in China and Japan. In the
+latter country it is called "Go-bang" and is in high repute.
+In the old feudal days the nobles vied with each other in
+having attached to their courts celebrated Go-bang players,
+just as they were proud of their bulky wrestlers; even now
+there are professionals who play with such care and reflection
+that a match-game may often take up several days. The true
+Japanese Go-bang, which is identical with Wei-ch'i, is quite
+different from the game which goes under that name among
+foreigners. The latter is a much easier game, which consists
+in getting five men in a line, no matter whether horizontal,
+vertical or diagonal, and is called "Go-mutche" by the Japanese.
+The object of the game of Wei-chi may be stated very
+simply, though it will be found sufficiently difficult to carry it
+11
+
+82
+WEI-CH'I.
+out in practice. It is to occupy as much space as possible
+on the board and to prevent the adversary from doing the
+same. This can be done both by occupying places with one's
+men and forming enclosed spaces called territories, as well as
+by surrounding and taking the adversary's men, in which case,
+the space, formerly occupied by the enemies one has destroyed,
+becomes part of one's territory or conquered space on the
+board. To show how this simple principle acts in play produc-
+ing a very interesting game will be the object of what follows.
+Wei-chi is played by two players, on a board special to the
+game and with two sets of men of different colour. I shall
+begin by describing the board, and then pass on to the men
+and to the game in general.
+THE WEI-CH'I BOARD.
+This is divided into squares like a chess-board, but into a
+much greater number, and without any alternation of colour,
+their total number on the Wei-ch'i board being 324, 18 × 18.
+Even this large number does not fully represent the scale
+of the game, because, as in Chinese Chess, the pieces are
+played on the intersections of the horizontal and vertical lines
+and not on their intervals; thus, as there are 19 lines in
+either direction, the total number of places on which the
+men can be played is 19 x 19 or 361. This is a very large
+number, and at first the game appears quite bewildering from
+the size of the board and the number of men employed.
+"
+The Chinese, in the books which treat of the game, divide
+the board into four equal parts, which they call "corners"
+(chiao or yü²) and which are called by the names of
+the four Chinese tones:-
+for the lower left corner.
+平上去入
+"
+upper
+دو
+"
+right
+lower,
+"
+دو
+دو
+ود
+
+WEI-CH'I.
+83
+In each of these four sections a place is generally marked
+out at a distance of four steps along the principal diagonal
+counted from the outer angle. Each spot is therefore
+equidistant from the two external sides of the section. These
+four points are called 艮 (kend),巽(hsint),坤 (eun²) and
+乾 (chien), and the players generally begin the game by
+alternately covering them, each player occupying two at
+opposite angles. Sometimes the centre of the board is also
+marked. Diagram I. will serve to show what the Wei-ch'i
+board is like and how it is divided.
+上
+I.
+去
+平
+良
+*
+坤
+乾
+入
+I think this place is the most appropriate to give an account
+of the notation employed by the Chinese to indicate the
+
+84
+WEI-CH'I.
+different spots on the board where the men are played.
+As the board is so large, for convenience the notation is
+adapted to the division in four sections, which we have seen
+separate notation for each of the
+to exist, and there is a
+平上去 and 入 corners.
+The Chinese have adopted a system
+which is similar to that used in analytic geometry of two
+dimensions. Every point is determined by giving its per-
+pendicular distances from two axes at right angles, that is to
+say, by two co-ordinates. They fix the origin of the axis of
+the abscissas as well as of that of the ordinates at the corner
+of the board, and the two sides represent the two axes. They
+count on each of these lines up to the middle of the side of
+the board from 1 to 10. It is evident that, as there are 19
+lines both horizontal and vertical, by counting from each
+towards the middle of the side, the two sets of numbers will
+meet at the 10th, which will be common to both, that is to say,
+to the series commencing from the right and going to the left
+of one corner or section, and to the series commencing from
+the left and going to the right of the other corner or section
+which lies at its side. As each spot on the board is designated
+by two numbers, which respectively represent the length of
+the abscissa and ordinate, it is necessary to show in what
+order they are always used, that the reader may be able to
+understand in which direction each is counted. For this
+purpose, one must place one's self successively at each corner
+of the board and look towards the opposite corner; one will
+then have a series from 1 to 10 on the right side and another
+on the left. Let us suppose the first to represent the abscissas
+and the second the ordinates, then every point on the board
+is designated by giving first the number of the ordinate and
+then the number of the abscissa. This rule applied to each
+corner produces the puzzling result that each side of the
+board serves for counting the abscissas of one corner or section
+and the ordinates of the next corner or section.
+
+WEI-CH'I.
+85
+Diagram II will facilitate the understanding of the above
+explanations. Let A and B represent the two players. [As
+will be seen later on, the position of the players is quite
+immaterial in this game; both could play from the same side
+of the board, the only important distinction being the colour
+II.
+B.
+1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2
+1
+4
+5
+23 +6789
+27
+10
+63
+95
+9
+876
+6
+5
+4
+3
+143
+510
+48
+29
+16
+2
+34
+5
+10
+6319D96165432
+61
+7
+8
+8
+7
+125
+43
+2
+1 2 345
+6 7 8 9 10 9 8 7 6 5 4 3 2 1
+A.
+of the men.] The side of the board next to A serves to count
+the ordinates in its right half and the abscissas in its left half;
+the side running up on the left serves to count the ordinates
+in its lower half and the abscissas in the upper half; the side
+
+86
+WEI-CH'I.
+of the board next to B serves for the ordinates on B's right
+(A's or the reader's left) and for the abscissas on B's left (A's
+and the reader's right). The side running down on the
+right serves for the ordinates in its upper half and for the
+abscissas in its lower half. To familiarise the reader still more
+with the Chinese notation, a few spots have been marked with
+the numbers used to designate their position. A notation
+which employs two series of numbers is naturally confusing,
+III.
+a
+b c d e f g h i j10 9 8 7 6
+1
+B9
+5 4 3 2
+PAG
+1
+a
+b
+23
+5
+45
+4
+6
+7890
+10j
+B7
+F3
+i
+H5
+h
+g
+J5
+f
+e
+d
+C
+b
+D8
+a
+d
+C
+06
+e
+f
+FI
+D3
+16
+i
+10j
+9
+87643
+B5
+5
+21
+1 2 3 4 5 6 7 8 9 10jih gfe d C b a
+and therefore, in future, when I shall have to indicate any
+place on the board, I shall employ letters instead of numbers
+
+WEI-CH'I.
+87
+to indicate the ordinates and keep the numbers only for the
+abscissas. We shall have thus two series at our disposal, one
+from a to j and the other from 1 to 10; this slight variation
+will render the notation clearer, and we shall adhere to the
+spirit of the Chinese notation. Diagram III shows how this
+modified notation is applied to the board and how the
+examples given in the preceding Diagram will be designated.
+The men employed in Wei-chi are round and flat, very
+much like buttons, and of two colours-black and white. Each
+player has a bag or small basket full of men of one colour,
+from which he draws all those he may require in the course
+of play. The players place their men alternately on any of
+the points of intersection of the horizontal and vertical lines
+which is not already occupied by another man of the same or
+adverse colour; even the points on the four margin-lines
+which enclose the board can be so filled up.
+The object of the game, as I have already stated, is to
+occupy as much of the board as possible, victory being
+decided in favour of the player who has command of most
+spots. Space can be occupied in two ways-by placing men
+on the different points and by forming an enclosure with one's
+men, the space thus contained being reckoned as one's
+territory. It is evident that the latter way is more important
+than the first, which alone could not lead to any decisive
+result; in fact, as the players place their men alternately on
+the board, if they confined their efforts simply to occupy spots
+with their men, the game would end by giving only one spot
+more to the first player, who would have possession of 181
+spots while his adversary would have only 180. This may be
+considered the reductio ad absurdum of the first method of
+play. We must then turn our attention to the second method
+of play, which is the right one-the occupation of space by an
+enclosure of men-it is this which gives the name to the game,
+Wei (to surround) being its principal object.
+
+a
+1
+88
+WEI-CH'I.
+The simplest possible enclosure that can be formed any-
+where on the board, is that of four men enclosing one spot
+which is called an eye and can be seen in the lower left-hand
+corner of Diagram IV. The next in simplicity is that formed
+by six men enclosing two spots,-an example is given in the
+lower right-hand corner of the same diagram. In the same way
+larger enclosures can be formed with a greater number of men,
+as will be seen in the upper left-hand corner of Diagram IV.
+IV.
+b c d e f g h i j10 9 8 7 6 5 4 3
+-
+23
+-0-0-0-0-0-
+--
+4567890
+j10
+h
+g
+4
+21
+E-
+1
+a
+b
+C
+d
+e
+g
+h
+i
+10j
+9
+1487
+f
+e
+6
+5432
+11
+с
+10
+b
+a
+1 2345 6 7 8 9 10j i hg fe d с b a
+All enclosures require a smaller number of men to form them
+when they are situated round a corner or angle of the board,
+
+WEI-CH'I.
+89
+as then only two sides need be formed, the other two being
+the limits of the board itself. Thus an eye can be formed
+with three men only, as is seen in Diagram IV in the upper
+left-hand angle with the three men a 2, 62, and 61. Even
+two empty spots can be surrounded by three men in such a
+favourable case, as is shown in the upper right-hand corner of
+the same diagram. All enclosures may be formed not only
+round unoccupied spots, but also round unprotected men of
+the adversary, who forthwith are taken and their empty places
+become the conqueror's territory.
+From what has been explained, the game might seem very
+tame and uninteresting, but it must be remembered that the
+enclosures, which are formed for occupying as much space as
+possible on the board, are made by both players, each of whom,
+while he tries to enlarge the area of his own territory, tries
+at the same time to diminish that of his adversary, as also to
+destroy in certain cases his enclosures and appropriate their
+territory. The element of strife now comes in and lends
+interest to the game. Every part of the extensive board
+becomes the field of numerous engagements, as the adversaries
+pursue their offensive and defensive tactics. The interest of
+the game is not concentrated in one spot as at Chess, around the
+king, but is diffused all over the board, as every single spot
+is equally important in effecting the result of the game and
+counts in the grand total which represents the position of each
+side at the end of the struggle.
+I have just mentioned that enclosures may be destroyed
+in certain cases. It is necessary that I should explain this
+important and interesting feature of the game. In the course
+of play, while one is forming enclosures and extending
+one's territory, it often happens that one can surround
+completely some of the adversary's men. These, under certain
+circumstances, are then considered as dead, removed from
+the board, and their places become part of one's territory.
+12
+
+90
+WEI-CH'I.
+Diagram V shows the four black pieces at, c 2, d 2, e 2
+and e 3, entirely surrounded by white men and therefore
+dead. We have another example in the three black men
+situated at, a 5, a 6 and a 7, on the side of the board, and
+a b
+C
+d
+1
+V.
+e f g h i j10 9 8 7 6 5 4 3 2 1
+3
+4
+5
+6
+7
+8
+9
+j10
+i
+h
+d
+C
+b
+a
+1 2 3 4 5 6 7 8 9 10j i
+000
+a
+b
+C
+d
+e
+96
+i
+10j
+66
+9
+8
+97
+6
+5
+3
+1482
+2
+1
+9 fed
+C
+ba
+h
+which can be taken by a much smaller number of white
+pieces than if they were placed in the middle of the board,
+as it is enough to surround them only on three sides, the
+other side being formed by the limit of the board itself.
+The four black men at, d 3, e 4, d 5 and c 4 present a
+more complicated case; though they. are surrounded on all
+
+WEI-CH'I.
+91
+sides by white pieces, still they are not dead, because they
+contain themselves one empty space. To destroy them, it will
+be necessary to play another white man at d 4, then the
+black men being blocked on all sides both externally and
+internally will be considered as dead. We see thus, that
+though not actually dead, they are in imminent danger,-
+they will be captured at next "move," as we should say in
+Chess; in such a case one may adopt a term with which
+Chess has made us familiar, and say they are "under check."
+In the upper right-hand corner of Diagram V we have
+another group of black men surrounded by white ones; they
+are not however dead, nor can they be possibly destroyed
+by any manner of play. In fact, we can see that the black
+pieces contain within themselves two separate empty spots,
+c 4 and d 5, forming two complete eyes, which would have
+to be filled up to accomplish their destruction. Now this
+is impossible, because, as the players play alternately, as
+soon as White has filled up one eye, Black at his turn will
+take the man that White has played, because it will be
+situated in the midst of his men, and therefore may be
+considered as dead. This might go on for ever, White filling
+up one eye and Black taking the piece, as White to win the
+whole group of men would require to be able to play twice
+in succession.
+We can now establish a fundamental rule of great
+importance, that, whatever group of men contains within
+itself two or more empty spots forming complete eyes is
+secure against any attack. Though surrounded it cannot
+be destroyed; it forms an intangible territory. It does
+not matter where and how far from each other these eyes are
+situated, provided they form part of one unbroken group of
+men joined together. The upper left-hand corner of Diagram V
+exhibits a territory which cannot be conquered by the
+adversary, because it contains three complete eyes at, a 1, e 4
+
+92
+WEI-CH'I.
+and g 9, any two of which alone would be sufficient to secure
+its independence.
+It is necessary now to explain what constitutes a complete
+eye and how several of these can be joined together to form
+one whole unconquerable territory. A complete eye is one
+formed by men all of which are joined together and none of
+which can be destroyed, as, naturally, if any could be, the eye
+losing a part of its components would no longer exist. In the
+lower left-hand corner of Diagram VI we have four examples
+of different kinds of complete eyes, while in the lower right-
+hand corner we have four examples of incomplete ones. In
+the
+eye formed by j 1, j 2, i 2 and h 1, the white man situated
+at h 1 is not joined on to the others, and can be surrounded
+by Black successively playing three men at g 1, h 2 and i 1.
+In the eye marked X, the piece at h 4 can be taken by Black
+playing successively four men at g 4, h 3, i 4, and h 5, thus
+surrounding it. In the eye marked W, the two men at e 5
+and d 6 can both be taken, the first by Black playing four
+pieces at e 4, f 5, e 6 and d 5, the second by Black playing
+four pieces to e 6, d 7, c 6 and d 5. In the eye marked Z,
+each of the four men can be captured by Black if he surrounds
+it. From all the above examples we see that the men only
+protect each other along straight lines and not along the
+diagonals: this is very important for the connection of several
+eyes, so as to form a single indestructible enclosure. We
+had already found that it was necessary to have at least two
+complete eyes to secure a territory; we have now examined
+what constitutes a complete eye, and in doing so have found
+how different men protect each other, i.e. along the horizontal
+and vertical lines of the board. Along these same lines must
+the men be placed that serve to join different eyes forming a
+territory. In the upper left-hand corner of Diagram VI we have
+an instance of how different groups of men are to be joined so
+as to mutually protect each other. We have, in the first place,
+
+WEI-CH'I.
+93
+a territory containing two complete eyes, and therefore secure
+against attack, extending from the top of the board to d 6 and
+e 7; in its vicinity there are two other groups which can be
+destroyed if not joined with it. We have the three men at
+c 7, c 8 and d 8, which may be joined either at e 8 or c 6, and
+the eight men at f 3, g 3, h 3, i 3, g 4, i 4, h 5 and i 5, which
+can also be joined either at f 2 or e 3. White can, by playing
+a b с d e f g h
+VI.
+i j10 9 8 7 6 5 4 3 2 1
+1
+2
+3
+33
+D-S
+9 0 0 0 0
++
+00
+45
+6
+679
+8
+6
+j10
+i
+h
+g
+f
+e
+d
+C
+b
+a
+80
+b
+с
+d
+e
+90
+g
+h
+10
+12298763
+ONO
+D
+SWO
+5
+4
+2
+21
+1
+a
+1 2 3 4 5 6 7
+8 9 10jih gf edc ba
+only two men, form an extensive territory comprehending four
+complete eyes, and Black cannot prevent him doing so, because
+in each case White has the option of two ways of joining his
+
+94
+WEI-CH'I.
+men, and if Black prevents one by occupying the spot himself
+White can occupy the other.
+The joining of men along the horizontal and vertical lines
+is most important, and every effort is to be made to effect
+it for one's self and to prevent the adversary from doing so.
+The position in the upper right-hand corner of Diagram VI
+shows how on the placing of one man may depend the question
+whether a territory shall belong to Black or White. Here we
+have a lot of black men almost surrounded by white ones and
+in danger of being destroyed. If it is Black's turn to play
+he may save them by placing one of his men at h 5, thus
+forming a second complete eye, which, as we have seen, guar-
+antees an enclosure against all possible attack. But if instead
+it is White's turn to play, he will place one of his men at h 5,
+threatening to take the black piece at h 4, which would be
+surrounded on three sides and be, as we should say, under
+check, namely, liable to be taken at next move. Black can
+only save this man by joining him to the rest with another man
+placed at g 4, but then the black territory would have only
+one complete eye and White, at his turn filling up the empty
+space at d 6, would capture the whole lot. Black cannot save
+himself by abandoning his man at h 4, because White would first
+take him by placing a man at g 4, and then at his next turn
+fill up the spot d 6, taking the whole lot as before. Here a
+difficulty however might be made, and which can only be
+removed by explaining another rule of the game. Let us take
+the case it was White's turn to play and that he has placed
+a man at h 5, thus securing a winning position, which is shown
+in the upper right-hand corner of Diagram VII; on his next
+turn he plays another man at g 4, and takes the black piece
+at h 4: now it is Black's turn to play and he has three men
+at g 3, 4 and g 5 surrounding the white man just played at
+g 4, which we may say is under check; if he can play a black
+man at 4 he can take this white man, and we should thus
+
+WEI-CH'I.
+95
+return to the original position from which we started, and
+White again could take the black man at h 4, and Black again
+repeat his play and so on ad infinitum, now White taking the
+black man at h 4, and now Black taking the white man at
+g 4. As this would put an end to the game, there is a rule
+that prevents a player from immediately taking a piece under
+these circumstances, i.e. when by taking it he returns to the
+original position, where the piece he has just played can be
+taken again he must first play another piece in some other
+part of the board, and only after that, on his next turn, can
+he take that piece. This kind of position, where the rival
+pieces are dovetailed into each other and can each attack one
+piece alternately is called Tu chich by the Chinese. This
+rule, which prevents a useless repetition of the same play,
+obliging the adversary first to place a piece in some other
+part of the board, reminds us that though for convenience
+sake we are dissecting the game and examining separate groups
+of men, the play goes on all over the board; everywhere
+territories are being formed and attacked, and if one is losing
+in one corner one may hope to recoup one's self in some other
+corner.
+This renders the beginning of the game almost incompre-
+hensible to one who has not studied it thoroughly. The two
+players seem to place their men at haphazard, now in one
+corner of the board and now in another; it looks rather as
+if they were trying to form pretty figures than trying to
+circumvent each other. It is only after a good many men
+have been placed that the object of the game begins to show
+itself in the play, and then gradually one perceives that those
+men which seemed played without any offensive or defensive
+purpose are all useful, and that they were placed originally to
+act as outposts for the territories which it was foreseen would
+be formed around them, or as posts of observation to annoy
+the enemy. In fact, as the object of the game is to occupy
+
+96
+WEI-CH'I.
+as much of the board as possible and to prevent the adversary
+from doing the same, it is necessary to have men strewn
+about everywhere, which may be, in the course of play, joined
+together in one large territory, and which may prevent the
+adversary from joining his men. To show the advantage
+which may be obtained from one of these detached men
+placed at the beginning of the game, it is sufficient to
+examine a position which may often occur when one of
+VII.
+12
+2
+3
+4
+5
+6
+79
+80
+90
+10j
+i
+h
+f
+e
+d
+C
+10 9 8 7 6
+5 4 3 2
+1
+a
+-
+b
+C
+d
+e
+g
+h
+i
+10j
+9
+S
+7 6
+5
+3
+21
+a
+1 2 3 4 5 6 7 8 9 10j i h g fed
+с b
+α
+b
+008
+the players is trying to surround his adversary on one side
+and the latter tries to escape by prolonging his men in a
+
+WEI-CH'I.
+97
+diagonal. If both persist in prolonging their men in échelon,
+the attacking party must win, because as soon as the defender
+reaches the side of the board (which he must reach if he
+prolongs enough) his adversary will do the same at next turn
+of play, hemming him in. In the lower left-hand corner of
+Diagram VII we have three of Black's men at c 7, d 7 and
+e 6 hemmed in on one side by White men. If Black tries
+to extend his men along the diagonal d 7, e 6 White will
+follow up along the diagonal d 8, e 7, even to the side
+of the board, where, when Black will have played ; 1,
+White will play a 9, thus succeeding in hemming in Black
+on that side. It is therefore useless for Black to try such
+a method of play in hopes of extending his territory, but
+if there happens to be a black man already placed at g 4,
+he may safely employ such a method of play, because then
+when he has played f 5, and White follows up with
+g 5, he has already a man in advance at g 4, which
+gives him, so to speak, a move ahead and enables him to
+prolong in safety without fear of being enclosed on that
+side.
+As during the whole game each player is trying to surround
+the men of his adversary and capture them, it often happens
+that while one's men are being played to capture those of
+the other colour, they are exposed themselves to counter-
+attacks, so that it becomes a question of time who will
+succeed first and thus forestall the other. In such cases one
+must calculate very carefully the number of moves¹ required
+by each side to secure victory, just as in an end-game at
+Chess where each player has a passed pawn that can queen,
+and all depends on a move.
+I here use the term "move" because it is so familiar to us through our
+game of Chess; but it must be understood that there is no such thing as a
+move in the game of Wei-ch'i, where the pieces always remain where they
+are placed, and that the word "move" is used instead of the cumbrous
+phrase "turn to play."
+13
+
+98
+WEI-CH'I.
+The upper
+left-hand corner of Diagram VIII will give a
+simple instance of the above kind of play. Here we have
+two sets of white and black men which are so situated that
+1
+VIII.
+a b
+C defghi j10 9 8 7 6 5 4 3 2 1
+23
+4
+5
+6
+7
+8
+9
+10
+a
+b
+C
+d
+e
+f
+g
+h
+a portion of each is dovetailed into the other and threatened
+with capture unless it can forestall its fate by dealing
+destruction on the other. The white men are in three
+groups: first four at g 2, g 3, g 4 and g 5, another three
+at d 3, c 4 and c 5, and then the three men at d 6, e 6
+and f 6, which are already surrounded by Black on three
+sides and will be inevitably taken unless White succeeds in
+destroying betimes a portion of the attacking forces. This
+
+WEI-CH'I.
+99
+99
+is his only resource, because he cannot hope to escape by
+prolonging his line of men in any direction, as Black has
+already overlapped him with his two men at c 7 and g 7.
+In fact, if he plays a man at either d 7 or f 7 Black
+promptly plays a man either at d 8 or f 8, thus closing
+all exit. Escape being impossible, let us see how White will
+fare if he adopts a bolder policy and attacks his adversary.
+Black's men are distributed in four groups: there are two
+men at e 3 and f 3, two at g 6 and g 7, two at c 6
+and c 7, and three at d 5, e 5 and f 5, which are already
+surrounded by White on three sides and may be destroyed
+before Black can compass the destruction of White's men.
+This would be easy enough if there were not the two men
+at e 3 and 3, because then White, having to play, would
+succeed in achieving the capture of the three men d 5, e 5
+and 5 before Black could capture the white men d 6, e 6
+and 6. But the position being as it is the thing is more
+difficult, and White can win only by accurate play. His first
+move must be to f 4, and Black must at once join his men
+by placing a man at e 4; if he does not do so, White at
+his next turn will play one of his men at e 4, thus rendering
+impossible any connexion of Black's men, which will be
+irretrievably lost. If Black plays e 4, the position is again
+difficult for White, because the now connected group of six
+black men again requires the placing of three white men at
+e 2, f 2 and d 4 to be entirely surrounded: under another
+form we are in the same position as before. Each player can
+capture a group of men, and requires three moves to do it.
+White has only the advantage of first move, an advantage
+which may be lost if he does not play correctly; as before,
+his only resource is in pursuing a constant attack. He must
+play 2, threatening again Black's men: Black can try to
+escape capture by extending his men, but, as was pointed out
+before, the prolongation of an attacked line, unless it be
+
+100
+WEI-OH'I.
+towards another friendly piece, leads to no result. In fact,
+if Black plays e 2, White plays d 2, always threatening
+Black's men with capture in two moves. It is necessary that
+he should always preserve such an attack, because Black in
+three moves can always capture the three men at d 6, e 6
+and f 6, which form part of White's attacking force and
+which if once destroyed would break up all White's attack
+and secure Black's men completely. If Black extends again
+to e 1, White plays d 1, preserving his position of a winning
+attack in two moves: thus we see that Black's men are
+irremediably lost and White has saved his pieces, which, after
+the capture of the enemy, can be connected with the rest
+forming an impregnable enclosure. This simple elementary
+position is instructive, because it shows how, in play, the men
+of both sides can get mixed up in such a way that while
+an attack is being made, a portion of the attacking force may
+be subjected to a counter-attack which if successful destroys
+the whole of the original attack. In such cases it is necessary
+to play with great care and to calculate accurately how many
+moves are required for the successful completion of the attack
+and counter-attack.
+The following position will be instructive in showing not
+only how important a single move may be, but also how
+important is the order in which some moves have to be played.
+In the lower left-hand corner of Diagram IX we have a group
+of white men situated at, c 6, c 7, c 8, c 9, d 8, b 5, 66, 67, a 4
+and a 5 which are almost entirely surrounded by black pieces
+and in imminent of danger of being captured: it only requires
+two black men to be placed at b4 and a 3 to accomplish this,
+but the order of these two moves is very important. If Black
+plays a 3 first he wins, because if White joins his men at 64
+Black plays 63, taking not only the men that were under
+check, but also the other two men at c 3 and c 4, and if he
+plays something else, Black plays b 4, taking all the men
+
+1
+2
+3
+4
+5
+6
+7
+S
+9
+j10
+i
+h
+WEI-CH'I.
+101
+under check. But if Black, by mistake, plays first b 4, he
+loses: then White plays 6 3, capturing the black man just
+placed at b 4, forms one complete eye, and whatever Black may
+do, he will form a second eye rendering his territory intangible.
+In fact, White can form a second complete eye by placing a
+man at a 2, and if Black, to prevent this, does what must be
+a b с def g
+IX.
+hi j10 9 8 7 6 5 4 3 2 1
+a
+b
+20
+20
+C
+e
+f
+g
+e
+d
+C
+b
+a
+1 2 3 4 5 6 7 8 9 10
+done in such circumstances, places himself a man at a 2,
+White plays a 3, threatening to take a 2 by the next move
+at a 1; if Black extends by playing himself a 1, White plays
+6 1, capturing both men and still forms a second complete
+eye. If Black, having played a 2, plays 6 1, trying again to
+h
+
+102
+WEI-OH'I.
+prevent the formation of a second complete eye, White can
+play c 1, capturing the black man at c 2, and then afterwards
+at his next turn by playing a 1 will capture both the black
+men at a 2 and 6 1, and with three incomplete eyes at a 2,
+61 and c 2 it will be very easy to form one complete one
+either by filling up c 2 or 6 1.
+In the centre of the same diagram (IX) we have a position
+which, as it is situated in the centre of the board, will be useful
+in showing how the notation changes according as a spot is
+in one corner or another. There is a group of black men at
+h 6, i 6, j 6, f 8, i 7, g 9, g 7, i 8, j 8, h 8, h 7 and j 9 which
+enclose two incomplete eyes and are almost surrounded by
+white men.
+White can capture almost all of them, but he
+can only do it in one way-he must play f 9. He then
+threatens by playing, at his next turn, g 10, to capture the
+seven men at h 6, i 6, j 6, i 7, i 8, j 8 and j 9; if Black joins
+his men by playing j 9, White plays g 8, capturing them all
+the same plus the man at g 9; Black has therefore no resource
+left. But if White omits to occupy the winning position at f 9,
+Black can place one of his men at f 9, and form two complete
+eyes within his territory, thus securing it against all attack.
+The upper left-hand corner of Diagram X gives another
+winning position for White: if he plays a 6 he threatens to
+surround and take the five men at a 5, 65, 66, 67 and c 6, and
+it will be seen that Black cannot save them, because if he
+tries to do so, his only resource is to play c 5, thus joining,
+them to the rest of his men; but then White will play h 2,
+threatening the whole lot, and even if Black extends to h 1,
+White, by playing i 1, will still capture them all; by this
+method of play, Black not only will not save five men but will
+lose fifteen or sixteen more. It will be better therefore for
+Black, after White has played a 6, to abandon the five men
+under check and look after the safety of the rest by playing
+h2, thus joining the men that are already almost surrounded
+
+WEI-CH'I.
+103
+to the three men at i 2, a 10 and a 9, which are not sur-
+rounded. He thus forms a small enclosure of two open spaces
+at h 1 and i 1 and may hope to form another by extending
+from the three men which are free. The fate of this man-
+œuvre will depend on the position his other men occupy on the
+a
+b с d
+e f g
+h
+1
+X.
+i j10 9 8 7 6 5 4 3 2
+20
+30
+40
+0 0 0 0 0
+00000
+5€
+6
+70
+80-
+9
+10j
+i
+1
+g
+f
+e
+d
+C
+b
+0-
+1
+a
+b
+C
+d
+e
+f
+g
+h
+i
+j10
+9
+8
+20-0-0-3
+7
+6
+5
+4
+3
+2
+a
+1 2 3 4 5 6 7 8 9 10j i h g
+fedcba
+board; it will succeed if he can lead up to men that are placed
+near and with whom it may be easy to form an eye or enclosure.
+The position in the lower right-hand corner of Diagram X
+shows how by placing a single man in the right position one
+
+104
+WEI-CH'I.
+may prevent the adversary from strengthening his position
+and keeping possession of an extensive territory. Here
+we have a large number of white men almost completely
+surrounded: they cannot be extended so as to join their
+companions at a 8 and b 8, and so prendre la clef des
+champs, as the French say, because Black can always play a
+man at a 6 or a 7, cutting off all possibility of communication:
+they must therefore rely entirely on themselves to secure
+their independence. At first sight this would seem easy, as
+they possess within their territory no less than four empty
+spaces, but on examination it will be found that the men
+are disunited in many places, and if Black plays correctly
+he can prevent them forming two complete eyes and by
+successive attacks capture the whole lot. This all depends
+on one move-Black, if it is his turn to play, must place
+a man at a 3, which is the key to the whole position; after
+that move White is irretrievably lost, nothing can save him
+whatever method of play he may adopt. He can of course
+take the man at a 3 by playing a 2, but this does not alter
+matters, because Black then plays a 6, threatening to take the
+men at a 4 and a 5; White may defend these men by joining
+them to the rest with another man at a 3, but this only makes
+matters worse, because Black then plays 6 1, surrounding and
+taking all the seven men at a 1, a 2, a 3, a 4, a 5, b 2 and 6 3.
+We come to the same result if White does not defend his
+men at a 4 and a 5, because then Black plays first a 3, taking
+them, and then afterwards b1 taking the rest. As soon as
+Black has captured this first outlying batch, he has only to
+play first d 3 and then f 1 to capture the other four men
+at c 1, d 1, e 1 and d 2, after which he has only to play
+f 3 and then 1 and h 2 to take the remaining white men.
+The same conclusion would have been reached if White had
+adopted a different method of play, and when Black had
+played his first move a 3, had given up his men at a 4, a 5,
+
+1 外交部藏書
+105
+WEI-OH I.
+and tried to join his men by playing 6 1; Black would then,
+after taking the men at a 4 and a 5, have played a 2 and d 3,
+threatening to take the whole lot a 1, b 1, b 2, b 3, c 1,
+d 1, d 2, e 1, and if White had joined again, playing f 1,
+Black would have played f 3, and then filled up h 1 and
+h2, taking the whole group as before. To show of what
+importance is the spot at a 3, it will be sufficient to point
+out that if White has the move and places one of his men
+at a 3, he renders his position impregnable, because he will
+have then a complete eye at a 2, he can form another by
+placing a man at h 1 or 2, and he joins them in a con-
+tinuous group by filling up the interruptions at 6 1 and f 1.
+The few examples I have given will suffice to show the
+general character of the game and some of the strategical
+resources at the disposal of the player; they will show also,
+I hope, that the game is very interesting and full of excite-
+ment at all periods and everywhere on the board; positions
+apparently most desperate may be sometimes saved by brilliant
+combinations. It now remains to be shown how one discovers
+if the object of the game, which we have already stated to be
+the occupation of as much space on the board as possible,
+has been achieved, i.e. how one ascertains which player
+has won.
+As space can be occupied in a twofold manner,
+by actual occupation with pieces and by surrounding certain
+areas with one's pieces, it follows that one must calculate
+both the number of pieces of each colour which survive on the
+board, as well as the empty places surrounded and contained
+by them. To show this practically, it will be necessary to
+give an example of an ending, and as it would be too long
+to give it on the full board, I will give it on a quarter of
+the board, where the positions will be more simple and the
+calculations more easy.
+In the upper left-hand corner of Diagram XI, there is the
+ending of a game on a quarter of the board, 10 lines each
+14
+
+106
+WEI-CH'I.
+side. Both Black and White have secured territories and
+have strengthened them against any possible attack. The strife
+is over, and we have only to estimate its results. Before
+doing so, however, it will be necessary to point out that there
+are several empty spots about the board, which belong to
+neither side and which may be considered as no man's land.
+a
+b
+с
+1
+23
+3
+4
+5
+6
+70
+S
+D-O
+de f
+9
+38
+10
+0
+30-0-0-
+---
+XI.
+hi j10 9 8 7 6
+-0-0-0-0-0
+---
+Such are the spots c 5, e 4, f 4, g 5, g 7, i 8 and j 7.
+They are now unoccupied and as they are surrounded partly
+by black and partly by white pieces neither side can claim
+them. In such cases they are alternately filled up by the two
+players before the counting begins. We will suppose then
+
+WEI-OH'I.
+107
+that Black fills up i 8, and White j 7, and so consecutively
+Black, c 5, f 4 and g 7, and White e 4 and g 5, we shall
+arrive at the position shown in Diagram XII. Here all is
+filled up which is not surrounded and defended by pieces
+XII.
+b
+c d e f g h i j
++
+1
+2
+3
+4
+a
+4567
+8
+96
+10
+00000000
+009000000
+and constitutes a territory. We can therefore commence our
+reckoning. We shall find that Black has 36 pieces which
+contain 11 empty spots, he has therefore won 47 places;
+White has also 36 pieces on the board, but they surround
+17 empty spots, so that White commands 53 places, 6 more
+than Black, and he has won the game.

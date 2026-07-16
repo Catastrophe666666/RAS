@@ -1,0 +1,422 @@
+ARTICLE VII.
+THE HIEROGLYPHIC CHARACTER OF THE
+CHINESE WRITTEN LANGUAGE.
+BY R. A. JAMIESON ESQ.
+Read before the Society on November 13th, 1865.
+In this paper I desire to propound no theory of the origin of the
+Chinese character. As to that there can be no doubt; the testimony
+of native philologists and the deductions of common sense, based on a
+careful analysis of the peculiar picture writing of the Chinese, sets at
+rest every question that could possibly arise as to the origin of the
+written language. My design is merely to shew in what sense and to
+what an extent Chinese writing is hieroglyphic, and in order to do this
+I have availed of the means which lie open to every one of us-an
+analysis or dissection of various classes of characters. It will there-
+fore be understood that this paper is merely a summary of those facts
+with regard to Chinese graphology, which, scattered through the
+pages of every Chinese work and found upon the monuments in
+existence, daily present themselves to the student of the language.
+It will, I think, be allowed that every written language, when
+taken as unconnected with the spoken language which it represents,
+is more or less ideographic. The words, independent of their relation
+to a particular dialect, represent ideas, and, were the construction of
+all dialects or languages identical, there would be no need for more
+than one system of writing throughout the world. Were words as
+written at present by the English accepted as universal representatives
+of ideas, the combination of strokes which stands for the idea of
+"bread," for example, would by the English be read as bread, by the
+the French as pain, by the Germans as brod, and so on ad infinitum.
+
+104
+THE HIEROGLYPHIC CHARACTER
+Of this we possess an excellent illustration in the reading of Chinese
+works by Japanese. The ideas conveyed by the characters are
+identical, but the sounds affixed to each are perfectly distinct. To a
+less extent the same may be noticed in the case of Chinese from
+different provinces reading the same book or manuscript, and there-
+fore I am inclined to believe that the expression "sound of a
+character" is radically erroneous, and should be replaced by the
+equally terse expression "name of a character." This flows directly
+from the consideration that characters in the first instance represented
+ideas and not sounds, and had no relation to a spoken language.
+Indeed it is manifest that, did any one possess the requisite
+perseverance and memory, he might learn the written language of any
+country without the slightest acquaintance with the spoken tongue,
+and without any attempt to analyse each concrete symbol into its
+elements. It is in this manner to a very considerable extent that the
+Chinese language is learned; indeed what saves the student from the
+incalculable labour of such a process is the ideographic character of
+several of the symbols. Were this fact fully recognised, and the
+greatest possible advantage taken of it, many of the difficulties which
+now surround the acquirement of a competent knowledge of Chinese
+would disappear. The Abbé Huc, than whom few have possessed
+more favourable opportunities for arriving at a correct judgment on
+the subjects of Chinese language and literature, thus sums up his
+sketch of the formation of the written characters:-
+It would be impossible to calculate the traditions, the allusions, the unexpected
+analogies, the picturesque and epigrammatic features which are thus enclosed in these
+characters, and it is incredible what light would be thrown on the ancient moral and
+philosophical opinions of the primitive nations of oriental Asia by studying carefully,
+while guarding against too hasty theorizing, these symbolical expressions in which they
+have painted unconciously themselves, their manners and the whole order of things
+under which they have lived and with which history has made us so imperfectly
+acquainted, since they date from a time when history was not.
+In following out the plan of this paper I would desire to trace as
+rapidly as possible the statements made by the Chinese with regard
+to the formation of the written characters, and then to examine a
+few of those characters themselves and endeavour to derive some
+information from their analysis. But first it may not be out of place
+to consider how little of an alphabetic nature there is in the Chinese
+language. The symbols are to be taken in their entirety as repre-
+sentatives of ideas, possessing sounds or names, but those names have
+been affixed arbitrarily without an attempt to combine them out of
+phonetic elements. That is to say, the name or sound of a complex
+character is not the sum or approximate sum of the sounds of the
+characters which combine to form it. In this it differs from every
+Pictured idea.
+
+OF THE CHINESE WRITTEN LANGUAGE.
+105
+other language, for we are informed that even the Egyptian
+hieroglyphics have a phonetic power as combinable letters in addition
+to their ideographic character. The alphabets of Europe and Asia
+are directly traceable to a hieroglyphic origin, the Japanese alphabetic
+signs, for example, being either Chinese simple characters or modifi-
+cations of them.
+The characters of the Chinese language may, on one principle of
+division, be classed under three heads:-Radicals or Determinatives,
+Phonetics, and combinations of these two. I will again refer to the
+nature of the Radicals, for the present I wish to confine myself to the
+consideration of the phonetic elements. Remusat enumerates six
+hundred and fifty-nine characters (including many Radicals) which
+give a clue to the sounds of combinations wherein they are found.
+I say "a clue," because in the majority of instances characters of
+different sounds will be found under the head of one phonetic. Thus
+the character Kung which means to include, gives its own sound to
+供 to offer. 供 horror stricken, 拱 to salute, a pillar. 琪 a certain
+gem, and to present, while in combination with , I, k, k
+with T, with, and it is named Hung, and the characters
+mean respectively, to deceive, a banner, a torrent, a water pipe, a certain
+plant, a valley and to fight. It also gives the sound chiung to the
+compound to freeze. Instances of the same kind might be adduced
+to illustrate the power of the other phonetics, but this will suffice. It
+must however be carefully remembered that many characters do not
+admit of this accurate analysis into radical and phonetic elements, and
+it is this fact that renders such a dictionary as Callery's, in which the
+phonetic classification is exclusively adopted, defective and indeed
+almost useless.
+To revert to the consideration of the original formation of
+characters, native works throw comparatively little light on our
+researches. The Yi King says:-
+The ancients knotted cords to express their meaning, but in the next age the sages
+renounced this custom, and adopted a system of written characters. Thus the officials
+were able (to publish their) ordinances, and the people to understand them, the ideas
+being clearly conveyed.
+No doubt this Chinese chieh a knot, answered exactly to the
+quipus wherewith the ancient Peruvians transmitted their ideas,
+as well from one to the other as to succeeding generations. It may
+also be inferred that by the knotted cords adopted by the Chinese,
+abstract ideas as well as sensible objects were represented. Thus, in
+the case of the Peruvians, to take Prescott's examples, while a white
+knot denoted silver, and yellow gold, they respectively denoted in a
+Compounded of the phonetic and lung a dragon.
+†, t... DE, WA. D.
+
+106
+THE HIEROGLYPHIC CHARACTER
+secondary sense, peace and war. In the early periods of the world's
+history, when traditions were handed down orally, knotted cords were
+perhaps more useful as aids to memory than as records in themselves,
+yet it cannot be doubted that they were capable, in at least some
+instances, of literal translation. Accepting the assertion that the
+starting point of Chinese writing was a knotted cord, history informs
+us that Fu-hi invented characters and made books. He is said to
+have derived his inspiration from the appearance of the heavens, the
+earth and the middle sphere. A subsequent labourer in the same field,
+the philosopher Tsang Chiai, or as some say the Emperor Tsang, was
+supplied with suggestions for the construction of characters by the
+tracks of birds and beasts, but these traditions are evidently attempts
+made in later ages to explain phenomena the origin of which is lost in
+obscurity. The which is the oldest work extant on the history
+of the written character, informs us that the characters were con-
+structed on six plans according to the different classes of ideas to be
+represented. These were Hsiang hsing or pure images, Huei yi or
+combined ideas, Chi shi or indicative pictures, Chuan chu or reversible
+images, Chia chié or borrowed images, and Hsing shêng or phonetics.
+Of the first class or pure images are those ancient forms such as
+OD which are preserved in the modern 子, 日, 月, 目 and
+5. Of the second class which represent combined ideas, ming
+bright, a union of the sun and moon, is a good example. ト pu
+divination, is evidently derived from some instrument such as a
+divining rod, and somewhat resembles the Egyptian a hand. It
+may therefore be taken as an illustration of the Chi shi or indicative
+pictures, as in it the idea of divination is symbolised by a divining rod.
+The same may be said of . E and chên and fa, now written E
+and, may be taken as examples of the Chuan chu or reversibles,
+which however are very few in number. The fifth class or borrowed
+images is illustrated by Remusat as follows:-
+In order to express abstract ideas or acts of the understanding, a secondary
+meaning is attached to simple or compound characters denoting material objects; or the
+symbol of a substantive is made to denote the verb which expresses the corresponding
+action. Thus the heart represents the mind or the understanding, a hand stands for a
+workman, three pictures of men placed one behind the other signify to follow.
+The latter example should probably be referred to the second
+class, combined ideas. The Chia chié taken as a whole is a division of
+words rather than of characters for, for example, while represents
+pictorially or ideographically a hand, it is only in relation to the
+arbitrary fashion of the language whereof it has been made a symbol
+that it can be held to represent, as it occasionally does, an artisan or
+worker, as in the phrase a water workman or sailor. Where
+synecdoche (if I may use the term) has been applied to the form as
+well as to the matter of a written language, ideographic characters
+
+OF THE CHINESE WRITTEN LANGUAGE.
+107
+so treated may be traced through the history of their changes, but can
+no longer be regarded as hieroglyphics. Lastly we have the Hsing-
+shing or phonetics which, as I have already shown, play an important
+part in the construction of each character. The first four classes
+are apparently purely hieroglyphic in form or may be traced to
+forms identical with true picture writing. Thus (M) hills,
+(composed of trees and the eye) to examine,
+() above,
+and and E) right and left are either pure or more or less
+modified hieroglyphics.
+It will thus be seen that the inventors of the Chinese written
+character, by combining certain hieroglyphic elements in accordance
+with the principles which I have detailed, have succeeded in gaining
+the power of representing sensible and ideal objects. The characters,
+are the representatives of ideas and not of words, and hence the
+judicious combination of characters in a Chinese written sentence
+possesses a power on the imagination which the most effective colloca-
+tion of words could not exert. Of this we have a notable example in
+the description of the deluge of Yao given in the Shu-king or Historical
+Classic, and cited by Abel Remusat as an example of the pictorial
+nature of Chinese writing. The passage is as follows:-
+帝日 咨 四岳湯湯洪水方割蕩蕩
+Ti yue tsu SZU yo shan shan hung shui fang ke t'an t'an
+懷山襄陵浩浩滔天
+huai shan hsiang ling hao hao t'ao t'ien, which he translates:-
+Imperator ait, Oh quatuor montium (profecti) inundantes inundationes diffluentes
+aquæ passim vexant, diluvies diluvians operit montes, superat juga, torrentes torrentes-
+que mergunt coelum.
+It is evident from a mere inspection of the characters composing
+the passage alluded to that any one who happened to know the Chinese
+hieroglyphic for water 7 or i, would have at least an idea of what
+the meaning to be conveyed is.
+I have already stated the effect of the introduction of phonetics,
+and I would now draw attention to the peculiar action of radicals
+or determinatives. Probably the best examples of the mode in
+which a radical determines the genus of the character in which
+it is found are the and groups, although it is difficult to
+establish a preference for these groups over those classed under
+A,,, and one or two others. With very few excep
+tions all the characters arranged under the and radicals
+By the way I would remark that in Remusat's plate the characters are written
+incorrectly.
+
+108
+THE HIEROGLYPHIC CHARACTER
+refer to metals, minerals, metallic instruments or ornaments,
+and to diseases and their effects, respectively. These groups are
+the most favourable for examination with regard to the possibility of
+dividing each character into two elements-a generic and a phonetic
+element, and the results obtained from such examination are most
+remarkable. I need not occupy your time by detailing at length what
+may be seen from the simple study of a radical dictionary. It will
+suffice for me to state that out of the 124 characters ranged in Kanghsi's
+dictionary under the radical, embracing those containing in all from
+ten to thirteen strokes, 94 are either identical in sound with the phonetic
+element or possess very slight modifications of that sound. Of these 94
+therefore the idea and the sound may by inspection be ascertained, the
+latter exactly, the former approximately. How true this is, will be at
+once evident to any one who will take the trouble of constructing
+a table of characters under the following heads, which in some cases
+are mutually inclusive:-
+Ist. Characters possessing a radical and a phonetic well marked;
+such as tung copper, and thousands of others. 2nd. Those which
+are formed of one or more simple characters which do not include a
+phonetic but include at least one determinant, such as,, and
+others. 3rd. Those in which there is no simple element which can
+justly be regarded as a determinant, for example a character. 4th.
+Those in which neither element can be assigned as either a radical or
+phonetic as in . 5th. Those in which both elements are phonetic,
+and neither can claim rank as a determinant; for example chi wise,
+composed of two identical characters possessing the sound chi, but
+meaning fortunate or lucky; and 6th, those wherein neither element is
+phonetic, but where the meaning of the complete character is a
+combination of the meanings of its elements. Such are ming, bright,
+composed of the sun and the moon †, chén a needle, composed of
+metal and an ancient representation of a sword, hsiang to
+examine, composed of m, the representation of a tree or trees, and
+mu the eye. Of these many are to be found, indeed they form the
+only important exception to the first class. This division is co-exten-
+sive with the Huei yi or combined idea class which I illustrated above.
+Such a table as this would prove clearly that the majority of
+characters belong to the first class, that is, possess a well defined
+generic element and an equally well defined phonetic element, while
+an important section may be ranged under classes 2 and 6. To this
+extent, therefore, the language, from what may be styled a mere
+superficial examination, appears evidently to possess important
+hieroglyphic characteristics which have not been lost since those early
+"Jih, yue, chin, shi.
+
+OF THE CHINESE WRITTEN LANGUAGE.
+109
+ages wherein Fu-hi studied "the heavens, the earth and the middle
+sphere."
+A question of considerable importance to this subject, is whether,
+given the present 214 radicals, the characters were formed from them
+by a process of word-building, whether, given the characters, the
+radicals were produced by analysis, or lastly whether either of these
+suppositions is correct. Although Fourmont expresses a distinct
+opinion that the two hundred and fourteen acknowledged radicals
+forma complete and methodical system of hieroglyphics, my impression
+is that they are not co-extensive with the original picture characters,
+but that these latter having been combined into complex characters
+in accordance with the rules laid down by the F, the history of
+such combinations not being well known, the radicals were
+eventually derived from those complex characters themselves. This
+will appear probable when we consider that many of the radicals
+cannot by the utmost stretch of the imagination be brought to
+represent ideographically the objects they are supposed to denote.
+For example ku a drum, ancient form, and many others. But,
+moreover, the 214 characters now acknowledged as radicals are of
+recent adoption. In the , written B. C. 1000, the radicals or
+are stated to be four hundred and seventy-nine in number. In
+the Shuo wên (A.D. 100) the number of determinant forms is arbitrarily
+extended to five hundred and forty, and in the Yu pien they are further
+increased to five hundred and forty-two. Thus we must be careful
+not to assume that the radicals represent the original picture forms
+subsequently modified in accordance with fashion or necessity. It
+may now be impossible for us to penetrate into that dim antiquity
+wherein the original hieroglyphics of China lie shrouded. The
+monuments which might have perpetuated them have been utterly
+destroyed in the course of the countless revolutions and rebellions
+which have devastated the Empire from time to time, and the mater-
+ials wherewith we are provided to assist our investigation of the
+mode in which characters were originally formed are simply the
+characters themselves, and our own powers of analysis.
+Starting then from the simplest forms, whether we call them
+radicals or not, we find indubitable traces of a hieroglyphic origin.
+The first and most noteworthy is the character yi "one." Passing
+on we meet man, knife, a child, a hill, above, and
+the heart, with several others gradually increasing in complexity.
+From the entire number of so-called radicals or determinants we
+may select at least seventy-four which carry their meaning more
+or less legibly stamped upon them, and perhaps half a dozen more
+which may be classed as doubtful. But it must ever be remembered.
+that there is no fixed principle to guide us in the selection of
+elementary characters, the classifications which have hitherto been
+
+110
+THE HIEROGLYPHIC CHARACTER
+made being merely the result of an acknowledged want of some system
+of division. In some cases the determinant under which a character
+is placed in Kanghsi's dictionary, which we have learned to look on as
+the standard, is not that element which predominates in the logical
+analysis of the character, but generally the radical may be taken
+as a guide to the sense. It is also worthy of remark that out of
+the 214 radicals now acknowledged, twenty-six are unused except in
+combination.
+In order to illustrate the manner in which characters are formed,
+Abbé Huc adduces the following examples, which serve to display
+popularly the genius of the language:-u, "anger" is formed
+from nu, "a slave" surmounting hsin, "the heart," in which
+relation the combination may be compared with the English passion
+as derived from the Latin patior. shi "a historian," composed of
+shou "a hand" holding up "the middle," and setting forth that
+undeviating line of justice and moderation which should distinguish
+the historian from the partisan; and pêng "friend" formed of the
+combined representations of two pearls. Remusat again takes a
+group constructed from the 102nd radical, tien "a field," which by
+its form evidently denotes the division of an expanse of land into
+lots. Thus he shows that miao, "which is made up of a field
+combined with the radical which signifies the growth of plants, means,
+"the first fruits," and asserts that the latter in combination with
+fang produces the character miao a temple, or place for offering the
+"first fruits;" but in this he is mistaken. Again he adduces the
+combination of 7k and to form the character hai "the sea,"
+and lastly the combination of H and sau "a temple" to denote
+a measure of time, the latter being compounded of and thus
+offering a remarkable analogy to the Latin templum which was
+probably derived from tempus.
+Before closing this paper it may not prove uninteresting to give a
+few examples of the peculiar combinations of elements in Chinese
+characters. They will serve to illustrate what I have stated above,
+and may lead to the discovery of some interesting analogies between
+Chinese characters and the hieroglyphics of ancient Egypt. As the
+Society is fortunate enough to count amongst its members an eminent
+Egyptologist, we shall probably be indebted to him for some facts
+showing how under different conditions the same problems have been
+solved in China and in Egypt. And first I would notice a small class
+of characters which do not readily come under any of the heads which
+I have enumerated, in which the principle of combination may be
+said to be mechanical. An example of this is the character chien "a
+pyramid" composed of hsiao "small," above ta "great," which
+Meaning every, often or frequently.
+
+OF THE CHINESE WRITTEN LANGUAGE.
+III
+points out not only the different dimensions of the various parts, but
+in so many distinct words states that the object of which it is the symbol
+is large at the base and small at the apex. Of the same class is the
+character chang "evening" formed () of H jih "the sun" below
+shan "a hill;" the sun sinking below the hills, although this may with
+propriety be referred to the ordinary Huci yi or "combined ideas."
+уи
+The language possesses very few characters which express abstract
+relations. Thus for the idea of "being" in the abstract it has no
+better expression than Eyu tsai "have get here," or shien t'i,
+which may be translated "actually embodied." There is no simple
+character to express the abstract idea of existence. In the same
+manner it is in phrases alone that we must look for terms to express
+such ideas as "a being" or "a substance." We must not lose sight of
+the imaginative element in the language, whereby expression of a
+single idea when condensed into a character reveals to us the thoughts
+working in the inventor's mind at the time when he made the com-
+bination, and enables us to follow out the train of reflection which led
+to the adoption of such or such a form. Thus the character chiai "a
+limit," formed () of the character for corpse and a lump of earth
+seems to teach the important lesson of the frailty and uncertainty of
+life. Another principle which may be styled the principle of intelligi-
+bility has also not been without its influence. Traces of its power are
+to be found in all languages, as for example in the word main de
+gloire, which is a corruption of mandragore, and the more familiar
+instance of sparrow grass as a vulgarism for asparagus. In Chinese,
+instances of the effect of this principle are frequently to be found, but
+one example will serve my purpose. The original form of the
+character shai, to shoot with a bow, was a hieroglyphic representation
+of a bow-thus -which was perfectly intelligible. Subsequently
+modified, however, probably by fashion, it is subsequently found in
+this form wherein almost all trace of its original pictorial character
+is lost. As therefore the characters were gradually modified and
+brought into their present sung pan and kai shu forms, the character
+shai had a spurious derivation assigned to it, and is now written
+being moreover derived by Morrison from the body and ja
+measure, "to send from the body to a measured distance." One
+further instance, and I have done. It will illustrate the difficulty
+occasionally experienced in tracing characters to their original forms.
+tui signifies to yield to an impulse, and according to Morrison is
+derived from luxuriant growth of plants, the mouth speaking at
+random and a measure. It is said that the emperor Wan of the Han
+dynasty, anxious to teach his subjects, or, as many of them as could
+read, a great moral lesson, directed that the character in the com-
+pound should be replaced by t, to show that a man should be
+influenced not by idle talk but by the deductions of reason. The
+
+112 THE HIEROGLYPHIC CHARACTER OF THE CHINESE LANGUAGE.
+emperor while desiring to perpetuate his fame as a moral philosopher
+forgot perhaps the confusion into which arbitrary changes of this
+kind must throw the etymography of the language. Thus, partly from
+ignorant attempt to render the formation of the character intelligible,
+partly from the varying taste of writers, and partly for the sake of ex-
+pedition, the manner of writing the characters of the Chinese language
+has from age to age undergone extraordinary changes which render
+the investigations of the student who looks for original forms often
+fruitless, and ever tedious. But even allowing for these difficulties,
+the analysis of the written character if carefully carried out cannot
+fail to reward the student, by throwing light on the original con-
+struction of the language and teaching much of the history of
+human thought as applied to the construction of a means of inter-
+communication.

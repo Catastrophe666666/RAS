@@ -1,0 +1,2766 @@
+ARTICLE IL
+PERIODICAL CHANGE OF TERRESTRIAL
+MAGNETISM.
+BY F. W. SCHULZE.
+CHAPTER I.
+LANCING over the contents of Whitaker's Almanack for
+1878, my attention was called to the remarks in a short
+article on Terrestrial Magnetism, "that the dip, like the decli-
+"nation, is subject to secular, and other variations, the true
+"laws of which are not yet understood, etc."
+Thinking it possible to give a satisfactory account of these
+changes, I herewith attempt a modest essay to do so.
+According to Miller and Pouillet's, "Lehrbuch der kosmi-
+schen Physik," Braunschweig, 1856, the variation in Paris has
+been Easterly before 1663 decreasing. By Sir James Ross,
+the latitude of the magnetic North Pole is in the parallel of
+70° N.; and bearing in mind, that the magnetic needle (if not
+deflected by local attraction), points to the magnetic pole, it is
+only natural to suppose, that prior to 1663, the magnetic North
+Pole must have been somewhere to the northward and eastward
+of Paris, moving towards the meridian of Paris probably in the
+latitude of 70° Ñ. and passed near the meridian of Paris in
+1668, in which year the variation was Zero; then the magnetic
+pole continued its westerly movement until 1814; the varia-
+tion attained in that year its western maximum of 22° 34'.
+Since then, the pole continuing its westward motion, the west-
+erly variation at Paris decreasing, until about the year 1965,
+the pole passes near the meridian of 180°, by the west of Paris,
+when at the latter place the variation will become Zero, and
+becoming easterly again afterwards attaining its eastern maxi-
+mum when the pole passes the meridian of 90°, cast of Paris,
+in about the year 2116; then the eastern variation at Paris will
+decrease becoming Zero, when the magnetic pole returns to the
+meridian of Paris, about the year 2267.
+For illustration, take a terrestrial globe, and a ball of twine
+and attach the end of the twine to the geographical position of
+Paris; then place the ball on the same meridian, but on the
+parallel of 70° N. lat.; in which latitude perform an act of pa-
+
+38
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+rallel sailing by means of the ball, to the westward, slacking
+the twine as required, but keep it sufficiently tight to represent
+a segment of a great circle; after passing the meridian of 180°,
+roll in the twine as required, until the ball returns to the meri-
+dian of Paris, in 70° N. lat. whence it departed. The direction
+of the thread has undergone the same variations, that the mag-
+Detic meridian of Paris is subject to, on the surface of our earth.
+It is true the variation at Paris, would change exactly the
+same way, if in 1663, the magnetic pole had been in 70° N.
+lat. and 180° long. (from Paris), shifting in an easterly direc-
+tion towards the meridian of Paris; but, recollecting that the
+dip of the needle increases, when we approach a pole, it must
+be the same thing if the pole approaches us; now the inclina-
+tion at Paris is decreasing since 1671, the earliest reliable re-
+cord (given in the above quoted work on cosmic physics) at my
+command. Therefore the variation pointing to the northward,
+and westward of Paris as the present position of the magnetic
+pole, and the dip of the needle indicating it is moving away
+from Paris, it cannot be in an easterly direction, but must be
+westerly, at least as long as no valid reason exists, to suppose
+that the magnetic pole changes its latitude also.
+The inclination has probably been decreasing since 1168,
+when it must have been a maximum (the magnetic pole passing
+then between the true one, and Paris); it will become a maxi-
+mum about the year 1965, and then increase again until about
+the year 2267, when the magnetic pole will return to the meri-
+dian of Paris.
+The secular variation of the compass shews, that the magne-
+tic pole is moving round the true pole, and the inclination de-
+cides, that it must be from east, towards the west; at about the
+rate of 151 years for the quadrant (from the meridian of Paris
+in 1668, to 90° west of Paris in 1814), or about 604 years for a
+complete revolution, or at the yearly rate of about half a degree
+at a rough estimate.
+An inspection of Duperrey's chart of magnetic meridians,
+shews the irregularity of those curves; therefore the calcula-
+tions introduced cannot claim to be mathematically exact, the
+full truth perhaps will only be learned by careful observations,
+and experience of future centuries.
+Now, take again a globe, and construct roughly a movable
+system of magnetic meridians around it, with a circle equidis-
+tant from the magnetic poles, to indicate the magnetic equator;
+then place the magnetic North Pole on the parallel of 70° N.
+lat. and move the magnetic pole on that parallel round the true
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+89
+one, from east towards the west; you will then have a fair re-
+presentation of the movements of the whole system of magnetic
+lines, as it really occurs on our earth; a precession of the mag-
+netic equator on the geographical one from east, towards the
+west, will take place, and a nutation of the magnetic poles
+round the true ones, in the same direction.
+In this chapter we have seen how the secular changes are
+taking place, in the following one I hope to shew more expli-
+citly the reasons why.
+CHAPTER II.
+SINCE writing the first chapter I have been favoured by the
+kindness of a friend (to whose valuable assistance I am much
+obliged in compiling these lines) with a copy of "Magnetism
+and Deviation," by John Merrifield, LL.D., F.R.A.S., etc., Lon-
+don, 1874, in phich I find on page 15, the following passage:-
+"Professor Barlow, in his Essay on Magnetic Attraction, says,
+"all these variations can be accounted for by supposing the
+"Magnetic Poles to revolve round the terrestrial ones from
+"West to East, at about 20° from the latter in periods of about
+"600 years.
+Sir W. Hamilton gives a contrary direction to the
+"revolution, and states the period to be 900 or 1,000 years."
+I am not astonished that others should have conceived
+similar ideas to mine, before me. However, Professor Barlow
+gives a wrong direction of the revolution, and Sir W. Hamilton,
+allows perhaps too many years for its completion.
+Commander W. Walker, R.N., in his book, "The Magnetism of
+Ships and the Mariner's Compass," London, 1863, page 8, speak-
+ing of Columbus, who had discovered the variation of the Com-
+pass, writes as follows:-"On his return to Spain his statement,
+"that the direction of the Compass had varied was not believed.
+"Although other Navigators had observed and announced
+"the variations of their Compasses, the learned of those times
+"would not admit the fact, they rather choose to charge sea-
+"men with ignorance, and inaccuracy in their observations,
+"then admit errors in the principles established by themselves.
+"Pedro de Medina, in his Arte de Navigar, 1545, denies the
+"variation of the Compass; Martin Cortez, in a treatise on
+"Navigation printed at Sevilla before 1556, treats it as a thing
+"completely established. So here we see, that a period of 60
+"years olapsed from the time of Columbus, observing and re-
+"porting the variation of the Compass before the truth of its
+"existence was admitted."
+
+40
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+I hope it will require less time, before the truth of what I may
+be permitted to call "The Rotation Theory" will be admitted.
+Mr. Merrifield gives the date of Captain Ross's discovery of
+the Magnetic North Pole, the year 1830. According to the
+theory deduced in the preceding chapter the Magnetic Pole
+must have been in 90° W. of Paris, in 1814. Moving from that
+year to 1830, at about 35' 45" per year nearly, to the West-
+ward, 9° 32', which would place the Magnetic Pole in 99° 32′
+West of Paris, or about 97° 12' West of Greenwich; Sir James
+Ross found it 96° 42' West of Greenwich, half a degree from
+where I would place it approximately; I consider this the most
+conclusive proof of the soundness of the basis upon which my
+theory is founded.
+From the same book of Mr. Merrifield's, I see that Capt. E.
+J. Johnson, R.N., F.R.S., places the maximum (24° 27) of
+Western variation in 1815, but Colonel Beaufoy gives 24° 21',
+as maximum in 1819, less modern observations, owing to the
+then still more imperfect instruments, can therefore hardly
+have been very correct, and calculations based upon them can-
+not be very reliable; however, they are quite sufficient to
+establish the principle in question firmly.
+And now we will try to investigate the cause of this Magnetic
+Polar rotation.
+Allowing that the thermometer rises one degree (celsius) for
+every 90-100 feet, towards the centre of the earth, (after
+Müller and Pouillet, Lehrbuch der kosmischen Physik)," "at
+"a depth of about 10,000 feet water would boil, and at about
+"20 nautical miles, basalt and iron would melt," but I will be
+liberal and allow 25 miles below the surface of the earth as the
+limit, where we would meet a fiery molten mass.
+According to "The Border lands of Geology and History" by
+Thomas W. Kingsmill, Shanghai and London, 1877, by Mr.
+Mallet's "Physico-chemical Theory," "the earth is now a ball
+"entirely, or in the main solid, but of high temperature."
+the same work Mr. Kingsmill tells us of Sir W. Thomson, "but
+"although he rejects a fluid nucleus (of the earth) he acknow-
+"ledges, that the absence from the sea of long period tides is
+"not easily explained without admitting a considerable degree
+"of yielding." "If the interior of the earth were liquid and its
+"crust composed of so rigid a material as steel, and 300 miles
+"thick, it would yield to the deforming influences of centrifugal
+"force, and the attraction of the sun and moon, as if it were
+"India rubber; under such circumstances, as the whole mass
+"of the earth would be free to move, there could be no flow of
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+41
+"tides, sea and land yielding equally to external influences."
+I will not enter the field against Astronomers and Geologists;
+I am content to let them fight their own battles; probably the
+truth lays in the middle: "les extrêmes se touchent;" there-
+fore I will try to steer a pretty clear mid channel course
+between the Scylla of solid ball, and the Charybdis of fluid
+nucleus theories.
+Presuming at about 25 miles below our earth's surface the
+heat intense enough to melt all known rocks and metals, I
+should think it very unlikely, that the limit between solid crust
+and fluid interior were defined, as if cut off with a knife; I
+think one would be gradually verging into the other, more or
+less in the following order :-Outside solid crust about 25
+miles; then accumulating solidifying, semi-liquid slake, suc-
+ceeded by molten fiery mass. Now, let us consider what would
+be the pressure of such a mass at about 2,000 miles from the
+surface on a square foot.
+=
+Accepting the specific gravity of the earth as five times more
+than distilled water (according to F. Reich, 5.58, and Baily
+5-66), then a column of 2,000 nautical miles 12,160,000 feet
+deep x 1 feet x 1 feet of distilled water at 60-5 lbs. per cubic
+foot, will weigh 785,680,000 lbs.=828,428 tons, multiplied by
+5 (specified weight of earth roughly)=1,642,140 tons pressure
+upon a square foot on the surface of the earth, the same column
+if placed upon a square foot at 2,000 miles below the surface
+would probably weigh less-(I am not prepared to say how
+much) therefore we will disallow a whole million of tons, and
+still the enormous weight of 642,140 tons remains; but even
+then there is such a tremendous pressure upon the square foot,
+that I believe no molten mass of whatever high temperature
+could remain liquid under such a stupendous force, but would
+obtain a state of almost inconceivable density, that steel com-
+pared to it would be like cheese.
+Late experiments have shewn, that almost all known gases.
+by application of extreme cold, and high pressure can be forced
+into the liquid aggregate state first, then into the solid state
+afterwards; and since it is assumed that our whole earth from
+a gaseous state of high temperature cooled down into its present
+condition, I cannot be far wrong in representing the nucleus of
+the earth as possessing indeed an enormous high temperature,
+but solidified by excessive superincumbent pressure.
+These suppositions being accepted as approximately correct,
+would give us a body of "a considerable degree of yielding,"
+to account for the absence from the sea of long period tides,
+
+42
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+and still not so elastic as India rubber, as not to shew any
+tides of the sea at all.
+Allowing under the solid but sufficiently yielding crust of
+the earth a fiery liquid, with a fiery solid nucleus within, we
+must allow that the influence of the same heavenly bodies,
+which cause the tides' of the liquids outside the earth (the
+Ocean) will do the same with the fiery Ocean within; and this
+daily interior flood wave will cause a retardation of revolution
+in the interior fluid mass in exactly the same manner, as it
+does in the Outer Ocean; it causes a westward tendeucy in
+the former as well as in the latter, and which I must suppose
+to be too well and generally understood, that I need not enter
+here into the explanation; because it is not my object to ex-
+plain things which others have done much better than I can;
+but to demonstrate if possible the nature, and causes of the
+magnetic needle's periodical variations.
+Admitting this daily retardation of the fluid interior inclusive
+the solid nucleus within it (like a sluggish compass card, that
+remains behind, when the ship's head moves round), it does
+not matter whether we say, in about 604 years, the outside
+shell of the earth makes one revolution ahead of its contents,
+or whether we say, the latter remains one revolution behind
+the former; the effect is the same, provided we can prove the
+nucleus of the earth to be the carrier of Terrestrial Magnetism;
+because in that case the nucleus with its Terrestrial Magnetism
+would be like a powerful magnetic needle (suspended in a
+spherical compass bowl), moving in a liquid (like in an ordinary
+liquid compass).
+In the next chapter it will be attempted to shew the high pro-
+bability why the nucleus of the earth should be the carrier of
+Terrestrial Magnetism.
+CHAPTER III.
+In the accompanying figure, let M represent the magnetic pole.
+in 1668, passing between the true North Pole T and the geo-
+graphical position of Paris. A-C is the horizontal line at
+Paris, and the angle AB P of 75° the assumed maximum dip
+of Paris in the same year, probably near the truth; P is a point
+in the interior of the earth, where the inclination needles from,
+the surface pole M and Paris, would intersect at the pole of the
+nucleus P, fixing as it were, the latter by crossbearings,
+I am aware, that in reality this is not exactly the case, but
+do not doubt that a good mathematician could easily lay down
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+43
+the unknown point X accurately, the position of the actual
+magnetic pole upon the earth's nucleus :-
+OUTER SHELL
+SEMI-LIQUID
+FIERY LIQUID
+SEMI-SOLID
+NUCLEUS
+:D
+--------
+T
+1663
+Commander W. Walker, R.N., in the before mentioned book,
+says, (page 17), after giving a list of bodies capable of magne-
+tism besides iron, "Sir W. Harris found, that by condensing
+"metals, their magnetic energy was increased, and that sub-
+"stances remain magnetic or take up magnetism more quickly,
+than they part with it."
+This seems to imply, that magnetism can be generated in
+bodies by increasing their density, or, as I may say: if the
+density of bodies is increased by exterual force, then the
+latter performs partly the work, which previously affinity
+had to do, in keeping the molecules of the bodies together,
+and hitherto latent affinity becomes free, putting in an
+appearance as magnetism; or, by high pressure, a certain
+amount of affinity of bodies, through inereasing their density
+A
+100 PARIS.
+
+44
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+mechanically, becomes free and translated into magnetism.
+For fuller exposition of this view see first appendix.
+Now I believe the enormous power of gravity a couple of
+thousand miles below the surface of our planet, of which a
+rough estimate has been introduced in the preceding chapter,
+sufficient to disengage enough molecular affinity and translate
+it into what we call terrestrial magnetism, to account for all
+phenomena of the latter.
+The magnetic matter of the nucleus would settle itself in the
+axis of the earth's rotation, because there it would be least dis-
+turbed by the centrifugal force of the daily revolution; round
+the poles of the nucleus, all bodies of a higher magnetic capa-
+city contained in the molten mass between nucleus and crust,
+would collect, especially iron, nickel, cobalt, etc., the same as
+iron filings gather to the poles of a magnetic needle; or much
+in the same way as we arm a natural loadstone magnet at the
+poles by soft iron; the whole magnetic apparatus would most
+likely represent an oval shape.
+The explanation here introduced may be right, or wrong,
+still terrestrial magnetism tells us by the inclination needle
+from its residence, and no doubt also its cradle, the nucleus of
+the earth; "J'y suis, j'y reste," and my principal endeavour
+is to account for its periodical changes only.
+CHAPTER IV.
+SUN
+A
+C
+S
+-B
+No. 1
+No. 2
+FIGURE No. 1 is the spheroidical form of the earth at the sum-
+mer solstice; A B is the plane of the ecliptic; WE the plane
+of the equator; N S the polar axis, and to the right is the sun.
+During the summer solstice the sun attracts E more than C
+or W; the effect of this would be to place N S at a right angle
+with A B in the direction of the arrow; this is prevented by
+the centrifugal force of the earth's daily revolution from west to
+east, which brings constantly other masses of the revolving
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+45
+earth under the stronger point of attraction of the sun in E;
+the consequence is a circulation of the earth's more yielding
+fluid interior, as a result of the parallelogram of forces brought
+to bear upon it; this circulation, if graphically illustrated,
+would represent an oval shape, the greater axis of which would
+be congruent with the axis of our planets magnetic nucleus.
+In figure No. 2 is the earth at the winter solstice; W is more
+attracted than C and E; the tendency is to elevate N S at
+right angles to A B in the direction of the arrow; the influence
+upon the interior is the same as in fig. No. 1.
+Place sun and moon for ever on the equator, or place them
+for ever at the poles, and the magnetic axis of the earth would
+soon coincide with the axis of rotation, because the interior
+circulation would then be deprived of its reason to exist.
+It will be seen that during the summer solstice the influence
+of the sun's attraction must be greater in the northern hemis-
+phere, which will cause the greater amplitude of magnetic fluc-
+tuations during the summer months; during the winter months
+the sun's attractive power must be less in the northern hemis-
+phere, consequently also the aroplitude of hibernal magnetic
+fluctuation.
+During the equinoxes the sun's attraction is impartially ex-
+ercised in both hemispheres, and now the moon's influence be-
+comes to be most apparent, her attractive power being so much
+greater than the sun's, because she is so much nearer the object
+of attraction; add to this the celerity with which she constant-
+ly changes her position and it will be accounted for why Father
+Secchi says: "the annual disturbances of the magnetic ele-
+"ments are at a maximum at the equinoxes, and at a mini-
+"mum at the solstices."-(Merrifield.)
+The magnetic equator laid down on a terrestrial globe almost
+coincides with the plane of the ecliptic in the Atlantic Ocean;
+from the interior of South America it runs in a W.N.W. direc-
+tion towards the geographical equator and follows close to the
+latter a parallel course to the same across the Pacific; it cros-
+ses the geographical equator where the plane of ecliptic cuts the
+latter, and then again follows an almost parallel course to the
+geographical equator through the Indian Ocean; in the interior
+of Africa again it almost coincides with the plane of the eclip-
+tic, substantiating as I think, my supposition, that the eccen-
+tricity of the earth's magnetic axis may be due to the tendency
+of the axis of rotation to set at a right angle to the plane of the
+ecliptic counteracted by the daily revolution round the axis of
+rotation.
+
+46
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+CHAPTER V.
+Month.
+1st
+2nd
+Month.
+1st
+2nd
+Jan.......
+Feb.........
+March
+April
+-
+-
+6.7 1.90 July....
+7.4 0-15 August
+11 92-74 Sep.....
+13 96-88 October
++10-92 Nov.......
+12 5 +13-94 Dec.
+May..... 13 5
+June
+12 1+15-04
+13 0
++14-43
+11 8 +11.75
+10 8 +7-97
+69 +3.25
+50+1-32
+In the first column of above table is the mean amplitude (or
+angle comprised between the greatest eastern and western de-
+viation of the needle from the mean daily variation) per month,
+as observed at Göttingen in minutes and tenths of arc; in the
+2nd column is the result of six years' observations at Berlin,
+from 1829 to 1834, expressed in degrees and hundredths Réau-
+mur, giving the mean temperature of every month.
+It will be seen that the maxima of the needle's mean month-
+ly variation in the first column does not coincide with the ma-
+xima of the mean temperature in the 2nd column, which seems
+clearly to prove, that thermo-electricity has not much to do in
+causing the daily variations; in June and July the mean
+monthly variations are not so great (as in the two preceding
+months), although they have a higher mean temperature; the
+reason is because on the first of July the sun is in Aphelion,
+and his attraction decreases inversely, as the square of his dist-
+ance increases.
+The table also shews that not in January and February,
+when the mean temperature is least in Central Europe, diurned
+variation attains a minimum, but in December, when the sun
+is farthest away from the northern hemisphere on account of
+his maximum southerly declination; another proof, that perio-
+dical change of variation cannot be dependent upon thermo-
+electricity produced by the sun, as supposed by many; but the
+greater or lesser proximity of the celestial bodies and their ever
+varying position principally must be looked to, to account for
+these periodical changes.
+Unfortunately from the southern hemisphere I have no ma-
+terial at hand, beyond the scanty information, that the direc-
+tion of the needle there is subjected to the same changes, as in
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+47
+the northern hemisphere, but in an opposite direction; I have how-
+ever no doubt that there the maximum of daily variation must
+take place about Christmas, the sun being then in Perihelion
+and attaining his greatest southern declination.
+At the instigation of Humboldt, in the years 1828 to 1880,
+hourly magnetic observations were taken on previously ar-
+ranged days at Berlin, Freiberg, Nicolayew and Kasan, by.
+which a remarkable parellelism of the needles changes was prov-
+ed; still more so by the labours of the Magnetic Society under
+the presidency of Professor Gauss, about the year 1838, to
+which twenty-seven observations belonged, from St. Peters-
+burg to Dublin, from Upsala to Milan.
+The following well established facts are the result of their
+labours; the diurnal variations are not local, but alike in places
+of nearly the same geographical longitude (no doubt still more
+so in the same magnetical longitude); if in one place a mini-
+mum of variation occurs, 90° east and west of the same, maxi-
+ma will occur, but in opposite directions to one another :-
+N
+W
+M
+B
+P
+E
+S
+14
+
+48
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+The above figure is the northern hemisphere in polar projec-
+tion; N'ES W is the equator, P is the geographical pole, M
+the magnetic one; T is intended for the geographical position
+of Toronto, N the same for Nertschinsk, G the same for Göt-
+tingen, W E is an east and west line; N' S a north and south
+one. Toronto and Nertschinsk are about 180° of long. from
+one another, Göttingen is nearly in the middle between the
+two. From a diagram on page 495 of Müller and Pouillet's
+work, it can be seen that a maximum of easterly variation oc-
+curred at Toronto on the 27th and 28th August 1841. Angle
+BTM of present diagram at 1 a.m., when at Nertschinsk a
+western maximum (angle M N B) occurred, indicated by the
+dotted lines T B and B N, converging at the point B to
+the southward of the mean magnetic pole M; another ma-
+ximum of eastern variation occurred at Toronto at 1 p.m.,
+and at Nertschinsk was a maximum of western variation at
+2 p.m.
+At 11 a.m. we find in Toronto a western maximum (angle A
+TM) and in Nertschinsk an eastern one (angle A N M), and so
+forth.
+A careful inspection of all the other diagrams given (and
+to which I must refer here, not wishing to transgress too
+much), makes the impression of a clearly indicated mag-
+netic tide wave passing several times over the places men-
+tioned; especially clearly shown by the diagram on page
+492 of M. and P.'s work, which represents the daily varia-
+tion at Upsala, Göttingen and Milan, on the 28th and 29th
+May 1841.
+This seems to suggest that indeed subterranean solar and
+lunar tide waves occur complicated, and interfering with one
+and other, and therefore apparently irregular at neap tides;
+but showing clearly and simple when both solar and lunar tides
+become united to a single one.
+Now referring to our diagram (on page 11), the needle
+at T and N cannot point to A and B, unless at the same.
+time the magnetic pole is in those places, and since we
+know, that in Europe the inclination in the forenoon is
+greater than in the afternoon (about 10 a.m. maximum
+and about 10 p.m. minimum), we would have by the diur-
+nal periodical change a clear indication of the actual
+magnetic pole's revolution round its mean daily posi-
+tion.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+N
+b
+W-
+-----
+----
+49
+-E
+8
+B
+B
+In the above diagram W E is the Equator, and N S a north
+and south line; G is the assumed position of Göttingen in the
+northern hemisphere, C is the same of the Cape of Good Hope
+in the southern hemisphere; A is the magnetic North Pole, B
+the magnetic South Pole, and A B consequently the axis of
+Terrestrial Magnetism. Now, when in G the eastern maximum
+AG of daily variation occurs, at C the western maximum
+BCB occurs, and the magnetic axis A B is transferred to
+a 3 the reverse takes place, when in the northern hemis-
+phere the maximum of daily western variation AG occurs,
+in the southern hemisphere an easterly maximum ♪ CB must
+occur, and the magnetic axis is shifted from A B to
+Since it is understood that the poles of the needle point to-
+wards the magnetic poles of the earth, and since the inclina-
+tion needle shews that the seat of Terrestrial Magnetism (see
+3rd chapter) is deeply below the surface of our planet, the only
+
+50
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+natural inference that can be drawn must be that the attrac-
+tion of sun and moon influence the nucleus of the earth in such
+a manner as to draw it bodily towards themselves, and so force
+it to circumscribe a circle with its centre round its mean daily
+position by following closely the movements of sun and moon
+from east to west; boldly pointed out by the variation needle
+at fall and change; flickering, wavering and uncertain, when
+sun and moon are in quadrature; especially if we allow around
+the poles of the nucleus a softer magnetic matter, collected like
+an armisture from the surrounding molten mass.
+But the centre of the nucleus cannot describe a circle round
+its mean daily position, without the magnetic poles also describ-
+ing a circle around their mean daily position; a fact which al-
+ways will be recognisable by watching closely the diurnal varia-
+tions, dip and intensity included, however, much they may
+appear to be confused and disguised by the ever shifting posi-
+tions of the heavenly bodies, and also by the increasing or
+diminishing distances of the magnetic poles from the observer.
+CHAPTER VI.
+KNOWING that all substances are more or less magnetic, and
+that they are very unequally divided in the earth's solid crust,
+it is not surprising, that deviations of the needle from its
+straight direction to the Magnetic Poles should occur all over
+the world, causing irregularities of the magnetic lines; they
+are simply deviations of the needle caused by local attraction
+of Continents, Islands, the presence of rich deposits of magne-
+tic substances in the vicinity, &c.; Müller and Pouillet give
+two points of greatest magnetic intensity on the surface of the
+Northern hemisphere: one in North America, and the other in
+Northern Asia.
+For illustration, I extract one very striking instance from
+Dr. C. Rümcker's Handbuch der Schiffahrtskunde, Hamburg,
+1857, translating from page 888, as follows:-"One of the
+"most remarkable phenomena of this kind is on the Northern
+"Coast of the Gulf of Finland, within the headland of
+"Hangoe,' near the Jussary Cliffs; vessels of 12 to 15 feet
+"draught may pass to the Eastward of Jussary Gadder, when,
+"in line with Western Gadd and Lerharn, all compass needles
+"in 10 fathoms will turn 180° round their axis, returning after-
+"wards to the usual direction."
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+51
+Captain Duperrey's charts of magnetic lines shew a remark-
+able parellelism of Magnetic Meridians between the true and
+Maguetic Poles, especially in the Northern hemisphere which
+can be best accounted for, if we admit the circulation of
+magnetic matter round the nucleus, deflected from the axis of
+rotation by the nutatory influences of the principal Celestial
+bodies, see 3rd chapter,
+CHAPTER VII.
+RECAPITULATION AND CONCLUSION.
+REVIEWING briefly the ground we have travelled over in the
+preceding chapters, it will be recollected, that in the first one
+an explanation is given, how secular change of variation is
+effected; the Magnetic North Pole moving round the true one
+in about latitude 70° N., and about 604 years from East to
+West; the great closed curve of no variation divides the globe
+nearly in a hemisphere of Westerly variation on the right
+hand (looking from the Magnetic North Pole towards the true.
+one), and the hemisphere of Eastern variation to the left (the
+latter enclosing an oval of Western variation in Eastern Asia);
+move a system of magnetic lines around the Terrestrial Globe
+from East to West, keeping the Magnetic North Pole on the
+parellel of 70° N. latitude, and the phenomena of secular varia-
+tion are almost mathematically exact represented.
+In the 2nd chapter it is tried to reconcile the conflicting
+theories of fluid interior and solid ball, in regard to the earth's
+internal structure, as advanced each by high authorities; in-
+troducing gravity as a highly probable agent to compress the
+nucleus of our planet, although of the highest temperature into
+a solid body of the utmost density; and subterranean tide
+waves are pointed out, as most likely to cause one retardation
+of revolution of the nucleus, suspended within a molten mass,
+in about 604 years.
+The 3rd chapter shews by means of the inclination needle,
+that indeed the nucleus of our planet must be the seat of Ter-
+restrial Magnetism, and the whole similarity of our globe to
+the ordinary liquid compass; the solid nucleus being the
+magnetic apparatus suspended near the centre of the earth by
+fiery liquid mass; also the possibility is hinted at, that the ex-
+cessive force of gravitation towards the Terrestrial centro might
+be the cause of Terrestrial Magnetism. The likelihood is
+
+52
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+represented of the whole magnetic central apparatus having an
+oval shape, and that the divergence of the magnetic axis from
+the axis of rotation may be a compromise between the centri-
+fugal force of the earth's quotidian revolution, and the tendency
+of the celestial bodies to elevate the rotatory axis of the fluid
+interior at right angles to the ecliptic (owing to the spheroidical
+shape of the earth), by an ecliptic circulation of fluid mass.
+In the 4th chapter sun and moon are called upon, to explain
+by their attraction and different positions at various times of
+the year the periodical annual changes, and the improbability
+is shewn of thermal-electricity being the cause of them, as
+most authorities on this subject seem to have surmised.
+In the 5th chapter, it is shewn how a daily displacement of
+the magnetic axis takes place; and since that can hardly be
+done, unless the magnetic body itself be displaced, it must be
+accepted as proved, that the magnetic terrestrial nucleus itself.
+is being removed, attracted towards sun and moon, and thereby
+describing a circle round its mean daily position from East to
+West, following the movements of sun and moon, causing
+thereby a daily nutation of the actual Magnetic Poles rouud
+their mean daily position; this actual displacement of the
+nucleus in the direction of sun and moon, when both pass the
+meridian together would to my mind account better for a flood
+wave occurring 180° away from the meridian passage, than the
+best calculation I have ever seen, but never clearly compre-
+hended, concerning this phenomenon.
+What Humboldt has called magnetic storms is perhaps most
+likely to happen, when perigee and full moon occur together,
+especially at the time of perihelion; and the inhabitants of
+volcanic regions may then stand by for subterranean squalls.
+The diurnal nutation of the magnetic poles may be obscurely
+indicated only, sometimes by the declination needle for reasons
+pointed out; but it is imperatively proclaimed by dip and in-
+tensity, which clearly establish an approach of the magnetic
+pole during twelve hours towards the observer and the depar-
+ture from the same during another twelve hours.
+The result of these various movements is an epicycloidal
+track of the magnetic poles round the true ones in about 604
+years from east to west.
+The 6th chapter treats on some minor matters, pointing out
+the probable influences of local attractions, etc.
+Many ideas which suggested themselves while writing, I have
+excluded, as not immediately bearing upon this subject; but
+perhaps may add them on some future occasion, as an appendix.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+53
+My sources of information have been mentioned in the body
+of these pages.
+I trust it can be admitted in fairness to the writer, that no-
+where wild speculations, which cannot be substantiated, have
+been advanced; but that everywhere only natural inferences
+have been drawn from established facts.
+I cannot close this essay without acknowledging gratefully
+my indebtedness to Captain J. H. P. Parker, Commander of
+the China Navigation Company's steamer Newchwang for the
+many facilities and valuable assistance rendered me, while
+writing the preceding chapters.
+Owing to the limited material at my command, when com-
+piling these pages, my judgment may have erred on minor
+matters; but I believe to have given at least in rough contours
+a correct theory of Periodical Change of Terrestrial Magnetism.
+Note. Since the manuscript has been returned to me to see
+the proofs of the woodcuts, I have had an opportunity to read
+Mary Somerville's "Connection of the Physical Sciences," in
+which the view is advocated, that Terrestrial Magnetism owes
+its existence to induction by electricity, evolved by the earth's
+revolution around its axis; but I am more in favour of Sir W.
+R. Grove's opinion, who in his "Correlation of Physical
+"Forces," London 1874, page 9 says:-"But magnetism may
+"now be said with equal truth to be the cause of electricity,
+"and electrical currents may be referred to hypothetical mag-
+"netic lines; if therefore electricity cause magnetism and mag-
+"netism cause electricity, why then electricity causes electri-
+"city, which becomes, so to speak, a reductio ad absurdum of
+"the doctrine." However electricity certainly does cause elec-
+tricity by induction in bodies near it.
+Mrs. Somerville writes in her above named work: "Dr. Far-
+"aday observes that such is the facility with which electricity
+"is evolved by the earth's magnetism, that scarce any piece of
+"metal can be moved in contact with others without a deve-
+"lopment of it, and consequently, among the arrangements of
+"steam engines and metallic machinery, curious electro-mag-
+"netic combinations probably exist, which have never yet been
+"noticed." Perhaps I may be excused for introducing hero an
+extract from a letter addressed to the editor of a local paper as
+a curious specimen of terrestrial magnetic action:-
+STEAM NAVIGATION.
+Having noticed the extremes of propeller blades to be more subject to
+corrosion at their front than anywhere else, I have asked several profes-
+
+54
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+sional gentlemen for an explanation, without however receiving a satis-
+factory answer.
+It appears that the brass sheathing of the shaft, etc., in connection with
+the propeller, forms a closed circuit in the sense of the British Association
+Experiment (compare Deschanel's Natural Philosophy, by Professor
+Everett, London, 1873), and that the electric currents generated by the
+metal's rapid revolutions across the field of force of terrestrial magnetism
+have the tendency to escape by the most projecting points, which, in our
+case, are the propeller blades. Now, the nearest and most powerful con-
+ductor for electricity is the iron ship immediately in front of the blades,
+and "there appears to be no real exception to the rule that electricity, in
+"traversing an electrolyzable liquid, always produces its full equivalent of
+"decomposition."-(Ibid, page 646).
+The "electrolyzable liquid" in this instance is water, which, being de-
+composed into its constituent elements, hydrogen and oxygen, will allow
+some of the latter to combine with the metallic surface of the electrode-
+(front of blade)-forming oxide, i.e., corroding those parts of the blades in
+question.
+The above may appear to many readers an idle speculation without a
+practical object, because the generation of electric and galvanic currents
+and their consequent chemical action cannot be prevented; but a means
+of escape more eligible to the current can be provided by a cylindrical cir-
+cumference (like a hoop) of thin boiler plate, connecting or rather encir-
+cling the blades and projecting an inch or two towards the ship, the width
+of the ring to be decided by experience. The electricity would escape by
+means of this convenience, and would corrode it instead of the propeller;
+affording at the same time additional protection to the latter from fouling
+by ropes, fishing gear, etc.
+Friends to whom I submitted the idea embodied in this ex-
+tract objected to it as unpracticable; but the very screw pro-
+pellor has been opposed by parties then considered competent,
+as impractical and objectionable, until practically introduced
+and approved.
+FIRST APPENDIX TO "PERIODICAL CHANGE OF
+TERRESTRIAL MAGNETISM."
+1.-On the uature of Terrestrial Magnetic Poles.
+SOME interesting information concerning Terrestrial Magnetism
+is contained in the introduction to Horsburgh's first volume of
+the India Directory, 6th edition, London, 1852. Captain Hors-
+burgh says, page XVII:-" Mr. John Churchman, an Ameri-
+"can who was a member of the Imperial Academy of Sciences,
+"St. Petersburg, and Mr. Ralph Walker, the civil engineer,
+"formerly of Jamaica, appear to have published, nearly at the
+"same time, an ingenious hypothesis with a view of solving all
+"magnetical problems, relating both to the vertical and hori-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+55
+"zontal declination of the needle. In a diagram of the two
+"hemispheres on the plane of the equator, drawn by Mr.
+"Walker upon this principle, there are two magnetic poles re-
+"presented at different distances from the poles of the earth,
+"and revolving round the latter in unequal periods of time.
+"The north magnetic pole is placed for the year 1794 in lat.
+"71° N., long. 80 W.; the south magnetic pole in lat. 65° S.,
+"long. 130 E., and by the intersections of the magnetic meri-
+"dians with the terrestrial meridians, the variation of the nee-
+"dle might be found by inspection on these hemispheres for all
+"places on the surface of the globe, were the positions of the
+"magnetic poles well ascertained and correctly laid down, and
+"the needle not subject to aberrations from various causes al-
+"ready mentioned.
+"But exclusive of the perpetual aberration of the needle
+"from permanent causes of nature, it is likewise subject to ad-
+"ventitious and local attractions, liable to operate in a consid-
+"erable degree against the accuracy of any theoretical solu-
+"tions.
+"Mr. Churchman supposes the periodical revolution of the
+"north magnetic pole round the North Pole of the earth to be
+"1,096 years; and the revolution of the south magnetic pole
+"round the south terrestrial pole to be 2,289 years, its motion
+"being much slower than that of the north magnetic pole,
+"which is the cause of perpetual irregularities of the variation
+"of the needle. He is of opinion that when one of the magne-
+"tic poles is in the zenith of any place, magnetic tides or great
+"inundations will there be experienced; and when the magne.
+"tic pole is far distant from any place, the sea will recede, and
+"alluvial land will be formed. Mr. Walker, besides his dia-
+"gram for showing the horizontal declination of the needle, has
+"drawn two hemispheres on the plane of the equator, for shew-
+"ing the vertical declination or dip of the needle for all places
+"on the globe; and in addition to his improvements on steer-
+"ing-compasses, he has invented a meridional compass for
+"shewing the quantity of variation by inspection at any time
+"of the day.
+"The celebrated Dr. Halley was of opinion that the varia-,
+"tion and dip of the needle could not be resolved consistently,
+"on the supposition of the earth having only one magnetic
+"axis and two magnetic poles; and he inferred that two mag-
+"netic poles must exist in the northern hemisphere, and two
+"also in the southern hemisphere of the earth, in order to ac-
+"count for the discordant magnetic changes.
+
+56
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"Professor Hausteen justly esteemed for his profound inves-
+"tigations of magnetical phenomena and for his researches in
+"Siberia and other places to ascertain the magnetic influence
+"and intensity, has discovered the existence of a magnetic pole
+"in that country, Siberia, which leaves no doubt that there are
+"two magnetic poles in the northern hemispheres: and as the
+"Inte expeditions of our enterprising navigators have proved
+"the existence of another magnetic pole in lat. 70° 5 N., long.
+"96° 46 W., by the observations of Captain Jas. Clarke Ross,
+"Dr. Halley's inference seems to have been correct, and may
+"soon be demonstrated by similar researches in the southern
+hemisphere, where the existence of two magnetic poles will
+"probably be discovered.
+According to the recent researches of Professor Hausteen,
+"the earth has four magnetic poles, all revolving in the neigh-
+"bourhood of the geographical poles; and the periods of these
+"revolutions are respectively about 4,600, 1,740, 1,300 and 860
+"years. These times, though long, as historical periods, are
+"short compared with many of those cycles of which geological
+"researches and astronomical calculations seem to prove the
+"existence.
+Müller-Pouillet informs us in his popular work on cosmic
+physics, that there are two foci of magnetic intensity in the
+northern hemisphere; one in northern Asia; and a stronger
+one in North America; but the magnetic poles where the incli-
+nation needle stands vertical and towards which the declination
+needle points, is not remarkable as a focus of greatest magne-
+tic intensity.
+In the Admiralty Manual for the deviation of the compass
+3rd edition, London 1874, page 102, it is stated, "in the north-
+"ern hemisphere there are two such foci; and it is believed
+"there are two corresponding in the southern hemisphere.
+"These foci of magnetic force are of unequal strength; in the
+"northern hemisphere, the strongest or the American focus,
+"lies to the S. W. of Hudson Bay near the great system of the
+"North American lakes; the weaker or the Siberian focus may
+"be assumed as in lat. 70° N., long. 120° E. In the southern
+"hemisphere the position of the stronger focus may be assum-
+"ed in lat. 70° S., long. 145° E., and the weaker is probably
+"in lat. 50° S., long. 180° E."
+Leaving out the probabilities and what is believed and what
+may be assumed concerning the southern hemisphere and deal-
+ing with the better established facts in the northern one only,
+the truth appears to be the following:-Hausteen, Halley,
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+57
+Churchman, Walker and others by assuming more than one
+magnetic axis and more than two magnetic poles, have created
+a greater complication of the phenomenon than really exists,
+and trying to dissolve the mysteries of these self-created per-
+plexities by elaborate calculations, they have arrived at more or
+less erroneous results.
+I am confident if the cause of one of the magnetic foci in the
+northern hemisphere were to disappear suddenly, then what is
+now the magnetic north pole, would vanish just as suddenly
+and the remaining magnetic focus would become the magnetic
+north pole, for the following reasons: one magnetic focus pre-
+vents the needle from pointing in the direction of the other fo-
+cus, but forces it in line with the diagonal of the parallelogram
+of magnetic forces towards the place designated as magnetic
+north pole; the same is the case with the inclination needle;
+each magnetic focus prevents it from being perpendicular at
+the other, and where it really does stand perpendicular, again is
+the magnetic north pole fixed by the parallelogram of forces of
+both magnetic foci. This magnetic pole naturally must be in
+line between the two foci of magnetic intensity, nearer to the
+stronger than to the weaker,-in this case, nearest to the Ame-
+rican focus, which is in reality the case. From the preceding
+it will be seen that it hardly would be surprising, if earlier
+writers on this subject had assumed three magnetic axis, and
+half a dozen magnetic poles, rendering thereby the aspect of
+the whole phenomenon still more intricate. However the ob-
+ject of these lines is not to criticise my predecessors, but to ad-
+vocate and of course submit to criticism my own views.
+From a remark by General Sabini (Mrs. Somerville's Con-
+nection of Physical Sciences, Section XXX) it appears that Cap-
+tain Ross has not been exactly at the magnetic north pole;
+"the spot where Captain Ross observed the needle so nearly
+"vertical in 1891 marks the approximate position of that loca-
+"lity at that epoch."
+The fact is no doubt as I have stated, that the magnetic pole
+is no fixed spot of a certain small extension, but constantly
+fluctuating, of diurnal and secular change,-moving in an
+epicycloidal track round the geographical poles.
+2.-On the Nature of Foci of Terrestrial Magnetism.
+IT will be recollected from the 4th Chapter of the essay on Pe-
+riodical Change that by the combined efforts of the earth's re-
+
+58
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+volution and the attraction of the sun upon the earth's prota-
+berance at the equator (owing to our planets spheroidical shape)
+an elliptic current round the terrestrial magnetic nucleus was
+supposed to be created which, if seen from the magnetic equa-
+tor, would represent a flat oval figure with its greater length
+in the direction of magnetic axis; if viewed from the magnetic
+north pole it would also represent an oval shape, the thinner
+end towards the axis of the earth's rotation; the whole perhaps
+would have a somewhat twisted appearance, owing to the fact,
+that during the winter solstice the nutatory circulation current
+would be accelerated in the northern hemisphere, on account
+of the sun's greater attraction in perihelion, tending to elevato
+more the northern half of the axis of rotation at a right angle
+with the plane of the ecliptic, than the southern half during
+the summer solstice, because of the sun's lesser attraction in
+aphelion. This would indeed let it appear possible that the
+northern magnetic pole might revolve faster round the globe
+than the southern one, as Mr. Walker and others seem to have
+supposed.
+The foci of the ecliptic current as viewed from the North Pole
+would in all probability be corresponding to the foci of Terres-
+trial Magnetism upon the surface of the northern hemisphere.
+This idea receives confirmation, if we inspect the charts by
+Captain Duperrey, of the French Navy, in which he lays down
+in horizontal projection the isodynamic lines round the point of
+intersection of the meridian of Paris with the parallels of 60°
+N. and S. latitudes; the same idea is conveyed by the inspec-
+tion of the charts of the magnetic meridians and parallel curves
+in polar projection by the same officer; and since from the pre-
+ceeding chapter we have seen that the magnetic axis of the
+earth depends upon the relative positions of the magnetic foci
+to one another, then it will become more easy to understand
+how the apparent irregular fluctuations of diurnal variation are
+brought about; the sun and moon passing together or sepa
+rately once over the astronomical meridian of every individual
+focus of intensity, and once over the meridian 180° distant from
+it, would cause one lunar and one solar subterranean tide wave
+to pass twice in 24 hours over every one of the four supposed
+magnetic foci, except of course at spring tides, when lunar and
+solar tides become united into one, each tide wave would alter
+to a certain extent the momentary position of the respective
+focus, and would thereby affect the direction of the magnetic
+axis and of course the position of the magnetic pole, conse-
+quently also the variation of the needle. This theory would
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+59
+account better for the changes of diurnal variation, than the
+resemblance of the isothermal curves with the isodynamic ones,
+because the former can be considered stationary for our pur-
+pose, while the latter do change. If it could be proved impos-
+sible to admit the quotidian displacement of our planets mag-
+netic nucleus (by the sun's and moon's attraction), causing an
+independent circular motion of the same as pointed out in
+Chapter V of Periodical Change, then perhaps the idea demon-
+strated in this present chapter may also be found sufficient to
+account for all phenomena of diurnal variation; but consider-
+ing that our whole globe is constantly kept off its mean orbit.
+round the sun by gravitation and since it is consequently not
+the centre of the earth, which describes the mean orbit round
+the sun, but a certain point, which is the centre of gravity be-
+tween earth and moon combined together (making the real
+track of the earth resemble the pitch of a screw propeller
+through the water), I believe it indeed possible, that the solid
+nucleus in the fluid interior of the earth under the influence of
+gravitation towards sun and moon may have an independent
+motion as described in Chapter V.
+Could we from a magnetic focus on the surface of the earth
+see the currents of the interior, I think it likely that a rotatory
+motion would be noticed at each focus round an axis, connect-
+ing the focus in question with the corresponding one in the op-
+posite hemisphere, and in the same direction, as the main cir-
+culatory current, with the sun.
+8.-On the present shape of the Agonic Lines.
+THE simple relation between magnetic focus and pole as
+demonstrated, and its effect upon the magnetic needle is inter-
+fered with by two principal causes, if we disregard possible
+local attraction of Continents, thermal-electricity, &c., supposed
+by many competent authorities to influence the variation.
+The first principal cause producing, what may be called a
+deviation of the declination needle from the magnetic meridian
+is best illustrated by the oasis of Western variation in China
+and Japan, and caused by the occurrence of the Siberian focus
+to the Northward and Westward of it; magnetic attraction,
+like gravitation, increases inversely, as the square of distance
+decreases, and the Siberian focus being nearer than either pole
+or other focus, it naturally deflects the North end of the needle
+in all places within this oasis of Western declination to the
+
+60
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+Westward; and again places in the Northern hemisphere im-
+mediately to the Westward of this oasis (which indeed ought to
+have Westerly variation, if the needle were allowed to point to
+the Magnetic North Pole), shew Easterly variation, because the
+nearest focus of magnetic intensity (the Siberian one) is to the
+Northward and Eastward of them. Now supposing the system
+of magnetic lines to revolve with the magnetic poles from East
+to West, this repeated change of secular variation from West
+to East and vice versa, several times over again at the places in
+the track of this peculiar insula of Western variation would
+make upon an observer the fallacious impression, that the
+Magnetic North Pole were moving occasionally in opposite
+directions; but in fact it proves only, how the plurality of
+magnetic foci may cause contradictory irregularities in the
+arrangement of Isogonic lines.
+The second principal cause of deviation of the needle from
+the direction towards the nearest magnetic pole is the existence
+of the second magnetic pole in the other hemisphere, tending
+to draw the opposite end of the needle towards itself, to make
+it parallel with the magnetic axis, which coincides nowhere with
+the axis of the earth; this is well shewn by the shape of the
+Agonic line passing through America; the difference of longi-
+tude between the North and South Pole across the Pacific being
+only about 110°, the South end of the needle anywhere to the
+Southward of the Magnetic North Pole and near its meridian
+having the Magnetic South Pole at its left (when looking
+towards the centre of the earth), is drawn in that direction, the
+more, the further to the Southward, and as a matter of course
+the North end of the needle deviates just as much to the right,
+or the Eastward, causing the whole Agonic line in that part of
+the world to encroach upon certain regions of our globe, which
+otherwise would have Westerly variation; the same effect of
+the South Pole upon the needle's South end can be proved
+along the Southern part of the Agonic line passing through
+Australia; the meridians of the two Magnetic Poles across the
+Pacific again are only 110° of longitude apart, but via the
+Indian Ocean and the Atlantic they are about 250° difference
+of longitude apart; the consequence is, that the South end of
+the needle is drawn in the nearest direction towards the
+Magnetic South Pole, in this case to the right, or Eastward;
+the North end of the needle must deviate just as much to the
+left, or Westward, causing in the Southern hemisphere an in-
+road of Westerly variation into regions, where otherwise
+Easterly variation ought to be.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+61
+Assuming, that Hausteen and Walker were correct in letting the
+Magnetic North Pole revolve faster than the Southern one,
+then during one revolution, the former would be once on the
+meridian of the latter, and once 180° from it; in both cases
+the geographical meridian would coincide with the line of no
+variation, and the Eastern and Western variations would be
+equally divided, as stated in a previous chapter. These sup:
+posed unequal motions of the two magnetic poles would cause
+alternately contortions and distortions of the magnetic axis,
+and then periodical changes of the geographical latitude of the
+magnetic poles might presumably also take place.
+4.-Tidal Motion and Diurnal Variation.
+In order to form an idea how the position of the magnetic foci
+and poles may be affected by the influence of subterranean ti-
+dal movements, besides the mere perpendicular tide wave, it is
+necessary to have before our mental eyes clearly our know-
+ledge of oceanic tide waves, because it is reasonable to suppose
+that the one must behave analogue to the other.
+It is not my intention to reproduce in this chapter what may
+be read in every good work on tides; but I wish to draw atten-
+tion to a fact which appears to have been overlooked at least
+by those writers, whose works I have had an opportunity to
+consult; I cannot illustrate better what I mean than by mak-
+ing a few extracts from a couple of nautical works. First from
+the China Sea Directory, Vol. III, 1874, page 350 and 351:-
+"The tidal streams at the entrances of the Yangtsze from
+"Gutzlaff to Shaweishan rotate, performing one revolution
+"(with the sun) in 12 hours. To the southward of Gutzlaff
+"the tides are also rotatory, but not with that regularity which
+"is observed about the Amherst Rocks. There is also reason
+"to believe, although the fact has not yet been conclusively
+"established, that they preserve the same character some dist-
+"ance to seaward, and far to the northward. During its revo-
+"lution the direction of the stream changes about two points
+"every hour, excepting when veering from N. W. to N. E.
+"about the time of high water, and from S. E. to S. W. about
+"the time of low water, when the change is more rapid. The
+"northern stream for the most part makes and completes the
+"flood, and the southern stream for the most part makes and
+"completes the ebb, although the first part of the flood is made
+
+62
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"by the southern stream, and the first part of the ebb by the
+"northern, called sometimes "tide and half tide."
+"Mr. G. B. F. Swain, master of H. M. S. Pilot, 1850, states
+"that the revolving tide has been noticed as far out as the Sad-
+"dle Islands, whilst others assert that the stream when fully
+"made sets N. W. by W. and S. E. by E. These statements
+"are not contradictory. Lieut. C. Bullock, R.N., found the
+tides to rotate, 120 miles north of the entrance, at 70 miles
+"from the land."
+Captain Horsburgh gives in his India Directory, Vol. I, page
+599, the following table concerning tidal motions off the river
+Hoogly, when uninfluenced by the wind:-
+"1st quarter flood N. W. by W.
+"2nd
+"3rd
+"Last
+"
+"
+"
+دو
+N. N. W.
+N. N. E.
+E. N. E.
+"1st quarter ebb S. E. by E.
+"2nd
+"3rd
+S. S. E.
+"
+"
+وو
+S. by W.
+"Last
+S. W. and W. S. W."
+"
+This is a complete revolution (with the sun), in the bay of
+Bengal, the same as off the Yangtsze.
+Lately I have heard that "divers" engaged in salving oper-
+ations in the vicinity of the Lammock Islands (Formosa Chan-
+nel), have also observed a rotation of tides in that locality.
+From personal experience I am able to add the following fact:
+In the summer of 1874, when commanding the British barque
+Charley of Hongkong, I was becalmed for several days during
+a voyage from Japan to Shanghai; to judge by the lead, the
+currents appeared very unsteady, setting at different times in
+different directions. I had good observations and found that
+I was drifting away towards the Strait of Corea, which set I
+attributed to part of the Japan stream (Kurosiwo current),
+branching off in that direction; determined not to lose more
+ground than could be helped, I brought up with the stream
+anchor on the great Yangtsze bank, about half way between
+Quelpart and the Saddle Islands in 23 fathoms. Remaining
+there some time for want of wind, I was much surprised to find
+the tides rotate with the same regularity as off the Yangtsze
+(with the sun), which accounted for the seeming irregularities
+of currents, indicated when consulting soundings only.
+By these facts I am led to believe that tidal motion (if not
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+63
+interferred with by the shape of neighbouring continents and
+Islands or Galese), in the northern hemisphere always takes
+place from north, through east by south and west; in the
+southern hemisphere of course in the opposite direction; to
+verify this latter supposition the information contained in the
+7th edition of Horsburgh is not sufficient; generally the es-
+tablishment of the port and the rise and fall are only given for
+most places in the southern hemisphere; but I am confirmed
+in my opinion by much, what Horsburgh relates of equatorial
+regions. In the second volume of the India Directory he says
+on page 759 about Sourabaya Strait:- Ships are sometimes
+"detained upon the bank, or at the entrance of the channel,
+"by the singular tides which prevail there, and for which
+"science has not yet been able to account, or the pilots even to
+"reduce to rule. In the chart of the channels leading to Sou-
+"rabaya, by Lieut. M. H. Jansen, D.R.N., the depths are
+"given at low water, and the following remarks are made on
+"the tides:-"During the months in which the sun is on or
+"near the equator, i. e., in March, April, September and Oc-
+"tober, there are in this channel, at the full and change, two
+"tides in 24 hours; but at the quarter moon's, as well as dur-
+"ing all the other months, there is only one tide, and it makes
+"low water in the night with south declination, and in the day
+"when the sun has north declination.
+"The greatest rise and fall of spring tides is 6 feet, and it
+"occurs only in those months when there is but one high
+"water in the 24 hours, and 3 or 4 days after full and change.
+"The least rise and fall is 4 feet, and this takes place at the
+"full and change also, but only in the months when there are
+"the two tides, which may be regarded as a change for the
+"day-high-water to the night-high-water, and vice versa. At
+"the quarter moons of these months the water rises 5 feet, and
+"in every other month 5 feet above the depths marked in this
+"chart.
+"In the month of May it is high water between 21 h. and
+"0 h.; June, 20 h. and 04 h.; July, 19 h. and 0 h.; August,
+"16 h. and 0 h.; November, 10 h. and 12 h.; December, 8 h.
+"and 12 h.; January, 8 h. and 12 h.; February, 7 h. and 12 h.
+"At the spring tides, as well as at the quarter moons, it is
+"high water always at 10 h. or 22+ h.
+"During the months when the two tides occur, it is also
+"high water at 10 h. and 22 h. These two tides are, how-
+"ever, different in height; and when the sun's declination is
+"north, the morning tide is the highest; but when it is south,
+
+64
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"the evening tide. In those the quarters which give but one
+tide,(1) give the higher water as at full and change."
+Now I believe that during the sun's northern declination the
+tides in Sourabaya Strait do rotate the opposite way, as off the
+Yangtsze; during his southern declination the tides are also
+rotatory, but the same way as the Yangtsze tides. During
+the two equinoxes then it will be difficult for local pilots even
+"to reduce the tides to rule," because the tides changing from
+one rotation i. e. with the sun, to the other, i. e. against the
+sun, or vice versa, may appear to become to a certain extent
+confused and irregular.
+I will not transgress too much by recording more instances
+of apparently irregular tides, as I could; but refer for one re-
+markable instance more to page 737 of the same volume of
+Horsburgh's, concerning Pitt Strait, where several vessels by
+the tides setting consecutively in "all directions" running con-
+siderable danger: I believe, if they could have anchored they
+would, (as I did on the Yangtsze bank in 1874) have experien-
+ced a rotary regular tide, perhaps at springs:-
+N
+W
+E
+8.
+WE is the equator, the curved arrow N indicates the rota-
+tion of tides in the northern hemisphere, the curved arrow S
+shews the same in the southern hemisphere; supposing the
+strait arrow at W to point out the direction of the flood tide on
+or near the equator, then the flood and ebb currents will occur
+at the same time on both sides of the equator, and places near
+it will have two regular tidal revolutions in 24 hours. At neaps
+the flood wave resulting from the moon's lower meridian pass-
+age becomes so much counteracted by the sun in quadrature,
+that it is scarcely noticeable, or incapable to overcome the vis
+inertice of tidal motion, resulting from the moon's upper meri-
+dian passage; then places like Sourabaya Strait will only ex-
+perience one flood and one ebb in 24 hours.
+(1) Horsburgh's tidal account of Banca Strait resembles in many points
+that given of Sourabaya Strait.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+65
+WK
+N
+?
+S
+12/
+→E
+During the sun's southern declination the northern currents
+stretches over across the equator and arrives retarded at N,
+continuing the southern already finished flood stream for ano-
+ther 6 hours; a singular phenomenon occurs with the ebb
+stream, thereby allowing only the effects of the upper meridian
+passage to appear as one flood and one ebb in 24 hours.
+The seeming irregularities of tides must be greatly increased
+by the circumstance of the principal factor in their production,
+i. e. the moon, crossing and recrossing the equator so many
+times during the year :-
+Ν
+E
+Sa
+In the above figure W E is the equator during the sun's
+northern declination; the stream from the southern hemis-
+phere crosses the equator to the northward in the direction of
+the curved arrow S N and continues the spent tidal movement
+in the northern hemisphere similarly as in the preceding case;
+the consequence is the same; one complete tidal rotation in 24
+hours only.
+If this view of oceanic tidal motion can be accepted, then it
+is natural to suppose that the earth's internal fiery ocean must
+be equally or rather more so affected; being as many miles
+perhaps in depth, as the briny outside ocean is fathoms only:
+and then it would be easily understood that the magnetic foci
+and poles by being carried along with the tidal motion would
+cause a change of the magnetic axis in the same manner, as if
+the earth's magnetic nucleus were moving, as described in a
+
+66
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+previous chapter; tidal motion or displacement of magnetic
+nucleus would have the same effect: change of axis of our pla-
+nets magnetic internal apparatus, and thereby producing the
+main features of annual and diurnal variation, many seeming
+irregularities being the result of the unsymetric distribution of
+magnetic foci and poles, and the consequent eccentricity of
+magnetic axis. My attention has been called to Humboldt's
+Kosmos, vol. IV, Stuttgart and Tübingen, 1858 ("Specielle Er-
+gebnisse der Beobachtung in dem Gebiete tellurischer Er-
+scheinungen"), in which much valuable information is contain-
+ed concerning Terrestrial Magnetism.
+Humboldt states (p. 53) that the Chinese, Indian, Arabian,
+and Malay navigators knew the magnetic variation before Co-
+lumbus; in fact Andrea Bianca had entered it on his sea
+charts in 1436; what Columbus did discover is the line of no
+variation, passing then 21° east of the Azoric Island, Corvo,
+and I think what the Spanish savants, according to Command-
+er Walker, refused to credit, may have been Columbus' state-
+ment, that to the westward of his newly discovered line of no
+variation the variation were opposite (westerly) to what at his
+time it must have been in Spain (easterly.)
+Commander Walker gives as his source of information the
+Encyclopaedia Britannica.
+According to the Kosmos it seems, that generally all magne-
+tic elements have two daily maxima and two minima; for fuller
+particulars I must refer the reader to Humboldt's work; on
+page 97, however, I find it mentioned according to Sabine,
+that the diurual variation of intensity at Van Dieman's Land
+(Hobart Town) shews only one maximum and one minimum
+per diem; and referring to Horsburgh's India Directory, Vol.
+II, page 839, I find the following tidal information about d'En-
+trecasteaux Channel (Van Dieman's Land): "the rise of the
+"tide which flowed only once in 24 hours was about 6 feet per-
+"pendicular; high water from 9 to 12 hours at full and change,
+etc;" this is a remarkable coincidence with only one daily ma-
+ximum and one minimum of magnetic intensity, which I con-
+sider may be a proof of also one subterraneous tidal revolution
+only in 24 hours.(2)
+(2) Humboldt on page 84 (Kosmos, Vol. IV.) calls attention to a zone of
+weak intensity between the northern and southern magnetic hemispheres,
+which alternately shares the magnetic movements of the opposite hemis-
+pheres during opposite seasons, similar as I suppose a corresponding zone
+in the same regions, partaking alternately of the tidal rotation of each he-
+misphere, as governed by the declination of the sun.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+67
+077
+Humboldt asks (on page 141) if the line of no variation,
+which Columbus found near the Azores in 140% in the same
+that Davis and Kieling in 1607 found at the Cape of Good
+Hope? I think not; Columbus's Azorie line must be the one,
+which now passes through the sea of Ochotak, the Karile s
+lands and to the eastward of Japan; and Davis's and Kieling's
+line must be the one, which Müller and Pouillet in 1668 passed
+through Paris (according to Picard in 1666), and which rans
+now through North America and the South Atlantic.
+According to Graham (the same volume of the Kosmos, pags
+189, Philos. Trans. for 1724-25), the variation of declination
+depends neither upon heat nor cold, dry or moist air. The
+"variation is greatest between 12 and 4 in the afternoon, and
+"the least at 6 or 7 in the evening." To this Humboldt makes
+the remark "es sind freilich nicht die wahren wendestunden,"
+"(but these are not the true turning hours "); I believe Ham
+boldt is wronging Graham, who for his time may have given
+the true turning hours correctly, which may change with the
+revolving position of the magnetic poles.
+In more than one place Humboldt states his opinion that
+temperature has nothing to do with periodical variation, and
+on page 192 he quotes Relshuber (translated as follows :)
+"there are two maxima and two minima of declination in 24
+"hours, but only one maximum and one minimum of temper-
+At pages 176 and 177 Humboldt quotes from Sa-
+"bine: "The turning periods of the year are not, as many
+"might be supposed to anticipate, those months in which the
+"temperature at the surface of our planet, or of the subsoil, or
+"of the atmosphere attains its maximum and minimum. The
+"annual variation is obviously connected with and depend-
+"ent on the earth's position in its orbit relatively to the sun,
+"around which it revolves; as the diurnal variation is con-
+"nected with and dependent on the rotation of the earth on
+"its axis. It is a remarkable fact, which has been estab-
+"lished, that the magnetic force is greater in both hemispheres
+"in the month of December, January and February, when the
+"sun is nearest to the earth, than in those of May, June and
+"July, when he is most distant from it; whereas if the effects
+"were due to temperature, the two hemispheres should be op-
+"positely instead of similarly effected in each of the two pe-
+"riods referred to.
+From page 82 the following is a translation:-"The princi-
+"pal result of researches on the magnetic influence of the
+"earth's satellite, which according to Melloni, only shews a
+
+68
+"mum.
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"trace of heat generation, is that the magnetic declination
+"upon our earth in the course of a lunar day suffers a regular
+"change, arriving twice at a maximum and twice at a mini-
+If the moon, says Kreil very properly, produce no
+"change of temperature upon the surface of the earth, recog-
+"nisable by common thermometers, then she can produce no
+"alteration of Terrestrial Magnetism by this means; if in spite
+"of this such an influence is observed, it must be concluded,
+"that it is "brought about by other means, than heat." This
+other means, I repeat it, can only be the same, which produ-
+ces oceanic tides.
+Humboldt says on page 189 (translation): "compare extracts
+"of a letter from me to Karsten, Rome, 22nd June 1805, on
+"4 motions of the magnetic needle, comparable to 4 magnetic
+"ebb and flood tides, analogue to the barometric periods, etc."
+"
+A proof that during perihelion motion and commotion in the
+interior of the earth by the greater attraction of the sun must
+increase, is the rise of temperature in the Schergin shaft of
+Siberia, sunk 382 Parisian feet into the frozen ground; I trans-
+late the following from page 168:"A remarkable and hi-
+"therto unexplained phenomenon is the rise of temperature,
+"which in winter sometimes has been noticed in the deeper
+parts only, without any traceable influence from the outside."
+Since the sun's greater attraction during perihelion acceler-
+ates the motion of the earth in its orbit, why should it not also
+increase the velocity (intensity) of the subterraneous circula-
+tory current? and since greater motion in the earth's interior
+must manifest itself by a greater production of heat, we have
+an explanation of the phenomenon in the Schergin shaft: a
+translation (transformation) of the sun's greater attraction dur-
+ing perihelion into heat. Another direct proof of increased
+internal motion during perihelion. I translate from page 296:
+"The activity of the "Stromboll," (volcanse) is like that of the
+"Aetna, greatest in November and during the winter months,'
+i. e. during perihelion.
+Humboldt states on page 488 that Poisson, with whom he
+conversed several times about subterraneous tides, thought
+them to be inconsiderable, and Humboldt's astronomical friend
+Dr. Brünnout expressed himself that internal tides could just
+as little take place on account of our planet's solid crust, as in
+the ocean, if the latter were covered with an unbreakable sheet
+of ice; but Ampere said that owing to the action of the moon
+on the enormous internal liquid mass, tides would result ana-
+logue to those of our seas, but much more terrible ("mais bien
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+69
+"autrement terribles "), on account of the larger extent and
+greater density of the mass, it would be difficult to conceive
+how the shell of the earth could resist, being constantly bat-
+tered by a kind of hydraulic ballista ("etant incessamment
+"battue par une espèce de bélier hydraulique (?) de 1400 lieues
+"de profondeur").
+To these various ideas I can only again repeat from Mr.
+Kingsmill's Border Land of Geology and History, page 5-
+"If the interior of the earth were liquid and its crust composed
+"of so rigid a material as steel, and 300 miles thick, it would
+"yield to the deforming influences of centrifugal force and the
+"attraction of the sun and moon as if it were india-rubber."
+Considering all, it seems that opinions on these subjects dif-
+fer widely; or to use a German proverb: "Darüber sind die
+"Gelehrten noch nicht einig."
+To my mind there remains, no doubt, that the force of those
+celestial bodies which cause the nutation of our planets' axis
+of rotation and the precession of the equinoctial points, also do
+cause in the movable fluid interior of the earth those move-
+ments, which I have endeavoured approximately to picture.
+Biot, Hausteen and others appear to have the idea of a mag-
+netic nucleus before me; Humboldt objects strongly to Hal-
+ley's views on this subject, but Halley placed his nucleus in a
+hollow terrestrial shell, while I take the dense state of our pla-
+nets' interior into due account (see Bohn's edition of Hum-
+boldt's Cosmos, Vol. I, p. 163). Adhemar states concerning
+Bertrand of Hamburg: "Il supposait, que la terre était creuse
+"et qu'il y avait dans son interieur un gros noyan d'aimant,"
+etc. (Croll's Climate and Time, p. 548.) I was unacquainted
+with these elder ideas, when I occupied myself first with the
+same question.
+Note.-In Amadée Guillemin's "The Heavens," edited by
+Norman Lockyer and revised by Richard A. Proctor, the latter
+gentleman writes on page 391, after the current and generally
+accepted explanation of tidal phenomena is given: "It must
+"be noted, however, that although the statistical equilibrium
+"of a tidal wave is thus accounted for, the dynamical condi-
+"tions of the problem cannot be thus explained. On the con-
+trary, if we consider only the dynamical rotations, we shall
+"find that the place of low water should be under the moon
+"and at the opposite part of the earth, the place of highwater
+"between these regions. Newton, Laplace, Airy and others
+"agree in this view. The theory of the tides remains yet to be
+"established satisfactorily. Much that has been presented in
+
+70
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"popular treatises as part of this theory is in reality but an
+"account of the results of observation.
+"On the 1st of September, 1859 two astronomers, Messrs.
+"Carrington and Hodgson, were independently observing a
+"spot, when they noticed a very bright star of light suddenly
+"break out over it, moving with great velocity over the sun's
+"surface. At the same moment the magnetograph at Kew,
+"where all the changes in the earth's magnetism unceasingly
+"register themselves, was violently affected."-(Amadée Guil-
+lemin's "The Heavens," London, M, DCCC, LXXVI, page 52.)
+5.-Possible Origin of Magnetism.
+To understand the nature of magnetism, it is essential to re-
+collect that more substances than iron, steel, nickel, cobalt and
+so forth, are magnetic.
+Sir W. S. Harris, in his paper on the transient magnetic
+state of which various substances are susceptible has given the
+following table of the comparative magnetic inductive suscep-
+tibility of the following substances:-
+Metals, &c.
+Comparativo mag-
+netic energy. 89 29 20 16 10 6-9 8-7 2 1 13 0-85 0 37 0-87 0.97
+Sir W. S. Harris found that by condensing. the metals their
+magnetic energy was increased (Commander W. Walker's re-
+peatedly quoted work "The Magnetism of Ships," page 17).
+From this table it will be seen that solid (which can only mean
+frozen) mercury is 100 per cent more capable of magnetism
+than the fluid mercury; but in solid mercury the molecules
+must be closed together than in the fluid, because the former
+comprises a smaller compass than the latter, and since we
+know that the attraction of bodies increases inversely as the
+square of the distance decreases, what possible reason could
+there be to suppose that the attraction between molecules
+should not increase at the same rate, should not obey the same
+law, if the body which they constitute does contract; in other
+words, when they are brought nearer to one another within
+the body? Now, if under ordinary circumstances this special
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+71
+form of gravitation, the molecular affinity, is sufficient to keep
+the bodies together in their ordinary aggregate state, what
+must be the consequence, if by excessive pressure or by con-
+traction a surplus of affinity is created more than is required
+for the existence of the body under ordinary circumstances?
+Nothing is more natural than that this surplus of disengaged
+affinity should make its presence known under some form or
+other, for instance, as magnetism; this is therefore an ex-
+planation for the increased magnetic capacity in solidified mer-
+cury. We may then say: by increased density of bodies mag-
+netism is generated; iron is an instance when by some mecha-
+nical process (external superior force) converted into the denser
+steel.
+If a magnet is heated, magnetism is lost, because it must be
+reconverted into original affinity to counteract the increasing
+centrifugal heat vibrations of the molecules.
+In soft iron (says Mr. Merrifield in his severally cited work
+"Magnetism, etc., page 29) "where the magnetism must be
+"induced, the power increases with a rise of temperature to a
+"blood red heat. With other magnetical substances, as co-
+"balt and nickel, the effects of heat vary; and Faraday shewed
+"that some substances which at ordinary temperatures are not
+"magnetic, become so when exposed to intense cold."
+This case of iron becoming more capable of magnetism until
+heated to a certain degree is one of those exceptions which pro-
+verbally prove rules; for Tyndall states in "The Forms of
+"Water," page 124: "Water is not a solitary exception to an
+"otherwise general law. Heat expands, cold contracts, there
+"
+are other molecules than those of this liquid which require
+"more room in the solid crystalline condition than in the ad-
+"jacent molten condition. Iron is a case in point. Solid iron
+"floats upon molten iron exactly as ice floats upon water.
+"Bismuth is a still more impressive case, and we could shiver
+"a bomb as certainly by the solidification of bismuth as by
+"that of water." This shews that iron passing from the solid
+to the molten state at certain degrees of heat must be contract-
+ing, thereby disengaging a certain amount of molecular affinity,
+manifesting itself as increased magnetic capacity. Having
+these facts (which I cannot express better than saying that by
+increased density of bodies capable of magnetism a certain
+amount of spare affinity must appear under the form of magne-
+tism), vividly before our eyes, then it will easily be understood
+how terrestrial magnetism originated, if we throw a hurried
+glance at the earliest history of our planet.
+
+72
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"Supposing with Helmholtz that the sun originally existed
+"as a nebulous mass, filling the entire space presently occu-
+pied by the solar system and extending into space indefinite-
+ly beyond the outermost planet."-(Croll's Climate and Time,
+page 348.)
+"
+And supposing this nebulous matter sufficiently contracted,
+that at the outer limit or surface, mass after mass had detached
+itself from the parent body, forming successively the outer pla-
+nets with their satellites, until our own planet was formed.
+Suppose x million of years ago the diameter of the earth's
+body had been 10,000,000 miles, and the attraction between two
+neighbouring molecules=m, then y millions of years afterwards
+the diameter having contracted to 100,000 miles, the attraction
+between two neighbouring molecules must have been 1002m,
+or 10,000 times greater; part of this increased power of gravi-
+tation must have manifested itself as telluric magnetism, the
+rest being radiated into space as heat.
+It will be seen that I am trying to trace magnetism home to
+gravitation; in the following chapter some more weighty rea-
+sons will be produced to support this view; at present a few
+remarks concerning the analogy between magnetism and elec-
+tricity may not be out of place.
+This essay not being intended for a lesson in elementary phy-
+sics, the reader is supposed to be sufficiently conversant with
+the action of electricity upon magnets, or of magnets upon
+electric currents, to understand the following deduction; but
+being unable to express better what I should expound first, to
+make the succeeding argument clearly understood, then it can
+be found in "Natural Philosophy," translated and edited from
+Ganot's Cours Elementaire de Physique, by E. Atkinson, Ph.D.,
+F.C.S., 2nd edition, page 501.
+"Structure of a solenoid.-A solenoid is a system of equal
+"and parellel circular currents formed of the same pieces of
+"covered copper wire, and coiled in the form of a helix or spi-
+"ral, as represented in the accompanying figure:-
+α
+b
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+78
+"A solenoid, however, is only complete when part of the wire
+"passes in the direction of the axis in the interior of the helix.
+"With this arrangement, when the circuit is suspended in
+"the mercury cups of the apparatus, and a current is passed
+"through, it is directed by the earth exactly as if it were a
+"magnetic needle. If the solenoid be removed it will, after a
+"few oscillations return, so that its axis is in the magnetic
+"meridian. Further it will be found that in the lower half of
+"the coils, of which the solenoid consists, the direction of the
+"current is from east to west; in other words the current is
+descending on that side of the coil turned towards the east,
+"and ascending on the west. In this experiment the solenoid
+"is directed like a magnetic needle, and the north pole, as in
+"magnets, is that end which points towards the north, and the
+"south pole that which points towards the south."
+"Mutual actions of magnets and solenoids.-Exactly the
+"same phenomena of attraction and repulsion exists between
+"solenoids and magnets as between magnets. For if to a
+"movable solenoid traversed by a current, one of the poles of a
+"magnet be presented, attraction or repulsion will take place,
+"according as the poles of the magnet and of the solenoid are
+"of contrary, or of the same name. The same phenomena
+"take place when a solenoid, traversed by a current and held
+"in the hand, is presented to a movable magnetic needle.
+"Hence the law of attractions and repulsions applies exactly
+"to the case of the mutual action of solenoids and of magnets,"
+"Mutual actions of solenoids.-When two solenoids traver-
+"sed by a powerful current are allowed to act on each other,
+"one of them being held in the hand, and the other being
+"movable about a vertical axis, attraction and repulsion will
+"take place, just as in the case of two magnets. These phe-
+"nomena are readily explained by reference to what has been
+"said about the mutual actions of the currents, bearing in
+"mind the direction of the currents in the ends presented to
+"each other."
+Now, if a house in all main features resembles a certain other
+building, both answering exactly the same purposes, then the
+second building must also be a house, though perhaps of ano-
+ther style of architecture and of different material; both must
+be constructed after a similar plan.
+In the solenoid we see that a current traverses a wire in one
+direction and is conducted back spirally outside the wire be-
+yond the opposite end, and led back again inside the spiral coil
+in the original direction.
+
+74
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+It must be the same case with the magnetic current, ema-
+nating from one pole and making its way back to the opposite
+pole, as best it may and as is well shewn by the familiar expe-
+riment: to cover a strong magnet by a sheet of paper and sieve
+iron filings on top of it; the iron filings, acted upon by the in-
+ductive currents, become arranged in regular curved filaments
+from one end to the other; in the centre, where the curves be-
+come so small as to neutralize one another, no action is ob-
+served; there is the magnetic equator.
+That this current from pole to pole takes place can be con-
+clusively shewn by introducing a strong horse shoe magnet
+into iron filings, or amongst nails, when at once solid bridges
+of filings or nails will be formed, connecting both poles in re-
+gular arches (compare Faraday "On the Various Forces of
+"Nature," pages 50 and 170.)
+NS is a magnet; the current is supposed to emanate at N
+and enters again at S, a continuous circulation takes place, as
+in a solenoid.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+75
+Place some pieces of iron A, B and C (accompanying figure)
+near either pole; the current will traverse them, exciting as
+the same time the latent magnetism of the iron to join the ori
+ginal current and attracting the iron towards the foci of cires-
+lation, the poles, like invisible arms of apolype; add pieces of
+iron ad libitum, the effect would only be to prolongate the ear-
+rent but every piece would be traversed by it, and become a
+temporary magnet.
+B
+N
+Place a second magnet S' N' with reversed poles alongside
+the former and the circulation selects the nearest and best ev
+ductor (like a streak of lightning in a similar case), and the
+pieces of iron become demagnetized by the desertion of the
+current, and drop down, being no longer attracted. Breat
+either of the magnets in pieces, the circulation will continue in
+each piece, everyone becoming an independent magnet; assh
+of lightning passing through a magnet contrary to the current
+will reverse it and of course the poles also.
+Poles of the same name repel one another until the axis of
+the magnets are parallel to each other (if we disregard the in
+fluence of terrestrial magnetism), and opposite poles alt
+
+76
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+each other, to form one continuous current; in both cases the
+magnetic currents obey the law to arrange themselves parallel
+to one another; even in the second case, where they have the
+tendency to form one straight line, because it cannot be denied
+that a straight line is parallel to itself.
+The attentive reader will readily observe that by this simple
+theory all phenomena peculiar to magnets, without a single ex-
+ception, can be satisfactorily accounted for, not having recourse
+to Ampère's somewhat complicated artificial theory and the
+hypothetical two fluids: Austral and Boreal.
+According to this hypothesis the earth itself would be only the
+vehicle of a vast magnetic current, emanating in the antarctic
+regions and visible under favourable circumstances as Aurora
+Australis, spreading towards the equator and thence converg-
+ing in regular curves towards the arctic regions, where fre-
+quently visible as Aurora Borealis. It would make no differ-
+ence if the current were travelling in the opposite direction;
+I have only assumed the former circulation, because the south-
+ern hemisphere is believed to possess more magnetic intensity,
+some of which might be spent by the current's passage to the
+northward in meteorological phenomena (thunderstorms, etc.)
+A tangent on either magnetic current curve in any place.
+would probably be identic with the magnetic dip; might this
+magnetic current be the cause of atmospheric electricity and
+the returning current (through the earth) the cause of telluric
+electricity ?
+"Many hypothesis have been propounded to explain the ori-
+"gin of the atmospheric electricity. Some have ascribed it to
+"be the friction of the air against the ground, some to the
+vegetation of plants, or the evaporation of water. Some
+"again have compared the earth to a vast Voltaic pile, and
+"others to a thermo-electrical apparatus. Many of these
+"causes may, in fact, concur in producing the phenomena."
+(Ganot's Cours élémentaire de Physique, by E. Atkinson,
+London, 1875, page 463.)
+It would be interesting to know whether the motion of the
+earth's interior might be contributing to produce electricity;
+is it possible that the secular motion, the rotatory current and
+tidal action of our planets' fluid interior may produce electric
+currents, perhaps from east to west, according to Ampère's
+opinion?
+The northern and southern lights probably are occurring in
+the highest parts of the atmospere, where it begins to become.
+very rarified, in analogy of the electric light in vacuo, or rari-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+77
+fied vapours (compare Ganot's Natural Phylosophy, etc., etc.)
+page 525-526.
+NUCLEUS
+I
+| |
+The above globe is the earth, NS is a magnetic north
+and south line; magnetic ethereal matter emanates in the
+southern hemisphere, probably in decentric undulations (from
+common centres), crosses the equator in the direction of
+the arrows and enters the northern hemisphere, probably
+in accentric undulations (towards common centres), to cir-
+culate back again through the body of the earth towards the
+antarctic regions, and so forth; a b, c d and e f represent iron
+masts at the poles and at the equator; they are traversed by
+magnetic induced currents, parallel to the nearest curves in
+the direction of the arrows; in the northern hemisphere a is
+the induced south pole; b the induced north pole of a b; in the
+southern hemisphere, e is a south pole and a north pole of
+ef by induction from the earth; at the magnetic equator the
+induced magnetic current must be horizontally somewhere be-
+tween c and d, like the arrow.
+The arrows indicate the supposed direction of this magnetic cur-
+rent; the arrow heads present everywhere that end of the magne-
+tic needle, which on the surface of the earth is the north seeking pole.
+
+78
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+The tendency of all magnets below and above the surface of
+the earth must be to remain parrallel to this terrestrial mag-
+netic circulation, and if there were a tunnel throngh the earth
+from one magnetic pole to the other, then the direction of the
+needle at the centre of the earth would be opposite to what it is
+on the surface near the equator.
+The reason of the terrestrial magnetic influence being so
+great in soft iron is no doubt due to this metal's great capacity
+for atomic polarity (compare Tyndall's "Atomic Poles" in the
+"Forms of Water," p. 32) the molecules arranging and disarrang-
+ing themselves instantaneously, according to prevailing magnetic
+or electric currents; steel being harder, the molecules do not
+so easily give way; but when arranged in a manner most fav-
+ourable to a current's passage, they are more likely to remain
+so (Coercive Force.) Consequent points in a magnet are due to
+faulty magnetisation; the bar being touched wrongly, currents
+in opposite directions are formed and consequently interme-
+diate poles. When the pole of a weak magnet touches the same
+pole of a strong one, the current in the former may be reversed
+by the more powerful current of the stronger magnet in an op-
+posite direction, and therefore also the poles of the weaker mag-
+net would be reversed; lightning may cause the same effect.
+6.-On the Coincidence of Periodical Maxima and Minima of
+Solar Spots with similar changes of Terrestrial
+Magnetic Variation.
+IT is a fact well established by the labours of Schwabe, Wolf
+and others that in mean periods of about eleven years the num-
+ber and size of solar spots are subject to gradual changes;
+while Sabine, Hornstein and Lammont very early discovered a
+parallelism between these changes and similar ones of the ter-
+restrial magnetic elements; both increase during about 5
+years, when they attain their maxima and then decrease again
+until they attain their minima together; therefore it has been
+supposed by many competent authorities that terrestrial mag-
+netism must be influenced by a maximum or minimum of solar
+spots. I think it more likely, that both phenomena are inde-
+pendent of one another, but since they do coincide, that they
+must be caused by the same means, for the following reasons:
+Considering solar spots first, we must bear in mind that the sun
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+79
+is a fiery mass in the process of cooling, the same as the earth
+has been in former ages. The spots are products of this cool-
+ing process, partly in the solar atmosphere (solar vapours com-
+posed of various elements condensed to solar clouds); partly
+floating on the surface like floes of ice upon water; or in the
+case of the earth's earlier age, like what then must have been
+the first nuclei of the forming solid crust (now primary rocks?);
+these slakes given, they may burst by contraction, the fiery li-
+quid springing up between the pieces, separating and flooding
+them, or the pieces perhaps may sink into the fiery deep below
+and become melted again, after which the radiation of heat
+into space (temporarily suppressed by the intervening spots),
+will be renewed with increased force. But it would be out of
+place to discuss here the various theories of solar spots; my
+object only is to remind that they are a product of a cooling
+process upon the sun; this cooling process can solely occur by
+radiation of heat from the sun's surface into space; therefore,
+if this process appears enhanced during about 5 years, it is a
+direct proof that during this period the sun gradually becomes
+surrounded by a better heat conducting medium; this medium
+being the assumed allpervading universal ether, without the
+existence of which neither the phenomena of heat and light nor
+probably those of gravitation, magnetism, electricity, (and pos-
+sibly those of sound) could not be explained. But since this
+heat conducting medium naturally must remain one and the
+same (the assumed ether), the change or improvement which
+takes place can only occur in its constitution, and I consider it
+possible, that during one-half of the 11 years' period its density
+may increase, during the other half it may decrease; during
+the dense ethereal periods the radiation from the sun becoming
+more intense, the superficial parts of the sun cool more rapidly
+and the maxima occur; during the rarified ethereal periods the
+radiation decreases, the sun's proper heat melts the products of
+the preceding accelerated cooling process more quickly than
+they can be replaced, and a minimum of spots occurs.
+That during a maximum of solar spots a maximum of heat
+is radiated from the sun perhaps may be considered as proved
+by the discovery of Lockyer, that during a maximum period of
+solar spots the quantity of rain upon our planet is consider-
+ably more than during a minimum of spots; (compare "Kos-
+"mologische Briefe von Hermann J. Klein, Graz 1877," page
+252); because more rain cannot fall, unless more water is pre-
+viously evaporated from the sea; but more water cannot be
+evaporated, unless more heat is supplied by the sun, and more
+
+80
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+heat cannot be conducted from the sun to the earth, without
+the capacity of the conductor, the ether being improved; there-
+fore the density of the ether must be subject to periodical
+changes corresponding to those of the solar spots, and how that
+is likely to effect terrestrial magnetism we shall see presently, but
+consider first, how this change of density possibly may happen.
+If our imagination and theories fill endless space, where
+everything is subject to eternal motion, with assumed universal
+ether, we have no right to suppose that it should not partici-
+pate in the motion of the stellar systems; and since all its
+known actions, as transmission of heat and light, are undula-
+tory, then periodically ethereal waves of greater and lesser den-
+sity may be sweeping through our planetary system, from
+worlds beyond and towards worlds beyond, perhaps analogue
+to swarms of meteorites, radiating in certain periods from cer-
+tain points of the firmament; this ether being possibly not only
+the element in which all stellar systems are moving, but also
+the element, the force, by which they are being moved; for I
+think the possibility can be shown that the supposed ether may
+be the source of gravitation, the very thing which keeps the
+atoms of all matter near one another, leads or attracts them
+towards each other, and in solids, cements them together.
+There is a high degree of probability that the ether filling
+the space of our solar system be moving round the sun in the
+same manner as the planets; because if the space were filled
+by the bodies of the system in former ages (dissolved as we
+might say in ether), as nebulous mass, concentrating after-
+wards into the various celestial bodies rotating round the sun in
+the same direction, what inducement could the ether have to do
+anything else ?* But ours is not the only solar system in
+space; ours is surrounded by innumerable neighbouring ones,
+each possessing no doubt its own revolving ethereal atmos-
+phere. Now, the ethereal undulations from one system must
+be traversing the undulations of the other systems; because if
+not, we would simply not be aware at all of the existence of
+other worlds; and that, when two or more crests of ethereal
+waves are co-existing (overlapping, superposing one another)
+in our solar system, the maximum influence of ether is mani-
+fested by increased radiation from the sun and consequently
+more considerable formation of solar spots and greater inten-
+sity of all terrestrial phenomena connected with the same pe-
+"Olbers maintained, that this fluid could not be at rest, but must
+"rotate directly round the sun." (Humboldt's Cosmos, vol. III, p. 48).
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+81
+riod. But when the troughs of two or more ethereal waves
+occur together, then the intensity of all phenomena concerned
+will be less, analogue to the interference of light and other
+waves; this interference of ethereal waves would be acting on
+our system like bellows on a furnace, and from other stars pos-
+sibly our sun might appear as a star of periodically variable
+light; or perhaps we may view our dense ethereal periods as
+the sum or accumulation of ethereal waves from the myriads of
+stars and nebulae in the milky way; or as waves overtaking
+or meeting the sun on his presumed passage through space.
+It may be remarked here that the mean periods of about 11
+years are by no means very regular; (compare the tables in
+Dr. Klein's "Kosmologische Briefe," 2nd edition, page 220.)
+A is the solar system in space; B, C, D and E are to repre-
+sent neighbouring stellar systems, and the circles ethereal un-
+dulation crests; where they coincide, maxima of density take
+place; where the intermediate spaces-the troughs-coincide,
+minima of density will happen.
+
+82
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+How ethereal waves, therefore also maxima and minima of den-
+sity, may affect the phenomena in question is well suggested by
+Alex. von Humboldt, in the English edition of his Cosmos, trans-
+lated by E. C. Otté, London, 1868, Vol. III, pages 39 and 40:-
+"The numerous investigations that have been made in re-
+"cent times regarding the intimate relation between light, heat,
+"electricity, and magnetism, render it far from improbable
+"that as the transverse vibrations of the ether which fills the
+"regions of space give rise to the phenomena of light, the
+"thermal and electro magnetic phenomena may likewise have
+"their origin in analogous kinds of motion (currents). It is
+"reserved for future ages to make great discoveries in refer-
+"ence to these subjects.'
+"If electricity moving in currents develops magnetic forces,
+"and if in accordance with an early hypothesis of Sir William
+"Herschel, the sun itself is in the condition of "a perpetual
+"northern light." (I should rather say of an electro-magne-
+"tic storm), we should seem warranted in concluding that so-
+"lar light, transmitted in the regions of space by vibrations of
+"ether, may be accompanied by electro-magnetic currents."
+N
+NOON
+N
+N
+N
+M
+Sh
+M 10/2
+M M
+2h
+A M
+SM
+
+"
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+88
+In preceding figure W E is the terrestrial equator, C Cis the
+tropic of Cancer, C' C' the tropic of Capricorn, N S are meri-
+dians from 2 to 2 hours; for the sake of simplicity and facility
+of demonstration we consider these meridians also as magnetic
+ones; the dotted lines M M' are to represent the magnetic
+curves of force between the two hemispheres, according to the
+theory deduced in the preceding chapter; the circles are in-
+tended to denote waves of luminiferous ether striking the equa-
+tor at noon during the equinoxes immediately below the sun;
+the effect would be the following: under the sun the supposed
+lines of magnetic force being struck under a right angle can de-
+viate neither to the eastward nor westward and no diurnal varia-
+tion will shew; but to the right they would be slightly deflected
+by the circular (or rather spherical) solar waves and the magnet at
+4 (having the tendency to remain parallel to the lines of magnetic
+force), would show westerly diurnal variation; at 6, easterly, and
+at 5, none; to the left the magnetic curves of force would be
+deflected the opposite way and more powerfully so, because the
+ethereal undulations moving with the sun from E. to W. would
+act on the lines of force like a vessel's bows ploughing through
+the seas, throwing up other waves in advance; and a magnet
+at 1 would shew easterly, another one at 3 westerly, and one
+at 2 no diurnal variation.
+During the summer solstice the same phenomenon would
+take place at C C, during the winter solstice at C' C', thus ac-
+counting for annual variation and why there should be a zone
+near the equator, which alternately, according to the declina-
+tion of the sun, exhibits the phenomena of the northern or the
+southern hemisphere.
+WINTER.
+SUMMER N
+✗
+FORMER NEBULOUS
+OUN
+ENVELOPE.
+SOLSTIOE.
+SOLSTIOE.
+In the above figure to the left is the earth at the summer
+solstice, and the undulatory lines connecting the earth with the
+sun are to indicate ethereal waves, encircling the earth by in-
+flection round it, converging near the hour angle of 12 h., like a
+divided stream under the stern of a vessel at anchor, producing
+the second tidal wave of diurnal magnetic variation.
+
+84
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+In former ages when the earth was a nebulous mass, com-
+parable almost to ethereal matter itself, these undulations (or
+radiations?) may have carried nebulous substance along with
+them towards a point X, and during the winter solstice towards
+a point Y, forming a conical tail (like a vortex) in the direction
+of the radius vector, as is still the case with most comets.
+Now if these ethereal undulations can be allowed as producing
+diurnal and annual variation, it is easy to see how greater or
+lesser density of the ethereal medium will influence magnetic
+variation in the same periods with the greater or lesser fre-
+quency of solar spots.
+It will be noticed that this is the 3rd suggestion advanced to
+account for diurnal variation; the first was displacement of the
+earth's internal magnetic nucleus; the second was tidal mo-
+tion of the earth's fluid interior; I would be most in favour of
+this last explanation, provided the regular turning hours of
+daily variation are not subject to secular change.
+The various calculations introduced in several places of this
+essay are only to answer the same purpose as the diagrams,
+which are grossly exaggerated to make them more graphic;
+they are intended to illustrate the principle and nothing more;
+the data for correct calculations not yet being given, which is
+much to be regretted.
+Humboldt says in the Cosmos that the African node (point
+of intersection between geographical and magnetic meridians),
+has been advancing to the westward, rather less than half a
+degree annually, and he thinks that the magnetic North Pole
+might be moving from west to east, the South Pole from east to
+west; in the Admiralty Manual it is stated that the system of
+magnetic lines in the northern hemisphere appears to be mov-
+ing to the westward, in the southern hemisphere towards the
+eastward. My opinion still is, after reconsidering carefully the
+limited material which gradually has come under my notice
+while writing these several chapters, that both magnetic poles
+are moving from east to west, about half a degree per annum,
+more or less; possibly the southern one somewhat slower than
+the northern one, for reasons stated in a previous chapter of
+this appendix.
+The magnetic North Pole of the variation charts for 1860 is
+still placed in the same position, where Captain Ross found it
+1880, though I believe in 1860, it must have been from 12° to
+15° more to the westward, and perhaps it would be more prac-
+tical and useful to verify its position from time to time, than to
+be struggling in vain after the geographical pole.
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+85
+If I dare to bring this Essay before the public in spite of its
+imperfections and many shortcomings, it is because I cherish
+the hope, that some more competent authority, commanding
+more information, leisure, and means, than myself, might under-
+take and succeed to sift the erroneous from the truth, to make
+the latter more readily acceptable.
+Note. Dr. Herman J. Klein states in his "Kosmologische
+"Briefe ueber die vergangenheit, gegenwart und zukunft des
+"weltbaues," Graz, 1877, p. 252-253, that Zoellner tried to
+show the casual connection between the variations of terres-
+trial magnetism and the state of the sun's surface, while Horn-
+stein at the same time demonstrated, that declination, inclina-
+tion and horizontal intensity are subject to periodical changes
+of 26.33 days' duration, and that they can only be considered
+as caused by the rotation of the sun; from this period the sun's
+true rotation would be found to amount to about 24.55 days,
+as deduced by Spörer from direct observations of the sun's
+equatorial zone.
+If this influence of the sun's rotation can be accepted as
+existing, than it would prove that the magnetic axis of the sun
+does not coincide with his axis of rotation, (analogue to our pla-
+net), and during one half solar revolution one solar magnetic
+pole would present itself to the terrestrial magnetic apparatus,
+repelling the latter's pole of the same name and attracting the
+opposite one; during the other half solar revolution attraction
+and repulsion of the terrestrial poles would of course be rever-
+sed, the whole phenomenon becoming rather complicated by
+the earth's daily revolution, its changing distance from the sun
+and the latter's changing declination. Admitting that the
+earth be influenced by magnetism from the sun, than we must
+also admit, that the earth by its revolution across the field of
+solar magnetism may generate electric currents (atmospherio
+electricity, etc.) analogue to revolving metal and other bodies
+across the field of terrestrial magnetism (compare Deschanel's
+Natural Philosophy, by Professor J. D. Everett, London 1878,
+pages 759-760); but then the interesting question presents it-
+self: why should the sun's magnetic axis not coincide with the
+axis of rotation? perhaps the answer might be that the sun's
+magnetic axis has the tendency to set at a right angle to the
+plane through the centre of gravity of the whole solar system,
+the latter differing, according to Laplace nearly 1° 84' 15" from
+the plane of the ecliptic, and the plane of the ooliptic forming
+an angle of about 7" with the plane of the sun's equator. Ano
+ther interesting question would be: "are the maguetio poles of
+
+86
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"the sun of the same nature, as the corresponding ones of the
+"earth and other planets, or are they opposite?"
+Note. Since the manuscript has been returned to me, to see
+the proofs of the woodcuts, I have had the good fortune of read-
+ing Sir W. R. Grove's Correlation of Physical Forces (London
+1874), in which on page 122 the following passage occurs,
+which I consider highly corroborative of my views of universal
+ether: "Ether, which term we may apply to the highly attenu-
+"ated matter existing in the interplanetory spaces, being an
+"expansion of some or all of these atmospheres"-(of the sun
+and planets, etc.)" or of the more volatile portion of them,
+"would thus furnish matter for the transmission of the modes
+"of motion which we call, heat, light," etc.
+The same eminent philosopher says in the just mentioned
+work, page 197: "If magnetism be, as it is proved to be, con-
+"nected with the other forces or affections of matter, if elec-
+"trical currents always produce, as they are proved to do, lines
+"of magnetic force at right angles to their lines of action, mag-
+"netism must be cosmical, for where there is heat and light
+"there is electricity and consequently magnetism. Magnetism
+"then must be cosmical and not merely terrestrial. Could we
+"trace magnetism in other planets and sun's, etc., it would be
+"a great step.
+Mr. Airy suggests that currents of
+"magnetic force having reference to the solar hour are de-
+"tected, and seem to produce vortices or circular disturbances
+"and he invites further co-operative observation on the sub-
+"ject, one of the highest interest, but at present remaining in
+"great obscurity."
+"Messrs. De la Rue, Stewart and Loewy were publishing_a
+paper, in which a new theory of sunspots is discussed.-In
+"this paper all differences of luminosity on the surface of the
+"sun are referred to the same cause, namely, the presence to
+"a greater or less extent of a comparatively cold absorbing
+"atmosphere. (Guillemin's "The Heavens," p. 44.)
+The Sun's Atmosphere."It is not at all unlikely, that it
+"may even turn out to have no upper limit, but to extent from
+"the sun indefinitely into space."-(Ibid, p. 49.)
+RETROSPECT AND CONCLUSION.
+IT may not be out of place at the close of these chapters
+briefly to review the main features of the theory as follows:-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+87
+Revolution of the magnetic poles round the geographical one
+in about (roughly speaking) of a millennium, probably in an
+epicycloidal track from east to west.
+The revolution of poles is brought about similarly, as the west-
+ward tendency of the exterior ocean by the mutual attraction be-
+tween the celestial bodies and the earth's interior fiery fluid
+conjointly with the quotidian revolution ;-the liquid portion of
+our planet revolving slightly slower than the solid, amounting
+perhaps to about degree per annum.
+The internal fiery fluid contains a nucleus of great density
+(owing to the stupendous effect of superincumbent pressure by
+gravity), therefore of great magnetic capacity and coercive
+force, as must be inferred from Faraday's and Harris's experi-
+ments; Dr. Joule says "that steel would be compressed to of
+its volume at the centre of the earth." To this extremely
+dense, perhaps even solidified nucleus, we must look as the seat
+of terrestrial magnetism, round whose poles all magnetic mat-
+ter collects like a liquid armature; its axis does not coincide
+with the axis of rotation, because again owing to the mutual
+attraction of the heavenly bodies and that part of the terres-
+trial spheroids internal molten mass, contained in the protu-
+berance at the equator, causing a circuit of current in the fluid
+interior, which tends to elevate the axis of the nucleus at a
+right angle with the ecliptic; this tendency conjointly with the
+daily revolution results in an eccentric circulation of current
+containing the magnetic nucleus; the strength of current being
+influenced by aphelion and perihelion, apogee and perigee, op-
+position, conjunction, quadrature and declination of the celes-
+tial bodies; an unequal power of attraction being brought to
+bear at different times on different portions of the current, is
+likely to cause irregularities in its shape and motion, to which
+of course the liquid armature must accommodate itself, causing
+thereby an unsymetric distribution of the magnetic foci of un-
+equal force; and possibly even a retardation of motion of the
+magnetic south pole, which irregularities are reflected by cor-
+responding ones on the surface of the planet in the system of
+magnetic lines, although the latter no doubt are partly also duo
+to the configuration of land and sea, and to the projection upon
+an ellipsoidal surface from an eccentric internal position.
+Annual and diurnal variation are supposed to be caused by
+"It has been computed at what depth liquid, or even gaseous
+"substances would from the pressure of their own superimposed strata,
+"attain a density exceeding that of Platinum or even Iridium."
+boldt's Cosmos, vol. I., p. 163.)
+(Hum-
+
+88
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+the magnetic nucleus describing a circle round its mean daily
+position during a revolution of the planet in the opposite direc-
+tion (which former movement the magnetic poles of course
+must follow) in the following manner :-
+M
+W
+-8-
+B
+E
+R
+Let A E B W be the earth and M the power of attraction of
+the celestial bodies at new moon, which will attract A most, C
+less, and B least; the formation of the flood wave, WE is
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+89
+the consequence, which de facto makes the terrestrial hemis-
+phere WA E lighter, than the opposite one W BE; to restore
+the centre of gravity of the whole globe W AE B, some con-
+tents of the planetary shell must move and the centre of the
+nucleus is transferred from C to D; now if B has been at-
+tracted towards C by a centipetal force proportional to (B C)³,
+then after the transfer of the nucleus from C to D, the point B
+must be attracted inversely less, as the square of the distance
+(B D) has increased; the consequence of this will be the move-
+ment of B to 3, and the formation of the second flood wave
+W BE; or supposing the excess of attraction exercised by M
+upon the hemisphere WAE equal to a power capable of lift-
+ing one million of tons, than million tons of matter must
+shift from the hemisphere W BE into the former, (or the nu-
+cleus from C to D), to restore the disturbed equilibrium of the
+whole. The earth revolving from west to east and D, having
+the tendency to remain in the direction of strongest attraction
+M, must describe a circle in the opposite direction; at other
+times than new moon, the nucleus would be moved by the pa-
+rallelogram of forces of solar and lunar attraction.
+From this it would appear that the centre of gravity of our
+planet were not geocentric, an occurrence which will seem less
+strange (besides the reasons already mentioned), if we consider
+the fact that even the position of the central body of the whole
+planetary system is not always in the mathematical centre of
+the latter, "but it actually rotates round the common centre of
+"gravity of the system, which occasionally falls within itself,
+"that is to say, remains within the material circumference of
+"the sun," (Ottes, Eng. transl. Cosmos, Vol. I, page 134) and
+"in September 1827, Schwabe discovered the eccentric posi-
+"tion of Saturn, afterwards confirmed by Harding, Struve,
+"Herschel and South," (ibid, Vol. IV, 521). Anyone acquaint-
+ed with electric phenomena will conceive, that by such motion
+and commotion within the earth, electric currents should be ge-
+nerated, which joined to the probable magnetic capacity of the
+nucleus, will easily account for the existence of terrestrial mag-
+netism; electric knowledge "has also thrown much light on the
+"internal action of terrestrial forces, since magnetism has been
+"recognised as one of the simplest forms under which electri-
+"city is manifested" (ibid, Vol. II, 727).
+The description of magnetic currents given in the 5. Chap.
+of the Appendix as a peculiar solenoid-like closed circuit, well
+explaining all magnetic phenomena, I think not undeserving of
+
+90
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+oonsideration, and it would be interesting to learn, if my view
+f tidal motion could be confirmed (4. Chap. Appendix.)
+In the Journal of the North-China Branch of the Royal Asia-
+tic Society, new series, No. X, Shanghai 1876 (Appendix II)
+some highly interesting remarks are contained by the Rev.
+Father M. Dechevreus, S. J.: "J'ai tout dernièrement recon-
+"nue que ces briques" (some building material used at the Zi-
+ka-wei observatory, nearly four miles from Shanghai), "pro-
+"venant du Tché-kiang, sont notablement magnétiques (celles
+"qui viennent de Tien-tsin ou du Tché-ly le sont au même de-
+"gré) et que la correction à apporter à ces dernières observa-
+"tions est assez forte."
+"Pendant la nuit le mouvement de l'aiguille, chaque fois que
+"j'ai fait des observations de 24 heures, a été excessivement
+"faible et difficile à saisir avec le déclinomètre ;" (this would
+appear favourable to the view attributing diurnal variation to
+thermo-electricity by the sun, but Humboldt and Sabine assert,
+that it makes no difference in the daily turning hours, whether
+the sun rises very early in summer, or very late in winter; the-
+refore I beblieve my suggestion of ethereal waves in the last
+chapter of the appendix a more likely explanation), In another
+place the able Zi-ka-wei observer states: "la declinaison mag-
+"nétique à Zi-ka wei en 1874-75 aurait en moyenne, dans l'in-
+"tervalle de 24 heures presente 3 minima orientaux et 3 max-
+"ima occidentaux."
+Telle est la marche générale du phénomene; en hiver le ma-
+"ximum du matin se présenté après 6 h.; de même le mini-
+"mum du soir se rencontre avant 5 h.; de telle sorte que dans
+"l'intervalle de 12 heures, on peut observer dans la courbe
+"semi-diurne deux minima et deux maxima; bien plus j'ai été
+"assez étonné plusieurs fois," (on full and change of the
+moon?), "entr'autres jours le 6 Fevrier 1875" (new moon about
+4 p.m.), "de constater l'existence, dans le même intervalle de
+"temps, de trois mouvements complets de va-et-vient très-bien
+"marqués et presque d'égale amplitude;" are these daily fluc-
+tuations indicative of the 3 distinct influences by circular mo-
+tion of the nucleus, by the daily ethereal flood wave (Chap. 5.,
+Appendix), and by the internal tides of the molten mass (Chap.
+4., Appendix), the latter dependent on a "subterranean es-
+"tablishment of the port"?
+Humboldt, to whom the science of terrestrial magnetism
+owes so much, repeatedly suggests various plans for investigat-
+ing thoroughly these interesting and important phenomena, &
+correct knowledge of which is of consequence in surveying, en-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM. 91
+gineering, mining, travelling, strategy, etc.; but to no one more
+than the navigator, the shipowner and insurance companies
+especially since the large introduction of iron and steel into'
+ship building.
+The fragmentary character of these pages is due to their
+being written at different periods of the present S. W. mon-
+soon (1878), as the necessary information, however, scanty,
+gradually became procurable, and without the valuable assist-
+ance of the gentleman already named, and the kindness of the
+president, secretary and council of the N.-C. B. of the R. A. S.
+I would not have been enabled now to submit to the test of
+public discussion and criticism this essay on Periodical Change
+of Terrestrial Magnetism.
+SECOND APPENDIX TO PERIODICAL CHANGE OF
+TERRESTRIAL MAGNETISM.
+VARIOUS SUPPLEMENTARY REMARKS.
+REGRETTING not to have been able to introduce the following re-
+marks in appropriate places of the various preceding chapters,
+I must apologize for intruding them now; but I could only
+lately write them, after the works quoted had come into my
+possession from the estate of a distinguished and much lament-
+ed late member of the N.-C. B. of the R. A. S.
+In the journal of the latter Society, No. 2, May 1859, page
+222, Captain (Vice-Admiral Sir Charles) Shadwell, C.B., H. M.
+S. Highflier, states from personal and Sir Everard Home's ob-
+servations that in Singapore, Hongkong, Shanghai and adja-
+cent places the dip (inclination) of the magnetic needle is in-
+creasing and says page 224 "all these changes can be account-
+ed for on the supposition of a gradual increase in the amount
+of the vertical component of the magnetic intensity of those
+places."
+I beg leave to point out how the increasing magnetic dip in
+question is explainable by the theory which I have had the ho-
+nour of bringing before the same Society. Captain Ross found
+the magnetic North Pole, A. D. 1880 at about 97° west of
+Greenwich 141° east of Shanghai; allowing about west-
+erly motion per annum would have placed the same pole for the
+year 1753 in 58° west of Greenwich, i.e. on the meridian of
+
+92
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+Shanghai below the geographical North Pole, when the dip at
+Shanghai probably may have been near 40 degrees, because
+that is the amount roughly, according to the inclination chart
+of the Admiralty Manual at 180° from the magnetic North Pole
+in Shanghai latitude, 31° north; and about the year 2113 when
+the magnetic pole should pass the meridian of Shanghai above
+the geographical pole, the dip will probably be about 60°, be-
+cause that is at present approximately its amount due south of
+the magnetic pole for Shanghai latitude.
+These suppositions accepted, it would be clear that since say
+1753 until about 2113 the dip at Shanghai must be increasing,
+because the magnetic pole in its secular revolution is approach-
+ing the latter place, and the nearer the pole, the greater the
+inclination of the needle. The same reasoning holds good con-
+cerning Singapore, although it has southern inclination; the
+magnetic pole to the southward of Australia in its westerly
+motion is approaching the meridian of Singapore, therefore the
+dip must increase. Sir Charles Shadwell also calls attentlon
+to the anomaly, that at Woosung, 10 miles to the northward of
+Shanghai, the dip on the 26th November 1858 was 45° 2'
+north, 16-17 minutes less than at the latter place on the 10th
+of June (45° 18' N.) and on the 16th December (45° 19' N.)
+Consulting the same Society's Journal, new series, No. X, 2nd
+Appendix, Shanghai 1877, it will be found that on the 3rd Oc-
+tober 1875 the dip at the Zi-ka-wei observatory was 46° 26' 15"
+north, and next month 21st November 46° 9' 38" north; the
+actual greatest difference may probably have escaped observa-
+tion, because unfortunately for 1875, from April to December,
+only 34 observations are recorded; the amplitude of horizontal
+variation, more extensively observed, has certainly been great-
+er; for the Rev. Père M. Dechevreus, S.J., states in the same
+place the greatest difference to have been 21.51 minutes. From
+this great difference at one and the same place in less than two
+months' interval it appears doubtful, whether the anomaly
+pointed out by Sir Charles really does exist, or whether it has
+been only accidental; the same remark applies to the observa-
+tions at Kintang and Ningpo of the same paper.
+There is always a fleet of native and foreign men of war in
+the port of Shanghai; there is a harbour master's station and
+a telegraph office now at Woosung; might it not be possible to
+make arrangements for taking a series of dip observations near
+Woosung, simultaneously with the Rev. Jesuit Fathers at the
+Zi-ka-wei Observatory, to discover the true state of the magne-
+tic elements in the vicinity of this influential emporium of cos-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+2
+93
+mopolitan enterprise? It is of interest and importance to
+study the variation of the magnetic elements in these parts of
+the world, in order to understand the nature of that peculiar
+oval of western variation, in which Shanghai is situated, and
+which, judging from Bohn's edition of Humboldt's Cosmos, Vol.
+I, pages 174-175, at Columbus's time must have been in the
+North Atlantic between the Azores and the shores of the new
+continent: "We can with much certainty fix upon three places
+"in the Atlantic line of no declination for the 18th September
+"1492, 21st of May 1496 and the 16th of August 1498. The
+"Atlantic line of no variation at that time ran from N. E. to
+"S. W." (corresponding to that portion of the oval now be-
+tween the Philippine Islands and the Pacific Ocean to the east-
+ward of Japan,)-it then touched the South American continent
+"a little east of Cape Codera," etc.,-which latter line may
+have been the one now passing through Australia. Too much
+reliance, however, cannot be placed on those early observa-
+tions, either european or oriental, for on page 175 of the same
+volume we read that in Paris 1669 the variation was null,
+while other authorities give the year 1668; on page 174 we
+find on the 18th September 1492 the line of no variation was
+"3° west of the meridian of the island of Flores "--and in the
+Vth Volume of the same work, page 54, we see that the same
+line on the same date was 21° east of Corvo, Azores Islands.
+It is therefore all the more an important duty for the present
+generation to investigate the magnetic changes more minutely.
+From Columbus' time to its present position this interesting
+oasis of western declination would have performed about
+half a revolution round our planet from east to west in
+somewhat more than three centuries. Humboldt suggests
+repeatedly various plans for discovering the true state aud na-
+ture of terrestrial magnetism; the best proceeding perhaps
+would be, to establish an international commission by special
+delegates from all civilized nations, to ascertain four or five
+times every century by numerous land and sea expeditions after
+well concerted plans the exact state of the magnetic elements
+all over the globe, in connection with the fixed magnetic ob-
+servatories already existing; the expenses to be borne propor-
+tionally by all governments concerned. In Vol. II, No. 1 of
+this Society's Journal, Shanghai 1860, page 95, a supplemen-
+tary memorandum by Admiral Shadwell is contained with some
+additional useful information concerning the magnetic elements
+in these regions, and I am confident, that by some more reliable
+observations taken in the present century the westward move-
+
+94
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+ment of the ellipse of western declination in eastern Asia can
+be proved.
+In No. XI of the same Society's Journal, Shanghai 1877, in
+a paper by Dr. J. Edkins "On the Variation of the Compass as
+"observed in China in the VIIIth, IXth, XIth, XIIth and XVIIth
+"Centuries," much valuable information is contained. Dr.
+Edkins says, page 140, that Mr. Wylie cited a passage from
+Su-kwang-ki, which states: "there is a variation for every
+"place. In Peking the variation is 5° 40' east; this is found
+"in his work Li-yi;" page 139: "hence we learn that the va-
+"riation was eastern in China in A. D. 713 and at about A. D.
+900. After that it became western and was so about A. D.
+1080 and nearly a century later, at the time of Lai-wen-
+tsiün." Dr. Edkins thinks, that since the Tang dynasty the
+needle may have had western declination and exchanged it
+again for eastern, two or three times. "Shen-kwa is quoted
+as saying that in the place where he was writing the needle
+"persistently pointed to ping-wei. Transferred to our compass
+"this is the same as 15° to the west of north." From a re-
+mark on page 142 it seems that in 1080 and 1160 the variation
+in China was westerly, 74° in the latter year.
+-66
+Dr. Edkins arrives by means of Ganot's Physics, translated
+by Atkinson, at the same conclusion, to which I have been led
+by Müller-Pouillet's work. It may not be uninteresting to
+reproduce here, from the transactions of the China Branch of
+the Royal Asiatic Society, part 1st, Hongkong, 1848-50, p. 163,
+the following curious precept for magnetisation from the Chinese
+cyclopædia Tung-teen-shaou, as extracted by Dr. W. A. Har-
+land:-
+"To make Needles point to the South.-Take of vermillion,
+"orpiment and iron filings of each several fun (one fun equal
+"to 6.4 grains avoirdupois), reduce them to an impalpable pow-
+"der, and mix together with blood from the comb of a white
+"cock. Twenty or thirty needles are to be mixed up with this
+"composition, well folded in paper and placed in a furnace
+"where they are to be exposed to the highest heat of a char-
+"coal fire for seven days and seven nights. They are then to
+"be taken out and folded up in a piece of flesh for three days,
+"after which they may be removed and placed on the surface
+"of water to ascertain whether they turn towards the south
+"and are fit for use." Iron possessing the greatest magnetic
+capacity, when red hot, it is not impossible that the needles
+may acquire magnetism by induction from the earth, especially
+if placed parallel to the magnetic dip, which induced magne-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+95
+tism may become permanent, if the needles by the described
+procedure, (brisk insertion, whilst hot, into flesh), have become
+hardened, converted into steel. The Chinese do not seem to
+have discovered the magnetic inclination. It appears, that the
+manifestation of magnetism is more dependent on the extent of
+surface, than on the mass of magnetic bodies; an empty iron
+tank, for instance, according to Commander W. Walker, R.N.,.
+exercises the same influence on a compass, as a solid mass of
+iron of the same size; therefore it may perhaps be possible to
+give a greater directive force to the mariners' compass card by
+using hollow magnets in its construction, thereby increasing
+the magnetic surface of the apparatus, without increasing its
+weight.
+The importance of the superficial area of magnets is further
+illustrated by the fact that several magnets closely joined toge-
+ther to form a magnetic battery, possess less magnetic inten--
+sity, than the sum of intensities of the individual magnets would
+amount to; simply because the battery exposes and affords less-
+surface to the display of magnetic currents, than the surfaces of
+the single magnets amount to, when separated. Perhaps some-
+desirable information concerning local magnetic changes can be
+derived from Japanese or Dutch authors, on account of the lat-
+ter's early connection with Japan and Formosa; instructive re--
+cords of these phenomena in China and Japan may also be con-
+tained in the Portuguese and Spanish archives in Macao and
+Manila. The following series of magnetic observations in the
+vicinity of the head quarters of this Branch of the R. A. S.,.
+Shanghai, are by high authorities, and extracted from the So--
+ciety's Journal:"
+June 1848, dip by Sir E. Home, 44° 75' N.
+June 1858, dip by Sir C. Shadwell, 45° 18' N.; declination,.
+2° 29' W.-Race Course.
+June 1858, dip by Sir C. Shadwell, 45° 19' N.; declination,.
+2° 32'-Consular Flagstaff.
+A. D. 1875, dip by Father M. Dechevrens, 46° 15.8' N.; de-
+clination, 1° 59.82-Zi-ka-wei.
+A. D. 1874-1875; intensity, horizontal, 6.94867; vertical,.
+7.25868. Total, 10.04850.
+In Deschanel's Natural Philosophy by Professor Everett,.
+London 1873, page 633, the following passage occurs: "As to
+"dip, its amount at Paris has continued to diminish ever
+since it was first observed in 1671. From 75° it has fallen to
+"66°, its present value. As its variations since 1863 have been.
+"scarcely sensible, it would seem to have now attained a mi-
+
+96
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"nimum to be followed by a gradual increase." By an in-
+spection of the figures on page 681 of the same work, it will be
+remarked that the isoclinal lines form more or less regular el-
+lipses round the magnetic poles, which in several parts of their
+configurations almost coincide with the parallels of latitude for
+some distance; such a coincidence of secular motion has pro-
+bably happened in 1863 at Paris, when the dip will appear sta-
+tionary for some time. A similar thing may happen in regard
+to the western declination in China; the greater axis of the oval
+running north and south, the northern and southern parts of
+the oval isogonic lines will nearly coincide with the parallels of
+latitude, and when the maximum of western variation is reach-
+ed at any place it will remain stationary for some time, and.
+then it will decrease. This hypothesis applied to the above
+table from the Society's Journal, it would appear, that since
+Sir Charles Shadwell's observations of the declination the north
+and south axis of the oval must have been passing towards
+the westward.
+"
+According to the international code of signals, London 1877,
+page 233, the magnetic declination has decreased about a
+quarter of a point during the last fifteen years in England. By
+a careful perusal of the Admiralty Manual of Scientific Eu-
+quiry, London 1871, my opinion concerning tidal motion ap-
+pears confirmed by the following sentences: "With regards
+to the stream of flow and ebb, they are often not merely two
+"streams in opposite directions at different times of the tide;
+"they generally turn successively into several directions, so as
+"to go quite round the compass in one complete tide, either in
+"the direction N. E. S. W. with the sun "(in places to the
+northward of the sun ?)-" or N. W. S. E. against the sun,"
+pages 71-72-(in positions to the southward of the sun ?)-" In
+"all land areas in the northern hemisphere the wave of high
+"water tends to revolve round the coast in the direction of the
+"hands of a watch and in like areas in the southern hemis-
+"phere against the hands of a watch; leaving out of the ques-
+"tion the theoretical (Mr. Carrick's) considerations, on which
+"are based these results, the degree of truth contained in the law,
+"regarded merely as empirical, is worthy of very severe scrutiny."
+Much less appears actually to be known yet of tidal move-
+ments than is generally supposed; "the general progress of the
+"tide wave along even the most frequented shores is still im-
+"perfectly known; and about the connection of the tides over
+"the general areas of large oceans we are as yet entirely in the
+dark; there is therefore an ample field of important and use-
+
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+97
+"ful discovery in this subject," (page 78) and "in the central.
+"parts of the Pacific the tides are small and anomalous, for
+"they do not clearly depend on the moon," etc., etc. It is pos-
+sible, that the last mentioned phenomenon may be due to the
+very probable fact, that the earth's solid crust covered by the
+Pacific may be thinner, than at other portions of our planet and
+therefore the outer crust, ocean and interior fiery fluid matter
+together yielding more equally to the deforming influences of
+centrifugal force and the attraction of sun and moon," (Mr.
+Kingmill's Borderland of Geology and History, page 5), which
+would certainly have the influence of letting the oceanic tides
+appear "small and anomalous."
+6
+The same remark applies to Batavia; "by accurate observ-
+"ations made in 1839 at Onrust, it seems that the tides and
+"rise and fall are not subject to fixed rules. The mean rise
+"and fall was two feet, and the maximum and minimum four
+"feet." (Findlay's Sailing Directory for the Indian Archipe-
+lago, China and Japan, London, 1870, page 618.)
+I must acknowledge with thanks that I have been under ob-
+ligation, when writing this second appendix, to the kind assist-
+ance of Mr. John Christie, chief engineer of the China Naviga-
+tion Company's steamer Chefoo.
+After the above lines had been sent to press, I have been fav-
+oured by the urbanity of the talented and zealous director of
+the magnetic and meteorological observatory at Zi-ka-wei, the
+Rev. Father Marc Deehevrens, S.J., with his reports for 1876-
+77 and a general resumé for 1878, from which the following
+facts are extracted :-
+:-
+1876
+1877
+1878
+Declination
+Inclination
+2° 1' 24" W. 2°
+46° 18' 48" N. 46°
+1' 21" W.
+2° 0' 04" W.
+13' 88" N.
+40° 18.4' N.
+Horizontent
+Vertical
+Compo-
+6.95181
+7.25602
+6.9687
+6.9770
+7.2684
+7.2815
+Total Intensity.
+10.04924
+10.0656
+10.0846
+The learned and Reverend Father states in regard of the
+mean values for the inclination and intensity in 1878 that dur-
+ing the months of May and June the observations had to be
+interrupted: "les travaux d'agrandissement de notre salle
+
+98
+PERIODICAL CHANGE OF TERRESTRIAL MAGNETISM.
+"magnetique m'ont forcé à interrompre les observations direc-
+"tes d'inclinaison et d'intensité."
+In his "Bulletin des Observation de 1876" Father Dee-
+hevrens describes an ingenious apparatus in use at Zikawei;
+"cet appareil à lui seul pourra, avec un chronomètre, consti-
+"teur tout le bagage scientifique et géographique à travers la
+"province, servant tout à la fois de théodolithe et de boussole
+"pour l'inclinaison, la declinaison et l'intensité magnètiques."
+If all Meteorological Observatories were supplied with this use-
+ful instrument, the mysterious periodical changes of terrestrial
+magnetism in the Far East would be much sooner revealed
+indubitably, than can be done by the solitary efforts of a single
+institution, although the observations be carried on in such a
+careful, intelligent and skilful manner, as at the excellent
+Zikawei Observatory; only by many valuable observations in
+numerous localities and extended over long periods of time, this
+interesting and important problem can be solved; a truth,
+beautifully illustrated by the Hexameter, which King Ludwig
+of Bavaria, caused to be engraved near a picturesque waterfall
+in the Alps:
+"Gutta cavat lapidem, non vi, sed saepe cadendo."
+I believe I cannot close these pages in a more appropriate
+manner, than by the remark from the illustrious Humboldt's Cos-
+mos (Bohn's edition, Vol. II, page 720), that "several times
+"every century an expedition of ships" (in conjunction with the
+fixed observatories ashore and land expeditions) "should be
+"sent out to examine as nearly as possible at the same time the
+"state of the magnetism of the earth, so far as it can be in-
+"vestigated in those parts covered by its ocean. May perma-
+"nent scientific institutions (Academies) impose upon them-
+"selves the practice of reminding every twenty-five or thirty
+"years' governments, favourable to the advance of navigation,
+"of the importance of an undertaking, whose great cosmical
+consequence depends on its long continued repetition."
+
+ERRATA.
+Page 38-Middle of page read 1663 instead of 1163.
+دو
+"
+وو
+"
+"
+33
+"
+22
+88-21st line from bottom read "minimum" for "maxi-
+mum."
+40-Middle of page read (Celsius) instead of (celsius.)
+41-14th line from top read "slag" for "slake"
+46-Middle of page read "do not coincide" instead of
+"does not coincide".
+46-12th line from bottom read "diurnal" instead of
+"diurned".
+47-11th line from top read "observatories" instead of
+"observations ".
+48-10th line from top read "1941, angle" instead of
+"1841. Angle".
+50-10th line from top read "armature" instead of
+"armisture".
+527th line from top read "elliptic" instead of "ecliptic".
+52-17th line from bottom read "full or new moon" in-
+stead of "full moon".
+,, 56-6th
+56 6th line from top read "hemisphere" for "hemis-
+دو
+دو
+"
+دو
+دو
+دو
+دو
+دو
+دو
+pheres."
+57-13th line from bottom read "Sabine" instead of
+"Sabini".
+63-2nd line from top read "Gales" for "Galese."
+64-16th line from top after "directions" add; were.
+65 1st line from top read "current" for "currents."
+65-4th line from top read "similar" for "singular."
+65-12th line from bottom read "Sn" for "SN."
+67-7th line from top after "which" add: according to.
+686th line from bottom read "Dr. Brünnow" for
+"Dr. Brünnout."
+68-12th line from bottom read "Stromboli, (volcanoe)"
+instead of "Stromboli (volcanse.)"
+69-6th line from bottom read "relations" instead of
+"rotations".
+,, 69-9th line from bottom read "statical" instead of
+" statistical".
+"
+69-17th line from bottom read "noyau" instead of
+"noyan".
+69-middle of page read "Biot, Hansteen and others have
+had."
+709th line from bottom read "closer" instead of
+"closed".
+
+دو
+دو
+"
+"
+"
+22
+70-The sentence "On the 1st of September," etc. should
+have been printed as a note to the 6th Chap-
+ter of the first Appendix.
+725th line from bottom add: "I copy as follows: "
+78-17th line from top read "exist" instead of "exists."
+85-15th line from bottom read "then" for "than."
+906th line from top read "Dochevrens" for "De-
+chevreus."
+90-7th line from top read "reconnu " for "reconnue."
+90-10th line from top read "viennent" instead of
+"vieunent."
+90-21st line from bottom read "presenté" for "pre-
+sente."
+90-18th line from bottom read "presente" for "pre-
+senté."
+98-6th line from top read "constituer" and "géogra-
+phique" instead of "constiteur" and "gêo-
+graphique."

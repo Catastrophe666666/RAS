@@ -1,0 +1,495 @@
+## p. 10 (#42) ##############################################
+
+SOME POINTS ON THE HISTORY
+OF SCIENCE IN CHINA
+By Prof. GIOVANNI VACCA
+University of Rome
+I. Matteo Ricci, the first European who was able to
+read and write Chinese books, was the first to acquire
+some knowledge of the scientific ideas of the ancient
+Chinese (¹) and to see clearly the extent of their astro-
+nomical and geometrical conceptions.
+Among the first successors of P. Matteo Ricci, was
+P. Joannes Terrentius, one of the first members of the
+Accademia dei Lincei. He wrote in 1623 a letter from
+China, which reached Kepler in 1627, and was published
+by him, together with his important answer, in 1630 (2).
+Kepler suspects with reason the astronomical obser-
+vations of the ancient Chinese to be not real observations,
+but the result of later and much more modern calcula-
+tions. He supposes that the whole astronomical science
+of the Chinese came from the Arabs.
+As their studies developed, the Jesuit missionaries in
+China were impressed by its imposing literature, and
+especially by the wealth of historical tradition, and came
+to have a too favourable impression of the value and age
+of Chinese science. The best known studies are those of
+P. Gaubil, which he condensed in a short Histoire de
+l'astronomie chinoise (3). The writings of P. Gaubil
+form the foundation of the studies on Chinese astronomy
+by J. B. Biot (*), and lately of a long series of studies by
+L. de Saussure (5).
+A careful examination of the Chinese texts used by
+Gaubil and after him by all the supporters of an ancient
+Chinese astronomical science, brings to the conclusion
+that their opinion was groundless.
+This has appeared clearly in the case of Schlegel's
+Uranographie Chinese (). The supposition that astron-
+omers existed in China 170 centuries before Christ was
+too fantastic to be believed.
+
+
+## p. 11 (#43) ##############################################
+
+OF SCIENCE IN CHINA
+11
+The first serious studies upon ancient China, which
+give a just idea of its science, are those of H. Maspero (7).
+The most elementary astronomical knowledge sup-
+poses the use of some astronomical instruments. J. B. Biot
+claims that in the Chou-pi there is a description of the
+most exact form of a perforated gnomon. He translates
+the Chinese text as follows: "Prenez un bambou, percez-y
+un trou dont le dimètre soit 1/10 de pied, à la longueur
+de 8 pieds. Cherchez l'ombre et observez-la. Le trou, en
+droite ligne, couvrira le soleil, et le soleil, correspondra à
+l'ouverture du trou." (8)
+The Chinese text says much less; it does not say that
+a hole should be pierced at the length of 8 feet, nor does
+it say that the sun's image on the ground is the object to
+be observed. The Chinese commentators have pointed
+out the obscurity of the description ("). In my opinion
+the Chinese writer seems not to have any idea that the
+end of the point of the gnomon gives a shadow corres-
+ponding not to the centre of the sun, but to the superior
+limb of the sun (10), but he seems to have paid attention
+to the necessity that the body of the gnomon should be
+sufficiently thick, so that also its end should cast a true
+shadow, not a penumbra. The conditions of the Chinese
+observation require that the gnomon should have the
+thickness of a Chinese inch. This only reasonable ex-
+planation seems sure, because it is quite impossible to
+make a hole in a bamboo cane in such a way that the
+image of the sun should be equally clear at the summer
+solstice and the winter solstice. J. B. Biot has seen this
+difficulty, but his opinion that the gnomon described is a
+rudimental instrument, seems to me unacceptable, because
+I think such a cane with a hole would have been useless
+as a gnomon.
+Further, astronomical calculation supposes the meas-
+ure of angles, the use of graduated circles, and some
+notion of plane geometry. Now, the existence of a celestial
+globe, used for astronomical purposes is based on un-
+founded interpretation of two Chinese characters (11).
+Only late commentators have given these two characters
+the meaning of celestial globe, or some other similar
+astronomical instrument. But the first Chinese who have
+given this interpretation, had learned from the West, even
+if we do not know how, the first notions of spherical
+astronomy, and had tried to find in their own ancient
+literature something corresponding. But such a research
+was absolutely useless.
+
+
+## p. 12 (#44) ##############################################
+
+12
+SOME POINTS ON THE HISTORY
+The most ancient Chinese work from which could be
+ascertained the science of the Chinese about 1000 B.C. is
+the Chou Pi already mentioned. The first translator,
+P. Gaubil, recognized that the second part of this work is
+recent. But even the first part and its dialogical form
+seem to point to an echo of western, and ultimately of
+Greek, science.
+The calculation of the magnitude of the sun and its
+distance from the earth, founded upon the shortening of
+the gnomon's shadow as one goes towards the south, and
+on the hypothesis of the plane earth and the measure of
+the sun's apparent diameter, conduces to state that the sun
+is as large as Peloponnesus, and its distance from the
+earth equal to the earth's radius. This same calculation
+had been made by first Greek mathematicians and
+astronomers.
+But while we can give the names, places and dates of
+these calculations in Greece, and their gradual develop-
+ment, in China there is no evidence that the scholars of
+the Chou dynasty knew the properties of similar triangles
+and the theory of proportions.
+The wonder expressed in the Chou-pi that it should
+be possible to measure the sun's distance without climbing
+to it with a ladder, but with simple calculations, a wonder
+which is not even indirectly reflected in the flourishing
+Chinese literature, proves its derivation from some western
+tale, which never made any lasting impression on the
+Chinese mind.
+It is on the other hand sufficient to think about the
+abundant harvest of information on the astronomy and
+mathematics of the Greeks, which can be found not only
+in the works of a single philosopher, but even only in the
+ironical allusions of one of Aristophanes' comedies.
+Henri Maspero has clearly shown the real origin of
+the mythological legends of the Sun King about the ancient
+Chinese astronomers Hsi and Ho (12). From these re-
+flections it seems that we must reject the conclusion not
+only of Schlegel's old Uranographie Chinoise (a book
+which has some interest only for sinologists on account of
+the information it contains), but also the recent writings
+of L. de Saussure, which, though made under better
+conditions by a sincere and enthusiastic scholar, are not in
+any way historically true. De Saussure himself, in one of
+his last papers (13), not satisfied by his reconstruction of an
+ancient Chinese science, has tried to find elsewhere, in the
+Iran, conceptions like those of the Chinese authors of the
+
+
+## p. 13 (#45) ##############################################
+
+OF SCIENCE IN CHINA
+13
+third and fourth centuries B.C. (theory of five elements,
+denary cycle, etc.). But his conclusions on the propagation
+from Iran to China in the fourth millennium B.C., contain
+perhaps some truth if applied to the fourth century B.C.
+To prove this conclusion we can observe that there is
+only one way to confirm, if possible, an historical account
+in which are recorded eclipses or other astronomical
+phenomena. We can make astronomical calculations to
+determine the date of an ancient eclipse only when it is
+known within a few years; but if the historical period in
+question is too long, we can always find an eclipse con-
+cording with the requirements of the historical event.
+The mathematical calculation is naturally correct, es-
+pecially if calculated by Laplace, as has happened, but
+the historical deduction is inconsistent. In fact the cata-
+logue of the eclipses recorded by Chinese historians begins
+with some regularity only after 776 B.C., and the doubt
+remains that the most ancient eclipses of the series have
+not been really observed, but interpolated later by Chinese
+astronomers (14). The scarcity of astronomical and
+astrological notions of the Chinese, as they appear from
+the historians, beginning from Ssu-ma Ch'ien, is in con-
+trast with the abundance and exactness of the statements
+on the points to which the Chinese mind has turned its
+attention in an original way.
+Take, for instance, the records of periods of drought
+and following famine given by the Chinese historians. In
+an interesting article Alexander Hosie (15) has collected
+many hundred cases for a period of more than a thousand
+years, described exactly and with abundance of geograph-
+ical data the important phenomenon. European historians
+have certainly been unable to collect a series of such
+complete data for as long a period. These observations
+are an extremely important document for the history of
+meteorology, and we can expect from them a better know-
+ledge of the history of the climate of Asia.
+II. The first Chinese astronomer is undoubtedly the
+Buddhist saint I Hang, of the T'ang dynasty. He studied
+the Indian mathematicians, from whom he learnt impor-
+tant mathematical and astronomical notions. A critical
+edition of his works and of such fragments as have been
+preserved would be desirable. Certain contributions to
+arithmetic contained in his mathematical commentary on
+the system used by soothsayers of divining with rods
+according to the I Ching, are perhaps his original work (16).
+
+
+## p. 14 (#46) ##############################################
+
+14
+SOME POINTS ON THE HISTORY
+I have purposely omitted mentioning the calculations
+made by Chinese mathematicians of the ratio of the
+diameter to its circumference, which they are said to
+have calculated in the form of a fraction 355/113. This
+result, which is quite correct, seems to be an importation
+from the West. It is natural to think that about the third
+or fourth century A.D., in a way that we cannot yet define,
+some results found in the works of Heron found their
+way to China through Central Asia, when we consider
+that under the Tsin dynasty, together with the above
+fraction, several other results contained in Heron's works
+made their appearance in China, such as, for instance,
+the complicated taximeter described by Prof. H. A. Giles.
+We come to the same results when we inquire into
+the origin of the arithmetic of great numbers represented
+with the decimal system grouping the figures eight by
+eight, as Archimedes did in his Arenarium. This same
+result is found in a biography of Buddha, contained in
+the Lalita Vistara.
+Of two Chinese translations, one of the fourth, the other
+of the seventh century (Bunju Nanjo, 159, 160), only the
+second, attributed to Arjuna, Buddha's master, contains
+calculations much like those of Archimedes.
+The pos-
+sibility of an Indian origin of Archimedes' ideas, which
+is unlikely for many other reasons, is thus absolutely
+removed, as E. Blochet has well understood (17)
+It seems probable that this interpretation of the Lalita
+Vistara should have been made in Central Asia, in the
+fourth or fifth century A.D., by someone who had a more or
+less direct knowledge of Archimedes' method. F. Woepke's
+hypothesis appears therefore quite baseless. At the end
+of the thirteenth century an algebraical work by the
+Chinese mathematician Chu Shih-chieh was published in
+China; it has been analyzed by A. Wylie (Jottings on the
+Science of the Chinese Arithmetic). It contains the table
+of the binomial coefficients, which appears in Europe
+over two centuries later, in the works of Petrus Apianus
+(1527), Stifel (1544), etc.
+Neither the Chinese nor the European mathemati-
+cians claim to have discovered this important table. But
+the great mathematician Omar Khayyam says clearly in
+his works that he was the first to find the general method of
+extracting roots from numbers of any order; it seems
+therefore highly probable that his discovery should have
+been transmitted, in what way we do not yet know, from
+Persia to the East and to the West.
+
+
+## p. 15 (#47) ##############################################
+
+OF SCIENCE IN CHINA
+15
+The method of giving an approximate solution to
+equations of a high grade, found in Chu Shih-chieh's
+works, calls forth the same operations. The extreme
+simplicity of the examples he uses in explaining the
+method, avoiding irrational numbers, shows that he had
+never made any application of it to real problems. This
+hypothesis may explain why this Chinese mathematician
+had no disciples, and why his works did not attract the
+least attention in China.
+When in 1582 Matteo Ricci came to China, he aroused
+great admiration by teaching and translating the first
+elements of Euclid, the application of arithmetic to
+geometry and Sacrobosco's sphere. Notwithstanding his
+efforts and those of his disciples Giulio Aleni and Sabatino
+de Ursis, and of his successors in the eighteenth century,
+Schall and Verbiest, no real mathematical school was
+formed in China.
+There were, it is true, in various periods, learned and
+active Chinese scholars, but none who was able to have an
+original conception of Western science, or to reconstruct it.
+The efforts of Protestant missionaries in the nine-
+teenth century were not more successful. The most
+prominent of them was certainly A. Wylie. His attempt
+to translate with symbols, half European and half Chinese,
+the elements of differential and integral calculus found
+no followers.
+The works of Li Shan-lan show an exceptional mind,
+but did not contribute to the diffusion of Western science
+in China.
+I do not think the small development of astronomy
+and mathematics in China is to be ascribed to deficiency
+of the aptitude for study in the race, or better races,
+which make up the Chinese people. The analysis of a
+prelogical mentality in primitive peoples, made by Levy-
+Bruhl and his school, seem inapplicable to the Chinese.
+Our exact sciences are based upon an evolution of
+Greek science for many centuries. It is impossible
+without long efforts, and not worth trying, to change,
+even slightly, the form of notation and the symbols. The
+mathematical formulas are difficult to read where there
+is no distinction between italic characters (sloping type)
+and ordinary (straight type). The absence of this dis-
+tinction makes it difficult to read Leibniz's printed works.
+The formulas become nearly illegible if the alphabet
+only is changed: Germans and Russians have had to
+set aside, in formulas and calculations, their national
+
+
+## p. 16 (#48) ##############################################
+
+16
+SOME POINTS ON THE HISTORY
+alphabet, and to accept the symbols of other European
+mathematicians. In the seventeenth century Galileo found
+it simpler to write in Latin his geometrical discoveries,
+though he became one of the creators of scientific language
+in Italian.
+In the eighteenth century Germans and Russians
+wrote in Latin and in French, because they lacked a suit-
+able scientific prose style, which they produced only in the
+nineteenth century.
+Those who know China well have never doubted that
+the Chinese are capable of assimilating Western science;
+they have done so when, like the Japanese, they have
+taken the right course of careful study before attempting
+to write original expositions. The most subtle theories
+can be expressed by the Chinese symbols as well as in any
+European language. But it is possible that only in the
+second half of the twentieth century Chinese literature
+will achieve a scientific prose formed on the works of
+Chinese scholars who have studied science in a European
+language.
+Chinese civilization is not that of an old, tired and
+conservative people, but rather that of a young people,
+eager to learn, reflective and quick. The ability of the
+Chinese as mechanics, sailors, pilots, skilled workmen in
+all sorts of industries is well known.
+Chinese civilisation, while it is to be considered young-
+er than ours, has contributed, in a way that seems almost
+necessary, to our progress. Some fundamental industries
+(silk, paper, porcelain, varnishes) come from China.
+That the Chinese in the eighth century knew the chemistry
+of gases, as Klaproth claimed, is now considered in-
+credible (18), and the discovery by the Chinese of oxygen
+and of the composition of air and water must be removed
+from the history of chemistry. The chemical manipula-
+tions of the Chinese deserve however to be examined more
+attentively than has yet been done. The question of the
+origin of alchemy is still unsolved, and future studies may
+prove that it comes from the West (19), but Chinese
+contributions to metallurgy and pharmacopea have un-
+doubtedly been very useful.
+More important are the Chinese contributions to the
+study of the vegetable and animal world. I shall only
+refer to the interesting researches by the U. S. Govern-
+ment on the Chinese Materia Medica. The first study of
+the only known remedy against leprosy, the use of
+chaulmoogra, comes from the Chinese pharmacopea, and
+
+
+## p. 17 (#49) ##############################################
+
+OF SCIENCE IN CHINA
+17
+the study of an ephedra, a gnetacea, may give a real cure
+of influenza.
+Another proof of the Chinese aptitude for scientific
+research is their geographical work. The accounts of
+Chinese travellers from the first centuries A.D. to our
+times are remarkable for the accuracy of their observa-
+tions. While we cannot speak of great Chinese mathe-
+maticians, the list of great Chinese travellers is long, and
+can reasonably be compared to that of western travel-
+lers. China, however, has no great navigators, because
+navigation is an art, or rather a science, born and bred
+first in Greece, then in Italy, and next in the rest of the
+world.
+The Chinese had an original school of cartography, or
+rather topography; its maps of China and neighbouring
+countries are really important. The earliest documents
+of Chinese cartography, published by E. Chavannes,
+compare favourably with contemporary European maps,
+or rather surpass them. I wish to add to these maps a
+printed map, perhaps the first one printed in China, the
+work of a great Chinese poet and author, Su T'ung-po.
+He drew an interesting historical map of China under
+the Chou Dynasty, of which I can give only two recent
+reproductions (20). Copies of the original impression
+may still be extant in some Chinese, Japanese, American,
+or even European library.
+This new merit of a great poet is a new proof that the
+Chinese people, who have already given China and all the
+world great historians, poets and painters, will be capable
+in the future of giving original contributions to science.
+REFERENCES
+(1) In his letter of May 12th, 1605, from Peking he
+writes that the Chinese astronomers, in compiling their
+ephemerides, use both Chinese rules "piu stimate eppure
+manco certe" and Moorish methods, "with which they
+predict eclipses more exactly, while appreciating them
+less."
+P. Matteo Ricci suggested that a European astrologer
+could with advantage translate in Chinese characters the
+European tables, and so correct the Chinese calendar.
+This is the beginning of the astronomical work of the
+Jesuits in China, which Ricci's successors continued with
+their best efforts. (Opere Storichedel, P. MATTEO RICCI,
+S. J. Ed. by P. Tacchi Venturi. Vol. 2, Macerata, 1913,
+p. 284.
+2
+
+
+## p. 18 (#50) ##############################################
+
+18
+SOME POINTS ON THE HISTORY
+(2) J. KEPLERI Opera Omnia, Francofurti,
+MDCCCLXVIII, vol. VII, pp. 667-683; R. P. JOANNIS,
+TERRENTII S.T. Epistolium ex Regno Sinarum ad Mathe-
+maticos Europaeos Missum, etc. Sagani, 1630.
+(3) P. GAUBIL, Histoire de l'astronomie chinoise,
+published in the Lettres Edifiantes, T. IV, pp. 453-509 of
+the edition of Peris, 1877.
+(4) J. B. BIOT, Etudes sur l'astronomie indienne et
+chinoise, Paris, 1862; Précis de l'histoire de l'astronomie,
+chinoise, pp. 249-398.
+(5) Le systeme astronomique des Chinois, Arch. des
+Sc. phys. et nat., Geneve, 1919-1920; L. de Saussure, Le
+système cosmologique sino-iranien, jour. As., Paris, 1923,
+and other preceding articles in the Toung Pao.
+(6) Leyden, 1875. It is interesting to see the review
+of J. Bertrand, Journ. des Savants, 1875, pp. 557-566, and
+also Les Mathematiques en Chine, an article by Bertrand,
+ibid., 1879, pp. 317-329; 464-477.
+(7) H. MASPERO, Légendes Mythologiques dans le
+Chou King, Journ. Asiatique, janvier-mars
+especially I. La légende de Hi et de Ho.
+1924,
+H. MASPERO, La Chine antique, Paris, 1927, (Histoire
+du Monde, publ. par M. E. Cavaignac), livre V, Ch. IX, Le
+wauvement scientifique et les influences étrangères.
+(8) J. B. BIOT, p. 308. The same translation is
+accepted by de Saussure.
+(9) Chou-pi suan ching chiao k'an chi
+fol. lv of the edition of 1887.
+H‡**
+(10) AL BATTANI, Opus Astronomicum, Milan, 1903,
+ed. Nallino, t. I, p. 182.
+(11) Hsan chi, c/r. GILES Dictionary, 4813.
+(12) See note (7).
+(13) L. DE SAUSSURE, Le Systeme cosmologique
+Sino-Iranien.
+(14) L. Am. Sedillot and Captain L. Vallois, in their
+communication to the 1st Congress of Orientalists, Paris,
+1873, t. I, p. 289, were right in the main in their criticism
+of Biot. See the article of A. WYLIE, Eclipses recorded in
+Chinese Works, Journ. of the North China Branch of the
+R.A.S., N.S., Shanghai, t. IV, 1868, p. 87-158.
+(15) ALEX. HOSIE, Drought in China, A. D. 620 to
+1643, Journ. of the N.C.B. of the R.A.S., NS, 12, Shang-
+hai, 1878, p. 51-89.
+See also: Sun spots and sun shadows observed in
+China, B.C. 28-A.D. 1617, ibid.; p. 91-95.
+
+
+## p. 19 (#51) ##############################################
+
+OF SCIENCE IN CHINA
+19
+(16) Chou I Chê chung H B Đ , K’ang Hsi
+edition, 1715, lib. 20, fol. 6, verso.
+The supposition of Leibniz that the eight diagrams
+of the I Ching were considered as numbers in base
+2 seems incorrect, if it is supposed that this conception
+was made in the third millennium B.C. It is only right
+when we attribute it to the second or even first century
+B.C. We are sure of the discovery of the arithmetical
+interpretation of these symbols only when we have the
+generalisation in base 3 made by Yang Hsiung in his Tai
+Hsuan ching. See A. WALEY, "Leibniz and Fu-hsi,'
+Bull. of the School of Or. St., 1921-23, vol. 2, p. 165.
+99
+et
+(17) E. BLOCHET, Les sources grecques
+Chretiennes de l'astronomie hindoue, Revue de l'Orient
+Chretien, 1925-26, t. 5 pp. 400-441.
+(18) M. MUCCIOLI, Intorno ad una memoria di G.
+Klaproth sulle conoscenze chimiche dei Cinesi nell' VIII
+secolo, Archivio di Storia delle Scienze, Roma, 1926, vol.
+7, pp. 382-386; L'Arsenico presso i Cinesi, ibid., 1927, vol.
+VIII, pp. 65-76.
+(19) The opposite belief has been sustained recently;
+see OBED SIMON JOHNSON, PH. D., A Study of Chinese
+Alchemy, Shanghai, Commercial Press, London, Luzac,
+1928, XI, 156.
+(20) Ch'un Ch'iu lieh t'u shuo,,
+reproduced in the Ch'un Ch'iu Tso chuan
+edition of Shanghai, 1897, and the French translation of
+S. COUVREUR, Tch'ouen Ts'iou et Tso Tchouan, Ho Kien
+fou, 1914.
+
+

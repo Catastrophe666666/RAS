@@ -1,0 +1,685 @@
+## p. 1 (#247) ##############################################
+
+THE VOWS OF AMIDA.
+A COMPARATIVE STUDY.
+REV. J. W. INGLIS, M.A.
+The most vital elements in Chinese Buddhism are those
+connected with the worship of Amida 阿​彌陀 ​which in Japan has
+become almost a distinct religion, so far does it differ from the
+general Indian tradition. The three Sutras on which the Amida
+sects rely are those translated in Vol. 49, part II, of the Sacred
+Books of the East. Of the three the first is undoubtedly the
+most important and fundamental, viz., "The Larger Sukhavatî
+Vyûha”大​無量壽經 ​Japanese Muryõjukyō. Here are contained
+the vows of Amida, by force of which he established a kingdom
+in the western heaven for all who should call on his name.
+this is based the special teaching of the most numerous of the
+Japanese sects, the Jodo Shin Shū, one of whose subdivisions takes
+its name Hon-gwan-ji 本​興​寺 ​from the vows of Amida.
+On
+But besides the Chinese version in ordinary use, there are
+other four still extant. Of these the earliest dates back to the
+first introduction of the Mahayana into China in the second
+century of our era. My attention was first called to it by the
+late Prof. Arthur Lloyd of Tokyo, in a letter of March 1911, in
+which he stated that he was working at a translation into
+English. Prof. Lloyd died the same autumn, and his work does.
+not appear to have been published. I am indebted to the
+courtesy of the Christian Literature Society for China, for liberty
+to use the edition of the Tripitaka in their library. The
+comparative study of the different versions throws light (1) on
+the manner of composition of the Buddhist Sutras; (2) on the
+manner of their translation into Chinese; (3) on the origin of the
+doctrines now held by the Amida sects.
+The materials for our examination are then as follows :-
+(1.) The English version made by Max Müller from five
+Sanskrit mss. found in Nipal (S.B.E. vol. 49, ii, pp. 1-75).
+
+
+## p. 2 (#248) ##############################################
+
+2
+THE VOWS OF AMIDA.
+(2.) The Chinese version by Lokaraksha 婁​迦​識​“a scholar
+of the Yueh Chi" or Getæ 月​支​國​, the date of whose activity is
+given as 147-178 A.D. The full title is 佛說​無量​清淨​平等​覺​經​,
+number 25 in Nanjio's Catalogue.
+(3.) Chinese version by Chih Chien 支​謙​"a monk of the
+Yueh Chi" dated in the 3rd century A.D. Catalogue No. 26.
+The abbreviated title 阿​彌陀​經 ​has mislead Max Müller into
+connecting this with the Lesser Sutra which bears the same
+name (S.B.E. loc. cit. p. xxiv.)
+(4.) Chinese by Sanghavarman 康​僧​鎧​“ascholar of India"
+dated 252 A.D. Catalogue No. 27. The version in common use.
+(5.) Chinese by Bodhiruchi菩提​流​志​“a scholar of the
+T'ang Dynasty" dated 713 A.D. Catalogue No. 23, part 17.
+(6.) Chinese by Fahien 法​賢 ​dated 982-1001 A.D.
+Catalogue No. 863. Of these versions I have not seen the last,
+and the fifth I have read only in part. I shall denote the first
+five by the symbols M, L, C, S, and B.
+The result of my examination, stated briefly, is to show that
+there were two recensions of the original text. Taking Mas the
+standard, B is the nearest to it, and S comes next. Lis based
+on a different original, and C is not an independent version,
+except in one section, but is a mere revision of L. Further, the
+special feature which bulks so largely in the later development of
+the Amida religion, viz., Salvation by faith, is based on S alone,
+and has no counterpart in Lor C.
+We may deal briefly with C. A comparison page by page
+with L shows that the writer was content to transcribe the latter
+over whole sections, only improving the Chinese style by omission
+by a few unnecessary characters, or omitting repetitions in cases
+of extraordinary tautology. There are, however, some qualifications
+to be made to this statement:- he has omitted all the metrical
+passages (Gathas) - the section on the Vows is different not only
+from L, but from all existing versions and finally the lists of
+proper names near the beginning and end are transliterated from
+Sanskrit, instead of being translated as by L and all the other
+translators. For those who wish to trace the pronunciation of
+Chinese in the third century, these lists should provide valuable
+material. We may conclude then that the translator C had a
+Sanskrit MS before him, that it differed from the original of Lin
+the section on the Vows, but that for the bulk of the book he was
+satisfied with the work of his predecessor, and simply contented
+himself with minor corrections.
+I now proceed to compare L with the Sanskrit as translated
+by Max Müller. Such comparison indeed is always qualified by
+the suspicion that the translator has misunderstood his original.
+Further it is the custom of Chinese versions to epitomize the too
+verbose passages of their text, and in many cases this has been
+
+
+## p. 3 (#249) ##############################################
+
+THE VOWS OF AMIDA.
+3
+done here. But I suggest that some of the redundant passages
+were not in the Sanskrit on which L worked, i.e., they were
+added independently in India, my reason for so thinking is that
+we have in L some passages of almost incredible redundancy,
+showing an infinite patience, and a pathetic desire to be faithful
+to his text, while in such cases the Sanskrit of M is fairly brief.
+I propose first to examine the work generally, reserving to the
+end the section containing the Vows, which gives the key to the
+whole. The numbering of pages and sections follows S, B, Е.
+Page 2 where the audience of Buddha is described in M
+simply as 32,000 Bhikshus, L gives us nine classes, each with
+their number, including 500 nuns and 500 female converts, of
+whom 17 are mentioned by name.
+Page 7. The origin of Amida is thus given. In the days of
+Lokesvara Buddha, there lived a King named Shih Rao 世​鏡
+​who was so captivated by the teaching of that Buddha that he
+abdicated his throne and became a monk, by name Dharmakara.
+It was he who afterwards attained to the State of Buddha, and the
+name Amida. Cand S give the same account, but omit the king's
+name, which is an evident mistake on the part of L, Shih Rao
+being but the translation of Lokesvara. This mention of a king
+who became monk, though not in M, may well be an echo of the
+conversion of king Asoka in 235 B.C.
+Following the section of the Vows, Lomits Sec. 9 and Sec. 11,
+and the three English pages of Sec. 10 are represented by 89
+characters. But in Sec. 12 he takes compensation. Page 29 of
+the English gives 15 measurements of the light of the Buddha.
+For this L reads "There are Buddhas the light of whose head
+shines for 7 fathoms," and then he proceeds to repeat this
+statement for a succession of numbers, totalling 45 terms, until
+he reaches the measure "200 myriad Buddha Countries." Не
+concludes "But as the light from Amida's head reaches 1,000
+myriad Buddha Countries it will be seen how much inferior the
+other Buddhas are to him." Yet the next passage giving 19
+names to Amida is entirely wanting in L.
+My reason for calling attention to these apparently trivial
+matters is to suggest the explanation, viz., that the Sanskrit was
+in a somewhat fluid state. There was a common basis of material,
+which the copyist or perhaps an oral reciter felt moved to elaborate
+by such grotesque embellishments as we have noticed. Hence we
+have sometimes the bald statement in L, and the elaboration in M,
+and sometimes it is the other way. The original of L seems to
+have delighted in geometrical progression, as in the case just quoted
+he runs up his numbers, multiplying by 2, like a child trying to
+see how far he can count.
+L now adds the curious statement that, when Amida recited
+This vows, the prince Adjatasatru with 500 elders sat to listen;
+
+
+## p. 4 (#250) ##############################################
+
+4
+THE VOWS OF AMIDA.
+he then vowed to become a Buddha like him. Buddha (i.e. Sakya)
+then promised "After countless Kalpas they shall attain their
+desire all these were my disciples in a former life, in the time of
+Kasyapa Buddha."
+On this follows the long description of the western Paradise.
+The subjects in the two recensions are much the same, but the
+order entirely different. One could suppose that if the MS. was
+written on palm leaves, these got easily transposed. S again is
+much nearer to M, but he transposes many sections, and sometimes
+he seems to give the better order. Thus the end of Sec. 14 is
+added to Sec. 11, Sec. 32 follows 16 and 17 is joined to 15, all of
+which seems a better arrangement. See Appendix I.
+Only a few points here need be noted. Sec. 18 mentions "rivers
+for which the Chinese (L C and S) all give 'bathing pools"
+浴池​; the dimensions are declared to be of equal length and
+breadth, which gives L another chance to get in his geometrical
+progression. In another passage it is said "There are no seas,
+great or small, no rivers, forests, dales, no rains nor four seasons,
+neither heat nor cold."
+In Sec. 17 M raises a difficulty about the absence of the Sumeru
+mountain, and closes the subject without a solution. L gives the-
+answer, that as the Indian heavens, from the third to the seventh,
+are self-existent in space, so it is in Amida's land with the first
+and second heavens, hence they require no mountain to rest on.
+On pp. 45-46 we have an important division into three
+classes of the condition of those who at death are delivered by
+Amida. The text of M does not distinguish them very clearly;
+but in L we have a clearer division, with a much greater insistence
+on good works.
+The first class are those who give up home, practise works of
+merit, and all the cardinal virtues (paramita), and observe the
+sutras and the ritual. After death they are born in the lotus,
+and live in bliss near to Amida.
+The second class are non-celibates, who yet study the Sutras,
+and are liberal patrons of Buddhism, building temples, lighting
+lamps, etc. Here I adds Sec. 43 a warning against doubt after belief,
+such doubters, if they repent, will enter a city 2,000 li square,
+where they dwell 500 years, in the enjoyment of many delights
+but far from Amida, and not seeing Amida himself, but only his.
+light, cf pp. 62-65.
+The third class consists of unbelievers who had lost their
+former faith. They had done none of the good works named,
+but had led a moral life. Their lot is apparently the same
+as in class II.
+Page 52. M introduces rather abruptly the two great-
+Bodhisattvas. In L we read "Among all the Bodhisattvas
+(Pusahs) there are two most honourable, seated right and left of
+
+
+## p. 5 (#251) ##############################################
+
+THE VOWS OF AMIDA.
+5
+Amida. They wait on him, and fly to execute his commands in
+the eight directions, or above and beneath." Their names are
+given as (Creads盖​) 樓​亘​(Wo Lo Hsüan?) and摩訶​那​鉢
+​Mahanapo. In fear or difficulty or in litigation believers should
+take refuge in the former. (C gives both names). S gives the
+names by which they are generally known, viz., Kwan Shih Yin
+and Shih Chih. B gives Kwan tze tsai for the former.
+Page 70. These verses (Sec. 44) are in L and S attached to
+Sec. 31. B agrees with M.
+Verses 4-5 read "as a man born blind desires a guide, so
+neither the hearers (Sravaka) nor the great Vehicle (Mahayana)
+nor Pratyeka know the way of Buddha, but only Buddha him-
+self." This must be the first dated occurrence of the name
+Mahayana.
+Towards the end of the book we find inserted a long treatise
+on Buddhist morals, 7,480 characters or more than one-fourth of
+the whole Sutra. It follows immediately on the description of
+the three classes, above mentioned, which in L is placed further
+on than in the other editions, the point of connection being that
+those who aspire to be born in Amida's country, but cannot
+attain to the supreme virtues (i.e. paramita), or observe Sutras
+and ritual, may yet be content with common morality. This is
+first summed in ten Commandments, then detailed under the head
+of five kinds of evil. In the elaboration of this, the language is
+largely coloured by the familiar Chinese expressions relating to
+the five relationships.
+Now the interesting thing about this section is that the
+subject matter might almost have been taken from another book.
+Amida's land gradually fades out of view, and Nirvana takes its
+place as the object to be aimed at, while the virtues are said to
+be practised "on the Nirvana road."
+Further the whole conception of the way of salvation is not
+in any way different from that in the main stream of Buddhism.
+Tao Cho 道綽​(Jap. Dōshaku, died 628 A.D.) divided the
+Mahayana into two "gates," the gate of the Holy Road 聖​道 ​and
+the gate of the Pure Land. The former requires training in
+morality, meditation and wisdom. In these latter days of
+decadence 減法 ​that standard cannot be reached. Hence the
+gate of the Pure Land is opened an easy way of salvation for all.*
+Similarly the late Yang-wen-hui of Nanking-"no other
+sect is to be compared to that of the Pure Land for its bringing
+out what is essential in small compass. The ideal of other sects
+is difficult of comprehension and slow of attainment, this is both
+* H. Haas, Amida Böddha unsere Zuflucht, pp. 12, 38.
+A. Lloyd, The Creed of Half Japan, p. 315.
+
+
+## p. 6 (#252) ##############################################
+
+6
+THE VOWS OF AMIDA.
+easy and quickly attained" * It is the Indian contrast of Karma
+Marga and Bhakti Marga, salvation by works or by faith.
+But in the whole of the long section before us there is
+absolutely no hint of anything but works, and the attainment of
+Nirvana by self-discipline. That is not the Pure-Land doctrine,
+as developed in China and Japan. We must note that S gives
+most of this section, and is obviously here a revision of IL, improv-
+ing the Chinese idiom and omitting some paragraphs, but otherwise
+based on L, whereas in the rest of the book he stands much
+nearer to M, although influenced sometimes by L in his language.
+There are further differences as to Nirvana. In L we are
+told that when Amida shall attain to Pari Nirvana, Avalokites
+vara will succeed him as Buddha and Teacher, and after him
+again will come Mahanaprapta, fulfilling the same functions.
+L shows clearly that Amida's Paradise is only a halting
+place on the way to Nirvana. It is asked if the number of
+Arhans in that Paradise is diminished by their entering Nirvana.
+The answer is that the number of those who leave to enter
+Nirvana is balanced by the additions continually being made from
+among men, like the sea into which all rivers flow. This passage
+is combined with Sec. 13, but is wanting in S.
+Now in the Sanskrit of M, as in the Chinese of S, it is not at
+all clear what relation is intended between the Pure Land and
+Nirvana. In contrast to the frequent occurrence of the word in
+L, Nirvana is named by M only 8 times-out of these only 4
+appear in S, and 2 in L-: three times it is said that the
+Boddhisattvas work for the attainment of Nirvana by all beings
+(pp. 16, 52), but S omits all these passages. Twice it is said that
+the beings born in Amida's land remain until they reach Nirvana
+(pp. 13, 44); Somits one passage, and in the other he renders
+"must reach Nirvana." In Sec. 11 S renders "has he become
+Buddha, and attained to Nirvana?", as if the two things were
+identical. Whatever may be said of the accuracy of the renderings
+of S, it must be remembered that his version has been the
+standard, and that all later developments of the doctrine in China
+and Japan depend on him and not on the Sanskrit. Hence it
+need not surprise us to find in the seventh century that Nirvana
+and the Pure Land are identified. Shan Tao 善​道​(Jap. Zendo)
+speaks of "the city of Nirvana, the world that endures eternal
+life, the voice of sorrow for ever quelled."
+The shining of Amida's light is thus described by L. Ananda
+is asked "Do you wish to behold the land where Amida dwells
+with all the Bodhisattvas and Arhans?" Ananda assents; he
+then dons the kashaya robe, and worships to the west, saying
+* From 佛教​初學​課本
+​
+
+## p. 7 (#253) ##############################################
+
+THE VOWS OF AMIDA.
+7
+"Namo Amida Buddha." Whereupon Amida shone in great
+light, "illuminating all from Sumeru mountain down to hell; all
+the universe shook, the blind could see, the lame walk, the sick
+were healed, the foolish became wise, the lustful and passionate
+were merciful and good, the poisoned were immune, musical
+instruments sounded of themselves, women's bracelets tinkled, and
+all birds and beasts uttered their voice."
+This is parallel to Secs. 39 and 46 of M. We may
+conclude from a comparison of the two texts that both writers
+had a common theme, which they took as a basis for free
+composition, and the elaboration of detail was added as might
+strike their fancy.
+Sec. 43 is thus rendered by L. "After my Parinirvana the
+Doctrine of the Sutras will gradually be destroyed, men will fall
+into evil, the five burnings will arise once more." Adjita is then
+exhorted to Keep the Law. Here follows the equivalent of Sec. 39
+as just given, then Sec. 42, after which the argument is resumed.
+"After my Parinirvana the canonical doctrine will linger on earth
+a thousand years, but after the thousand years it will perish.
+Your Teacher has taught you the Way of Nirvana, honour him as
+your father and mother, meditate on his mercy. The Buddha is
+difficult to be met with, so is a true believer, so is a Sramana
+expounding sutras."
+For this S reads "After my Nirvana do not again harbour
+doubts. In the coming age the Sutra doctrine will perish. I in
+mercy and pity leave this Sutra to abide a hundred years."
+Enough has been given in these extracts to show that in L
+we have a separate source, and that his divergences from our
+Sanskrit are not due merely to misunderstanding or corruption
+of the text.
+It remains to examine more particularly the section containing
+the Vows of Amida. Here I find three recensions, viz. L, C, and
+M with S and B.
+L gives 24 vows, of which 20 have their counterpart among
+the first 23 of the Sanskrit (M) and 4 are independent of the latter.
+One however is repeated in C, and one in S and B. I. is here less
+verbose than usual.
+C also gives 24 vows, but follows a path of his own, and
+inclines to elaboration. Only 14 have any resemblance to M, and
+the other ten are quite independent of it; one it borrowed from L.
+The subject-matter peculiar to C corresponds partly to his
+description of the Pure Land, but three vows correspond to the
+moral treatise which we have seen interposed in the latter part of
+the book. Thus No. 6 reads "Devout men and women shall
+desire to be born in my country, shall do good works, as giving of
+alms, circling of pagodas, burning incense, scattering flowers,
+lighting lamps, hanging banners, feeding monks, building pagodas
+
+
+## p. 8 (#254) ##############################################
+
+8
+THE VOWS OF AMIDA.
+and monasteries, destroying desire, and so come to be born in my
+country as Bodhisattva." No. 11: "In my country the Bodhi-
+sattvas and Arhans shall all be without lust, never think of
+woman, never have rage or folly." No. 12 "-shall have
+mutual respect and love, never envy and hate."
+S and B are independent translations of the same original.
+They follow M fairly closely, though the order is frequently altered
+(See Appendix II); one of the vows is omitted, and one added
+found in L. By subdivision the 46 vows of M become 48. It
+should be clearly understood that the latter half of the section
+appears only in S and B, and not in Lor C; that is to say, the
+extra 24 vows represent new matter, and not a mere question of
+expansion or subdivision.
+It is well known that, in the later development of the Pure
+Land doctrine, it is the Eighteenth Vow as it appears in S that is
+fundamental. Thus Lloyd * "The believers of the Pure Land
+Sects never talk of any except the eighteenth vow leaving the other
+forty-seven strictly on one side." Yet it appears on examining
+the Sanskrit text that there is no warrant in it for the peculiar
+emphasis laid on faith, which has given rise to so much religious
+fervour, especially in the Japanese Shin shu. Writings in S.B.E.†
+Mr. B. Nanjio noted this lack, and assumed that a paragraph had
+been lost. But when we consider the general habits of Sas a
+translator, this assumption seems unnecessary, his version is as
+close to our Sanskrit here, as it is in many of the other paragraphs.
+The following is a rendering of vows 18 to 20 according to
+Sand B. 18 (S) If when I obtain Buddhahood, all living
+beings of the ten regions should from the heart believe and rejoice
+至心​信​樂​, and desire to be borne in my kingdom, up to ten times
+of meditation, should they not be born, I will not take the perfect
+enlightenment--only excepting those guilty of the five deadly sins
+and reviling the true Law.
+(B) When I attain to the unsurpassed enlightenment, all
+sentient beings in the other Buddha lands, having heard my name,
+all the hearts which have a root of goodness, will turn 迴​向​‡ and
+vow to be born in my kingdom, up to ten times of meditation.
+Should they not be born I will not take Bodhi, only excepting
+those who create fathomless evil karma, and revile the true Law
+or the Saints.
+19 S. If when I obtain Buddhahood, living beings of the
+ten regions should make an intention of Bodhi, should work all acts
+of merit, and from the heart vow to be born in my kingdom; and
+if, as their hour approaches, I should not, with a multitude
+* The Creed of Half Japan, p. 316.
+‡ See note.
+† Loc. cit. p. 73.
+
+
+## p. 9 (#255) ##############################################
+
+THE VOWS OF AMIDA.
+9
+surrounding, appear before them, then I will not take the perfect
+enlightenment.
+B. When I become Buddha, in other lands all living beings
+shall make an intention of Bodhi, shall excite pure meditation to-
+wards my dwelling-place, further shall with their root of goodness
+turn and vow to be born in the realm of bliss. For such men as
+their hour approaches, I with the multitude of Bhikkus shall appear
+before them, if not so, I will not take the perfect enlightenment.
+20 S-all on hearing my name should meditate of my kingdom
+plant the roots of virtue, turn with all their heart至心​迴​向​, and
+desire to be born in my kingdom, if the fruit should not follow,
+I will not take the perfect enlightenment.
+B-All in immeasurable kingdoms on hearing my name with
+their own root of goodness turn to the realm of bliss, should they
+not be born. I will not take Bodhi.
+On examining the above it will appear that No. 20 almost
+duplicates No. 18, and that the three together are almost
+identical with Nos. 18 and 19 of M,* the words marked in
+italics being those peculiar to the Chinese. Hence it would
+appear as if the clause in No. 18(至​信心​樂​), on which so
+much eloquence and devotion has been built by the Amida
+worshippers, is due merely to the lax literary methods of S of his
+original.
+But when we turn to L the situation materially alters.
+18. "When I am Buddha, among the people in all Buddha
+Kingdoms there are those who Keep the way of the Bodhisattva,
+and ever meditate on me with pure heart. At the end of their
+life, I with an innumerable assembly of Bhikkus will fly to
+welcome them, will stand before them, so they shall return to be
+born in my Kingdom, and be Avaivarlya-If not so, I will not
+be Buddha."
+This agrees with M, excepting the words marked.
+19. In the Buddha Kingdoms of other directions, the people
+who in a former life were evil, on hearing my name, reform and
+decide for the Truth; they desire to come and be born in my
+Kingdom. At the end of life they shall not return to the three
+evil states, but shall be born in my Kingdom according to their
+heart's vow.
+20 in L is merely the first sentence of 20 in M.
+From the above it will appear that L has nothing correspond-
+ing to No. 18 of S, and that the stress is laid on good works not
+on faith.
+In C the only things corresponding to these three paragraphs
+is his No. 7.
+S.B.E. loc. cit. p. 15.
+
+
+## p. 10 (#256) #############################################
+
+10
+THE VOWS OF AMIDA.
+"When I am Buddha may I cause, in the numberless Buddha
+Kingdoms of the ten regions, devas and men, whether noble men
+or noble women, to keep the way of the Bodhi sattva, and observe
+the six Paramitas. If they shall become Sramanas, and not
+violate the Commandments, if they shall put an end to desire, fast,
+be pure, and with single heart meditate, and desire without ceasing
+day or night to be born in my Kingdom-for such men, when life
+is ending, I with all Bodhisattvas and Arhans will fly to welcome
+them, so that they shall be born in my Kingdom and be Avaivartya
+Bodhisattva, valiant in wisdom."
+This is an amplified version of No. 18 of L, corresponding to
+18 in M or 19 in S, but we observe the addition of the good works
+in harmony with the general teaching of Land C. And again
+there is no mention of faith, or even invocation of Amida.
+From the above analysis we see how the whole historical
+system of the Amida Sects has been built up on a single version.
+Not to speak of the Sanskrit, which of course was generally
+inaccessible, had either L or C become the version in general use,
+the whole development of the sects would have been different.
+S with his mention of faith, and the ambiguity of the character,
+meaning either meditation or recitation, these have been the
+apparent sources of that peculiarity which distinguishes the Amida
+sects from ordinary Buddhism of the Mahayana type.
+Note on 迴​向​,
+For this Suzuki finds the Sanskrit equivalent parivartta,
+explained as turning over of one's own merit to others. Pro-
+nounced ekō in Japanese, it has come to mean "masses for the
+dead." M. Müller's text has pari nam, translated "bring to
+maturity."
+APPENDIX I.
+Order of paragraphs in three versions.
+The numbering of paragraphs follows the English of S.B.E.
+LC
+S LC
+S
+LC
+S ILC S
+1-8 1-11 18 b
+10
+13
+18
+34 b c
+22
+Inserts 42
+Omitted by L
+12
+19 a
+17b-end
+here 43
+5060
+9,19,11a, 14a, 23-26-
+45 45
+14b 14b
+20
+27-29
+characters
+46
+32. 33, 35-38, 40
+omitted by C
+11 b 16
+19 b 41
+39-41 47 47
+17 a
+32
+21
+21
+Inserts
+here
+15
+15
+30
+24
+7500
+42
+character
+as L, also 4, 31, 44
+omitted by S
+22, 23, 25
+B omits 25 only
+L has 28,660
+18 a 17
+31 L
+26-31
+43 b
+43
+characters
+20
+12
+44 only 44
+39
+C 25.150
+"
+"
+16 14a
+13
+33-38
+46
+"
+S 17,430
+"
+
+
+## p. 11 (#257) #############################################
+
+THE VOWS OF AMIDA.
+11
+APPENDIX II.
+The Vows of Amida. Arranged in four Chinese versions, as
+compared with Sanskrit text in S.B.E. (marked M).
+Signifies matter in Sanskrit omitted in Chinese.
++ Signifies additional matter in Chinese.
+()
+"
+general resemblance of subject.
+S
+M L
+C
+M L
+C
+JS
+S
+M
+B
+B
+B
+1
+1
+1
+1
+18
+18
+(7)
+19
+35 37
+2
+2
+5+
+2+19
+18
+46 48
+3
+3
+9+1
+3
+20
+20-
+22
+4
+4-15+
+4+21
+22
+13
+23
+5
+9 22
+(24)
+6
+5
+(22)
+5 23
+24
+18
+25
+Peculiar to
+M
+1
+L 2
+7
+6-
+6
+24
+(24)
+C 10
+8
+9-
+7
+25
+26
+SB 0
+9
+7- (10)
+8
+26
+27
+Common to
+LC 1
+10
+10-
+10
+27
+28
+LCSB 1
+29
+11 11-
+11
+28
+30
+12 12
+20
+14
+29
+31
+13 13+ (24)
+12 30
+32
+The vows are num-
+bered in L, C and B,
+not in S.
+14 15
+21
+15 31
+15 14+19+
+13
+32
+33
+34
+16 16-
+16
+33
+36
+17 17 (4)
+17
+34
+35
+
+

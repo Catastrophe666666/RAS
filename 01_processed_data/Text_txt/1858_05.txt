@@ -1,0 +1,826 @@
+## p. 107 (#125) ############################################
+
+[107]
+ARTICLE V.
+A BUDDHIST SHASTRA, TRANSLATED FROM THE CHINESE:
+WITH AN ANALYSIS AND NOTES.
+BY THE REV. J. EDKINS, B.A.
+Read, November 17th, 1857.
+THE Buddhist translations from Sanscrit are, as is well known,
+like the originals, in three divisions, consisting of Sutras, Vinaya
+and Shastras, or king, liuh and lun.
+The Sutras are the teaching of Buddha himself, and their
+statements of doctrine are considered by faithful Buddhists as
+authoritative. The reference made to the Sutras in the present
+brief treatise, will be found to illustrate clearly the light in which
+these works, the holy books of the religion, are regarded. They
+are the umpire in controversies and are supposed to be sacred and
+infallible.
+The Vinaya division treats of discipline. It contains treatises
+on the vows of the ascetic community, their mode of life, and the
+manner of admittance to their body. In the Chinese collection,
+many works in this division are still called king. In the form of
+their composition they also resemble that class of works.
+The Shastras (lun) are controversial. Their authors are the
+Hindoo Buddhists who lived at the beginning of the Christian era.
+They opposed in them the doctrines of rival systems and defended
+their own. From these works, profoundly studied, light may be
+derived on the Indian philosophy.
+The work now chosen for translation is an extremely short one,
+by one of the best-known Buddhist authors. This was Nagakro-
+juna, in Chinese Lung shu (dragon tree). He has been identified
+with a personage, who is much spoken of by the Singhalese
+Buddhists, under the name Nagasena (see Hardy's Manual of
+Buddhism). He belongs however more properly to the northern
+Buddhists, who flourished in Caslimere, Tibet, Nepaul and China.
+
+
+## p. 108 (#126) ############################################
+
+108
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+He was a voluminous author of the works called the Great develop-
+ment school, ta sheng. For example, he wrote the Vibhasha shastra,
+and that called Ta-chï-tu-lun, both treatises of great extent.
+Beside being the writer of many of the more important Shastras,
+he also composed several of the Sutras, though these works are
+attributed to Shakyamuni Buddha. This is the meaning of the
+following story. When he had formed the conception of widely
+extending the Buddhist doctrines, he was taken up by the mira-
+culous power of the Great-dragon-Bodhisattwa, Ta-lung-pʻu-sah,
+into the palace of the sea. Here the collection of holy books,
+called that of "the seven precious stones," was opened for his
+inspection. For ninety days he studied them, and after commit-
+ting very many valuable Sutras to memory, he was escorted by a
+dragon, back to India, his native country. Among the works he
+saw, was the much-prized Hwa-yen-king. Of the three forms
+shewn him of this treatise, he chose the briefest to lay before the
+world. The only natural explanation of this story is that Lung
+shu or Nagakrojuna is himself the writer of several of the larger
+Sutras e. g. the Hwa-yen-king.
+Although the predominant tendency of Lung shu is to minute
+metaphysical discussion, he has also been claimed as a founder of
+the school of the "Western heaven." This very important branch
+of northern Buddhism, based on the legend of Amitabha Buddha
+and "the peaceful land" tsing tu, elevates itself by a figurative
+interpretation of its legends, to a place among philosophical schools,
+and claims Lung shu on the ground that he mentions and praises
+Amitabha Buddha in the Vibhasha Shastra.
+Another school that more correctly claims Lung shu as its
+founder, is that of the Madhyamiha philosophy. He wrote the
+Central Shastra, Chung lun, in which the germs of that system are
+found. By this work he exercised a wide influence over the sub-
+sequent development of Buddhism, both in Tibet and in China.
+Lung shu has also a place among the twenty-eight patriarchs,
+The tradition of these chiefs of the Buddhist religion was brought
+into China A.D. 526 by Bodhidharma, and the system he founded,
+and which has since been very popular in this country, he termed
+the Djen-na doctrine. He probably belonged to that sect of
+Buddhists, now known as Jains, still existing in India. In his
+series of patriarchs, Lung shu is the thirteenth, Bodhidharmą
+himself being the twenty-eighth.
+
+
+## p. 109 (#127) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA.
+of A
+109
+Lung shu lived about the beginning of the Christian era, and
+was a native of Southern India. He is one of the very few
+historical personages in Buddhism, who is honoured with the title
+of Bodhisattwa, or in the modern Chinese form P'usah. In the
+Juh-Lanka-king, he is represented as being foretold by name by
+Buddha. The following is what Buddha says of him. “Address-
+ing Ta-hwei, he said,-Ta hwei! you should know that after my
+peacefully passing into the Nirvâna, in a future age there will be
+one who will firmly believe in my doctrine. He will be born in
+Southern India, will be a Bikshu of great reputation, and he will
+be called Lung shu, the dragon tree. He will be able to conquer
+in argument upholders of false systems, and will make illustrious
+in the world my unsurpassed doctrine of the Great development.”
+The work in which this passage is contained belongs to the
+Great development school, and consequently was written several
+centuries after the time of Buddha.
+A keen reasoner, acute thinker, and voluminous author, such as
+Lung shu, deserves to be better known, and it is hoped that the
+following translation of one of his lesser works will prove not
+altogether useless in the elucidation of Buddhism.
+It is called
+Yih-shu-lu-kia-lun, the Shastra
+of one shloka. The three characters shu-lu-kia are in old Chinese
+pronunciation sho-lo-ka. When a double consonant begins a syl-
+lable, it is usual to employ the same vowel after each consonant in
+transcribing them in Chinese characters.
+Shloka is a Sanscrit term for a couplet of a certain kind. I
+take the following account of it from Williams' Sanscrit grammar.
+"The Institutes of Manu are written in the shloka, or anushtubh
+metre. This is the commonest of all the infinite variety of Sanscrit
+metres, and is that which chiefly prevails in the great epic poems
+of the east. It consists of two lines of sixteen syllables each, but
+the rules which regulate one line apply equally to the other."
+"The 1st, 2nd, 3rd, 4th, 9th, 10th, 11th, and 12th syllables may
+be either long or short. The 16th, as ending the line, is also com-
+mon; so too the 8th." "The 5th syllable ought always to be
+short. The 6th may be either long or short, but if long then the
+7th ought to be long also, and if short then the 7th ought to be
+short also.” “The last four syllables form two iambics."
+The Hindoo author has in the present instance taken a single
+couplet as his theme, and hence the name of his short treatise.
+8188.
+$
+XXVIII
+8⭑
+
+
+## p. 110 (#128) ############################################
+
+110
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+This couplet, consisting in its Chinese form of four short sentences,
+appears at the commencement.
+We are also informed by an introductory note, that the treatise
+was translated into Chinese, from the original of Lung shu p'u sah,
+by the Brahman Gaudama Pradjnaluti, at the city Loyang, in the
+reign of the Yuen Wei dynasty. This city is that now called
+Honan fu, on the south bank of the Yellow River, in Honan
+province. The time of the translation, is the fourth century of
+our era.
+TRANSLATION OF YIH-SHU-LU-KIA-ĻUn,
+THE SHASTRA OF ONE SHLOKA.
+"My body (or substance) in its nature is not permanent;
+"Thus, then, my body is not a body.
+"My body in its nature not being a body,
+"I therefore say that it is empty and not permanent."
+"It is asked-why write this stanza (Gâtha)? What is its
+meaning? What man's opinions is it intended to overthrow? I
+reply it is written on account of those who in reading Shastras of
+great length grow weary, and also for those intelligent persons, who
+have studied many Shastras, and exercised their thoughts (deeply)
+in the sea of Buddha's law, but growing fatigued have begun to
+doubt about the doctrine, not by any means to be questioned or
+suspected, of the non-permanence of things and the nothingness of
+my own body. To destroy such doubts I have composed this
+Shastra.
+"What says my doctrine? That all kinds of acting (fah #)
+are non-permanent, and my own body is nothing. The non-
+reality of my body is not separate from the non-permanence of all
+action, my nature and my body being nothing. Therefore there
+is no such thing as permanence.
+"All the Buddhas, and their disciples of the two classes Yuen
+kioh and Sheng wen (listeners, shrâvaka) have obtained their libe-
+ration from ignorance by means of this principle of nothingness,
+not by the opposite principle which maintains the existence of
+breaking off and of permanence in actions. The Gatha says,-
+"Lose sight of this principle.of nothingness, and prefer to reside in body;
+"You then obtain a view of things as permanent.
+"If you say that afterwards they are to be destroyed,
+"You thus come to see things as having cessation.”
+
+
+## p. 111 (#129) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA.
+111
+"With this meaning I speak of all actions as being in themselves
+without real embodiment. The Buddhas, the enlightened (Yuen
+kioh), the listeners, and the Arhans, have gained their benefits
+and successes by believing in this principle.
+"I will now speak of what men are to be opposed. If a man,
+who
+has gained some knowledge, says that without reference to action
+(hing), there is non-permanence, his view is not the correct one.
+If the so-called non-permanence is separated from existence (yeu
+wei), (or actuality), in order to be called non-permanent, then
+permanence becomes nothing. Thus then actuality and non-
+reality are not essentially different. If actuality and non-reality
+combine, the actual being joined to the unreal, a bottle cannot
+be broken (which is absurd, a bottle being an actual thing).
+If the unreal and the actual combine, the unreal being joined to
+the actual, the Nirvâna is destructible (which is absurd, the Nirvâna
+being not an actual thing). If the actual and the unreal are, as
+thus argued, identical, all kinds of teaching (or action fah) are
+indestructible, like the Nirvâna, which is permanent, and is
+therefore not produced from any cause. If actions (hing) are not
+produced from causes, they do not differ from the empty Nirvâna.
+In this case the method or state of actuality (yeu wei) need not
+be called constant. But if the things done, being not produced
+from causes, are still non-permanent, then the empty Nirvâna is
+not called permanent. If this be true, the methods of actuality
+and of non-reality are neither of them good. If the non-permanent
+is parted from actuality and is still called non-permanent, then
+actuality apart from constancy ought to be called constant. But
+this is not correct reasoning. In which of the Sutras are there
+such words as these?
+"What ideas are to be discoursed upon? What meaning is there
+in that which you now say? There is much in it that is un-
+reasonable, such as your crooked mind cannot fathom. Therefore
+what you say is not correct doctrine. If men, who have gained
+some knowledge, maintain that the (action or) law of the past,
+present and future is in each case completed from and in itself,
+this is to be regarded as a false view. Why so? Because it is a
+view which omits the notion of cause. If we speak of the future
+as not being produced from causes, but as formed from and in itself,
+then the present is also not produced from causes, but is formed
+from its own nature. For the future and the present are in their
+
+
+## p. 112 (#130) ############################################
+
+112
+SHANGHAI LITERARY AN: SCIENTIFIC SOCIETY.
+own nature even and equal, without any difference. If so, and
+the law of the present, comes from causes, why in this case, should
+not the law of the future come from causes also? You ground
+this view either on the Sutras, or upon your own judgment. But
+the statement is incorrect, and unreasonable. Being unreasonable
+it is not to be believed. If the law that regards the future is not
+produced from causes, but comes from its own nature, it must be
+an empty thing. Being cut off from any connection with causes,
+it cannot be produced from any cause. It is therefore not truly
+future in itself. But if the future is non-existent, then the present
+and past are also non-existent. The present and the past being
+non-existent, then time in its threefold aspect is really nothing in
+itself. If it be said that it has a real existence, this is to say that
+it is permanent, and is produced without a cause.
+"If the disciple of Buddha thinks so, who has reached some depth
+in perception, he does not differ from the heretical teachers Kapila
+and others. This Shastra however is not made for such as Kapila
+and Uluka, but for you who hold the same views with me. What
+I have thus far said, in opposition to the opinions of certain persons,
+is for the sake of you who have made some advancement, that you
+may reject incorrect views.
+"It is on this account that I have compiled this Shastra and the
+'Gatha of one shloka' (Yih sholoka), which commences my book.
+I shall now explain the meaning of this Gâtha.
+"When it is said, 'my body in its nature is not permanent,' 'my
+body' refers to that which is born and acts, and which is therefore
+called 'my body.' He who has made advancement in right
+perception, being in the midst of this acting, thinks out for himself
+that this is the body (or takes it to be the body). This acting
+commences in the region of the physical and mental operations.*
+In it are involved also the sheng wen and yuen kioh who wander
+circuitously (in this lower region). Thus when we speak of bodies,
+as one, two, or several, or of men, as one, two, or several, each is
+considered as having a body independent of the rest, and they are
+commonly spoken of as such. As earth, water, fire and wind are
+respectively hard, moist, hot and moveable, each according to its
+nature; so every man (and thing) has his own form and substance.
+Hence the expression 'my body.'
+* The human operations are five 五陰 ​wu yin, namely shèh, vision, sheu,
+reception, siang, thinking, hing doing, shih, perception.
+
+
+## p. 113 (#131) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA.
+113
+"If he who has made some advancement in knowledge says, that
+man in his birth, in his continued life, and in his death is the same
+in form, he speaks erroneously. The body of man is in its nature
+not permanent, and therefore its being called body has arisen from
+the circumstance, that men who have advanced somewhat in true
+knowledge, have made this distinction. Therefore apart from the
+various modes of action, there is no non-permanent body, because
+man is in his form not permanent.
+"Therefore Buddha, in instructing the Bikshus respecting
+various acts, represents them all as not constant. This is on account
+of what has been already said.
+“If it be maintained that, apart from acting, men and things are
+non-permanent, retaining their own form, such an opinion is wrong.
+Should you not understand why the phrase non-permanent is used,
+I will now explain it. It is because of what is said in the opening
+stanza, 'body is not body.' The notions of body and not body,
+you easily distinguish. The non-permanent, what is it? It is
+without body. Therefore it is that body is not body. In its own
+nature it is not body, and therefore it is formally stated to be
+without body.
+"When it is said, my substance in its nature is not substance, it
+is asserted that there is no substance but that which is not substance
+(wu t'i). For this reason it is said that substance in itself is not
+such. If you hold that there is some substance existing beside
+wu t'i, you are wrong; this mode of arguing is not that of the
+Sutras. If you assert that the absence of body (wu t'i) is what
+constitutes substance, this also is incorrect; because the Sutras do
+not say so. In what Sutra has Buddha, the world's honoured
+one, taught such a doctrine? It is not to be found in any Sutra,
+for it is not correct teaching (king shwo, the teaching of the
+classics); such arguments cannot succeed, because they are not
+the doctrine of the great holy Sutras; they ought not therefore
+to be believed. It is then, not only my own words that I bring as
+evidence.
+"The last sentence says 'therefore it is stated to be empty and
+not permanent.' Refer, for example, to the Sutra, Tiau fuh San-
+mih-t'i king, Narrative of Buddha pacifying and subduing Sa-
+midhi, which says that Buddha addressed Samidhi with the words,
+The eye of man is empty and not permanent. There is no eye
+that does not move, that does not perish, that does not change.
+་
+
+
+## p. 114 (#132) ############################################
+
+114
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+And why? It is its nature so to do. The ear, nose, tongue, body
+and mind, have all the same changeable and destructible nature.'
+"Buddha, the world's honoured one, speaking in this Sutra of
+emptiness and of non-permanence, on this account expressed the
+opinion here stated. Thus we know that all acts are empty and
+non-permanent. Being not permanent they are without body (t'i).
+Consequently, all acts are in their nature and of themselves without
+bodily form. It is in this way that the meaning of the words
+wu t'i, without body is established.
+"If in this manner an opinion be tested by the Sutras, it will be
+well established. If it will not bear this test, it must fall to the
+ground. In my view, what is in the Sutras must be completely
+satisfactory. Therefore it is that the opinion, that '(my) nature
+(sing) is in itself without body,' has been now employed to bring
+to its completion 'the Shastra of one Shloka."
+"All kinds of action (or existence) such as body, nature, act
+(doctrine), thing, matter, existence (yeu), are different in name,
+but the same in meaning. Whichever of these we speak of, the
+only difference between them is in the word yeu, to be.
+"This word you is in the original language Sibhava.* It is
+translated in several ways, as 'the substance which gives substance
+to itself' (tsï t'i t'i), or as 'without action and with action,' (wu
+fah yeu fah), or as 'the nature which has no nature of its own
+(wu tsi sing sing)."
+999
+ANALYSIS AND REMARKS.
+The author begins with stating in a rhythmical form the prin-
+ciples he is about to establish. My substance or body i. e. my
+whole nature, material and intellectual, is a passing, changing
+thing, and is consequently not a real substance at all. It is there-
+fore only right to say of it that it is empty and not permanent.
+This principle agrees with the description given of the Bud-
+dhists by Colebrooke, who observes that they are called by their
+adversaries, the orthodox Hindoos, Sarva-vainásicas or those who
+argue total perishableness. They deny the permanent existence
+This word I suppose to be a compound of bháva, an important philosophical
+term. By Colebrooke and Professor Wilson it is variously translated, disposi-
+tions, sentiments, conditions of being. Abháva is privation or negation. Prága-
+bháva is present negation of what will be. Anubhava is notion.
+
+
+## p. 115 (#133) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA. 115
+of atoms, and only allow that images of things are formed which
+immediately pass away.
+The author then gives his reasons for composing the treatise,
+and the gâtha or rhythmical statement with which it commences.
+He wrote it for the sake of such persons as cannot read through
+the very long, and tedious works found in the Buddhist library.
+He also wished to place in a short compass the argument for the
+transitory, unreal nature of all existing things, for the use of
+advanced students, lest they should be influenced by those argu-
+ments, self-suggested or presented by others, which go to prove
+that the world is real and that the information given by the senses
+is trustworthy.
+The composition of Buddhist works is varied by the frequent
+introduction of passages in a rhythmical form, not indeed with
+rhymes or any fixed succession of long and short syllables, but
+with lines constantly of the same length. In the Nepaul originals
+there is also a difference in dialect between the prosaic and rhyth-
+mical parts, the Sanscrit and Pracrit being interchanged. There
+is no such transition of dialects in the Chinese translations. The
+rhythmical parts are called gâtha, kiè, in old Chinese pro-
+nunciation gat.
+The author lays down as his order of procedure, that he will
+first unfold his meaning, then attack the upholders of opposite
+views, and afterwards support his own opinions.
+He holds that all kinds of action are transitory and not lasting,
+that the actor or observer is himself nothing real, and that
+these two things are connected. Hence the doctrine of non-
+permanence.
+The Buddhas and their disciples, he says, had in the belief of
+the principle of nothingness obtained liberation (móksha) from the
+bonds which restrain the soul. The opposite doctrine which holds
+that things are permanent, or break off, has never had such an
+exemplification of its truth.
+Colebrooke says that the followers of Kanade maintained that
+things are partly perishable and transitory, but in part also un-
+changeable. His followers are called Vaiséshikas.
+The disciples of Buddha here alluded to, Yuen kioh and Sheng
+wen, occupy the third and fourth rank in the Buddhist scale of
+being. Their position will be understood by the following scheme
+copied from a Buddhist work.
+
+
+## p. 116 (#134) ############################################
+
+116
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+
+Four degrees
+in
+holiness (sheng).
+Six states
+of
+ignorance (fan).
+Buddha.
+Bodhisattwa.
+Yuen kio.
+Sheng wen.
+Deva.
+Asuras.
+Man.
+Pretas.
+Animals.
+Naraka.
+Intelligence.
+Knowledge and mercy.
+Reception gained by the study of causes.
+Listeners.
+Gods, 天​tien.
+Monsters, demons.
+Hungry ghosts.
+Hell.
+Four lines in the form of Gâtha are here introduced, representing
+the doctrines of opponents. Two views are given, that which regards
+the universe as permanent, and that which describes it as liable to
+cessation. Both are considered as erroneous by the champion of
+Buddhism. Safety is only to be found in the doctrine of nihility.
+In again appealing to the testimony of the Buddhas and their
+disciples, he mentions the Arhans. These form the last in a series
+of four grades of discipleship. The attainment of a certain amount
+of enlightenment in the Buddhist doctrine is represented as "fruit."
+These four grades of discipleship, or "fruits," are called, Su-da-wan,
+Si-da-gam, A-na-gam, and A-la-han. In Sanscrit these names
+are read Surtaban, Sagardagam, Anagama (?), and Arhan. They
+are also called the four paths to the Nirvâna.
+Lung shu proceeds to controvert by argument the opinions of
+two classes of reasoners, and first of those who hold the doctrine
+of non-permanence in an incorrect manner. It ought not to be
+held so as to deny the reality of action, or so as to confound action
+and inaction. These terms, in Chinese yeu wei, nu wei, may
+perhaps be translated actuality and non-reality. Their meaning
+will be seen by the illustrations used. An earthenware bottle is
+adduced as an example of an actual thing (yeu wei), while the
+Nirvâna belongs to the non-actual or wu wei class. These instances
+are brought forward to shew that things of the two classes of objects
+must not be confounded. For if actuality be identified with non-
+reality, a bottle it is said, would become a non-actual thing, and it
+would be wrong to say that it was destructible. So if non-actual
+things were identified with what is actual, the Nirvâna would
+cease to be indestructible. The distinction then between the actual
+and the non-actual must be preserved.
+:
+
+
+## p. 117 (#135) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA. 117
+The Sutras are again appealed to in proof of this doctrine. These
+works are thus seen to be in the view of the Buddhist, the standard
+of truth. They contain the very words of Buddha, which are held
+to be necessarily true. Several hundreds of these books, thus
+shewn to constitute the scriptures of this religion, have been
+translated into the language of China, and of the other countries
+where Buddhism prevails. These treatises are not said to be
+divine, or to be inspired, for the Buddhist has neither God nor
+inspiration in his creed. He only knows Buddha, the self-elevated
+human intellect, as the most exalted being, and he looks on his
+teaching to be the purest truth and the highest wisdom. Through-
+out the Shastra, which is now presented to the reader, Lung shu
+supports his opinions by the authority of the Sutras which Buddha
+has left for the use of his disciples, as the repository of his doctrine.
+He goes on to overthrow the notion that the past, the present
+and the future are self-produced and do not come from the action
+of causes. He observes that the present and the future are as to
+their nature similar, and controlled by the same laws, but the
+present results from causes, and therefore the future must also
+originate in the same manner. If the past, present and future do
+not come from causes, he argues, that they can be nothing real at
+all. The holder of such views would thus fall into the error of
+Kapila and other heretical teachers.
+Kapila, here referred to, was a remarkable personage, perhaps
+the most noted of the Indian philosophers. He founded the
+Sankhya school. "This system," says Cousin, in his History of
+Modern Philosophy;* "is at once a system of physics, psychology,
+dialectics and metaphysics. It is a universal system, a complete
+philosophy." Cousin says of Kapila that he advocated sensualism,
+and that " one of the ideas which are most opposed to sensualism
+being that of cause, Kapila made an effort to destroy it. The
+argumentation of Kapila is, in the history of philosophy, the
+antecedent of that of Ænesidemus, and that of Hume. According
+to Kapila there is no proper notion of cause, and that which we
+call a cause is only an effect in its relation to the cause which
+precedes it, which is also an effect for the same reason, and con-
+tinually thus, so that the whole is a necessary concatenation of
+effects, without veritable and independent cause."
+* Translated by O. W. Wight, vol. 1.
+8L88.
+XXIX
+
+
+## p. 118 (#136) ############################################
+
+118
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+Professor Wilson, in his learned comment on the Sankhya Karika,
+cricises this statement of the French philosopher, and denies that
+Kapila asserts the non-existence of cause. He admits however
+that "he may so far agree with the philosophers referred to, in
+recognizing no difference between material cause and material
+effects:" and adds that "his doctrine is that of Brown in his
+lectures on power, cause and effect."
+There being such a difference of opinion on the views of this
+Hindoo philosopher, it is interesting to notice in the treatise of
+Lung shu that Kapila is incidentally condemned for denying the
+existence of cause. Our Chinese evidence goes to uphold the
+statement of the French philosopher where he is called in question
+by his English critic.
+Colebrooke questions whether Kapila be not altogether a mytho-
+logical personage. With this distinct allusion to him in our little
+work, dating indubitably from near the beginning of the Christian
+era, we may perhaps infer his historical reality, and we also obtain
+an approximation to the period in which he lived.
+Lung shu proceeds to say that he did not write for the purpose
+of confuting such philosophers as Kapila and Uluka,* but for the
+sake of correcting and confirming the views of the disciples of
+Buddhism.
+The philosopher Uluka, I have not found mentioned by Cole-
+brooke or other writers on the metaphysical systems of India.
+It appears to me, that Lung shu makes an unfair assumption, in
+his argument for the production of events from causes, where he
+asserts that the present proceeds from causes, and therefore the
+future does also, being in all respects similar to the present in its
+nature. He does not prove his assertion that the present proceeds
+from cause.t
+As already remarked, Lung shu appeals repeatedly to the autho-
+rity of the Sutras. So the advocates of the Sankhya philosophy
+appeal to the Sutras of Kapila, which are however brief aphorisms,
+and not, like those of Buddha, long treatises. Yet Lung shu has
+迦​毗羅 ​Kia-pl-lo. In the old pronunciation Ka-pi-la, 優​樓​迦
+​Yeu-len-kia (U-lu-ka).
+† A friend has however suggested to me, that he may regard this as obvious,
+being what consciousness is ever teaching us.
+
+
+## p. 119 (#137) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA.
+119
+besides this another test of the validity of doctrines, namely their
+reasonableness or unreasonableness. To this second test he here
+brings the doctrines he opposes and condemns them.
+In explaining the introductory stanza, Lung shu first discusses
+the origin of the phrase "my body." He observes that it consists
+of the body and its actions i. e. it means myself. In the region of
+mental and physical actions we come to the consciousness of myself.
+In this region the inferior classes of Buddha's disciples continue to
+wander partially enlightened.
+Advancing from this incomplete view, we speak ordinarily of
+men and things, in the singular, dual and plural number, as
+separate beings existing independently of each other, thus in-
+creasing the first error. The four elements, earth, water, fire and
+wind differ in their nature, as being hard, moist, hot and moving,
+and so each man and thing is looked at as having its characteristic
+differences from others. Hence the common but erroneous ex-
+pression my body, my self.
+Lung shu complains that some persons maintain birth, duration
+and destruction to be the same thing. He then proceeds to state
+that the body in its nature is not permanent, that its being called
+body has arisen from the distinctions which men in their ignorance
+have made, and that the correct doctrine of the body being non-
+permanent is inseparably connected with the various physical and
+mental operations, which spring from the body, because, he adds,
+man is in his entire form non-permanent.
+Buddha in the instructions he gave to the Bikshus his disciples,
+always held the doctrine that actions are non-permanent. This
+must ever be kept in mind in making the statement that the body
+is non-permanent.
+Bikshu is one of the names given to the followers of Buddha
+generally. They are also called Shamen and Hoshang.
+The author then undertakes to prove the second sentence of his
+theme, namely, “Thus then my body is not a body." The doctrine
+of non-permanence has been introduced to aid in proving this. The
+non-permanent is necessarily unsubstantial. The things we see
+are liable to perish. Therefore they are not real things. We
+must speak of things as they really are. Hence the words "my
+body is not body," are correct and appropriate.
+The third sentence, when it says, "my body in its nature is not
+body," asserts that apart from the unsubstantial and the vanishing,
+
+
+## p. 120 (#138) ############################################
+
+120
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+no body exists, and that therefore it is right to say of my own
+body that it does not exist.
+Cousin, in his lectures already referred to, speaks of the psycho-
+logy of Buddhism as being contained in two propositions, extracted
+by Burnouf from Buddhist books.
+1st, Thought or spirit, for the faculty is not distinguished from
+the subject, appears only with sensation, and does not survive it.
+2nd, The spirit cannot itself lay hold of itself; and in directing
+its attention to itself, it draws from it only the convinction of its
+powerlessness to see itself otherwise than as successive and
+transitory.
+Burnouf adds, these theses are radically opposed to Brahminism,
+whose first article of faith is the perpetuity of the thinking subject.
+We see that the non-permanence of things, which is so important
+a principle with our author, also pervades the bocks of Nepaul
+which Burnouf studied, and constitutes a watchword of Buddhism.
+Lung shu proceeds to observe that some persons hold false views
+on this subject. One opinion is, that independently of the un-
+substantial there is substance, but this is contrary to the Sutras.
+Others say the unsubstantial is my body, but this is wrong
+(although it is correct to say that my body is unsubstantial), because
+it is not found in the Sutras. Such are not the words of Buddha,
+nor are they met with in the great holy Sutras, and they must not
+be believed.
+•
+The last sentence, "I therefore say that it is empty and not
+permanent," is illustrated by appealing to the teaching of Buddha
+in one of the Sutras. He takes the eye as an example. There is
+no eye that does not move, that is not destroyed, that does not
+change. It is therefore empty and non-permanent. So it is with
+the other sensorial organs. The nature of them all is to change
+and decay.
+·
+The Buddhists in enumerating the organs of sense, after men-
+tioning the eye, ear, nose, tongue and body, add the mind. Lung-
+shu does so in this passage. The mind as the organ of conscious-
+ness is viewed as a sense. We limit the term sensorial organs to
+those which are material, but the Buddhist, not believing in the
+reality of material things, calls every organ by which impressions
+are communicated a sense.
+Buddha having thus expressed his opinion in the Sutras, it is
+added, we know that all acts are empty, non-permanent, and
+
+
+## p. 121 (#139) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA.
+121
+therefore without body. Thus we arrive at the doctrine that body
+does not exist.
+It should be remembered that the Buddhists regard the acts of
+the thinking being as one with his substance. They do not
+distinguish between the agent and the act, but deny the reality
+and permanence of both in their unity. Thus they will say, as in
+this case, all acts (yih ts'ièh fah) are without body, instead of
+predicating this of the actor.
+Hence also he proceeds to say that human nature is without
+body, resting this doctrine on the authority of the Sutras, and
+adding that it is the object of this entire treatise, "The Shastra of
+one Shloka" to illustrate it.
+The same confusion of the agent with his acts, presents itself in
+the closing sentences of the treatise, where it is asserted that all
+kinds of action, including body, nature, acts, thing, being, are but
+different names for the same thing.
+All these varieties in phraseology, he adds, are but differences
+in the term yeu, being. The original word, adds the translator
+into Chinese, is sibhava which is variously explained "the substance
+which gives substance to itself," "without action and with action,”
+and "the nature which has no nature of its own."
+Bhawo, says Gogerly in his Essay on Buddhism,* is twofold;
+consisting of moral causative acts, and the state of being. Of
+these, he adds, kamma bhawo, or moral causative acts, are merit,
+demerit, and all those actions which lead to existence. The various
+worlds of the Buddhist universe are designated by the term bhawo.
+Worlds of sensual pleasure and pain are kama-bhawo. The brahima
+worlds are rúpa-bhawo. The incorporeal worlds are arúpa-bhawo,
+and so on.
+Here the term bhava, means states of being.
+The numerous modifications of meaning belonging to this word,
+help to account for the three translations of the related word
+sibhava, which close the treatise.
+I
+may observe here, that it is common with the modern Chinese
+Buddhists, to defend the doctrine of the non-reality of material
+things, by appealing to their liability to destruction. A priest.
+will contend that a wooden table, on the application of fire, passing
+into smoke and ashes, there is necessarily nothing real in it.
+* Quoted in Hardy's Eastern Monachism.
+
+
+## p. 122 (#140) ############################################
+
+122
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+The truth is that reality and changeableness are both rightly
+affirmed of a table, or any other material thing. The Buddhist
+asserts with perfect correctness that the objects of sense are non-
+permanent, but he is wrong when he argues that therefore they
+are unreal. Christianity, modern science, and all sound philosophy
+agree in ascribing reality and changeableness to the objects of
+sense. Lung shu erred in not seeing that these two things can
+be reconciled.
+NOTE.
+The following pages give a transcript of the original work in the Chinese
+character, the succession of the vertical lines being from left to right, which,
+although the reverse of the native method, is thought to harmonize best with
+the English letter-press.
+ED. COM.
+
+
+## p. 123 (#141) ############################################
+
+壹​輸​盧迦​論
+​龍樹​菩薩​造
+​ART. V. 法
+​元魏​婆羅門​瞿曇​般若​流​支​於​雒​陽​譯
+​義​破​何等​人​答曰​爲​讀誦​者​於
+​自​體​性​無常 ​如是​體​無​體 ​自​體​性​無​體 ​故​說​空​無常
+​論​思惟​而​生​懈​倦​於​無常​自​體​空​不​異​義​中​生​異​相​疑爲​斷​此​疑​故​造
+​論說​廣大​部​生​懈​倦​心​又​爲​聰​叡​先​何​義​者​今​當​說​謂​一切​法​無常​自​體​空​自​體​空​不離​無常​一
+​自​性​自​體​空​是故​無​有​常​一切​諸佛​緣覺​聲聞​於​空​法​中​而得
+​.
+23 出​離​非​於諸​行​斷​常​法​中​而得​解脫​偈言
+​TRANSLATION OF A BUDDHIST SHASTRA
+已​廣​習​無量​諸​論​於如來​法​海​義​中
+​問​曰​以​何​義​故​造​此​一偈​論說​何等​
+
+## p. 124 (#142) ############################################
+
+124
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+
+值
+​事​不然​若​如是​者​何等​修​多​羅​中​作​如是​說​以​何​義​說​汝今​所說​以
+​有​勝​法​若​無常​離​有爲​猶​名​無常​者​則​有爲​離​常​應​名爲​常​但是
+​非​因緣​生​是​無常​者​則​虛空​湼槃​不​名爲​常​若​如是​者​則​有爲​無為
+​故​若​諸​行​非​因緣​生​不​異​虛空​涅槃​者​則​有爲​法​不​名​無常​若​諸​行
+​則​湼槃​可​壞​若不​異​者​則​一切​法​不可​破壞​如​涅槃​常​非
+​有爲​與​無爲​合​無為​洽​故​則​瓶​不可​破​若無​爲​與​有為​合​有爲
+​無常​離​有爲​無常​則​常​猶如​虛空​若​如是​者​則​有爲​無爲​體​無​差
+​破​何等​人​者​今​當​說​若有​所得​人​離​於諸​行​說​有​無常​則​非​正見
+​以此​義​故​說​一切​法​自​體​空​諸佛​緣覺​聲聞​羅漢​於此​義​中​得​利益
+​滅​空​住​有​體 ​則​成​於​常見 ​若​謂​後​時​減 ​則​成​於​斷​見
+​以故​若 ​別​、合​故​非
+​生​、行為​是
+​
+
+## p. 125 (#143) ############################################
+
+義​說​汝今​所說​義​不​相應​非汝​邪​思​之​所​能量​是故​妆​非​爲​正​,
+,
+有​所得​謂​過去​何​BLSS未來​現在​法​自​體​成​者​當​知​是​人​則​非​正見
+​XXX
+何以​故​無​因​生​見​故​若​言​未來​體​非​因緣​生​自​體​成​者​則​現在​法​亦
+​平等​者
+​若
+​現在​有​法​皆​從​緣​生​未來​法​何故​非​綠​生​汝今​此​義​爲 ​爲​依​義​說說​不​相應​則​無理​ART若有​趣​若​無理​趣​則​不可信​若​未來​法​無​開
+​.
+體​者​則​是​常見​無​因​生​故​若​佛​弟子​有​所得​見​則​與​外道​迦​毘
+​123 羅​等​無差別​此​論​非​爲​迦​毗羅​優​樓​迦​諸​外道​等​爲​汝等​輩​同​見​之
+​則無​實​未來​體​無​未來​故​現在​過去​亦無​現在​過去​無故​三世​無​體
+​生​自​性​成​者​未來​之 ​如​虛空​無​有​因緣​離​因​緣故​非​因緣
+​多​羅​說
+​非​因 ​生​自​性​體​成​以​未來​現在​自​性​平等​無差別​故​若​性​. V. TRANSLATION OF A BUDDHIST SHASTRA
+見​何​非​現​為​緣​則​
+
+## p. 126 (#144) ############################################
+
+126
+SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+
+者​被​無常​無​體​是故​體​無​體​自​性​無​體​故​言​無​體​偈言​自​體​性​無​體
+​云何​無常​我​今​當​說​偈言​如是​體​無​體​故​體​無​體​者​汝所​分別​無常
+​諸​行​皆悉​無常​以此​說​故​離​法​有​無常​自相​者​是​事​不然​若​妆​不
+​分別​故​生​是故​離​諸法​無​無常​體​以​自相​無常​故​如​佛告​比丘​一切
+​謂​生​住​滅​同​相​者​是​義​不然​自​體​性​無常​故彼​體​名​有​所得
+​地​水火​風​堅​濕熱​動​各​有自性​如是​各​各自​相​自​體​故​言​自​體​有所
+​轉​如​說​一體​二​體​多​體​如​彼此​人​一二​衆多​各有​自​體​故名​自​體​如
+​故名​爲​體​有​所得​人​於此​法​中心​取​爲​體​此​法​於​陰​界​入​中​有​聲
+​聊​盧迦​偈​句​義​今​當​釋​偈言​自​體​性​無常​者​自​體​名​有生
+​故​造​斯​論​向​說​破​何等​人爲​令​汝等​有​所得​人​斷除​邪見​故作​斯
+​人
+​
+
+## p. 127 (#145) ############################################
+
+ART. V. TRANSLATION OF A BUDDHIST SHASTRA.
+127
+
+ser
+OPERASI KA. 2003
+Ne vāka STA
+百​離​無​體​更​無​別​體​故​言​自​體​無​體​若汝​意謂​離​無​體​而​有​體​者​是
+​不然​以​汝​此​法​非​修​多​羅​說​故​若​謂​無​體​是​自​體​者​是​亦​不然​以
+​修​多​羅​所​不​說​故​世尊​於​何等​修​多​羅​中​說​如此​法​於​佛​世尊​修​多
+​羅​中​都​無此​義​以​非​經​說​故​不​成就​非​大聖​修​多​羅​所說​之​義​則不
+​應​信​是故​非唯​言​說​而得​取證​偈言​故​說​空​無常​者​如​調伏​三
+​經​中​說​佛告​三​密​提​眼​空​無常​無不​動​無不​壞​無​不變​何以​故​性​如
+​故​耳鼻舌身意​亦復​如是​世尊​於此​修​多​羅​中​說​空​說​無常​以是
+​義​故知​諸法​空​無常​無常​無​體​是故​諸法​性​自​無​體​則無​體​義​成​若
+​能​如是​入​修​多​羅​義​其​義​則​成​若不​入​修​多​羅其義​則​壞​以​我​所說
+​入​修​多​羅其義​則​成​是​女性​自​無​體​其​義​成就​一輪​盧迦​論​一卷​凡
+​滋​号​:20
+
+
+## p. 128 (#146) ############################################
+
+128 SHANGHAI LITERARY AND SCIENTIFIC SOCIETY.
+
+冰
+​無法​有​法​或​譯爲​無​自​性​性
+​諸法​體​性​法​物事​有名​異​義​同​是故​或​言​體​或​言​性​或​言​法​或​言​有
+​或​言​物​莫不​皆​是​有​之​差別​正音​云​私​婆婆​或​譯為​自​體​體​或​譯為
+​
+

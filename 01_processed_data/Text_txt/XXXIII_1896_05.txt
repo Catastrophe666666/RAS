@@ -1,0 +1,721 @@
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+By P. G. VON MÖLLENDORFF.
+Sure, He that made us with such large discourse,
+Looking before and after, gave us not
+That capability and godlike reason
+To fust in us unus'd.
+SHAKESPERE: Hamlet, Act iv., Scene 4.
+Of all the sciences linguistics is the youngest. The
+discovery of Sanscrit at the end of last century acted quite as
+a revelation, and with its help alone did it become possible to
+reconstrue the oldest forms of the various languages belonging
+to the Indo-European family, for many of which we did not
+possess sufficiently ancient documents. With the introduction
+of the comparative method the science of languages became a
+popular study. Till then each language had been investigated
+by itself, now its relationship to others could be traced.
+The aim of linguistics is to know all languages spoken
+on the face of the earth. As a science it is therefore
+thoroughly anthropological, since man is man only through
+language, and since languages are the true expression of the
+human intellect, which latter can only be fathomed by
+language. In these not only the words as sounds describing
+things are essential and characteristic, but in the same degree
+the whole grammar, by which associations of ideas are
+expressed. To understand human speech in every detail we
+must know its whole growth, in all its divisions, through all
+11
+
+82
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+its phases. Not until we know all languages shall we be able
+to understand their peculiarities; only by a knowledge of all
+the languages are we enabled to obtain a perfect picture of
+the universal intellect of humanity; only by its language can
+the human soul be known.
+This, then, is the aim of linguistics, viz. to embrace in
+its fold all human languages.
+Created in Europe, this science naturally turned its first
+attention to the Indo-European languages. Special investiga-
+tion is the first step in all scientific research, and so it was
+here. Not until the single languages have been minutely
+examined are we allowed to proceed with the comparison of
+several of them and unite them into one linguistic family.
+Comparative Philology has to gather, first of all, the
+linguistic facts in the completest and purest form from the
+single languages. Then we may compare these with each
+other in all their bearings and draw the logical results from
+this inquiry, keeping, however, always in mind the diver-
+gencies which we find, and which are sometimes of greater
+importance than the congruities.
+Our own linguistic family, which stands nearest to us,
+has, naturally received our first attention: the Indian,
+Iranian, Celtic, Italian, Thrako-Illyrian, Hellenic, Letto-
+Slavonian, and the Germanic groups have been carefully
+investigated. The task of this investigation was to show
+which were the forms of the original speech of this family
+before the separation, and how the single languages evolved
+out of it. This is the way it was done (B. Delbrück) :-A
+certain form occurs in all the languages; deduct what is the
+special growth of each language, and the remainder is the
+original form. An "acre" is in Sanscrit ajras, Greek pór,
+Latin ager, Gothic akrs. Now we know that in Gothic k
+evolved from g, and that an a was lost before s. We thus
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 83
+find from Gothic the form agras; further, Greek o comes
+from a, and we there find the same form. And so with each
+language.
+The forms of the original speech are called pre-ethnical,
+as having existed before the family dispersed. In this sense
+we speak of pre-Grecian Greek. It is interesting and
+instructive to study works in which the pre-ethnical stage is
+taken into consideration, as in B. Delbrück's "Greek Syntax"
+(1879) and "Old Indian Syntax" (1888).
+Where we have grammars and dictionaries of languages,
+the whole language has to be compared with the other; as
+far as the most remote corner on either side, nothing should be
+left unnoticed by the student. The nature of the relationship
+must always be kept in view, whether descendant or
+ascendant, as in Anglo-Saxon and English, or collateral, as in
+Greek and Latin. The historical method is most important in
+its application to linguistics.
+In order to obtain an insight into the psychological
+moment, investigations carried through a number of languages
+on one and the same subject are most helpful; such are: on
+the Dual Number, the Passive Tense, the Numerals, Personal
+Names, Grammatical Gender, Duplication, and others.
+In this way we obtain a thorough knowledge of how all
+the languages of one family are related to each other, and
+this is the all-important task of linguistic science. This has
+been denied; someone has asserted that the thorough
+explanation of the ethnological list in Genesis (chap. x.)
+should be the exclusive aim of this science; only after its
+solution the science of languages will take that place with
+regard to religion which belongs to it. But this man forgot
+that linguistics is a free science and no longer a mere ancilla
+theologiæ.
+
+84
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+Before a comparison can be undertaken, it is absolutely
+necessary to settle the original form of speech of a linguistic
+family which was common to all its members before their
+separation. We can only compare the original speech of one
+family with the original speech of another. Before the
+phonetic laws within one family have been settled, comparison
+with another family cannot be recommended, as it necessarily
+leads to disastrous results.
+Thus we find in a late publication the assertion that
+Mongol murun "river," Manchu muke, Korean mul,
+"water;" Latin mare, English mere, "lake," are all the
+same word. Now Latin mar-e, root mar, means "barren,"
+infertile compare Sanscrit marú, "desert," "sandy waste,"
+whilst the Mongol, Manchu, and Korean words come from a
+root mu, meaning "water."
+Another equation is Mongol bos imp. "stand up"-French
+debout, "upright." The Mongol is related to Turkish böt-mek,
+"to grow," "to rise;" debout comes from bout, "end,"
+"point" mettre debout, "to place on end," or "upright."
+Premature comparison between Indo-European and
+Semitic words leads to the same result. The Indo-European
+phonetic laws are well known, and the original speech of this
+family is, so far as our present investigations are advanced,
+generally recognised. Semitic roots, however, have not yet
+been successfully reduced, owing to their peculiar construc-
+tion. Most Semitic words consist of three consonants, and
+we do not know whether the third consonant represents an
+additional meaning, whether an inseparable suffix was added,
+whether the extension was made by a prefix, or whether the
+root has been extended in the middle, as is done in many
+languages. Another solution lately proposed is hardly
+worthy of serious consideration, viz. that each word consists
+of two roots of which the first ends with the same consonant
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 85
+with which the second begins, e.g. Hebrew qâtal, "to kill,"
+composed of qat +tal, both words of the same meaning.
+There is no analogy of this process in any known language,
+and the idea that any Semitic language possessed right
+through its vocabulary a double set of words (like "look-see"
+or Chinese k'an-chien) is not tenable. Besides, the
+grammatical systems of the two families are entirely different.
+Neither can be derived from the other, and the distinction
+between them is so great that they cannot be reduced to an
+original unity.
+The grammar of each linguistic family is ready-made
+from the very moment when the languages belonging to it
+came into existence. In its germ lies the whole of the later
+development. To presume a pre-grammatical relationship
+is a scientific impossibility; an original form of speech which
+gradually acquired grammar cannot be imagined, just
+as little as a period when man was without speech (homo
+alalus).
+An example will show how careful comparisons between
+Indo-European and Semitic roots have to be conducted.
+Hebrew ngûg, "a round cake," has been compared with
+Latin coquere, "to cook." Now, ngug is connected with
+Arabic ngaja med. "to bend," "to curve," so that the
+Hebrew ngûg was named from its round form. On the other
+hand, Latin coquere is connected with the Sanscrit root pak'
+"to cook," p and k interchanging as in "quinque" and
+πέμπη
+English "leg," and Hebrew regel, "foot," have been
+compared with each other. Leg is derived from a European
+root lak, "to bend" (as the leg at the knee), whilst regel,
+from ragal, "to run about," in Syriac "to flow," Arabic
+rajila, "to go on foot," points to the original sense of moving
+forward.
+
+86
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+The beginning of speech was probably gesture; an idea
+was expressed by pointing to the object. If the latter was
+absent, gesture would, by describing it, communicate the idea.
+Thus we find two-fold gesture language: demonstrative and
+descriptive. These would lead to different beginnings among
+different races.
+Another kind of word creation is direct and indirect
+onomatopoeia. Words made in this way gradually came into
+general use, and are frequently so changed by long use that
+their origin becomes quite unrecognisable. Languages have
+all been gradually developed; none came suddenly and
+perfectly into existence. Nor is language ever finished, but
+is the constantly changing work of the human brain, to
+enable articulated sound to express our thought. We hardly
+notice this constant change: one word falls into disuse, a
+new word takes its place. In 500 to 600 years language is so
+altered that it is no longer readily understood. We find
+to-day a difficulty in reading Chaucer's works.
+Languages originally related go their own ways after
+separation has taken place. They diverge more and more in
+the direction once taken, like Latin and German. Both
+started together, then each went its own way, which by its
+original tendency was practically the same, but duo si faciunt
+idem, non est idem, two never do the same thing in the same
+way, and how different are now modern Italian and modern
+German!
+We call certain languages poorer than others, but do so
+unjustly. Some have simply not yet been prepared for the
+reception of new ideas by some great intellect. There is no
+language on earth which is unable to express everything
+that has been thought in it.*
+*Compare BOILEAU, Art poétique, Ch. 1, v. 153, 154:-
+Ce que l'on conçoit bien, s'énonce clairment,
+Et les mots pour le dire arrivent aisément.
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 87
+We have old and new languages, like Chinese and
+French, but not rich and poor ones. Richness may consist
+in a superfluity of words without any appropriateness in their
+use. A variety of borrowed words in a language for mere
+shades of meaning may even be a sign of poverty, as in this
+way the language gradually loses the power of expanding its
+roots. But even in the enumeration of words in a language
+we are often mistaken. The English dictionaries contain, or
+are supposed to contain, all words used by any author in
+English, technical, scientific, provincial, Scotch, slang.
+The German dictionaries accept pure German words only;
+technical and foreign expressions are referred to special
+collections. The dictionary of the French Academy rejects,
+from a purist's standpoint, not only terms purely technical
+and provincial, slang, etc., but also words as yet used by but
+few authors and not yet recognised by common usage. In
+this way many a good word may receive official approbation
+somewhat late, while barbarous words (like "electrocution"),
+on the other hand, are refused admission into the language.
+All men belong to one and the same species, all races
+can interbreed and have done so frequently. There is only
+the difference in the time of their evolution which creates any
+disparity between them. Language is the really character-
+istic and recognisable feature which separates nations, some-
+times almost the only one. And what enormous differences
+do we discover in the languages of the various nations! The
+physiological inequality between languages is sometimes very
+great, as we find by comparing the grammars of Sanscrit and
+Chinese.
+Shall we ever be able to find a clue why a certain sound
+is used for the representation of a certain idea? I am afraid
+never, especially when we find in numerous languages the
+same combination of sounds used for ideas of the very opposite
+
+88
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+meaning, like "cold," kalt, and Latin callidus, "warm."
+Lucretius, the great Roman philosopher, says that utility
+gave things their names, but this is not so, with the few
+exceptions of onomatopoetic words. Surely utility would
+have taught all men to name things alike, and the enormous
+variety of human speech would have never grown up.
+How did all these variations spring forth? How did the
+different languages and dialects come into existence ?
+The first hordes, small communities of a few hundred
+men, lived closely together; any impulse to innovation in the
+language made by individuals was easily and quickly
+assimilated with the habits and inclinations of the others.
+Unification was brought about without any difficulty. Each
+such horde, in its seclusion, believed that its language was
+the only one in existence. Meeting in its wanderings a horde
+of a different race whose language it did not understand, it
+thought this language a mere barking of dogs or twittering
+of birds. The idea, however, that other nations had
+languages of their own, was gradually acquired by them, and
+with the knowledge of a foreign language their own lost its
+high value as being the only one; still their pride caused
+them to maintain that theirs was the most ancient.
+As soon as the horde grew in numbers and its members
+spread over a larger area, but still keeping up communication
+among themselves, the situation became changed. Unification
+in speech still took place, but it required a longer time to
+accomplish than formerly in the smaller community. Between
+the single groups perceptible differences remained, as some
+would still use the old term, whilst others already employed
+*De rerum natura, v., 5, 1027:
+At varios linguæ sonitus natura subegit
+Mittere et utilitas expressit nomina rerum.
+But nature forced the different sounds of speech
+To go forth, and utility gave things their names.
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 89
+the new one. Unification stopped altogether as soon as
+communication became interrupted, with a boundary of
+communication a linguistic boundary was created.
+The originally small horde assumed large dimensions,
+single groups separated in order to find new hunting or
+grazing grounds. Communication then becomes interrupted,
+variations of speech and dialects spring up, which, according
+to the stage of the language at the time of the dispersion,
+may develop into independent languages, as must have been
+the case with the Indian languages of North America.
+The germs of dialects which thus grow out of the mother
+speech are contained in the latter, something independent,
+and yet not disconnected from the language. How far they
+may, later on, diverge from the mother speech, depends
+entirely on the stage to which the language had advanced at
+the time of the separation. If separation took place early,
+before a sufficient stock of words had accumulated, then the
+dialect had to create independently, or borrow elsewhere, new
+words for new ideas. To some extent we are enabled to
+decide when the separation took place, by investigating,
+whether all the dialects participate in certain peculiarities: the
+case suffixes, the tenses, the harmony of vowels, the numeral
+system, i.e. the quinary, the septenary of the Ural-Altaic
+mother speech, the decimal of the Indo-Europeans, the
+duodecimal of the Etruscans, the vigesimal of the Caucasians.
+What we find the common property of all the languages
+of a linguistic family must have already existed before the
+separation.
+Thus we find that the Semites have always remained
+close together, the structure of their languages is identical,
+and their roots are identical. The Indo-Europeans did not
+separate until their speech was far advanced. The Ural-
+Altaians possessed, with the exception of the Zyrianians, the
+12
+
+90
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+harmony of vowels, and the septenary systems of numerals;
+their eight is ten less two, their nine is ten less one, etc.
+Many languages separated early, when there were but
+few necessities of life; and the language, therefore, was but
+little developed, when generic terms had not yet been created
+and perceptions of the senses were prevalent. In such a case
+the numbers of words common to all the dialects will be found
+to be small within a family of cognate languages. With the
+structure of the language it is similar. There is in all
+languages a point of perfect organisation beyond which the
+organic structure never changes. Had this point been reached
+before separation took place, then all the dialects will exhibit
+the same phenomena in their structure. If this was not the
+case, then every dialect will develop in an independent way
+and may even become a new mother speech of new, totally
+different, dialects.
+Where larger hordes assembled under one man's leader-
+ship a commonwealth was formed. With such an epoch the
+unification of language recommences and a large area is
+conquered by one speech. One dialect obtains preponderance;
+all the others have to submit to its absolute sway. The
+conflux of several dialects is one of the principal moments in
+the formation of languages; and refinement of speech, which
+could not develop during the period of separate existence of
+languages, is largely due to the association of many dialects.
+Without such creation of a state no large linguistic area can
+be formed, and languages dissolve into dialects and variations,
+whose mutual relationship must, in the course of thousands of
+years, become impossible of investigation. Such dissolutions
+we find, for instance, in the Caucasus and in the Himalaya
+mountains, which teem with languages, to all appearances
+totally different from each other. In Brazil-it is a curious
+fact that no native state was ever organised on the eastern
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 91
+side of the American continent-language changes from tribe
+to tribe, even from hut to hut. Guarani, with Tupi, an
+excellent dialect of Guarani only lately recognised as such, is
+perhaps the only language which is understood over a wider
+area.
+The same decomposition will also come to pass, should
+any of the great languages at present spoken in the world
+become the universal language. For some time the mother
+country with its press and its literature may exercise a
+unifying influence, but gradually the language must again
+split into numerous dialects and variations, and the process of
+their unification into groups will have to be repeated. This
+organisation of states took place at an earlier period with
+some races than with others. Favoured by a better climate
+and by superior soil, some were able to evolve earlier from the
+barbarous stage.
+Favourable circumstances caused them to
+progress in civilisation and to invent lasting forms of society.
+The Assyrians settled in fertile Mesopotamia. The Jews lived
+in Palestine, the converging point of three continents, where
+they found splendid opportunities for an early intercourse
+with other nations, and thence their cousins, the Phenicians,
+developed, at the dawn of history, a surprising commercial
+activity. The Arians invaded the magnificient land of the
+five streams and met with inferior races, whom they easily
+ruled. The Egyptians produced their high civilisation in the
+fecund Nile delta. The Chinese settled first in the broad
+plains east of the Yellow River, and from there established
+their millenial empire.
+These nations rose to a high degree of civilisation, and
+inferior races, with whom they came in contact, were raised
+by them from a lower condition and accepted many words
+into their vocabulary which, on account of their antiquity, can
+but in rare cases be recognised. Loans of this kind took place
+
+92
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+at different periods, and in some cases names for the same
+idea have been borrowed twice during different periods of
+speech. They appear to us like different geological strata,
+and the rise and fall of the influence of civilisation from
+without has been likened to the coming and going of the
+waves of the sea (Wellentheory).
+Thus Eastern Asia bears a distinct imprint of Chinese
+culture and language. Chinese borrowed words of different
+periods are found in Manchu, Korean, Japanese and the Indo-
+Chinese languages; to the latter, on the other hand, China
+owes a great part of its vocabulary. Especially was Chinese
+writing an important factor in introducing civilisation into the
+adjacent nations. A similar influence was exercised by the
+Semitic culture among the nations living on the Mediter-
+ranean. Phenician writing was brought to Greece, Etruria,
+and the whole of Italy, and from thence adopted by all
+Europe. Certain words, like the names for the horse, the
+dog, the different grains, salt, honey and others, seem to have
+been widely borrowed from the three or four centres of
+civilisation during ancient times.
+An extraordinary influence over languages has at all
+times been exercised by religion. The first object of worship,
+the sun, the bestower of life and light, has the same name in
+many languages: Sanscrit surya, suri, Lithuanian saulé
+(saulya), Zend hvare, Celtic "heul," "haul," Gothic sauil,
+Latin sol, Greeks, hos, are the same words as Hebrew
+el, eloah (the plural èlohim points to an original polytheism),
+Arabic allah, etc.
+In the same way Pali literature was brought to Ceylon
+by Mahendra, son of King Açōka of Maghadha, in the middle
+of the third century after Christ, as the language of Buddhism.
+Later on it was introduced into Burma and Siam. Thence
+Singhalese and the Indo-Chinese languages possess a rich
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+93
+stock of Pali words in their vocabularies. Islam has done the
+same with Arabic words in Northern India, Afghanistan,
+Persia, and the Turkish-speaking parts of Asia and Europe,
+and also among the Malays. Our missionaries are at present
+exercising a similar influence with their translations of the
+Bible all over the globe.
+Such various influences have been felt by almost all the
+languages, over the general growth of which we have just
+cursorily glanced. We know of nearly 1,000 languages, but
+of these, according to a most competent judge in these
+matters, the late Mr. von der Gabelentz, only about one-fourth
+is grammatically known. These 1,000 languages have been
+classed under about 100 families, between which science can
+as yet discover no relationship. Many, it is true, have not
+yet been sufficiently examined to allow us to determine
+whether they deserve specific rank among languages, or
+whether they should be classed as dialects or mere variations
+of another speech.
+They are distributed over the globe as follows:-
+Europe
+Asia
+Africa
+America
+Australia
+Polynesia
+60
+... 300
+230
+270
+140
+Melanesia
+Micronesia, etc.
+In all 1,000 languages.
+The great majority of the living languages possess no
+literature; in many only the Bible, or parts of it, exist.
+Translations of the Bible have so far been made in about 300
+languages or chief dialects. Of many of the dead languages,
+only the name has been handed down to us.
+
+94
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+Linguistics, as a science, is of too recent a date to enable
+us to assign to each language its genealogical or physio-
+logical place, or to draw up in sufficient completeness a
+scientific system for all. It has existed as a science, properly
+so-called, only about 80 years, and has, in spite of patient and
+indefatigable research, mastered but a small part of its
+material. But gradually and in time this work will be
+accomplished, and all the languages spoken on the earth will be
+examined and classified in accordance with the method already
+tested in the treatment of the Indo-European group. So far,
+only the latter has been treated exhaustively. But also the
+Semitic, the Ural-Altaic, the Malayo-Polynesian, the Dra-
+vidian, the Indo-Chinese, and a few other linguistic families
+have received the attention of scientific linguists; others, as
+the American languages and the African Bantu forms of
+speech, have been treated in a general way.
+A most difficult work lies still before us, which must be
+accomplished by labourers in this science, but only those
+should be admitted as co-workers who have thoroughly
+mastered the craft. Some who enter the arena of comparative
+philology, to all appearances so easy, and yet teeming with
+extraordinary difficulties, as free-lances, come to the work
+wholly unprepared, sometimes even with no suspicion that
+this, like any other science, requires a thorough training.
+Such do more harm than good, especially as they rush in with
+confidence and assurance where angels (q.d., experts) fear to
+tread.
+Science will persevere with the investigation and com-
+parison of languages, and the results will become progressively
+surer and more far-reaching. Languages, now considered as
+isolated creations, will, when we become better acquainted
+with them, be found to be related to others; all linguistic
+families will be amplified and new families will be defined.
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 95
+But whether beyond the different families we shall find
+a higher unity between the families which so far have not
+been proved related, or whether we shall ultimately discover
+a close connexion of all the linguistic stems of the earth, is a
+question of limitations. If we do so, we shall have solved the
+ethnographical problem of the descent of man from one
+pair.
+From the theological standpoint the plea for one original
+language common to all men (the lingua primava) is not
+indefensible. It was formerly quite a popular belief, and
+many languages (Hebrew, Egyptian, Chinese, even Basque,
+Flemish and Scythian) have been, in turn, named, according
+as the author was guided by theological, patriotic, or some
+other prejudice.
+From the scientific standpoint the question in itself is
+legitimate, so long as the method by which its solution is
+attempted is thoroughly scientific; all others are to be rejected
+without mercy.
+Such questions as the origin of language, the descent of
+man and nations, the origin of the universe, are knotty riddles
+which have incited thinking men of all times to attempt their
+solution. The very difficulty of the questions has induced the
+would-be solvers to use them as a touchstone of their mental
+powers. But in the absence of scientific methods, such
+glossogonies, anthropogonies, ethnogonies, and cosmogonies
+remain empty speculations.
+On these points great help has been expected from the
+science of language, by which so much light has been thrown
+on ethnographical problems. But in vain. A certain unity
+of culture is explained by the unity of human nature and by
+the general uniformity of the objects and circumstances,
+which in different localities, quite independent of each other,
+are certain to produce the same results. Tertullian knew
+
+96
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+this, and said: "All the races are one man, differing only
+in name; one soul, differing only in language; one spirit,
+differing only in tone."
+The old mythical history does not help us; the Tower of
+Babel and the confusion of tongues make confusion worse
+confounded, although religious prejudice continually drags
+'them into the discussion. Dante thinks that Hebrew was the
+lingua della grazia, and therefore remained the same after the
+confusion of tongues as before, and that the other languages
+are alone lingue della confusione. The numbers 70 and 72
+-that is the number of languages after the confusion,
+according to the Talmud-still haunt the brain of some people
+who allow their
+"
+godlike reason
+To fust in them unus'd."
+It is a curious fact that, wherever tribes came in their
+wanderings, they found men who had been there before them.
+The Shumir-Accadians found the Assyrians; Cain met people
+with whom he allied himself in marriage; the Phenicians
+discovered people in Great Britain who worked tin mines and
+were probably not Celts, certainly not Teutons.
+In all nooks and corners of the earth we find people
+driven back into distant valleys by the dominant race, people
+who have lived an isolated existence for ages and whose
+languages are totally different from those of their conquerors.
+The Basques of the Pyrenees are an example of this kind.
+Their language, split into many dialects, has not yet been
+classed with any of the linguistic families, although the late
+Professor von der Gabelentz, in a posthumous work (1894),
+has tried to prove its relationship with the Berber languages
+of Northern Africa. The numerous tribes of the Caucasus;
+the Papuans scattered over the linguistic area of the
+Polynesians; in the northern part of Asia the Camchadales
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 97
+and other so-called Palaio-Asiatic nations; some minor
+languages on the American continent; the Miaotzŭ in China
+and others show the same phenomenon. In the sub-
+Himalayan country, between the rivers Kali and Tishta,
+Hodgson ("Kôsh, Bôdo, and Dhimál Tribes." Calcutta,
+1847) met with a perfect Babel of numerous aboriginal
+languages and dialects, "What a wonderful superfluity of
+speech and what a demonstration of the immense impedi-
+ments to general intercourse characterising the earlier stages
+of our social progression."
+Many languages have entirely disappeared, without
+leaving any traces behind them. Others have been handed
+down to us in inscriptions, but they are extinct and have left
+no progeny. Such is the language of the Shumir-Accadians,
+found in Assyrian inscriptions, and that of the Etruscans,
+whose inscriptions, written in Phenician letters from right to
+left, we are able to read, but to the language thus revealed we
+are unable to assign its scientific place: it is neither Semitic,
+nor Ural-Altaic, nor Greco-Italic, as its decipherers have from
+time to time asserted.
+Everywhere we find a plurality of languages, which
+seems to exclude, a priori, a common relationship.
+There is, moreover, an extraordinary divergence in the
+grammatical structure of the different linguistic families.
+We find languages with flexibility and great freedom in the
+position of words as the Indo-European; we find the strange
+system of the tri-literal Semitic languages in which the chief
+modifications depend on a change in vowels and whose three
+consonants of the root have not yet been reduced to two.
+We have the agglutinative Ural-Altaians with a rigid position
+of words. As if greedy to express all their ideas at once, the
+polysynthetic languages of North America force a number of
+ideas into one single compound. There are the African Bantu
+13
+
+98 ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+languages which, with the exception of Hottentot, radically
+different from them, occupy a large portion of Southern and
+Eastern Africa, and which exclusively use prefixes, in
+contradistinction to the Ural-Altaic which exclusively use
+We find in Eastern Asia languages with tones which
+modify the meaning of homonyms by giving them different
+intonations, as the Chinese with its dialects and some of the
+so-called Indo-Chinese languages.
+suffixes.
+A strange difference appears between the Melanesian and
+the Polynesian languages. The latter, in spite of the vast
+space over which they spread, are merely dialects of one
+mother speech; among the Melanesians, whose homes are
+close together, every little island has its own language,
+sometimes even several.
+If all languages were offsprings of one mother, they
+would show more similarity among themselves, not only in
+the vocabulary, but also in the way of expressing thoughts.
+But if it be said that they may have separated from the
+original speech at a time when language was yet limited and
+possessed no grammar, then it is not worth our while to
+search for this too remote relationship, which, pursued step
+by step, must by necessity become the farther the thinner,
+until long before we have reached its beginning it disappears
+under our hands in the twilight of the past.
+The same reasoning will prevent us from ever deciding
+whether the polysyllabic structure was evolved out of the
+monosyllabic, or whether monosyllabism represents the worn-
+out condition of previous polysyllabism.
+Another difficulty will meet us more or less in all lan-
+guages. Words change in the course of time their meaning,
+and, as by mere similarity of sound without equality of meaning,
+a relationship can never be established, we are obliged in such
+cases to inquire into the history of the languages in question.
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 99
+Where this fails us, we are powerless. Trench, in his
+book "On the Study of Words," has given us a number of
+examples in this respect from modern times. We may be
+sure that such changes of meaning were quite common in
+antiquity too.
+To this we have to add the onomatopoetic words which, as
+expressions in universal use among men of all races, are apt
+to mislead the inquirer. Then we find formations of words by
+analogy with other words which are quite frequent in all
+languages, and further popular etymologies, which date back
+very far, for either of which we rarely find the true key.
+The verbal stems, which express ideas relating to actions and
+qualities, have mostly quite undefined limits of meaning:
+thus we find our verb "to see," German sehen, corresponding
+in sound and original meaning to Latin sequi, "to follow,"
+Greek recat; Italian and French use the verb "to chew
+(Latin, manducare), mangiare, manger, for the old Latin
+edere, "to eat." Latin dicere, "to speak," originally meant
+"to point to," Greek sixvvpt; "Blue," German blau, agrees
+phonetically with Latin flavus, "yellow" (in different shades
+like Greek Eaós).
+Another difficulty is presented by the formative elements
+added to the roots: it is vexing to find that, except in a few
+cases, we are quite unable to explain their origin in a
+satisfactory manner.
+In all these difficulties we meet the same cause: it is
+impossible to pursue the linguistic material beyond a certain
+point, where our science inscribes ne plus ultra, so far and
+no farther, and beyond which our understanding cannot
+reach.
+Linguistics has, like all human sciences, its limitations,
+and when we transgress them we enter the domain of hazy
+speculations.
+
+100
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY.
+We must be satisfied with the result within our reach.
+Science will undoubtedly be able to classify gradually all the
+1,000 languages under linguistic families, and the present
+number of these families will certainly be reduced in time.
+But when we commence the comparison of the different
+families, we are sure to encounter unsurmountable difficulties.
+This ordinary arithmetic will show.
+the
+The best known family is the Indo-European,
+number of roots found common to all its languages amount to
+about 2,000. We are entitled to assume, that every other
+linguistic family can be reduced to the same number of roots,
+so that we have 2,000 roots of one family to be compared
+with 2,000 roots of another. Considering the difference in
+space and time between two original forms of speech, we are
+entitled to expect the same results in other languages, which
+we have found in the Indo-European, i.e. the farther and
+the longer two languages have been separated from each
+other, the smaller will be the number of words common to
+both.
+Let us again assume, that on comparing two original
+forms of speech with each other, we find one half of the 2,000
+roots to be common (one fourth even, I should say, will be
+found too high a figure), the number of roots after each
+comparison will be reduced to 1,000. If we begin by
+comparing the Indo-European with the Semitic original
+speech, we thus obtain as a result 1,000 roots. Comparing
+then the Semitic and the African Hamitic speech we again
+get 1,000 roots. After comparing these two quantities, each
+of 1,000 roots, with each other, we reduce this number by
+one half, to 500. If we apply this method to the other
+linguistic families, a very simple calculation will show us
+that, after repeating the process 11 times, we shall find but
+one word common to all the languages so far compared. I
+
+ON THE LIMITATIONS OF COMPARATIVE PHILOLOGY. 101
+leave it to you to imagine what will be the result after
+treating all the 100 linguistic families in the same way!
+With regard to proving an original speech common
+to all races, science must always pronounce the verdict non
+liquet.

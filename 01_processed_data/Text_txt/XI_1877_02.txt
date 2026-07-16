@@ -1,0 +1,3366 @@
+ARTICLE II.
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI
+WITH NOTES ON CHINESE ZOOLOGICAL
+NOMENCLATURE.
+BY O. F. VON MÖLLENDORFF, PH.D.*
+HE last fifteen years have witnessed a great advance in our
+knowledge of the zoology of China. Many, it is true, of
+the more characteristic animals had long previously been noticed
+and described by European naturalists, and the general descrip-
+tions of the middle Kingdom like those of Abbé Grosier (1821),
+Murray (1836), Williams, contained already a considerable stock
+of general information on the animals of this vast field for
+zoological research. Although knowledge of this branch had
+kept pace with the increased intercourse between China and the
+Western World, nevertheless the want of an exhaustive study
+of the Fauna Sinensis had always remained unsupplied; and in
+particular the subject of the zoological correlation between single
+provinces, which present such widely different features both of
+climate and geology, had hardly been touched upon. That
+considerable progress has now been made in this respect, we
+owe chiefly to the labours of the indefatigable explorers Swinhoe
+and David. To them it is due that we possess now an almost
+complete knowledge of some classes of the animal Kingdom of
+China; while of some regions an accurate comprehensive survey
+of the Fauna has been obtained.
+One of the best known provinces, as far as Vertebrata are
+concerned, is now that of Chihli, which has supplied science
+with a number of interesting novelties; and which, as it geogra-
+phical position and the nature of its climate would lead to sup-
+pose, presents a peculiar combination of northern and tropical
+types. The results, however, of the previous labours on this
+head have not yet, as far as I know, been collated in a connected
+form; and as I conceive that the performance of this task might
+prove serviceable as a 'basis for future investigations, I have
+endeavoured in the succeeding pages to give a brief sketch of
+our existing knowledge of the vertebrata of this province.
+Read before the Society, January 20th, 1877.
+
+42
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+Within the limits of this paper I have included a list of the Chi-
+nese zoological nomenclature, as far as it has been possible to iden-
+tify-more or less definitively-the Chinese terms with zoologi-
+cally determinate species. Although much has been already done
+in this direction, even by the earlier sinologues, nevertheless the
+difficulties in the way of the student of the native works on
+natural history are still very great. The earlier Chinese works
+on the subject show signs of considerable acuteness of observa-
+tion; and this acuteness is still a characteristic of the people of
+the present day, who in their colloquial language discriminate
+even between very closely allied species. On the other hand,
+the compilers of more modern works give evidence less of prac-
+tical observation than of an extensive knowledge of ancient lite-
+rature; and very often give rise to confusion by indiscriminate
+use of the terms employed by the older books. Thus we find
+in many instances that an article about an animal consists in a
+meagre description together with a rough drawing, supplemented
+by profuse quotations from old authors; the application of which
+would appear to have been scarcely clearer to the compiler than
+it is now to the European student. An especial difficulty arises
+from the fact that the authors quoted wrote in different parts of
+the empire and very often referred to quite different species
+under similar terms, which is not taken into account by the
+later writers. In order to attain the complete identification
+of the nomenclature in use in Chinese zoology with that of
+Western science two things are necessary: firstly, an exhaustive
+knowledge of the Fauna Sinensis with especial reference to the
+geographical distribution of the animals; secondly, accurate and
+complete lists of the popular zoological terms in use in the
+different provinces. To this end a very valuable contribution
+was supplied by Mr. Swinhoe in a paper on Formosan zoology,
+and I venture to hope that my present sketch of that of Chihli
+may prove of some service.
+I here insert a catalogue of the extant foreign works on the
+zoology of Chibli.
+In general.
+David, G. A.-Histoire naturelle de Pékin et ses environs in
+Nouv. Arch. du Mus. d'Hist. Nat. Bul. III. Paris, 1867.
+Quelques renseignements sur l'histoire naturelle de la
+Chine septentrionale et occidentale. Journ. N. Ch. Br. R.
+As. Soc. VII. Shanghai, 1873, pp. 205-234.
+Birds and Beasts from Formosa, in Journ. N. Ch. Br. R. As. Soc.
+II. Shanghai, 1866, pp. 39-52.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+43
+Many notes on zoology are further contained in the ac-
+counts of Père David's voyages, which were printed in
+French periodicals in Shanghai. A compilation of the same
+was given by E. Blanchard in the Revue des Deux Mondes
+for 1871; whilst a very superficial and often erroneous
+English translation was published in Shanghai in 1873
+(Natural history of North China, etc.).
+Swinhoe, R.-Zoological notes of a journey from Canton to
+Peking and Kalgan, in Proc. Zool. Soc. London, 1870,
+pp. 427-451.
+Mammals.
+Milne Edwards, A.-Note sur le Milou or Sseupusiang, mam-
+mifère du nord de la Chine. Ann. d. Scienc. Nat. 5° sér.
+Zool. V. 1866, pp. 880 pl.
+Etudes pour servir à l'histoire de la Faune mammalogi-
+que de la Chine, id. Recherches pour servir à
+l'histoire naturelle des mammifères. Paris, 1870,
+fol. plates.
+Peters, W.-Uber ein neues Argalischaf, Ovis jubata, von Nord-
+china. Monatsber. Berlin Acad. March 1876.
+Möllendorff, O. von.-Uber die "Gemse" Nordchina's, Anto-
+lope caudata. Mitth. Deutsch. Ges. f. Natur-u. Völkerkunde,
+Ostas. July 1876.
+Birds.
+Swinhoo, R.-Birds observed at Tientsin. Proe. Zool. Soc.
+1862, p. 815 pls.
+-Catalogue of the birds of China. Ibid. 1863, pp. 259-829.
+-A revised catalogue of the birds of China. Ibid. 1871.
+David, A. Catalogue des oiseaux de Chine observés dans la
+partie septentrional de l'empire. Nouv. Arch. du Mus.
+d'Hist. Nat. VI, 1872.
+Fishes.
+Basilewsky.-Ichthyographia Chinae borealis. Nouv. Mém. de
+la Soc. d. Natural. de Moscou. X. 1855, pp. 215 ss. 9 pl.
+Bleeker. Mémoire sur les Cyprinoides de la Chine. Amster-
+dam, 1871, 4° 91 pp. 14 pl.
+On fishes from Peking. Nederl. Tijds. vor de Dierkunde 1869.
+Insects.
+Donovan.-Epitome of the insects of China. London, 1798.
+2nd edition by Westwood, London, 1842. This excellent
+work contains a very few notes about Pekin insects.
+
+44
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+Faldermann.-Coleopterorum ab illustr. Bungio in China
+boreali, Mongolia et montibus Altaicis collectorum descrip-
+tio. Mem. Acad. Imp. d. Scienc. de St. Pétersb. II. 1835.
+Bremer, O.-Beitraege zur Schmetterlings-fauna des noerdlichen
+China's. St. Petersburg, 1853. 8° plates.
+(Contributions
+to the Fauna of Lepidoptera of Northern China).
+Lucas, H.-Quelques remarques sur les Lépidoptéres du genre
+Argynnis qui habitent les environs de Pékin, et description
+d'une espèce nouvelle, in Ann. de la Soc. Entomol. de
+France 4° sér. VI. 1866.
+Many short zoological notes about North China are con-
+tained in scientific serials. Of the landshells of Peking I
+have given lately a short account in a German periodical
+(Jahrbuecher d. Deutsch. Malacozool. Ges. 1875).3
+The Chinese names I have gathered, besides those of the
+colloquial language, the Su-'hua, from the follow-
+ing works:-
+1.-The Erh-ya. This ancient dictionary is quoted
+frequently by the later writers; but it is very often necessary to
+compare the work itself, because the quoted descriptions of the
+animals are very short and meagre, but the drawings compara-
+tively good,-far better at least than in all the other works I
+know of.
+2.-The San-ts'ai-t'u-'hui, a cyclopaedia of arts
+and sciences of the time of the Ming dynasty: it is of very little
+value as far as zoology is concerned. Although there are draw-
+ings of a greater number of animals than in any other work,
+still many of them are merely imaginary; none of them exact
+enough for zoological purposes, and the descriptions consist in
+extracts not very wisely selected and containing in many in-
+stances the most ridiculous fables. In spite of these deficiencies,
+however, it serves sometimes to elucidate difficult questions in
+the confused nomenclature of Chinese Natural History.
+3.-The Pén-ts' ao-kang mu, the well known
+Materia Medica Sinensis, compiled by Li-shih-chên towards the
+end of the 16th century, the text book for every student of Chi-
+nese natural history. In its zoological part a fair attempt has
+been made to classify all animals known to the author in s
+system which is certainly equal, if not superior to, the systems
+The well known Russian traveller and naturalist A. Bunge, the author
+of "Enumeratio plantarum quas in China boreali collegit," 1833.
+For a list of the works on the Natural History of the whole of Chins
+see the Chinese Bibliography by P. G. von Möllendorff and myself. Shang-
+hai, 1876, 8yo.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+45
+of Ante-Linnaean Zoologists in Europe. It comprises six
+classes, pu, which are each divided into several orders, lei.
+I. ch'ung. Insects.
+lan-sheng. Oviparous insects.
+hua-sheng. Insects originating by metamorphosis.
+shih-sheng. Water insects.
+1.
+2. 1
+3.
+1.
+lung.
+2. she.
+8. yil.
+II. lin. Scaly animals.
+Dragons (including all Sauria).
+Snakes.
+Fishes.
+wu-lin-yü. Fishes without scales.
+III. chich. Shielded animals.
+鱼
+4.
+1.
+Shield reptiles.
+2.
+pang-ko. Shells.
+1.
+kuei-pick.
+2.原
+3. 林
+4. 山
+"
+IV. ch'in. Birds.
+shui-ch'in. Water birds.
+yian-ch'in. Field birds.
+lin-ch'in. Forest birds.
+shan-ch'in. Mountain birds.
+1.
+ch'u.
+2. shou.
+3.
+4.
+V. shou. Quadrupeds.
+Domestic animals.
+Wild animals.
+shu. Rats (Rodentia).
+yi-kuci. Quadrumanous animals.
+VI. A jen. Mau.
+Of each species there is given an explanation of the names, a
+short description and numerous quotations from other authors;
+further an exposition of its medical qualities and use, prescrip-
+tions, etc. Although the book contains many errors and absurd
+fables, still there is a great deal of valuable information to be
+got from it.
+4.-The Sheng-ching-t'ung-chih, a topographical
+account of the metropolitan province of Sheng-ching in Manchu-
+ria, contains like most of the Chinese geographical descriptions
+of provinces or districts, a short list of the natural productions
+
+46
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+of the country. This list consists chiefly of names, descriptions
+only occasionally being added; but I found it very useful because
+in many instances the popular names of the animals are given,
+which are mostly the same as those used in Peking.
+5.-The Shi.fu-t'ung-chih or description of the
+district of Peking is likewise furnished with lists of animals; which
+are however less complete than those of the last mentioned book.
+I have not been able to compare the Chih-li-t'ung-chih, which
+undoubtedly contains likewise some zoological information.
+Besides these works many other geographical and historical
+Chinese books have furnished some notes on zoology. I have
+also consulted the previous works of European sinologues on
+the Chinese zoological nomenclature: Bridgman's Chrestomathy,
+the dictionaries of Morrison and Williams, and many short notes
+in the Chinese Repository, Notes & Queries, and other serials.
+I. MAMMALIA.
+Primates.
+1. Macacus tcheliensis, M. Edw. Études pour servir à l'hist.
+de la Faune mammal. de la Chine p. 327, pl. 32-33.-A. David,
+Renseign. in T. N. C. B. R. As. Soc., 1873, p. 230. Journ. de
+mon 8me. voyage, 1875, I. p. 41.
+() 'hou (-erh) P.
+Père David has made known the occurrence of a species of
+monkey in the mountains near Tung-ling, the mausolea of
+Manchu Dynasty, situated about 70 miles east of Peking. This
+species, which belongs to the short tailed Macaques, and which
+was recognised as new to science by Professor Milne-Edwards
+in Paris, is probably the only one of the Quadrumana fitted to
+endure a cold winter like that of Northern China; this it is
+enabled to do from the fact of its being gifted with a peculiarly
+thick winter fur. It is strange that no trace of the occurrence
+of monkeys has been found in other parts of North China or the
+neighbouring countries; and that none of the topographical and
+historical works of the Chinese contain any mention of them.
+But the Chinese assert that these monkeys live in a wild state
+near Tung-ling, whence they are frequently brought to Peking,
+and exhibited in the streets and fairs together with bears, etc.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+Chiroptera.
+47
+2. Vespertilio Davidi, Peters. A large species of bat, discover-
+eed by David in the Western Hills.
+8. Vesperugo abramus, Temminck. (Identified by Professor
+IPeters, Berlin).
+4. Vesperus serotinus, Schreb.
+5. Nyctinomus Certonii, Savi. (Professor Peters).
+In the Peking vernacular there is but one term for all kinds
+of bats, namely yen-pien-hu-rh (the pronounciation
+of the third character is properly fu, but it is now always pro-
+nounced 'hu in Peking). The following names of the bat are
+igiven in the Pên-ta'ao-kang-mu: Ju-i i. e. wing-concealer,
+iso called from its folding up its wings during the day;
+pien-fu, yeh-yen "night-swallow," t'ien-shu "sky-
+mouse," féi-shu "flying-mouse," flhsien-shu "fairy-
+mouse," the last term referring to the part the bat plays in
+Chinese mythology.
+6. Felis tigris, L.
+Carnivora.
+Bu or
+lao'hu.
+The Tiger, which is still of frequent occurrence in Chinese
+and Russian Manchuria, has occasionally been met with in
+Chibli, where it has been, according to the Chinese, not un-
+common in former times. In Du Halde's description of China
+the Laouhou or tiger is mentioned as being common in Mongolia
+and Manchuria and occurring near Peking. In the records of the
+Emperor Kanghi's travels given by P. Verbiest and P. Gerbil-
+lon mention of the tiger is frequently made. During a chase
+in the mountains of Liaotung in 1682, sixty tigers were killed
+in one day; in 1691 a tiger was shot by Kanghi in northern
+Chihli, etc.
+The Chinese say that tigers still occur in the northern parts
+of the province. Skins of a very large size-8 feet from snout
+to tail-are often sold in Peking fur shops, and exhibit a much
+longer and denser covering of hair than those of the tropical
+race, and a difference is likewise to be observed in point of
+colouring. But a careful examination of the skulls of the north-
+ern and the Bengal tiger, lately made by Mr. Busk has shown
+Du Halde Descr. de la Chine, IV. p. 219-224, etc.
+Proc. Zool. Soc., 1874, p. 146 ss.
+
+48
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+that there is no difference between the two which would justify
+the establishment of a new species for the "Tiger of the Snows."
+7. Felis Fontanieri, A. M. Edw. (North China Panther).
+pao. pao-tsze.-chin-ch'ien-pao.
+There occurs in Chilli a large species of panther which was
+first sent to Paris by the late M. Fontanier and named after
+him by Professor Milne-Edwards. Although the differences
+between this and the common panther are not very great, they
+are nevertheless sufficient to authorize the establishment of a
+new species. It is not rare in the mountains of Chihli, and has
+been met with even at as small a distance as 20 miles west of
+Peking. I do not know whether the panther of southern China,
+which Mr. Swinhoe records in his catalogue of Chinese Mam-
+mals, has been sufficiently examined to decide the question
+whether it is identical with the common Indian panther, Felis
+pardus L. or with the Felis Fontanierii of northern China.
+8. Felis irbis Ehrenberg-(Siberian Ounce, Irbis)-Chinese
+names the same as those of the last species. The Irbis, the
+"Panther of the Snows," which is easily distinguished by its
+pale colouring and thick fur, and which is common in the greater
+part of Siberia, Mongolia, Manchuria and the Amoorland, is not
+rare in the northern mountains of Chihli, especially near Jehol.
+The Chinese, as I have mentioned above, do not distinguish it
+from the panther and call it likewise chin-ch'ien-pao. Europeans
+often term it the ounce; and one of its scientific synonyms is
+Felis uncia (Schreber), but as term "ounce" is more generally
+applied to the American Juguar (Felis onca L.) and to other
+feline animals in South America, this name will only lead to
+confusion; and the Mongolian name "irbis," accepted by
+scientific nomenclature, is to be preferred.
+9. Felis microtis A. M. Edw. This is a species of wild cat
+found by P. David in the hills of Chihli; I have neither seen a
+specimen of the animal nor been able to compare the descrip-
+tion of Milne-Edwards. I have however reason to believe that
+it is a small species of the tigercat family, and probably the
+t'u-pao of the Chinese.
+10. Felis manul Pall.
+yeh-li-tszě P.-li,
+yeh-mao P. Ts. (ex parte).
+The manul or "cat of the steppes" has only occasionally
+been observed in the North of China, near Kalgan; it is com-
+mon in Mongolia and Siberia, and its skin is frequently imported
+to Peking. It differs from the European wild cat by its larger
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+49
+size, longer legs and tail, and the colouring of the fur which is
+yellowish white mixed with brown.
+The manul is called Fyek-li or yeh-li-taad in the Pekinese
+colloquial language, and under this appellation the fur is de-
+signated in trade. In the Pên-ts'ao-kang-mu and other works
+li or yeh-mao appears to be the general name for
+smaller species of the Felina, including the civet, wildcat, etc.,
+and it is doubtful whether the authors knew the manul at all.
+In the south by yeh-li is certainly meant the Felis viverrina
+(Bennet), the Asiatic wild cat or tarai.
+11. Canis lupus L. Wolves are still of frequent occurrence in
+Chihli, though more in the mountains and the northern plateaus
+than in the plain. A very large male wolf was shot in 1874
+near Nan-k'ou, about 30 miles N.N.W. of Peking. In Chinese
+lang or ch'ai-lang.
+12. Canis rutilus Pall. Only met with in the northern part
+of the province, especially near Kalgan and Hsuan-'hua-fu.
+This eastern representative of the Jackal shows much more
+resemblance to the wolf, and differs from it only by smaller size
+and certain red brown tints in parts of the fur.
+The Chinese call it I hsiao-'hung-lang, "small red
+wolf," but also ch'ai-lang.
+In Chinese zoology there are described two species of the
+wolf family, ch'ai and lang, one of which is certainly
+the wolf, the other probably the Canis rutilus Pall.; but it is not
+easy to determine the respective application of the two terms.
+The descriptions as well as the drawings are not sufficient to
+identify either of them quite distinctly. It seems, however, at
+variance with the present use of the terms, that ch'ai not lang
+should represent the wolf. I here insert the descriptions ac-
+cording to the Pên-ts'ao.
+1-"The ch'ai occurs everywhere in the mountains. It is
+akin to the lang, the common name is ch'ai-kou . Its
+aspect is like that of a dog, but is has white cheeks. It is low
+in front, high behind, it has a long tail, a lean but vigorous and
+strong body. Its hair is of the colour of yellow sackcloth
+() and very bristly. The teeth are like awls and very
+sharp. It runs in packs. Even the tiger is afraid of it. It is
+fond of eating sheep. Its cry resembles that of a dog. Men
+dread it because they believe that it attracts demons and is
+therefore of bad omen. Its breath is fetid, and consequently
+very disagreeable."
+2° "The lang is akin to the ch'ai, it occurs everywhere; more
+frequently in the north, and is eaten there. The people of the
+
+50
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+south call it mao-kou J. It lives in caves. It is as large
+as a dog, but has a pointed head and a sharp snout, white cheeks
+and connected ribs (f). It is high in front, broad behind:
+the feet are not very high. It can eat chickens, ducks and
+rats. The colour is a mixture of yellow and black, there occurs
+also an ashen grey colour. Its cry can be either loud or low; it
+can weep like a child and deceives people thereby. The inha-
+habitants of lonely villages dread its cry in winter. Its intestines
+are straight; when it cries, the anus opens. Its dung is used
+for signal fires, the fire made with it, rises perpendicularly and
+does not slope. It has the habit of always looking round about;
+when going to eat, it treads on its food and wallows on it.
+When old, its dewlap grows as large as a bag; therefore 'he
+springs forward on his dewlap or trips back on his tail,' mean-
+ing that [the old lang] cannot freely move either forwards
+or backwards. It belongs to the constellation of K'uei-hsing
+(4E)."
+Incomplete and vague as these descriptions are, they clearly
+show that the ch'ai is the larger species of the two, and is more
+probably the wolf, than a species of jackal. Also the drawing
+of the ch'ai is not unlike the wolf, while that of the lang shows
+more resemblance to a hyaena or a lynx than to a canine species.
+This would lead to the supposition that the author had not seen
+the lang itself but made the drawing from deseription; which
+fact would tend to show that the lang was the rarer animal of
+the two, and therefore most improbably the wolf. It is morever
+a curious fact that the Erhya does not record the lang at all,
+whilst the drawing of the ch'ai in that ancient work is a fair
+representation of the wolf. It would appear therefore that the
+name of the wolf was ch'ai in the older times, and that lang
+meant another species of the same tribe. In later times the
+terms were confounded; and as in the greater part of China
+there occurs only one species, the Canis lupus, this was designated
+by the combination of the two names, sometimes only by lang.
+In the north, as I have mentioned above, the term ch'ai-lang
+if used indifferently for both the wolf and the Canis rutilus.
+How vague the use of these terms sometimes is, the following
+instances of the application of the name ch'ai-lang will clearly
+跋胡索尾,This is an abbrevinted quotation from the 詩經
+Shih-king (Pt. I Bk. XV Ode VII, Legge's Chin. Class. Vol. IV pt. I p. 242).
+The original verses are:狼跋其胡載其尾. “The fold] lang
+springs forward on his dewlap, or trips back on his tail." Legge translates
+lan, by wolf, but he gives the same signification for ch'ai (Class. Vol. IV
+pt. II, p. 348).
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+51
+demonstrate. According to Prezewalsky (Travels in the Ussuri-
+land 1870, p. 251), Canis alpinus Pall. is called ch'ai-lang-tsze in
+Manchuria. The
+Hsi-yü-wên-chien-lu, de-
+scription of Turkestan, unmistably describes the common jackal,
+Canis aureus, under the name of ch'ai-lang. "The ch'ai-lang
+occurs in the country of the Muhammedans; it lives in the
+gorges of the mountains and is about one foot high and only
+three feet long. Its aspect is like that of the wolf. They rau
+about in packs of from ten to hundred, and form a hunting line
+like men."
+18. Canis vulpes L. Mr. Swinhoe has pointed out that the
+fox of southern China differs from the European, and constitutes
+a new species ("Canis hoole" Swinh. Catal. Mammals of China
+in Proc. Zool. Soc. 1870, p. 631). But the northern Reynard
+is quite identical with the European, displaying as much variety
+of colouring as ours. It is very common all over Chihli, and
+has often been seen even within the walls of the capital itself.
+The name of the fox in written language is 'hu, in the
+colloquial language tha combination 'hu-li is in more
+general use.
+The Chinese name of the fox has been applied both by Swinhoe
+and David to denominate different species, Canis hoole Swinh.
+of southern China, as I mentioned above, and Canis houly Dav.
+a new grey fox of Szech'uau (David, Renseign, in T. N. Ch. Br.
+R. As. Soc. 1873, p. 231). I venture to say that both of these
+names should be changed, firstly because they are in fact identical
+except in the matter of spelling, secondly because the word
+'ku-li is not admissible as the appellation of a particular species
+of fox. It is an open question whether it is advisable to intro-
+duce native names into scientific appellations, which very often,
+especially in Chinese, can only be imperfectly represented in
+Latin orthography. But it is indisputably wrong to apply a
+name which is given by the Chinese to foxes collectively, to
+designate local varieties or species.
+14. Canis corsac Pall. (Corsac, Fox of the steppes).
+sha-'hu P. Sh. Ch.
+The corsac is very common in Mongolia, but is indigenous
+also to Chilli, confined, however, to the northern and north-
+western parts of the province. Its yellowish grey fur is very
+common in the Peking fur shops, and thousands of them are
+imported from Russia by Kiachta. The Chinese name,
+sha-'hu, "sand fox," by which it is called in Chihli, is not con-
+
+52
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+tained in the zoological literature of the Chinese, but is men-
+tioned is the Sheng-ching-t'ung-chih as a species indigenous to
+Manchuria.
+15. Canis (Nyctereutes) procyonoides Gray (Racoon Dog).
+'ho W. 'ho-taze (or 'hao-tazē) P.
+The "Racoondog," which ranges from Canton into Amoor-
+land, and is found in Japan, is also an inhabitant of Chihli,
+where it is however rather scarce, and as it seems, occurs only
+in the eastern mountains. The Chinese value the fur very
+highly and know it under the name 'ho-tsze or hao-tszi
+which is also the book-name of the species. According to
+Prezewalsky and Radde it has the same name 'hao-tsze on the
+Ussuri and Amoor. On the Yangtszê however it is called
+kuo-tad-li "fruit-cat" and in the southwo-'hu
+"cave-fox," which terms are not known in the north.
+16. Ursus tibetanus.
+kou-hsiung, P.
+A small black bear with a white patch on the breast is not
+rare in the higher mountains of Chihli, especially to the west;
+it is frequently taken about by showmen and made to dance
+and to perform tricks at fairs in Peking. It is most probably the
+Ursus tibetanus which has been observed in Shantung, Sze-
+ch'uan and Formosa, and in Manchuria.
+The Chinese distinguish several kinds of the bear, fhsiung
+viz. fjen-hsiung "man-bear," fchu-hsiung "pig-bear,"
+kou-hsiung "dog-bear," 'hou-hsiung "monkey-bear."
+The species of the Peking mountains is the "dog-bear." What
+bears are understood by "pig-bear" and "monkey-bear," I do
+not know. The jen-hsiung of the Pekinese is the common brown
+bear, Ursus arctos L. which is of very frequent occurrence in the
+Amoorland, and has been shot in Chinese Manchuria. The
+Chinese say that it occurs occasionally within the frontiers of
+Chihli.
+17. Meles leptorhynchus A. M. Edw. Etud. p. 190 pl. 25, 26,
+f. 3, 4, 27, f. 84, 28, f. 3, 4.-Ann. d. Sc. Nat. 5° sér. 1867,
+t. VIII, p. 374. Swinhoe, Proc. Zool. Soc. 1870, p. 622. David
+Rens. p. 231.-Meles chinensis Gray, Proc. Zool. Soc. 1868, p. 207'
+chu-'huan "pig-badger."
+The Chinese badger, which ranges from Manchuria to south
+China, is not uncommon in Chihli, and is occasionally brought
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+53
+to the markets of Peking because of the use to which its fat is
+put in medicine.
+18. Meles (Arctonya) leucolaemus A. M. Edw. Ann. d. Sc.
+Nat. 5° sér. 1867, t. VIII, p. 874. Etud. Mamm. p. 195 pl. 25,
+26, 27, 28.
+kou-'huan "dog-badger."
+There lives another species of badger in Chihli, discovered by
+P. David; which however seems to be very rare, and of which I
+have not been able to get a specimen.
+19.-Lutra sp.-Chinese as well as Europeans assert that
+there are Otters in the Peiho near Tientsin and Taka, and
+David mentions that a French gentleman shot two otters near
+Taku in 1865; but no specimen having yet been examined by a
+zoologist, it is doubtful whether the species is the common otter
+of Europe, Lutra vulgaris L., which has been found in Amoor-
+land, or the Lutra sinensis (Gray) of Central and Southern China.
+The skins that I have seen in Peking fur shops, exhibit no
+difference from that of the European otter. The Chinese who
+value the fur very highly, call the otter shui-t'a.
+According to the Chinese the sea-otter would seem to occur
+on the coasts of Chihli; but as the Enhydris marina Schreb. has
+not been found farther south than the islands of Saghalien and
+Yesso, it is very doubtful whether it lives in the Gulf of Pechihli.
+The skins of the 'hai-t'a "sea-otter" or 'hai-lung
+"sea-dragon," which is the most highly prized fur in Peking,
+are probably all imported from Russia or Japan.
+20. Martes foina L. (Beech Marten).
+sao-hsich-shu "snow-sweeping rat" P (from its habit
+of trailing the tail along the ground).
+Rare in Chihli.
+21. Putorius Fontanierii A. M. Edw. Etud. Mamm. p. 205
+pl. 61, f. 1, (North China Polecat).
+huang-shu-lang P. W.- yu-shu P. Ts.-
+sheng-shu ibid.-ku-shu ibid.-ti-'hou "ground-
+monkey" P. Ts.-Sh. Ch.-Ch. F. These names include
+the following species.
+22. Putorius sibiricus Pall. (Siberian Weasel, Chorok).
+
+54
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+INSECTIVORA.
+28. Erinaceus dealbatus Swinhoe. Proc. Zool. Soc. 1870,
+p. 450 (Chinese Hedgehog).
+ts'ze-wei S.-or wei W.-wei-shu-
+Emao-ts'zě P. Ts.
+The Chinese Hedgehog is the nearest ally of the European
+species; differing from the latter by its much paler colouring, its
+shorter and thinner spines which all set backwards and are pale
+brown with whitish bases and tips, by its brownish paws and the
+proportions of the skull. Although the hedgehog is common in
+Peking and the environs, it is uot quite easy to get specimens,
+because the Chinese consider it one of the Kwu-ta-chia,
+"the five great families" i. c. fairies, and do not therefore like
+it to be killed. The five are the fox ('hu-li), the rat (hao-tsze),
+the polecat (huang-shu-lang) the snake (ch'ang-ch'ung) and the
+hedgehog (tsz'e-wéi).
+24. Scaptochirus moschatus A. M. Edw. (North China Mole).
+This peculiar species of mole was for the first time discovered
+by Mr. Swinhoe in 1860; but had not been described aud named,
+when P. David sent specimens of it to Paris. Professor Milne-
+Edwards pointed out its peculiarities and gave it the above
+name referring to its strong musky smell, which even the skin
+retains for a long time. The Peking mole, which is not of very
+frequent occurrence, is of rather small size and of a greyish
+black colour. The eyes are merely rudimentary, being quite
+invisible from without, and consist simply of two very minute
+black points attached to the skin, which latter is entire and
+unprovided with eyeholes. The fore paws are very large and
+furnished with very strong claws. The dental system is different
+from that of all species of the genus Talpa, which fact has caused
+it to be classed under the new genus Scaptochirus. I only once
+obtained a living specimen, which died after a very short time;
+its habits were exactly the same as those of the European mole.
+The mole is described in the Pên-ts'ao as t'ien-shu
+"field-rat," with the synonyms fen-shu, yen-shu,
+yin-shu. These names, besides the various species of
+moles in the different parts of China, include probably the mole-
+rats as well. Our Peking species is called by the common peo-
+ple ti-p'ai-tsze, for which name no Chinese was able to write me
+down the proper characters, as is very often the case with
+Su-'hua terms. But Mr. Arendt pointed out to me a passage of
+the, the history of the Liao dynasty, written in the 14th
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+5
+55
+century, which contains this popular name of the mole; book
+116 f. 14:
+i. e. ti-p'ai is the name of the mole
+(t'ien-sku). It is also called #fiti-p'ai-shut, which might
+be translated by "ground-rat." The same work mentions that
+moles were burnt on new year's day in order to avert influences
+of bad omen.
+"
+RODENTIA.
+25. Siphneus psilurus A. M. Edw. (North China Molerat).
+ti-yang "ground-sheep" P.-
+ch'ou-ti-p'ai-
+tszě "stinking mole" P.-hsia-lao-shu "blind
+rat" P. (in the hills).
+This large molerat belongs to the family of the Georhynchi,
+Rodents with the habits of the mole, and more or less rudimen-
+itary eyes. Of the genus Siphneus only one; a Siberian species
+was formerly known, but P. David has discovered the existence
+cof no less than three new species, two of which occur in eastern
+IMongolia, one in Chihli. The latter which is not rare in earthy
+Ibanks in the neighbourhood of Peking, is an ungainly thickset
+animal, more than one foot long and of uniform ashen grey
+ccolour. It has scarcely any visible ears, large forepaws fur-
+mished with lòng claws, and a very short tail. The eyes are
+iindicated by rather large yellow spots, but are quite covered by
+tthe skin. Its habits are like that of the mole: a living speci-
+men which I kept for some time was sleepy in the day-time but
+wery noisy in the night, always gnawing with its large yellow
+incisors. It escaped by perforating the strong wooden box in
+which it was kept.
+26. Lepus tolai Pall. (Mongolian Hare).
+(5) yeh-mao(-rh) P. T. t'u, t'u-taz, shan-t'u,
+yeh-t'u. W.
+The Mongolian hare, which occurs in Mongolia and northern
+md central China, and is much smaller than its European con-
+geener, is common all over Chihli. The Chinese are fond of
+Suursuing it with háwks, for which purpose they commonly train
+hhe goshawk (Astur palumbarius).
+27. Dipus annulatus A. M. Edw. (Mongolian Gerboa).
+t'iao-shu P.- t'iao-t'u "jumping hare." P. Ts., Sh.
+Ch.- chuch-shu "nimble rat." P. Ts.- chuch E.Y.
+
+56
+THE VERTEBRATA OF THE PROVINCE OF OHIHLI WITH
+When P. David discovered this gerboa, he took it first for the
+Siberian Alactaga, the Dipus jaculus Pall. to which it is indeed
+very closely allied. Professor Milne-Edwards however found
+out that it presents specific differences, and described it as a
+new species. It is common in the sandy tracts of Mongolia,
+but occurs also in Chihli between Kalgan and Hsüan-'hua-fu.
+Its hind legs are four times the length of the forelegs, the tail is
+longer than the body and tasselled on the end, the head some-
+what like that of a hare with long ears and large round eyes.
+These different characteristics give it a slightly strange appear-
+ance, although its grace and agility render it a very pretty little
+animal. It uses the forelegs only when feeding quietly, other.
+wise proceeds by jumps on the hindlegs; when in flight, its
+speed is very great and is said to exceed even that of a horse.
+It burrows large holes in the ground in which it sleeps during
+the winter.
+The description given in the Pênts'ao kang mu of the t'iao-t'u
+leaves no doubt that the gerboa is meant. It is described as
+having head, eyes, ears and colours like the hare; claws and feet
+like the rat; the forelegs a little more than one inch, the hind-
+legs nearly one foot in length, the tail long and shaggy at the
+end; and as clearing several feet at one bound.
+28. Gerbillus unguiculatus A. M. Edw.
+29. Gerbillus psammophilus A. M. Edw.
+sha-e-tszë P.
+These two species of gerbillus, peculiar to North China, were
+discovered by P. David near Hsüan-'hua-fu and Kalgan and in
+Mongolia; they have not been observed in the Peking plain.
+30. Spermolegus mongolicus A. M. Edw. (Mongolian Ziesel
+or Suslik).
+ta-yen-tsei-rh "large-eyed thief" P.-tou-shu
+"bean-rat" P.-Sh. Ch.- nien shu Sh. Ch.
+In the Peking plain, but more commonly in the plateau be-
+tween Ch'atao and Kalgan, and abundantly in Mongolia, these
+pretty ziesels or susliks make their burrows in sand or loess
+banks, in which they live like the prairie dogs of North America.
+Our species is about ten inches long of rather slender appear
+ance, light yellowish brown above, cream-colour underneath and
+along the sides. The tail is three inches long, with short red
+brown hair on the root, which grows longer as it approaches the
+end, expanding into a spatula shape, and rufescent in the centre
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+57
+with a broad black and a narrow white border round it. They are
+often brought alive to Peking and kept like squirrels; I had
+therefore the opportunity of observing their habits in captivity.
+They remained rather wild; at the approach of men or animals
+they uttered a peculiarly shrill squeaking cry and were fond of
+biting. They fed on nuts, grain, green beans, cabbage, salad,
+etc.; in feeding they used to sit on their strong hind legs taking
+the food with the forepaws. They were indefatigable in scratch-
+ing and gnawing, and ran rather fast, but were not able either
+to jump or to climb. They did not live very peacefully together
+and a duel between two of them resulted in one of them receiv-
+ing injuries which caused its death.
+81. Pteromys xanthipes A. M. Edw. (North China Flying
+Squirrel).
+Ffei-shu ("flying rat") P.
+This flying squirrel, which is closely allied to that of Siberia,
+Pteromys volans Pall. is very rare in the woods of northern
+Chihli; I have not been able to secure a specimen. The Chi-
+nese call it fei-shu "flying rat." This name given in the
+literature as a synonym of the bat, is in the present colloquial
+language only used for the flying squirrel; besides which the
+drawing of the fei-shu in the San-ts'ai-t'u-'hui represents unmis-
+takeably a Pteromys, not a bat. The lei-shu (also),
+also called 鼯鼠 20u-su,耳鼠 ére-su,夷由i-yu,飛生
+fei-sheng, "flying-beast," féi-sheng-niao and
+fei-lei, seems to include both the flying squirrels and the large
+chiroptera, flying fox, kalong, etc. The descriptions say: "it is
+like a small fox, has large wings like the bat and red brown
+hair, the back is grey, the abdomen yellow, the face whitish,
+the four feet short with large nails, the tail very long; it flies
+in the night; the fur is used for making caps." Indeed, there
+are skins both of flying squirrels and of flying foxes to be found
+in the Peking and Tientsin fur shops, of which caps are made.
+Probably some of the above names were meant only for the
+different species of Pteromys, some only for the flying fox, but
+as both these animals are rather rare in China, they have been
+confounded.
+82. Sciurus vulgaris var. nigra (Black Squirrel).
+sung-shu ("pine-rat" P. (ex parte).
+The black variety of our common squirrel occurs in Chihli
+and Manchuria; near Peking it is rather rare and for want of
+
+58
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+woods confined to the groves near temples or cemeteries. I saw
+it several times in the lonely valley of the Shih-san-ling or Ming
+tombs, in the majestic pine trees which surround the Mausolea.
+38. Sciurus davidianus A. M. Edw. (North China Squirrel).
+Asung-shu P.-sao-yang P.-'hui-shu P.
+(in the hills).
+Of uniform greyish brown colour with a long brown bushy
+tail and whitish underparts. These pretty squirrels are not
+uncommon in the western hills; they are much less arboreal in
+their habits than our common squirrel, but are, like the fol-
+lowing species, frequently seen among the rocks or in the low
+wood.
+34. Sciurus striatus Pall. (Striped Squirrel).
+hua-shu (variegated rat")-
+'hua-pu-lien-
+tsze P.-wu-tao-mei-rh ("five-striped eyebrow")
+P.-sao-nao-tszě P.
+The range of this striped squirrel of Siberia and Mongolia
+extends into Chihli, but it seems to be very rare near Peking.
+It is common in the north-western part of the province and
+occurs also in the western hills. I procured a couple of these
+pretty animals during a trip to the Pai-'hua-shan; they are very
+tame and show no great difference in their habits from the com-
+mon squirrel. No mention of the present names of the different
+squirrels is made in the Pên-ts'ao, but the term sung-shu occurs
+both in the Shêng-ching-t'ung-chih and the Chi-fu-t'ung-chih.
+In the latter work it is said that there are two kinds of sung-shu,
+one of small size with stripes is properly called sung-shu, the
+other of grey colour, fond of fruits, is called sao-shu.
+The first would appear to be the Striped Squirrel, the other
+Sciurus Davidianus, which has still the name sao-yang among
+the mountaineers.
+As it is very improbable that an animal as well-known and of
+such frequent occurrence as the squirrel should not have been
+recorded in the Pên-ts'ao-kang-mu, we have to look for it there
+under another name. There is only one species in the order of
+Rodents, , the description of which may be referred to
+the squirrel; the shih-shu, of which she-shu "great
+rat,”兒cho-su, 雀鼠ch'iao-shu “sparrow rat,” and 鼴鼠
+chun-shu are synonyms. Its description is as follows: "The
+shih-shu occurs everywhere, it lives in excavations of the ground
+or hollow trees. Its appearance is like that of a big rat, its
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE..
+59
+head like that of a hare, the tail is bushy. Its colour is greyish
+yellow () it is fond of squeaking, it can stand upright
+liike men and dance with the forelegs folded, it feeds on grains
+and is like the mole destructive to agriculture. The mole is
+small and lives in the plain, but the shih-shu is bigger and lives
+im the hills." In a note it is further mentioned that the shih-
+shu furnishes hair for pencils.
+This does not seem to be a very distinct description of a
+squirrel, especially if we think of the habits of our European
+sspecies; but it is to be remembered that the Chinese squirrels
+aare much less arboreal in their habits. Especially the commonest
+sspecies of the North, Sc. Davidianus, lives exactly as the Chi-
+mese author says, in hollow trees or in holes under rocks, and
+the striped squirrel seems to be quite confined to rocky hills.
+The colour mentioned is that of David's squirrel, and of the
+common species of central China, Sciurus Chinensis; the bushy
+ttail and the harelike head agree likewise very well with the
+Ssquirrel. This identification is confirmed by the remark, that
+tthe shih-shu is a common animal and that its hair is used to
+make pencils. There is no other Rodent to which this may be
+referred.
+35. Cricetulus griseus A. M. Edw. (Chinese Dwarf Hamster).
+豆鼠兒 tou-shu-rh P.-ts'ang-shu-rh, 奢官兒
+ts'ang-kua(n)-rh P. ("granary-rat" or "granary keeper"
+from its habit to heap up grain in its burrows).-
+pan-ts'ang-shu P.
+The Peking plain abounds with this dwarf hamster, which is
+conly 118 millimeters from snout to tail, the latter being 40 milli-
+meters long; of light brown colour mixed with grey on the back,
+wwith a darker line along the spine and whitish on the under-
+parts. It is like its German ally, the hamster, very pernicious
+tto agriculture, and in spite of its small size readily uses its teeth
+in self defence. I obtained living specimens several times, they
+wwere sleepy during the day, but very lively in the evening and
+during the night. Their large black eyes, the expanding black
+cears with a fine white margin, and their quick agile movements
+render them very pretty little animals, while the large European
+sspecies is of rather ugly appearance. In feeding they sit on the
+lhindlegs and fill their large pouches by means of their forelegs ;
+tthen retire to a quiet corner to take their meal. They are not
+very sociable, on the contrary often fight fiercely; and I have
+several times seen small ones killed and half eaten by their
+companions. They seem to couple early in spring; I obtained
+
+60
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+pregnant females in the middle of April, one of which produced
+a rather large dead young one.
+86. Mus humiliatus A. M. Edw. The common Peking rat
+differs from our black rat, and has been described as a new
+species.
+87. Mus decumanus L. Père David does not record the com-
+mon brown rat as indigenous to Chihli; it is however very com-
+mon in Tientsin and occurs also in Peking.
+Both the preceding species are called in Chinese
+lao-shu or
+'hao-tsze.
+shu,
+88. Mus plumbeus A. M. Edw. Discovered by P. David in
+Hsüan-'hua-fu and Mongolia, I have never seen this rat.
+39. Mus musculus L. According to David the mouse occurs
+in Chihli; it seems to be very rare. I have never heard of it
+in Peking and the Chinese have no special name for it.
+The white mouse, often with brown and black spots, is fre-
+quently kept by the Chinese and sold in the markets, but it is
+certainly brought from the south. Its Chinese name is
+pai-'hao-tsze and
+EF 'hua-'hao-tsze.
+MULTUNGULA.
+40. Sus aper L. The wild boar is not very common in Chihli,
+and those brought in the winter to Peking all come from the
+north-east, especially from Jehol. In Chinese
+"wild boar."
+yeh-chu
+RUMINANTIA.
+41. Antilope (Nemorhedus) caudata A. M. Edw. David, Rens.
+1. c. p. 233. O. von Möllendorff Mitth. Deutsch. Ges. Ostas.
+July 1876, p. 19. Antilope crispa, David, Hist. Nat. de Pékin.
+Ant. crispa, Schrenck, Prshevalski, Radde (nec Temminck).
+ling-yang P.-shan-yang P.-**
+ch'ing-yang P. Ch. F.
+The subgenus Nemorhedus is constituted by a number of Asiatic
+Antelopes which have the following characteristics in common:
+a thickset goatlike body, rather shaggy hair of greyish brown
+colour, short slightly curved black horns. The species first
+known were the Goral, Antilope goral, of the Himalayas, and
+the Japanese Antilope crispa; Père David added to these not
+less than three new forms from the Chinese empire. Antilope
+grisea M. Edw. from Kokonor, A. Edwardsii Dav. from Sse.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+61
+ch'uan, and A. Caudata from Chihli and Shansi. All these
+species live like the Alpine Chamois on the most elevated moun-
+tains, and present in their general appearance a strong resem-
+blance to the Chamois, so that they might well be called the
+Asiatic Chamois.
+The North China species is distinguished chiefly by the length
+of the tail; not only does the number of caudal vertebrae ex-
+ceed that of the other forms, but a brush of very long hairs
+renders the tail one foot long from its root. The horns of the
+buck are short and slightly curved, smooth and glossy black at
+the points, and furnished below with ten to twelve irregular
+transverse rings. The hair is dense and rather coarse, of a
+brown colour mixed with yellow and grey, darker along the
+spine and lighter on the underparts.
+Our species agrees very well with the excellent description of
+the chamois of the Amoorland given in Radde's Reisen im Süden
+von Ostsibirien (I, 1862, p. 146, t. XII) which the author, how-
+ever, identifies with the Japanese A. crispa. It is very im-
+probable beforehand that the insular species should occur in
+Manchuria, whilst in the neighbouring mountains of North China
+a different form has been observed; and indeed, according to
+Radde's description, the Manchurian chamois agrees with Anti-
+lope caudata in all the peculiarities by which the latter species
+differs from Antilope crispa. I have no doubt, therefore, that
+the Antilope observed by the Russian travellers in Manchuria
+is A. caudata, while Antilope crispa is confined to the Japanese
+islands.
+In the province of Chihli the species occurs in all the higher
+mountains, but is confined to the most inaccessible rocks. It is
+of frequent occurrence on the more elevated ranges of the Si-
+shan, but has likewise been observed in the hills to the north
+and north-east of Peking. The native hunters persecute the
+animals chiefly for the horns, which are highly esteemed in
+Chinese medicine. The meat is not valued much because of its
+strong smell like that of a he-goat. The pursuit is described as
+extremely difficult, not only from the wild character of the
+animals' abode but also from their sagacity and wariness.
+Of the present colloquial designations for this antelope ch'ing-
+yang and ling.yang are in more general use; shan-yang is only
+used in some parts of the province. The term ling-yang is of
+very ancient origin. It was originally written ling and con-
+sidered to be akin to the deer; it included probably all forms
+of antelopes Chinese and foreign. The short description and
+the drawing given of the ling-yang in the Pên-ts'ao points to
+Antilope caudata, or at least, to forms of the group Nemorhedus.
+
+62
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+It is said to have grey shaggy hair and short horns, to resemble
+a goat and to live on high mountains. But from other works
+it appears that very different antelopes were likewise called ling
+or ling-yang, and the drawings of the ling in the Erh-ya and
+San-ts'ai-t'u-'hui do not resemble the Goat antelope.
+Foreign antelopes are up to the present time designated by
+the same name; the horns, for instance, of the Saiga antelope of
+the Russian and Siberian steppes (Cervicapra Saiga), which are
+imported to China in large quantitios, and which I have seen
+myself in Peking shops, are sold as ling-yang horns and are
+considered the best sort. Under the same appellation the Saiga
+horns are mentioned in P. Isaia's catalogue of goods imported
+to China from Kiachta.
+42. Antilope gutturosa Pall. (Dseren, Goitred Antelope).
+'huang-yang P.
+It is doubtful whether the Dseren or "goitred antelope" of
+Mongolia forms part of the Fauna of Chihli or not; the asser-
+tion however that it has occasionally been seen in the northern
+part of the province is not improbable, as localities occur similar
+to those in the adjoining parts of Mongolia. Also the Chi-fu-
+t'ung-chih records the 'huang-yang as indigenous to the district
+of Hsüan-'hua-fu. A great number of them are brought every
+winter to Peking, a fact which has been mentioned already by
+the Jesuits in the 17th century, who call this antelope "chêvres
+jaunes," a translation of the Chinese name."
+These "yellow goats" play a prominent part in the descrip.
+tions of the Imperial chases in Mongolia and Manchuria related
+by P. Gerbillon and others.
+In the Imperial Hunting Ground South of Peking, the Nan-
+'haitszè, a number of 'huang-yang are kept in a half wild state;
+I have seen them several times quietly grazing on the wide
+expanse of that large inclosure in small herds from five to ten.
+They were not at all shy and let us approach within thirty paces,
+then ran away a few yards and turned to stare curiously with
+their pretty eyes at the strange appearance of foreigners on the
+forbidden ground.
+The Chinese name 'huang-yang is mentioned in the Pên-ts'ao,
+but curiously in the class of domestic animals, the ch'i-lui:
+fan-yang and mi-erh-yang are mentioned as syno-
+nyms. The description says: "The 'huang-yang lives in the west
+Du Halde, Descr. of China, German Edit. II, p. 164.
+• Du Halde IV, p. 137, 142, 169, etc.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+68
+of the frontier, in Hsi-fan, also in Kwei-lin; there are four kinds.
+One is like a sheep in appearance but lower and smaller, yellow
+coloured on the sides and underparts; its horns are (like a
+ram's. It is fond of sandy tracts and lives in the desert,
+it can run fast. It lives solitary. Its tail is black and it is
+called black tailed huang-yang (). Another kind
+lives on grassy steppes in herds of several scores, it is called
+huang-yang. A third kind lives in Lin (, in Shansi) and
+near the river T'ao (, in Kansu); it is very big and its tail
+is like that of a roe or deer. This is called t'ao-yang ().
+In the south, near Kwei-lin, there is another kind, of dark
+yellow colour with black neck and white spots, which resembles
+a deer." This description points evidently to the Dseren or
+Antilope gutturosa, which is meant by the second kind; the
+black-tailed huang-yang is the newly discovered Antilope sub-
+gutturosa, found by the Russian traveller Prshevalski near the
+Alashan mountains in southern Mongolia, which is smaller than
+the Dseren and has a black tail. It is very curious, however,
+that the Chinese author puts these wild antelopes in the order
+of domestic animals; the fan-yang, which the Pen-ts'ao consi-
+ders to be the same as the 'huang-yang, is likewise mentioned
+among the domestic animals in the Erhya. Perhaps the Chi-
+nese authors thought that these animals, which they probably
+never saw in their wild state, were kept tame by the Mongols
+like goats.
+43. Ovis jubata Peters. (Wild Sheep or Argali of Eastern
+Mongolia).
+Ovis jubata Peters, Monatsberichte der Kgl. Academie der Wis-
+senschaften zu Berlin. März 1876, p. 177-188, t. I-IV.-Ovis
+Argali David (nec Pallas) Rens. p. 233.
+The gigantic wild sheep of central Asia, called "Argali" in
+the Mongolian, Manchurian and Kalmukian tongues, have from
+a very early period attracted the attention of western and
+eastern writers. Their deerlike body with a ram's head, and
+enormous spiral horns which measure four feet in length, could
+not fail to make a striking impression on the mind of the travel-
+ler. Indeed, we find these animals mentioned by Marco Polo,
+Rubruyk and other medieval travellers, as well as by the Chi-
+nese writers of an early period. But the first scientific record
+was made by T. G. Gmelin, who travelled in 1752 and 1758 in
+eastern Siberia, and who examined some "Argalis" on the
+upper Irtysh near the Altai mountains. He called the species
+"Rupicapra cornubus arietinis" (chamois with ram's horns).
+In 1766 Linnaeus published this species in his Systema under
+
+64
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+the name of Capra Ammon, which however included several
+other forms. An excellent description was given by the renown-
+ed traveller Pallas in 1776, who observed the wild sheep in
+Dauria. He, for the first time, introduced the name "Argali'
+(Ovis fera sibirica vulgo Argali dicta); and considered all the forms
+of Siberian wild sheep then known from the Altai, eastern
+Siberia and Kamtschatka, to form the Siberian variety of the
+European wild sheep or mouflon. In 1829 the Kamtschatkan
+form was described as a new species, Ovis nivicola, which re-
+sembles more the American big horn, Ovis montana, than the
+argali. Later on wild sheep have been discovered on the Pamir
+plateau and in the T'ienshan mountains, which differ from the
+argali and have been described under new names.
+The species
+of the Pamir had been observed and very well described by
+Marco Polo, and justly bears his name now: Ovis Poli (Blyth).
+Other species are known from Tibet and the Himalayas.
+The species of Gmelin and Pallas, now generally quoted as
+ovis argali Pall., is therefore confined to the Altai and Daurian
+mountains. But there lives a species of wild sheep in eastern
+Mongolia and in the northern parts of the provinces of Shansi
+and Chihli, chiefly on the Yin-shan range. This species has
+been observed by P. David and Prshevalski, and it was generally
+believed to be identical with the Siberian argali. In 1874 I got
+a fine male specimen from the Yin-shan mountains near Kuei-
+'hua-ch'êng (or Ku-ku-kho-tun), which I sent to
+Berlin. Professor Peters found out that it differed sufficiently
+from the argali to establish a new species, and gave a detailed
+description in the Monthly Reports of the Berlin Academy under
+the name of Ovis jubata. Its chief characteristic is the longer
+hair on the neck, withers and throat, which forms a short mane.
+Other differences are to be observed in the length and the spiral
+direction of the horns, in point of colouring and the dimensions.
+The new race, the Maned Argali, does not belong to the largest
+forms of this tribe, but still is a very powerful animal. The
+total length from muzzle to tail is 1.705 mètres or 5 feet, the
+height 1 mètre or 13 feet, the length of the horns along the
+curve 0.920 mètres or about 3 feet, the distance of the points
+of the horns 0.540 mètres or 14 feet.
+The geographical distribution of this new species and the true
+Severtsoff in his work on the "Vertical and horizontal distribution of
+the animals of Turkestan" (in Rep. Soc. Imp. d. Natural. Moscou, vol.
+VIII, 2. 1873, p. 153) records 21 species of wild sheep,-9 of the sub genus
+Musimon in Europe, Asia Minor, Persia and the Punjab; and 12 of the
+subgenus Ovis,-2 in America, 4 in Central Asia, 2 in the Himalayas, 2 in
+Siberia, 1 in Kamtschatka, 1 in Mongolia and the Altai.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+65
+Ovis argali Pallas has to be studied yet. Probably the habitat
+of the latter race does not extend beyond the Gobi, and Ovis
+jubata probably occurs in the mountains of eastern Mongolia
+and Manchuria.
+The present Chinese name of the argali is p'an-yang
+(p'an, a bowl, refers to the spiral curve of the horns). The
+Erh-ya has a very good drawing of the argali under the name of
+yüan-yang; the description is very short, and merely says
+that the animal is like a ram, but has bigger horns which are
+cylindrical (), and that it lives in the west (). In the
+Pen-ts'ao the argali is described as shan-yang: *
+yel-yang, wild sheep, and yuan-yang are recorded as synonymous
+appellations, it is said to have big horns curved like a bowl
+(). The yan-yang is likewise mentioned in the San-ts'ai-
+t'u-'hui. In the Hou-ch'u-sai-lu, a description
+of a voyage from China to Mongolia, written in the beginning
+of the last century, the yüan-yang is mentioned as a wild sheep
+of western Mongolia of enormous size, 300 catties weight, with
+large spiral horns.
+The name "argali" is as mentioned above, of Mongolian or
+Manchurian origin:
+golian dictionary a
+word is translated
+churian dictionary.
+The Mongolian
+name is mentioned by the travellers of the
+13th century. It is not quite certain whether Marco Polo
+understands the wild sheep by Erculin, which he mentions as an
+animal of Siberia, but Rubruyk (1254) unmistakeably means
+our species in the following passage: "I saw another kind
+of beast which is called Arcali. Its body is just like a ram's
+and its horns spiral like a ram's also, only they are so big
+that I could scarcely lift a pair of them with one hand. They
+make huge drinking vessels out of these."
+means, according to Schmidt's Mon-
+"wild mountain sheep;" and the same
+by "wild goat" in Wassilyeff's Man-
+44. Moschus moschiferus L. (Musk Deer).
+hsiang-chang-tsze P.- she, she-lu, hsiang-chang W.
+The musk deer has gradually become very rare in Chihli; its
+extinction proceeding at the same rate as the diminution of
+10 Yule's Edition II, p. 412.
+11 Yule l. c. I, p. 414 note.-The latin text has the following: Vidi etiam
+alind genus animalis quod dicitur Areali, quod habet recte corpus arietis et
+cornua tortua ut aries, sed tantae quantitatis quod vix poteram levare una
+manu duo cornua. Et faciunt de cornibus istis ciphos magnos.
+
+66
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+woods, and it has retired to the most remote corners of the pro-
+vince. It is recorded as still occurring in the mountains south-
+west of Peking near the frontier of Shansi, and in the east to-
+wards Manchuria.
+According to the Chinese it was common formerly in the
+western hills; and in a letter of one of the Jesuit missionaries
+in the last century it was then frequently shot near Sang-yü.1
+I have been informed by the French missionaries of Peking
+that in 1870 a musk deer was killed in the mountains near
+Sang-yü, and the people in the neighbourhood of the Po-'hua-
+shan told me that musk deer are still seen, though rarely, in
+those parts.
+45. Cervus pygargus Pall.
+The Asiatic roebuck is larger than ours and of lighter colour-
+ing; a slight difference exists also in the shape and position of
+the horns. Still, the establishment of the species is based on
+not very decisive characteristics, and the opinion of some authors,
+that the Cervus pygargus Pallas is only a geographical race of
+our Cervus capreolus, is perhaps to be accepted.
+In Chihli the roebuck is not of very frequent occurrence, and
+I am not aware of any having been shot by European sports-
+men; a small number of them however are brought to Peking
+every winter, principally from the mountains to the north-east
+and east. Mr. Swinhoe mentions the Cervus pygargus as being
+kept in the Imperial hunting park on the Hsiang-shan, north of
+Pata-ch'u.13
+The roebuck has the following names in the Peking vernacular:
+p'ao-tsze, p'ao-lu,
+ehang-tsze, chang-p'as.
+The name of the roedeer in Wên'hua is not to be indicated with
+certainty, and about the names of the roebuck, muntjak, and
+other small species of the cervine tribe, namely chang,
+p'ao, chin, chi, ching, there seems to prevail a great
+confusion among the Chinese themselves.
+The chang of the Pên-ts'ao is said to be of a yellow colour,
+to live on the banks of rivers, to have no horns but long tusks
+and to be called in Su-'hua ya-chang. This description
+would agree with the hornless river deer of the Yang-tszê de-
+scribed by Mr. Swinhoe as Hydropotes inermis (Proc. Zool. Soe.
+1870, p. 89 pl. IV, VII, ibid. p. 644), which is still called o
+the Yang-tszê chang, chang-tsze or chang-lu and which European
+sportsmen often erroneously term Roe-deer. But the drawing
+1 Lettr. Edif. XXIX (new ed.) p. 188-191, 1717. Du Halde, Deser
+German Ed. II, p. 183.
+Proc. Zool. Soc. 1870, p. 434.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+67
+of the chang in the Pên-ts'ao has horns very similar to those of
+the roebuck or the muntjak. The muntjak of southern China
+(Cerculus Reevesii Ogilby) is often called chang, or
+-yen-
+chang "four-eyed deer." In the Chi-fu-t'uug-chih and Sheng-
+ching-t'ung-chih chang is also described as a small hornless
+deer; but as there occurs no hornless deer in Chihli or Man-
+churia except the musk deer, the compilers of those works pro-
+bably gave that name only as a quotation from older writers
+without having seen the animal itself. Chang would therefore
+appear not to be the name of the roedeer in Wen-'hua, but to
+include the muntjak and the hydropotes.
+On the other hand, the chi of the Pên-ts'ao has also the
+synonym ya-chang and the descriptions point likewise to the
+hydropotes, which is called chi (ki) up to the present time in
+Shanghai.ching is according to the Pên-ts'ao a large variety
+of the chi; but in Canton the cervulus or muntjak is termed
+huang-ching.
+A further term is chin, often translated by roe, which is
+more poetical and said to be the synonym of chang and a general
+name (for small species of the cervine tribe.
+I have accordingly been led to the following conclusion:-
+chang and chin are general terms of small deer, being
+properly applied to the muntjak, but including the river-deer
+(hydropotes) and perhaps also the 1oebuck.
+chi and ching are probably meant for the hydropotes.
+The Chinese of the north, no species of muntjak occurring in
+their country, identified the chang with the Cervus pygargus,
+although there exists a proper name for the roebuck namely
+p'ao. This character, often confounded with p'ao or
+piao, is given in the Pên-ts'ao simply as synonym of chang, but
+from other works it appears to be the roebuck. As I have
+mentioned above p'aotsze is at present the popular name of the
+roedeer at Peking.
+46. Cervus mantchuricus Swinhoe.
+47. Cervus mandarinus A. M. Edw. Etud. p. 184 pl., 22, 22 A.
+E mei-hua-lu P.-yang-lu P.
+As Professor Peters informs me, the above two species have
+lately been declared to be identical by Sir Victor Brooke, their
+only difference being a slight deviation in the curve of the
+antlers. I have never seen the description of Swinhoe's Cervus
+mantchuricus, but known only his short note given in his descrip-
+tion of the Formosan Axis, Cervus pseudavis Eydoux et Souleyet,
+
+68
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+(Proc. Zool. Soc. 1870, p. 644): "The C. pseudaxis is restrict-
+ed to Formosa, North China produces a larger allied species,
+the C. mantchuricus mihi." Cervus mandarinus, discovered by
+David in North China, is considerably smaller than our red
+deer, has rather slender antlers with four tynes each; its winter
+coat is of greyish brown colour very much like that of a roebuck;
+in summer the colour changes into reddish brown with pure
+white spots. The traces of these spots are sometimes still visible
+in the winter coat.
+David's specimens have been got from the Imperial hunting
+parks near Peking; and as Mr. Swinhoe mentions that his C.
+mantchuricus occurs both in the Park north of Pa-ta-ch'u and
+in the Nan-'hai-tszě, it is very probable that the two species are
+identical, because in these parks there lives certainly but one
+form of spotted deer. The name published by Mr. Swinhoe
+would then have the priority.
+The yang-lu is very rare in Chihli, and seems to occur only
+in the north-eastern mountains, chiefly near Jehol. Those
+brought to Peking in winter are said by the game dealers to
+come from Jehol and from Manchuria.
+48. Cervus elaphus var. xanthopygus A. M. Edw.
+馬鹿 ma-tu P.
+This large red deer is also kept in the
+ching-i-yuan,
+the Imperial park on the Hsiang-shan north-west of Peking.
+It was described as a new species by Professor Milne-Edwards,
+but recent investigations have resulted in showing that it is
+merely a geographical race of the common red deer. Whether
+it occurs still in a wild state in the province of Chihli, I have
+not been able to ascertain; it is certainly very rare. In Man-
+churia the red deer is still common.
+49. Cervus (Elaphurus) Davidianus M. Edw. Ann. d. Scienc.
+Nat. V. sér. Zool. V. 1866, pp. 380 pl.-Etud. Faun. Mammal,
+1870. David, Hist. Nat. Env. Pékin (Cervus tarandoides);
+Rens. T. N. Ch. Br. R. As. Soc. 1871, p. 233.-Swinhoe, Proc.
+Zool. Soc. 1871, p. 434.
+sse-pu-hsiang P.-Emi,
+Emi-lu W.
+The famous "Tailed Deer" of the Imperial hunting ground
+south of Peking is the most remarkable of Père David's disco-
+veries. The adult male measures 2.20 mètres from the muzzle
+to the root of the tail; and is 1.20 mètres high at the shoulder.
+The thick hair is of pale yellowish brown and grey colour,
+darker on the back and lighter on the underparts. The feet,
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+69
+rather large and clumsy in proportion to the slender legs, show
+comparatively small hoofs; behind those there are broad callous
+cushions. In walking the animal steps chiefly on the callosities,
+only a small part of the hoofs touches the ground. The dew-
+claws are well developed and nearly reach the ground, so that
+the feet resemble somewhat those of the reindeer. The tail is
+50 centimètres long, and like that of a donkey tasselled at the
+end; the number of caudal vertebrae is fourteen. The most
+characteristic difference from the other species of deer is to be
+observed in the antlers of the buck. From a very thick base a
+straight stem rises of about half a foot in length which divides
+into two branches; a very long and strong one stretches back-
+wards, and bears on its surface a number of perpendicular
+parallel tynes. The other, the main branch, rises almost per-
+pendicularly, but is very sinuous and terminates in a fork; one
+of the secondary branches going backwards, the other projecting
+outwards, and both ending in another fork. All these branches
+and tynes are covered with a great number of smaller promi-
+nences, sometimes only short knots. The horn is not very hard
+and partly porous.
+These peculiarities led at first to the establishment of the new
+genus Elaphurus, which however is now considered to have
+only the value of a sub genus.
+As is well known, David's tailed deer has only been met with
+in the Imperial hunting ground south of Peking, the Nan-yüan
+for Nan-'hai-tsze ; the habits of the animal will
+be more clearly seen from the nature of its home, and I will,
+therefore, try to give a description of that large enclosure which
+as yet has been visited by very few Europeans. Leaving Peking
+by the central gate of the southern wall, the Yungtingmen, we
+reach after a ride of about two miles a long brick built wall of
+about ten feet in height, which extends to East and West as far
+as eye can reach. Making many curves its general direction
+is from East to West, and extending beyond the southern wall
+of Peking on both sides, but far more on the East, it is more
+than eleven miles long; there are two large gates on this northern
+side of the Haitszě. The western side, which is likewise some-
+what irregular but runs in general from North to South, is from
+eleven to twelve miles long, and has three gates. The southern
+wall inclines to the south-east, is nearly thirteen miles long, and
+has two gates; the eastern is twelve miles in length, and has
+also two gates. The space enclosed by this wall is therefore an
+irregular square of about fifty miles circumference. The ground
+is quite level throughout, and is irrigated by several small
+streams; the Liang-shui-'ho which enters the wall in the North,
+
+70
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+and leaves the park in the East near the village of Machüch'iao,
+and two others which spring from marshes in the Haitszě itself
+and run to the South. Neither these streams nor the marshes
+in their neighbourhood are of any considerable extent, and do
+not justify the name, which may be translated by "Southern
+Pond" or "Southern Lake." Near the northern wall there
+is an imperial residence or hunting seat, lately rebuilt for the
+last emperor; in its environs several picturesque temples have
+been erected. Near the Ta'hungmen on the North side stand the
+buildings for the officials superintending the place, and between
+the two gates there is a large camp. About the centre of the
+park are situated two villages occupied by military colonists.
+Besides there are some temples and farm-houses in the south.
+The ground around the villages and near the gates is partly
+cultivated, partly used as pasture land for herds of ponies and
+sheep. The remainder of the place is uncultivated grass land
+with a soil rich in alkaline salts (like most fields in the Peking
+plain), very much like a steppe; there are no trees, no woods,
+except the usual groves near the temples and villages, and
+some avenues of trees on the roads which lead through the
+enclosure. Numerous hares, flocks of the dzeren (Antilope
+gutturosa Pall.), a few Cervus mantchuricus and the elaphuri
+14
+This name has been the reason that the place has been mistaken by
+European Geographers for a large marsh or lake, and we find it marked as
+such on European maps even of recent date. It seems the waters in it
+have been of greater extent at earlier periods; the F*
+(6. 74 p. 7) asserts that the uame Nan-'hai-tszě had been given because
+there were five lakes (F) in it. At the time of the Yüan dynasty
+the place was called i. e. the pond of falconry. The real na-
+ture of the Nan-'hai-tsze might have been perceived from the descriptions
+given during the last century by the Jesuits; Du Halde (Description de la
+Chine, T. II, p. 23) gives the following account of it, which is copied from
+one of P. Gerbillon's letters (Lettres édifiantes, Nouv. Ed. XXVIII 1832,
+p. 35): "On y voit la maison de plaisance des anciens empereurs. Elle
+est d'une étendue prodigieuse, car elle a bien de tour dix lieues communes
+de France, mais elle est fort différente des maisons royales d'Europe.
+"n'y a ni marbre ni jets d'eau, ni murailles de pierre; quatre petites rivi-
+"ères d'une belle eau l'arrosent, leur bords sont plantés d'arbres. On y
+"voit trois édifices fort propres et bien entretenues. Il y a plusieurs
+"étangs, des pasturages pour les cerfs, les chevreuils, les mules sauvages et
+"autres bêtes fauves; des étables pour les troupeaux; des jardins potagers,
+"des gazons, des vergers et méme quelques pièces de terre ensemencées;
+"en un mot tout ce que la vie champêtre a d'agrément s'y trouve. Cest là
+"qu'autrefois les Empereurs se déchargeant du poids des affaires, et quit-
+"tant pour un temps cet air de majesté qui gène, allaient goûter les dou-
+"ceurs d'une vie privée." The wild mules mentioned there are perhaps
+the Elaphuri, which in winter, being destitute of horns, present indeed
+воmе vague resemblance to a mule or donkey.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+71
+care the only denizens of this vast expanse, which is abandoned
+tto them.
+The latter live in herds of more than hundred head, and seem
+tto prefer the damp ground. When I visited the place, we came
+:across only one herd of about 150 head grazing near the
+water. They let us approach within fifty yards, then started
+off and galloped away with their tails in the air like cattle.
+Their gallop seemed to be heavy, but although we chased
+them at the utmost speed of our ponies, we were not able to
+I keep up with them.
+The hind carries about eight months, and brings forth in May,
+the fawns have a coat of deep yellowish brown colour, spotted
+all over with large white spots, which disappear in three months.
+The buck first gets antlers in the second year; they are shed
+annually in December, whilst our red deer sheds them in Fe-
+bruary.
+The question whether this interesting animal still exists in a
+wild state, and where it has been brought from to its present
+abode has not been settled yet. Notwithstanding all the ex-
+plorations lately made in Asia no trace of it has been found;
+and although there are regions of Central Asia which have not
+yet been investigated by a naturalist, still a species of deer of
+such striking appearance could not have failed to attract the
+notice even of an unprofessional traveller. The present habits
+of the elaphurus show sufficiently that it is an animal of the
+steppes, not like other deer an inhabitant of mountain forests.
+--As I will show further on, Chinese literature indicates that it
+was once an animal of common occurrence in China proper,
+and I should therefore deem it very probable that the elaphurus
+was originally indigenous to the plains of northern and central
+China, and that it has gradually been extinguished by the progress
+of cultivation. In case this theory should be well founded, we
+are indebted for the preservation of this most interesting species
+to a whim of one of the Sons of Heaven, who little thought how
+great a service he was rendering thereby to European science.
+The preservation of the elaphurus in a half domesticated state
+would then be an analogous case to the Ure (Auerochs, Bonassus
+Bison) in the forest of Bialovicza in Lithuania, and that of the
+wild cattle in Chillingham Park. 15
+13
+I have been informed lately that some years ago gentlemen from
+Tientsin shot in the cast of the province a curious deer "like an Elk,"
+very large, and according to the description most probably an Elaphurus.
+I am not prepared to decide, whether the animal had perhaps run away
+from the Haitszě or the species still exists in the eastern parts of the pro-
+vince which have as yet been very little explored.
+
+72 THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+The history of the Nan-'hai-tszě, which, as mentioned before,
+can be traced back as far as the Yüan dynasty, does not en-
+lighten us on the question of the introduction of the elaphuri
+into the park. The Chinese works only mention that during
+the Yuan, Ming and Ts'ing dynasties the place was used by the
+Emperors for hunting purposes.
+The present Chinese name is 1 sse-pu-hsiang i. e. the
+four dissimilar sc. attributes; it is said to have the head of a
+deer, the neck of a camel, the feet of a cow and the tail of a
+mule. It is sometimes, though rarely, call mi-lu, and its antlers
+are designated in the trade by mi-jung. The Pên-ts'ao-
+kang-mu gives the following description of the mi :—
+"The mi belongs to the tribe of the deer; the male has horns.
+The deer (lu) is fond of mountains, it belongs to the yang (male
+principle), and therefore sheds the horns in summer; the mi is
+fond of marshes, belongs to the yin (female principle), and so
+sheds the horns in winter. The mi is like the lu, but its colour
+is grey (), it is as large as a small ox, the hoofs are
+fleshy; below the eyes there are two holes which are called
+night eyes (). Therefore 'Huai-nan-tsze (E) says
+that if pregnant women see the mi, their children are born with
+four eyes. The Po-wu-chih (f) says: In the South
+from a hundred to a thousand head of mi form a herd; they feed
+on marshy grass. The place where they graze gets muddy and
+is called mi-chin; such a place is good for agricultural pur-
+poses. The place where the lu dwells is called Elu-ch'ang.
+At the present time, the hunters do not distinguish them, and
+confound the mi with the la. The stags may still be dis
+tinguished by the antlers, but the hinds are always called
+BE (i. e. female lu)."
+This description fully justifies the application of the term milu
+to the Ssepusiang. The time of shedding the antlers, the pre-
+dilection for marshes, the deep lacrymal pits, mentioned by Li-
+shih-chên, are all peculiarities by which the elaphurus differs
+from the other species of deer. The remark that the hoofs are
+of flesh seems strange, but is explained by the nature of the feet
+of the elaphurus, which indeed from the large callous cushions
+referred to above appear to be fleshy when compared with the
+hard hoofs of the common deer. We only miss in the descrip-
+tion the mention of the long tail of the elaphurus; but in spite
+of that omission I have no doubt that the animal described by
+the compiler of the Pên-ts'ao is the Elaphurus Davidianus.
+The character is often met with in Chinese literature,
+even of the earlier periods. Mencius B. I. P. 1. ch. II: "The
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+78
+king (of Leang) went and stood with him by a pond, and looking
+round at the wild geese and deer (mi-lu), said," etc. 16 Mencius
+B. I. P. 2. ch. II: "There was a park of forty square le, and
+he who killed a deer (mi-lu) in it was held guilty of the same
+crime as if he had killed a man."1 Ch'un-ts'ew, 17th year of
+Duke Chwang (B. C. 675): "In winter there were many deer
+(mi)."18 The êrhya does not give a drawing of the mi, not even
+a description, but merely states that male, female and fawn
+have especial name.
+The above quotations from the classics do not, it is true, give
+any indication of the nature of the mi, except that it is fond of
+places near the water, and lives in large herds. But the Li-ki
+observes that in the second moon of the summer, the lu sheds
+the antlers, and in the second moon of the winter, the mi.20
+The elaphurus being the only species of deer of which this dis-
+crepancy in the period of shedding the antlers is known, we
+cannot hesitate to conclude that the mi of ancient literature is
+identical with that described in the Pên-ts'ao, and therefore the
+Elaphurus Davidianus. From the above quotations it appears
+that the species was once of frequent occurrence all over China,
+and well known to the people, who applied different denomina-
+tion to the different sexes and ages only of common animals.
+Li-shih-chên's statement that at his time people were not
+able to distinguish the mi and the lu, would find its explanation
+in the gradual diminution, and final extinction of the species.
+It is not to be wondered at, therefore, that Chinese works of
+more modern date give descriptions of the which are not in
+accord either with those of the older books or with the pecu-
+liarities of the elaphurus. The E, of the same
+period as the Pên-ts'ao-kang-mu gives an entirely fictitious
+drawing of the mi, which has one stumpy horn on the forehead;
+the description runs as follows:-"The says 'the
+bear is the cleverest and strongest of all animals, the mi the most
+stupid; therefore the Emperor shoots the bear, the feudal
+1 Legge's Cl. II, p. 3: EL
+Legge's Ch. II, p. 30:
+殺人之罪.
+21
+BEHE.
++ME AS A
+1 Legge's Ch. V, 1 p. 96. One commentator thinks that these creatures
+appeared in such numbers as to be a plague.
+19
+爾雅 vol. III, p. 30:糜牡北其子
+20
+禮記脸 III, p. 65(仲夏)鹿角解III,p.89(仲冬)
+1917.
+21
+The Pai-'hu-t'ung-i of the Han dynasty, first century of our era.
+See Wylie Not. on Ch. Lit. p. 127. Mayer's Manual, p. 166.
+
+74
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+princes the mi.' The mi is an animal of the water, of grey
+colour, and has fleshy hoofs. The character is formed from
+Eand, because the disposition of the animal is stolid()."
+The Sheng-ching-t'ung-chih says under the heading of mi-lu:
+"The lu is tall, the mi small. It is said in
+that
+the mi sheds the antlers in the eleventh moon (1), the lu
+in the fourth moon (f), but according to present investi-
+gations the mi as well as the lu shed their antlers in summer.
+In the Imperial poem on the shedding of the antlers by the
+deer,' it is stated that in the provinces of Shingking and
+Kirin there occurs the mi, not the lu."24 It is evident from
+this passage that the character was used by Kienlung to
+designate the common deer, not the Sse-pu-hsiang; for, as it is
+well known, the red deer as well as the axis are common in
+Manchuria. The elaphurus, at that time, probably occurring
+nowhere in China in a wild state, the quotations of older authors,
+who by mentioning the exceptional time of shedding the antlers
+unmistakeably refer to the species of the Haitsze, were misun-
+derstood or overlooked, and the term mi used as a poetical
+denomination for other kinds of deer.
+A similar error has slipped into the topographical description
+of Formosa quoted by Mr. Swinhoe, 25 in which work the name
+mi is applied to the plain brown deer of Formosa, Cervus (Rusa)
+Swinhoei.
+Williams identifies the Chinese name chu with tke Cer-
+vus Davidianus; he states that the Chinese description ascribes
+a long tail to it and gives Tung-ch'uan.fu in Ssë-ch'uan as the
+habitat. I have not been able to find out from what work this
+information has been obtained, but according to the books to
+which I had access, cannot be explained as a name of the
+22
+23
+See the above quoted passage of the Li-ki.
+, a collection of poems, published by the Emperor Kien-
+lung, see Wyli'se Notes, p. 190.
+24
+The Sheng-ching-ching-t'ung-chih quotes at the same place another
+passage from the poems of Kienlung, which refers to the Reindeer, and its
+employment for domestic purposes, the only mention of the Reindeer I
+have as yet met with in Chinese books. "In the neighbouring state of
+Russia no cattle or horses are kept, but deer (E) are mostly used as
+beasts of burden and draught."
+26 Birds and beasts of Formosa, Journ. N. Ch. Br. R. As. Soc., Shang-
+hai, 1865.
+20
+Syllabic Dictionary 1875, p. 88. Williams ascribes to the Elaphurus
+the denomination of "Chinese Elk." Elk (or Moose) is the English name
+of Cervus Alcesh L.; in America the Wapiti or Canadian deer (C. canadensis)
+is sometimes called Elk; but the Chinese species cannot be compared with
+either of these animals.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+75
+Sse-pu-hsiang. The Pên-ts'ao-kang-mu says under the heading
+of "A large stag is called chu, the herd following it is
+guided by its tail. The tail can banish dust (); if felt is
+dusted with it, there will be no worms; if it is put into madder
+for dyeing silk, the red colour will not grow darker for a long
+time." This passage is quoted from the
+In the Kanghi dictionary chu is explained to be the deno-
+mination of a large stag, also of a deer of the tribe of the .
+The chu is further mentioned in the San-ts'ai-t'u-'hui; the draw-
+ing given in that work represents the animal as a deer covered
+with large spots like flowers, with a short tail, and one stumpy
+horn. The description is almost verbatim identical with that of
+the Pên-ts'ao.
+From these notes I should conclude that chu originally does
+not designate any particular species of deer, but is the term for
+a large stag, especially the leader of the herd. This is con-
+firmed by the present use of the term. I have seen the follow-
+ing phrase in an official communication:
+chih-ling-
+chu-t'an, which may be rendered by: "I listen to your instruc-
+tions by which I will guide my course. Chu-t'an lit. "phrases
+of the leading stag," signifies the instructions, by which the
+hearer will be guided as a herd of deer is guided by the leading
+stag.
+The Hsi-yü-wên-chien-lu mentions the chu as forming part of
+the Fauna of Tarbagatai, and says, that several hundreds form
+a herd. In smaller letters it is added by the editor that the
+common name is ssé-pu-hsiang.27 Tarbagatai is now partly
+Russian territory, and its Fauna has been well enough explored
+to leave very little doubt that the elaphurus does not occur in
+those regions. The author meant by chu probably the large
+red deer of Central Asia, Cervus Maral; it was perhaps merely
+the predilection of Chinese writers for uncommon characters
+which induced him to ascribe the name to a species of deer.
+Why the editor identified this name with the Sse-pu-hsiang,
+cannot be seen from the explanations given for chu in Chi-
+species of deer within his knowledge which lived in large
+nese literature; perhaps because the elaphurus was the only
+herds. Howbeit, his statement cannot invalidate the argu-
+Iments given above for the theory that is the proper name
+of Cervus Davidianus.
+27
+四不像
+Chap. I, f. 13:
+: 多座數百為藥俗名
+
+76
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+II, BIRDS.
+(In the following list the initials S. and D. indicate whether
+the species has been recorded as occurring in Chinese by Swin-
+hoe or David; + is added to a species which has not previously
+been mentioned as forming part of the Ornis of the province).
+1. Gypactos barbatus Cuv. (Bearded Vulture, Lammergeyer).
+-D.
+2. Vultur monachus L.-D.-This vulture does not occur near
+Peking, but is not uncommon in the northern and north-western
+parts of the province. It has been seen in the Nank'ou Pass.
+In Chinese kou-t'ou-tiao i. e. dog-headed eagle.
+3. Aquila chrysaetos Cuv. (Golden Eagle).-D. S.-IM
+'hung-t'ou-tiao P.
+Not rare in the western hills, but confined to the highest peaks.
+4. Aquila bisfasciata Gray.-D.
+5. Aquila amurensis Swinh. (Tawny Eagle).-D.-
+ta-'hua-tsao-tiao.
+6. Aquila naevia Briss.-D.-
+hsiao-'hua-tsao-tiao P.
+The general term for eagles in Chinese is tiao, which in-
+cludes the vultures and sea eagles; ch'iu and t'uan are
+synonyms. tsao-tiao is a general name of all species of
+Aquila.
+7. Haliaetos albicilla L. (Sea Eagle).-D. S.-
+'huang-tsui-tiao P. chich-pai-tiao P. Sh. Ch.
+This species, which is rather scarce in Chihli, is most pro-
+bably the 'hai-tung-ch'ing, sometimes written #S
+'hai-ch'ing-tiao or ch'ing-tiao or 'hai-ch'ing, which was in former
+times trained by the Chinese for hawking purposes, especially
+to catch deer. It was considered to be the best of all birds of
+falconry. The Shêng-ching-t'ung-chih relates that the 'hai-
+tung-ch'ing was used to catch roebuck by the emperor Kienlung
+when he hunted in Manchuria. In a long list of birds of prey
+trained for falconry, which is quoted from the T'u-ching-chih-
+shu in the
+Jih-hsia-chiu-wen-k'au the 'hai-
+tung-ch'ing is the first mentioned. With these statements
+agrees a passage in P. Du Halde's description of China (vol. I,
+p. 34) which I here insert; "On compte avec raison parmi les
+beaux oiseaux celui qu'on appelle Haitsing. On n'en prend
+que dans le district de Han-tchong-fu, dans la province de
+Chensi, et dans quelques cantons de la Tartarie. Il est com-
+parable à nos plus beaux Faucons, il est cependant plus gros
+et plus fort. On peut l'appeller le Roi des Oiseaux de proye de
+la Tartarie et de la Chine, car c'est le plus beau le plus vif et
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+77
+le plus courageux; aussi est-il si estimé que dès qu'on en a pris
+un, on doit le porter à la cour, où il est offert à l'Empereur et
+remis aux officiers de la Fauconnerie."
+8. Haliaëtos pelagicus Pall.-D.-ku-t'ou-tiao P.
+This giant sea eagle, which has been observed in Chihli by
+P. David, is probably meant by the term 'hu-tiao, tiger
+eagle, of the books; it is said to measure with outspread wings
+one chang, or ten Chinese feet.
+9. Archibuteo aquilinus Hodgs.-D.-hao-pao P.
+The Su'hua name of this large buzzard in Peking, 'hao-pao,
+corresponds to 'hua-pao and pai-pao mentioned as
+popular names of birds of prey in the Shêng-ching-t'ung-chih.
+The species is not of frequent occurrence near Peking.
+10. Buteo asiaticus Lath. (Asiatic Buzzard).-D.
+11. Poliornis polyogenys Temm.-D.
+12. Pandion haliaetus L. (Fishhawk, Osprey).-D. S.-
+yü-ying P. Ts.-é P. TI.-tiao-chi P. Ts.
+I have never heard a popular term for the fishhawk; the
+people in Peking as well in Tientsin apply the name yü-ying,
+yü-ying-rh or yü-ying-tsze to the different species of gulls and
+tern. The Pên-ts'ao-kang-mu on the other hand undoubtedly
+describes the fishhawk by yü-ying. Amongst the synonyms of
+yü-ying given there Etsi-chiu and Ewang-tsu are
+doubtful; these appellations are explained in other works as
+names of water birds, and more probably designate a gull or
+skua.
+P.
+13. Falco peregrinus L. (Peregrine Falcon).-D. S.
+14. Falco sacer Schl. (Gyrfalcon).-D. S.-pai-ying
+15. Hypotriorchis subbuteo L. (Hobby).-D. S.-7
+ch'ing-t'iao-tszě P.
+16. Hypotriorchis aesalon L. (Merlin.-D. S.-to-tszě,
+to-rh P. Sh. Ch.-to-rh Ch. F.
+17. Tinnunculus japonicus Schl. (Japanese Kestrel).-D.S.—
+Etu-hu-ying P.
+18. Erythropus amurensis Radde.-D. S.- ch'ing-ying P.
+19. Tichornis pekinensis Swinh. (Pekinese Kestrel).-S.
+20. Pernis apivorus L. (Honey Buzzard).-D.
+21. Milvus govinda Sykes. (Kite).-D. S-yao-ying,
+P. Sh. Ch.- ch'ih P. Ts.-yan P. Ts.-Sh.
+Ch. ch'iao-ying P. Ts.-(shih-ying P. pa-pa-ying T).
+The Kite, everywhere in China the commonest bird of prey, is
+now considered by Swinhoe to be identical with the Indian species,
+
+78
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+whilst in former notes it was supposed to be the Japanese M.
+melanotis Schl. It is abundant in Peking and Tientsin, feeding
+on the refuse in the streets. The nests are mostly in the high
+towers of the city wall, but I have also seen one on a tree.
+22. Astur palumbarius L. (Goshawk)-D. S.-P. Ts.-
+P.-T.-ying, ying-rh, ying-tszě.-huang-ying P.
+23. Accipiter nisus L. (Sparrowhawk).-D. S.- yao.
+tszě P.-hsi-hsiung. Sh. Ch.-P.
+24. Accipiter stevensoni Gurney.-D. S.-5sung-rh
+sung-tsze-ying P.-Sh. Ch.-sung-rh Ch. F.-
+ch'ing-yen-tsze P. ("green-eyed hawk").
+25. Micronisus soloensis Horsf.-D.
+The Goshawk as well as the Sparrowhawks are used by the
+Chinese for hawking purposes, also, but less commonly, the
+Hobby, the Merlin and the Kestrels. The goshawk is trained
+to catch hares; the smaller birds of prey to fly at small birds,
+quails, etc. I have never seen the real falcon employed by a
+Chinese falconer.
+26. Circus spilonotus Kaup.-D.
+27. Circus cyaneus L. (Blue Harrier).-D.-hui-ying P.
+28. Circus melanoleucus Gmel.-D. S.
+29. Circus pallidus Sykes.-D.
+yao in Chinese
+The harriers are included in the term
+books. Of all species of Accipitrinao the Pên-ts'no distinguishes
+only two kinds; the ying, which includes all the larger hawks,
+buzzards and falcons, and of which the goshawk seems to be
+the type; and the yian or yao which designates especially the
+kite, but includes all the smaller birds of prey, sparrowhawks,
+harriers, etc.
+30. Athene plumipes Swinh.-D. S.
+"
+Swinhoe discovered this little owl near Ch'atao on the Nan-
+k'ou Pass (Proc. Zool. Soc. 1870, p. 448). David gives as the
+habitat Pékin, Mongolie." I have not been able to find the
+species in the neighbourhood of Peking, but saw it once near
+Kalgan.
+81. Ninox japonica T. & Schl.-S.
+82. Bubo maximus Sibb. (Horned Owl).-D. S.-1
+chih-hsiu W.- chich-ch'ih P. Ts.-kuai-ch'ih ibid.
+lao-t'u ibid. kou-ko ibid. (i. e. the bird which hooks
+pigeons).
+ku-lu-ying, 'hu-ku-ying P. Ts.
+(onomatopoetic, ef. the Latin ulula, German Uhu, etc.).
+貓頭鷹
+夜食
+yeh-shih-ying P. Ts. Shsin-'hu ibid. Dao-
+tou-ying ibid., also P. (mao-rh-t'ou-ying).
+Shen-'hu P.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+88. Scops sunia Hodgs. (Screech Owl).-D. S.-
+yeh-mao-tsze P.
+shih-tsze-ying P.
+34. Syrnium nivicolum Hodgs.-D. S.
+35. Otus vulgaris Flem. (Eared Owl).-D. S.
+36. Otus brachyotis L.-D. S.
+fu W.
+79
+A collective name for the two preceding species and other
+smaller owls in Wên'hua is hsiao, of which the Pên-ts'ao
+records the following synonyms:
+hsiao,
+hsiao-ch'ikshan-
+t'u-hsiao. liu-li (i. e. the vagrant bird).
+87. Caprimulgus jotaka T. & Schl. (Japanese Goatsucker).-
+D. S.-ich-shu-p'i P.-t'ich-li-taze P.-kuei-
+ajao P.
+38. Caprimulgus stictomus Swinh.-D.
+The name of the Goatsucker in Wên-'hua is most probably
+Etu-chuan, which name has been explained in European
+dictionaries (Morrison, Williams) as that of the Cuckoo. But
+as I shall try to prove further on, the name of the Cuckoo is
+, and the descriptions of the tu-chian evidently point to
+the Goatsuker.
+The Pên-ts'ao-kang-mu (6. 49 f. 14) gives the following syno-
+nyms: tu-yü, Ftsze-hsi, tszě-kuci, ti-
+kuci, its'ui-kuei, yang-ch'iao-(r),
+yuan-
+niao-chou-yen. The first five names are intended to imitate the
+bird's note which, according to the Pên-ts'ao, is like
+pu-ju-kuei-ch'u. I do not know exactly what the note of the
+Chinese species is, but Jerdon mentions that that of Caprimulgus
+indicus is tu-yo; this is very much like the Chinese name tu-yi,
+and the first part of pu-ju-kuei-ch'u. Tne last of the above
+names indicates the relation of the bird to the swallows, and
+the Goatsucker is indeed placed near the swallows in European
+systems. The description runs as follows:-
+"The tu-chuan comes from Ssë-ch'uan and occurs also in the
+South. It is like a sparrow but of a dull black and red colour
+(1). It has a small crest on the bill. It cries in the
+end of spring during the whole night, in crying it looks towards
+the North. The ery is most powerful in summer, then it makes
+no difference between day and night. The note is a very plain-
+tive one. By hearing it the peasants know the time for their
+work. It eats insects and grubs; it makes no nest but breeds
+in the nests of other birds. In winter it becomes torpid."
+The dark unattractive colouring, the habit of crying during
+the night, the plaintive voice, the feeding on insects and the in-
+capacity of building nests aro all well marked poculiarities of the
+
+80 THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+Goatsuckers, and the description would not admit of any other
+identification. The drawing of the tu-chüan given in the Pen-
+ts'ao cannot be considered to be a very striking likeness of a
+caprimulgus, but certainly does not offer any opposition to our
+explanation.
+The present popular name in Peking, kuei-niao, of Caprimul
+gus Jotaka is perhaps an abbreviation of one of the above names
+given in Pên-ts'ao, and would in that case add another proof
+that tu-chan is the goatsucker, if there should be any doubt
+left.
+89. Cypselus pekinensis Swinh. (Pekinese Swift.-D. S.-
+yeh-yen (yeh-ye'rh) P.
+The Peking Swift is distinguished from our home species, to
+which it is very closely allied, chiefly by the larger extent of the
+white on the throat, the light brown colour of the rump, tail and
+wings, and the deep purplish brown legs. It arrives in large
+numbers in the beginning of May, and leaves in August.
+40. Cypselus pacificus Lath.-D. S.
+41. Chaetura caudacuta Lath. (East Asian Swift).-D. S.
+42. Hirundo gutturalis Scop. (Eastern House Swallow).-D.
+S.-chia-ye'rh P.
+43. Cecropis arctivitta Swinh. (Chinese Striped-bellied Swal-
+low).-D. S.-'hua-ye'rh P.
+44. Cotyle riparia L. (Sand Martin).-D. S.-KA
+shui-ye'rk P.
+45. Ptyonoprogne rupestris Scop.-D. S.-shih-yen P. Ts.
+46. Chelidon lagopoda Pall.-D. S.
+ch'in-chiao-tsui
+47. Halcyon pileatus Bodd.-D. S.-
+P. ("red-pepper-bill," from the resemblance of the bill to the
+husk of Capsicum annuum).-si-ch'uch-ch'ua 'n)-rk
+T.
+This large kingfisher is closely allied to the Turquoise king-
+fisher, Halcyon smyrnensis, which latter species furnishes the
+beautiful blue feathers for the well known female ornaments of
+southern China. The Chinese books distinguish only two species.
+of kingfisher, a larger one with brilliant plumage and a smaller
+one. The latter is the li or Alcedo bengalensis; the other
+the fei-s'ui, ts'ui-pi-niao, yü or ts'ui-yü is
+the Turquoise kingfisher, but includes also the Halcyon pileatus,
+although its plumage is less brilliant, and no use of its feathers
+seems to be made. The popular name used in Tientsin, refers
+to the black and white colouring of the neck and breast, which
+presents some resemblance to the Magpie (hsi-ch'üch).
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+81
+48. Alcedo bengalensis Gmel.-D. S.-ts'ui-ch'iao-rk
+丑一柳翠 liu-tsui Pi魚狗 yiu-kow, 天狗 tien-kou,
+yi-cou,天狗
+冰狗 shiti-kou,魚虎yio-, 魚師yii-shih P. Ts.
+49. Upupa epops L. (Hoopoe).-D. S.- chi,
+teai-jen, tai-sheng E. Y.
+pi, & 18
+The above names are accompanied in the Erh-ya by a very
+ggood drawing of the
+designate that bird.
+writers with the
+Hoopoe, and there is no doubt that they
+The names have been identified by native
+ku-chao or ku-chou. The com-
+poiler of the Pên-ts'ao expresses his doubts about the correctness
+cof this identification; and it cannot be but erroneous because
+the Erh-ya mentions the Ku-chou as a different bird, and gives
+aa drawing of it which has not the slightest resemblance to the
+Hoopoe. But what bird the ku-chou really is, I have not been
+aable to find out.
+50. Zosterops erythropleura Swinh. (Chinese White Eye).-
+ID. S.- fin-ye(n)-rh P.
+51. Sitta villosa J. Verr. (Chinese Nuthatch).-D. S.
+52. Sitta amurensis Swinh.-D. S.
+53. Certhia familiaris L. (Creeper).-D.
+54. Tichodroma muraria L. (Wallcreeper).-D.
+55. Troglodytes fumigatus Temm. (Wren)-D.
+56. Rhopophilus pekinensis Swinh.-D. S.
+57. Calamodyta orientalis Temm. & Schl, (Eastern Reed-
+65parrow)-D.
+This and the following reed birds are called by the Chinese
+iin Peking wei-jung-rh i. e. vagabond of the reeds,
+wei-ch'ua(n)-rh i. e. the bird which flits about through
+the reeds, or wei-cha-tsze.
+58. Calamodyta bistrigiceps Swinh.-D. S.- Ftsze-la-
+tiszě P.
+59. Arundinas addon Pall.-D. S.
+60. Herbivocula flemingi Swinh.-D. S.
+61. Calamoherpe concinens Swinh. (Roed Wren).-D. S.
+62. Locustella certhiola Pall.-D.
+63. Locustella lanceolata Temm.
+64. Sylvia curruca L.-D.
+65. Philacantha nisoria Bechst. (Babbling Warbler).-D.
+66. Oreopneuste armandi A. M. Edw.-D.
+67. Phyllopneuste fuscata Blyth.-hei-t'ou-ye(n)-
+wh P.
+68. Phyllopneuste coronata Temm. & Schl.-D.
+69. Phyllopneuste xanthodryas Swinh.-D. S.
+
+82
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+70. Phyllopneuste plumbeitarsus Swinh.-D. S.
+71. Phyllopneuste borealis Blasius. (Willow Wren).-D. S.-
+liu-ch'ua(n)-rh P.
+72. Reguloides proregulus Pall. (pseudo Gold Crest).-D. S.-
+shu-ch'ua(n)-rh P.-'huai-ch'ua(n)-rh P.
+73. Reguloides superciliosus Gm.-D. S.-(Chinese names same
+as last species).
+74. Regulus japonicus Bp.
+75. Ruticilla aurorea Pall.
+'hua-hung-ye(n)rh P.
+(Japanese Gold Crest).-S.
+(Redstart).-D. S.-I
+The Chinese consider most of the smaller birds with long tail
+as akin to the swallow, and therefore form their names with the
+character yen, see Chinese names of nos. 67, 76, 131, 152, 158.
+76. Ruticilla fuliginosa Vig.-D.-yen-shih-ch'ing-
+rh P.
+77. Larvivora cyane Pall.-D. S.-lan-i-pa-
+kén-tszě P. (blue tail's root").
+78. Ianthia cyanura Pall.-D. S.-The Chinese name of last
+species is sometimes likewise applied to this bird.
+79. Erithacus akahige Temm.-D.
+80. Cyanecula caerulecula Pall. (Redspot Bluethroat).-D. S.
+-lan-tien-ke-rh P. T.
+81. Calliope kamtschatkensis Sm.-D. S.-hung-
+tien-ke-rh (mas.)
+pai-tien-k'e-rh (fem.) P.
+82. Saxicola leucomela Pall. (Wheatear).-D.
+83. Pratincola indica Blyth. (Indian Whinchat).-D. S.
+84. Accentor erythropygius Swinh.-D. S.
+85. Accentor montanellus Pall.-D.
+86. Parus minor Temm. & Schl. (Japanese Titmouse).-D.
+S.- tsze-tsze-'hei-rh P.- Ftszě-tsze-
+'heng-rh P-etszě-tsze-'hui-'hui Ch. F.
+87. Parus pekinensis Dav. (Pekinese Titmouse).-D. S.-
+Chinese names the same as those of the last species.
+88. Poecile kamtschatkensis Bp. (Eastern Marshtit).-D.
+89. Poecile cincta Bodd.-D.
+90. Orites glaucogularis Gould.
+Iyang-hung-rh P.
+91. Orites ouratensis A. Dav.-D.
+(Longtailed Tit).-D. S.-
+92. Motacilla paradoxa Schrenek.-Ishan-shih-
+'hua-rh P. (i. e. pied like marble).
+This pied wagtail, probably merely an eastern variety of ou
+motacilla alba, has formerly been observed in Amurland and b
+P. David in Mongolia. It passes Peking in spring, where
+secured specimens in April, 1874 and 1875.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+83
+The above Chinese name is given to all pied wagtails. Wag-
+tails in general have the name chi-ling in books (e. g. in
+the Sheng-ching-t'ung-chih; the term is not mentioned in the
+Pên-ts'ao).
+93. Motacilla baicalensis Swinh. Proc. Zool. Soc. 1871, p.
+363. Observed in the Trans Baikal, and by Swinhoe on the
+Upper Yangtszë. I have obtained a specimen of this eastern
+representative of our common pied wagtail, to which it is very
+closely allied, near Peking in April 1875.
+94. Motacilla ocularis Swinh.-D. S.-A third species of pied
+wagtail, which differs from all other kinds by the black streak
+through its eye.
+95. Budytes flavus L.
+ma-lien-'hua-rh P. (i. e.
+used in medicine).
+(Yellow Wagtail).-D. S.-
+[yellow] like the malien, a kind of Iris,
+96. Budytes cinereocapillus Sav.-D.
+97. Budytes citreolus Pall.-D.-chin-hsiang-lu-.
+rh P. (lit. "golden incense jar" referring to the golden yellow
+crown of the head.)
+98. Calobates melanope Pall.-D. S.
+99. Limonidromus indicus Gmel. (Indian Wood Wagtail).-
+D. S.
+100. Anthus cervinus Pall. (Pipit).-D. S.
+101. Corydalla richardi Vieill.-D. S.
+102. Turdus naumanni Temm. (Thrush).-D. S.-
+shan-'hua-mei P.-pei-'hua-mei P.
+'Hua-mei, "painted eyebrow," is the famous song thrush of
+southern China, Leucodiapteron sinense, which is frequently
+kept in cages by the Pekinese, but does not resort to Chihli.
+The above names refer justly to the relation of that bird to the
+thrushes; they are given to most of the following species.
+103. Turdus fuscatus Pall.-S.
+104. Turdus ruficollis Pall. (Siberian Fieldfare).-D. S.-
+ch'uan-ts'ao-chi P.-Ch. F.
+105. Turdus musicus L. (Song Thrush).-D.
+106. Turdus pallidus Gm.-S.
+107. Turdus chrysolaos Temm.-S.
+108. Turdus obscurus Gm.-D. S.
+109. Turdus auritus J. Verr.-D.
+110. Oreocincla varia Pall.-D. S.
+111. Monticola saxatilis L.-D.
+112. Petrocincla gularis Swinh. (Peking Forest Thrush).-D.
+118. Petrocincla manilla Bodd. (East Asian Rock Thrush).
+-D. S.-shui-tsui P. ("chatterbox").
+
+84
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+114. Myiophoneus brevirostris Wagn.-D.
+115. Pterorhinus davidi Swinh.-D.
+116. Suthora webbiana G. R. Gray.-D.-hsiang-
+sse-niao P. (i. e. love-birds).-li-fen-ch'iu-rh P.
+This pretty little brown bird, in general appearance not un-
+like a titmouse, is not uncommon near Peking in spring and
+autumn. Being favourite cagebirds among the natives the
+are caught in large numbers. Swinhoe states that they are
+kept for fighting in Shanghai and in the South; I have never
+seen them used for that purpose in the North nor could I observe
+that they are of very pugnacious disposition. I kept a greaf
+number together with many other small birds; they used to sit
+always on the same stick and slept in a line touching each other,
+thus justifying the popular name given to them: hsiang-sse-niao.
+This name is, besides, given to several other birds, e. g. the
+southern Leiothrix lutea (Scop.) and to the true love-birds, the
+small green parrots (Psittacula).
+117. Ampelis garulla L. (Bohemian Chatterer).-D. S.-
+t'ai-p'ing-niao P.
+118. Oriolus chinensis Gmel. (Chinese Oriole).-D. S.-
+huang-li P. Ts.-Sh. Ch.-P.-T. etc.-ying P. Ts.-A
+'huang-niao ibid.. or s'ang-keng P. Ts.—-Sh. Ch.-
+ching-niao P. Ts.huang-po-lao ibid. ("the
+yellow shrike")-li-'huang ibid. (i. e. the black and yellow
+sc. bird).
+la
+119. Lanius lahtora Sykes.-D.
+120. Lanius major Pall.-D.
+121. Lanius sphenocercus Cabanis.-yün-nan-ch'ing
+(i. e. the grey bird from Yunnan) P.-1 shan-'hu-po-
+P.-'han-lu-rh (i. e. the bird which arrives at the
+Han-lu [cold dew] period, about the beginning of October) P.
+Père David mentions two species of the larger shrikes as
+being rare at Peking, I have never seen either of them. But I
+secured specimens of a shrike in April 1874 and September
+1875, which was determined by Mr. Cabanis as his Lanius
+sphenocercus. Perhaps David's L. major was also this species.
+The ancient bird name po-lao, which is mentioned in
+the classics, has been identified with the shrike; and I have no
+doubt that this identification is correct. The bird at least,
+which the Pên-ts'ao-kang-mu describes under that name, is
+certainly the shrike. The following synonyms of polao are re-
+corded there:博勞 po-lao,伯鷯 po-liao,伯趙 po-chao,
+chi, chueh. According to Swinhoe the shrikes are still called
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+85
+po-lao or chü in Formosa. In the North all shrikes are called
+'hu-po-la (also 'hu-pu-la or 'hu-pa-la) which is most probably
+derived from po-lao; 'hu, tiger, being added to describe the
+fierce and cruel disposition generally ascribed to these birds.
+122. Lanius magnirostris Less.-D.
+123. Lanius bucephalus Temm. & Schl.-D. S.-man-
+tsze T. ("Southerner," also applied to the three following species).
+124. Lanius cristatus L.-D.
+125. Lanius superciliosus L.-fu-ti-hu-po-la P.
+126. Lanius lucionensis L.-D. S.-11 'hua-'hu-po-
+la P. (also applied to the three preceding species).
+Of the Redtailed Shrikes only L. lucionensis seems to breed
+in Chilli; L. cristatus L. and L. superciliosus pass Peking
+during their migration. The latter species had not previously
+been observed in Chihli; I obtained specimens in May 1874
+and 1875.
+I have seen the smaller shrikes trained by natives to fly at
+sparrows and other small birds; they were carried like hawks
+with a rope tied to one of the legs. One of them, I believe a
+Lanius bucephalus, caught a sparrow in my presence. The
+Chinese asserted that it is much more difficult to tame and train.
+a shrike than any hawk.
+D.
+127. Dicrurus cathoecus Swinh. (Chinese Black Drongo).-
+S.-li-chi-rh P.-Sh. Ch.-chi-chiu P. Ts.-
+E. Y.-ping-chi P. Ts.-E. Y.- p'i-chi P. Ts.-
+鹎pi chia ibid.—鳩 chu-chiu ibid. 一烏鵙 wu-chū ("black
+shrike") ibid.-ya-chu ("crow-shrike") ibid.-
+chia-li, cha-yu-lang, t'ich-ying-wu (i. c. iron
+coloured parrot), hsia-chi ibid.
+Common in the hills near Peking during the summer; it
+leaves in August.
+128. Buchanga leucogenys Walden.-D.
+129. Chibia brevirostris Cab.-D. S.
+130. Pericrocotus cinereus Lafr.-D. S.
+181. Pericrocotus brevirostris Vig.-D.-pin-hung-
+ye(n)-rh P. ("the foreign red swallow").
+A few of this pretty black and red flycatcher pass Peking
+every spring during their migration. One was shot in the British
+Legation in spring 1875.
+182. Butalis sibirica Gm. (Siberian Flycatcher).-S.
+133. Butalis latirostris Raffl.-D.
+134. Erythrosterna luteola Pall.-D.
+135. Erythrosterna albicilla Pall.-D.-'uang-
+tien-k'é-rh P.
+
+86
+THE VERTEBRATA OF THE PROVINCE OF CHIMLI WITH
+136. Xanthopygia tricolor Hartl.-D.
+137. Cyanoptila cyanomelaena Temm -D.-lan-
+tien-kang-rh P.
+The Chinese name means literally "the indigo jar;" the idea
+is probably that, the plumage being indigo blue all over, the
+bird looks as if it had been in a dyeing jar.
+138. Tchitrea incci Gould. (Paradise-Flycatcher).-D. S.-
+tsze-lien (male), pai-lien (female) P. T-
+lien-ch'ich W.-to-pai-lien P. Ts.-Ch. F.-
+tai-niao Sh. Ch.-to-wei-niao Sh. Ch.-shou-
+tai-niao S. Ts.-hung-shou-tai P.
+This beautiful bird, with elegant brownish red (male), or pure
+white (female) plumage, and long tail, the two central feathers
+of which exceed the body in length, arrives near Peking in May
+and leaves again in September. It is not common, at least in
+the neighbourhood of the capital; but is often to be bought in
+the fairs from the Chinese, with whom it is a favourite cagebird.
+The nomenclature of this species as given above requires
+some explanation, as (not, as Williams has it) has
+been identified with the red legged blue magpie, Urocissa
+sinensis. (Williams' Diction., Bridgman's Chrestom.). In the
+description of the lien-ch'ich given, in the Pên-ts'ao, it is said
+that it has a long tail of white colour like white silken ribbon
+() and that its popular name is t'o-pai-lien, i. e. the bird
+which drags white silk. The latter name, a very good desigua-
+tion for the long soft tail feathers of the Tehitren, occurs also
+in the Chi-fu-t'ung-chih; and the present terms of the Peking
+and Tientsin vernaculars, tsze-lien and pai-lien, are evidently
+derived from that name. The San-ts'ai-t'u-'hui says that the
+lien-ch'uch is like the shan-ch'ich (Urocissa sinensis, as
+I shall show further on) but smaller, and that the popular
+name is shou-tai-niao. is perhaps mistaken for silken
+ribbon; in that ease shou-tai-niao would express the same ides
+as t'o-pai-lien. The male Tchitrea is still called 'hung-shou-
+tai in Peking. The Sheng-ching-t'ung-chih gives as synonyms
+of lien-ch'üch t'o-wei-niao, i. e. the bird which drags a [long]
+tail and tai-niao "ribbon bird." In all the books quoted above
+ch'uch (or ch'io) is never written with the character for sparrow,
+but with that for magpie , and indeed the tchitrea offers
+some resemblance to the magpie; not only in general appearance
+and habit, but also in its loud and chattering cry.
+139. Garrulus brandti Eversm. (Siberian Jay).-D. S.-
+sung-ya P.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+87
+Very much like our European jay; it is very rare in the
+neighbourhood of Peking, but of frequent occurence in the more
+remote hills, especially in the East.
+140. Urocissa sinensis L. (Chinese Blue Treepie).-D. S.-
+ch'ang-i-pa-lien P.- shan-ch'ueh P. Ts.-S.
+Ts.-such ibid.-shan-cho P. Ts.-
+tsui-au ibid.
+ch'ik-
+In general appearance like a magpie with red bill and feet;
+the deep black of the head and neck passes into dark blue on the
+back; the wings and the long graduated tail are lighter blue
+with white stripes. This elegant bird lives in wooded valleys of
+the hills, and is therefore very rare near Peking, but frequently
+met with in the Sishan as well as in the hills to the North and
+East. Its shrill cry: pink, pink' of almost metallic sound is
+relieved sometimes by chattering not unlike that of the magpie,
+or a short melodious flute-like note. In the villages high up
+the mountains the urocissa plays almost the part of the magpie,
+crowding the groves which surround them.
+As this species has been erroneously identified with the Chi-
+nese lien-ch'uch, its proper Chinese names have not been correctly
+explained. According to Williams, "may be the Pica vaga-
+bunda(?), but it is more probably a sort of Garrulax or thrush."
+The description of the hsuch or shan-ch'ich in the Pen-ts'no says
+that it occurs everywhere in mountain woods; its appearance is
+like that of the magpie, its colour is dark with stripes, its beak
+and feet red, it cannot fly very far; it feeds on smaller birds.
+The Sants'ai-t'u-'hui describes the hsich as similar to the mag-
+pie, but having variegated striped plumage, red bill and red
+feet. These descriptions and the drawing given in the last-
+named work leave no doubt that hsüch is the Urocissa.
+The use of the character in the present popular name
+ch'ang-i-pa-lien has probably given rise to the erroneous identifi-
+cation of lien-ch'uch with the Urocissa.
+141. Nucifraga caryocatactes L. (Nutcracker).-D. S.-
+Etsung-hua-rh P.
+142. Pica media Blyth. (Eastern Magpie).-D. S.-1
+hsi-ch'uch, ss-si-ch'uch W.-P.-T.-
+fei-po-
+niao P. Ts.-kan-ch'uch ibid.-shen-ni ibid.
+Although the differences by which the Asiatic Magpie is distin-
+guished from our home species in plumage and note are not
+very great, it is now considered by Ornithologists to be a dif.
+ferent species. It is the commonest bird in Peking, and one of
+the small number which stay here all the year round.
+
+88
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+The magpie is considered a bird of good omen by the Chinese,
+and is therefore called hsi-ch'üeh "the propitious bird" or ssë-
+hsi'ch'üeh i. e. the bird of fourfold joy. In Williams' dictionary
+the name is translated "the joyous birds, so named from its
+incessant bowing." But the Pên-ts'ao says: "it can announce
+joy, therefore, it is called the bird of joy. 28
+143. Cyanopolius cyaneus Pall. (Asiatic Blue Magpie).-D. S.
+-shan-hsi-ch'uch P.-'hui-hsi-ch'uch P.
+144. Corvus japonensis Bp. (Japanese Raven).-D. S.-
+lao-kua (Kalgan).
+This large Raven is not met with near Peking, but frequently
+beyond the inner Great Wall; especially near Hsüan-'hua-fa
+and Kalgan.
+145. Corvus sinensis Gould. (Chinese Carrion Crow).-D. S.
+-lao-kua P.-lao-kung T.
+146. Corvus torquatus Less..(White necked Crow).-D. S.-
+pai-po-lao-kua P.-'han-ya-rh P.-
+yen-pai-tou-wu E. Y. (v. III, fol. 14, fig. 8 and fol. 20).-
+當鶉 hsia-ya P. Ts. 鬼島 kuei-niao P. Ts.一白脖老公
+Ts.-
+pai-po-lao-kung T.
+147. Frugilegus pastinator Gould. (East-Asian Rook).-D. S.
+-lao-kua P.-shan-lao-kung T.
+148. Lycos dauricus Pall. (Eastern Jackdaw).-D. S.-
+小寒鴉兒 hsiao-"han-ya-rh P. 一舉yii,
+p'i-wu E. Y. (v. III, fol. 14, fig. 2, fol. 20).
+pi-chii,
+149. Lycos neglectus Schleg. (Black Jackdaw).-D. S.
+烏
+"Closely allied to the European Jackdaw, but it has a much
+smaller and slenderer bill, and no grey on the sides of the head
+and neck." (Swinhoe). Very rare near Peking.
+150. Fregilus graculus L. var. brachypus Swinhoe. Proc. Zool.
+Soc. 1871, p. 888. (Short footed variety of the common Chough).
+-D. S.-hung-tsui-ya P.-shan-eu P. Ts.-
+iP. Ts.
+Common in the hills; rarely seen in the plain except in winter,
+when they resort to Peking in large numbers.
+All species of the corvinae are included in the ancient terms
+wu and ya. In the Pên-ts'ao four species are distin.
+guished: first tsz'e-wu gentle or affectionate crow; small,
+of uniform black colour with small bill, which returns to feed.
+28
+能報寫故謂之喜
+20
+fan-pu. This has been translated (Williams' Dictionary, p.
+714) disgorge to feed their young." There is a proverb:
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+89
+This is probably the Black Jackdaw, Lycos neglectus: second
+鸭烏 ya-wu, also called 烏鴉 wu-ya, lao-ya, or 大嘴鴉-
+tai-ya, larger than the last, with largo bill. This is probably
+the common crow, including the raven and rook: third
+yeu-u, pai-tou, kuei-niao or
+hsia-ya, similar
+to tho ya-wu, with a whito neck. This is the "Ringed Crow,"
+Corvus torquatus. The Pen-ts'ao gives yen-wu and pai-tou as
+two different names, but the Erh-ya writes yen-pai-tou-wu as one
+name; the drawing of the bird given in the latter work is a
+very fair likeness of the Corvus torquatus: fourth shan-
+cor, like the ya-wu, but smaller and with red bill, - the
+Chough, Fregilus graculus var. brachypus.
+han-ya "cold crow" is mentioned in the Pên-ts'ao
+without indication to which of the four kinds described it be-
+longs; the term is now applied in Peking both to the white
+necked crow and the pied Daurian Jackdaw.
+'i-chi ory of the Erh-ya is according to the
+drawing given of it unmistakeably the Daurian Jackdaw; the
+Pen-ts'ao records the name as a synonym of wu-ya, without
+mentioning to which of the four kinds it is to be referred.
+151. Temenuchus dauricus Pall.-D. S.
+152. Sturnus cineraceus Temm. (Eastern Starling).-D. S.-
+yen-pa-ko-rh P.-kao-liang-t'ou P.
+The first of these names means literally "swallow-pako; pako
+is the name of the Mainah of southern China, Acridotheres
+cristatellus, the above name thus justly referring to the relation
+existing between the Starling and the Mainah. Yen, swallow,
+is probably added to designate either the colouring or the smaller
+size of the starling. The other name is perhaps given to the
+bird because a yellowish spot behind the eye resembles some-
+what a grain of the Kao-liang or Sorghum.
+The starlings arrive in Peking in March, and are among the
+carliest birds of passage in spring. Swinhoe records that they
+breed in north China; but I have never observed the species
+near Peking during the summer, only during a short time in
+spring and autumn.
+158. Fringilla montifringilla L. (Mountain Finch, Brambling).
+-D. S.-yen-ch'iao-rh P.-hu-pi-rk T.
+"the lamb kneels down to suck, the crow returns to feed,"
+i. e. nature itself teaches filial piety. Fau-pu might therefore signify that
+the birds feed their old parents in return for their being brought up by
+them. The Pen-ta'no quotes
+crow, as a synonym of tsz'č-wu.
+hsiao-ya, i. e. the dutiful, filial
+
+90
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+154. Chrysomitris spinus L.
+huang-ch'iao-rh P.-T.
+(Siskin).-D. S.-
+155. Chlorospiza sinica L.-D, S.-chin-c'hih-rh P.
+T. (“ Goldwing”).
+156. Leucosticte brunneinucha Brandt.-D.
+157. Aegiothus borealis Temm.-chu-tien-'hung P.
+-Ch. F.
+158. Passer montanus L. (Sparrow).-D. S.- ch'iao.-
+chia-ch'iao-rh P.-T.-Sh. Ch.-Ch. F.-ma-
+ch'iao-rh P.-lao-chia-tsze P.-wa-ch'iao-rh
+P. Ts. Ch. F.-pin-ch'iao-rh P. Ts.
+159. Coccothraustes vulgaris var japonicus T. & Schl. (Japanese
+Hawfinch).-D. S.-hsi-tsui P.-Sh. Ch.-lao-
+hsi-rh P. (the Pekinese nick-name for Shansi people, from which
+province the bird is supposed to come).
+160. Eophona melanura Gm.-D. S.-tsao-rh P.
+161. Eophona personata Schl.-D. S.-wu-tung.
+niao P.-la-tsui ("wax-bill," so called on account of
+its yellow beak) P.-Ch. F.-Sh. Ch.-P. Ts.
+The three preceding species of hawfinch are frequently kept
+by the Chinese, especially the last: they are carried about on
+short twigs, and trained to perform various tricks. A globule
+(made of bone or ivory) is thrown in the air, the bird flies at it,
+and after having caught it returns to the hand of his master.
+Groups of Chinamen are often to be seen in the streets of Peking,
+each carrying one or several of these clever "wutungs," and
+competing against one another with their birds; frequently bets
+are made. The bird very seldom misses the globule, but often
+catches two in the same flight.
+The hawfinches are, together with the Java Sparrow (Rice
+bird), Bull finch, etc., collectively described in Chinese litera-
+ture as sang-'hu or 'hu-niao. The Pên-ts'ao gives
+some other names for it, viz: ch'ing-ch'iao, i. c. grey
+sparrow, la-tsui-niao "wax-billed bird," chich-
+ch'ih, and states that there are varieties with yellow, white,
+grey, black and red bill, and that they are frequently taught
+to perform tricks. La-tsui and hsi-tsui, still popular names
+of the yellow beaked and the common hawfinch, are mentioned
+as synonyms or varieties of the sang-hu in the Sheng-ching-
+t'ung-chih. All the colours mentioned in the Pên-ts'ao occur
+in the tribe of the Hawfinches and Bullfinches: the Java Spar-
+rows have red, some varieties white bills, the Bullfinch a grey
+one, the bill of the Eophona personata is yellow, etc.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+162. Pyrrhula griseiventris Lafr.
+163. Carpodacus erythrinus Pall.-
+P.-T. (male).
+91
+'hung-ma-liao-rh
+(Eastern Bullfinch).-D. S.
+51 ch'ing-ma-liao-rh P.-T. (female).
+-hung-liao, ma-liao, ma-hung-liao Sh. Ch.-Ch. F.
+164. Carpodacus pallasii Bp.-D. S.
+165. Carpodacus davidianus M. Edw.-D.
+166. Carpodacus mongolicus Swinh.-D. S.
+167. Uragus sibiricus Pall.-D.
+168. Lovia albiventris Swinh. (Chinese Crossbill).-D. S.-
+hung-chiao-tsui, female:
+male: I
+chiao-tsui P.
+'huang-
+169. Euspiza aureola Pall. (Eastern Ortolan).-D. S.-
+'huang-tan P.
+170. Euspiza rutila Pall.-D. S.-tsze-pie-rh P.
+171. Emberiza rustica Pall.-D. S.-hua-mei-tszě P.
+172. Emberiza spodocephala Pall.-D.-ch'ing-t'ou-
+rh P.
+173. Emberiza elegans Temm.-D. S.-'huang-mei-
+tszě P.
+174. Emberiza chrysophrys Pall.-D. S.-ta-mei-rh
+P-wu-tao-mei-rh P. ("five-striped-eyebrow;" re-
+ferring to the yellow, black and white streak above the eyes).
+175. Emberiza leucocephala Gmel.-D. S.
+176. Emberiza tristrami Swinh.-D. S.
+177. Emberiza castaneiceps Gould.-D.-san-tao-
+mei-rh P.-Ch. Sh.-'hui-mei-tsze P.-T.
+178. Emberiza pusilla Pall.-D. S.-'hu-t'ou-rh P.
+("tiger's head," from the brown and black streaks on the
+crown).shan-chia-ch'iao-rh T.
+179. Emberiza passerina Pall.-D.
+180. Schoenicola pallasii Cab. (Reed Bunting).-D.
+181. Plectrophanes nivalis L. (Snow Bunting).-D.
+182. Plectrophanes lapponicus L. (Lapland Bunting).-D. S.
+188. Alauda arvensis L. (Skylark).-D. S.--
+ta(n)-rh P.-Sh. Ch.-a-lan Ch. F.
+The name is apparently intended to imitate the bird's note,
+like our Alauda, Lerche, Lark; it is likewise applied to the two
+following species.
+184. Galerida cristata L. (Crested Lark).-D. S.-
+feng-t'ou-e-la(n)-rh, feng-t'ou-rh P. féng-t'ou-niao Sh. Ch.
+Feng is the male of the Phoenix, which is supposed to
+have a beautiful crest; therefore fêng-t'ou occurs often in names
+of birds which have a crested head.
+
+92
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+185. Alaudula chiliensis Swinh.-D. S.
+186. Melanocorypha mongolica Pall. (Mongolian Lark).-D.
+S.-Pai-ling TTM, or pai-ling-rh.
+Common in Mongolia, resorts to Chihli only in the winter.
+It is the most highly priced cagebird throughout China; in
+Peking its beautiful song is heard in every lane. The name
+pai-ling meant originally the "hundred spirits" with reference
+to the manifold notes of the bird; the other characters have
+been formed afterwards. [A similar change is to be observed
+in the name of the Antelope, ling-yang, see above].
+is used as a general term for Lark and Wagtails; tho
+latter are called chi-ling, the crested lark chuch-
+ling. In Bridgman's Chrestomathy the name of the Skylark is
+written -ling, singing lark; I do not know on what
+authority. Perhaps the northern name of the Skylark, ê-larh
+or êlirh has been thought to be a contraction of ê-ling. But as
+I have mentioned above, this name is written fé-lan in
+the Sheng-ching-t'ung-chih, and besides, ling would not be
+contracted with rh; the name would be pronounced é-ling-rh,
+as the name of the Mongolian lark is always pronounced pai-
+ling-rh.
+187. Otocorys alpestris L.-D.
+188. Otocorys sibirica Eversmann.-D. S.
+189. Picus mandarinus Gould. (Chinese Pied Woodpecker.
+-S-hsiang-pen-ta-mu P.
+This species, although not mentioned by David, and Gecinus
+canus are the commonest woodpeckers near Peking. All other
+species mentioned below are rare and confined to the hills.
+All woodpeckers are called pên-ta-mu (pen-terh-mu) in Peking;
+the general term for them in books is cho-mu-niao, of
+which cho-mu and lich are synonyms. The Erh-ya
+gives under this heading a fair representation of a pied wood.
+pecker.
+190. Yungipicus scintilliceps Swinh.-D. S.
+191. Hypopicus poliopsis Swinh.-D. S.
+192. Dryocopus martius L.
+This must be the
+ya of the Pên-ts'ao, which is
+pecker with a red crown.
+(Black Woodpecker).-S.
+193. Gecinus canus Gmel.
+Tch'on-pen-ta-mu,
+shan-cho-mu orta-lao-
+described as a large black wood-
+(Green Woodpecker).-D. S.-
+Thua-pen-ta-mu P.
+194. Yuna japonica Bp. (Eastern Wryneck).-D.-
+she-p'i-niao P.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+195. Cuculus canorus L. (Common Cuckoo).-D. S.-
+k'o-ku P.-shih-chiu P. Ts.-chia-chi,
+ku, ko-kung, pu-ku ibid.
+98
+ho-
+Shih-chiu has been explained as a kind of woodpigeon or
+turtledove (Bridgman's Chrestomathy, Williams' Dictionary;
+Watters, Chinese Notions of Pigeons and Doves in Journ. of N.
+Ch. Br. of R. As. Soc. 1867). But the description points ovi-
+dently to the Cuckoo; more especially the mention of the habit
+of that bird of not building nests, but laying its eggs in the nests
+of other birds would not admit of any other identification.
+Besides, Mr. Swinhoe asserts that chia-chi is still used in the
+south to designate the Cuckoo.
+196. Cuculus striatus Drapiez. (Striped Cuckoo).-S.
+197. Cuculus indicus Cabanis.- 'hua-ko-ku P. ("Va-
+riegated Cuckoo").
+A specimen of cuckoo shot near Poking in July 1875 and
+sent to Berlin, was identified with Cuculus indicus by Mr.
+Cabanis.
+198. Columba livia Briss. (Rock Pigeon).-D. S.- F
+yeh-ko-tszě P.
+199. Columba rupestris Bp.-D. S.
+200. Turtur rupicola Pall. (Eastern Turtledove).-D.-JE N
+pan-chiu P.
+201. Turtur risorius L. (Barbary Dove).-D. S.
+202. Syrrhaptes paradoxus Pall. (Sand Grouse).-D. S.-
+sha-chi P.-T.-Ch. F.-Sh. Ch.- t'o-chiu E. Y.
+-P. Ts. Sh. Ch.-Ch. F.-tu-chüch-ch'iao (Turks'
+bird) P. Ts.- l'ou-chih (rebels' pheasant) E. Y.-P. Ts.
+This grouse characterised by very low feet which are covered
+down to the nails with thin hairlike feathers, and are destitute
+of hindclaws, and with two long and pointed central feathers in
+the tail, is common on the steppes of Mongolia and Siberia;
+but resorts to northern Chihli in winter. It is renowned for its
+long migrations, probably caused by extremely cold winters; in
+1861 it was common all over the plain of Chihli, whilst during
+my stay in Peking from 1873 to 1876, I have only seen one
+specimen, shot in February in outer Chihli. 30
+The species long ago attracted the notice of the Chinoso,
+as it can be seen from the following description of the t'o-chiu
+in the Erh-ya: "The t'o-chiu is as large as a pigeon, resembles
+30
+In 1863 the Syrrhaptes came in great numbers to Europe, and in
+Germany, the "Stoppenhuhn" or Grouse of the Stoppes as it was called,
+was common during the winter all over the northern plains.
+
+94 THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+a female pheasant, has feet like a rat, no hindelaws, a bicus-
+pidato tail; it is stupid and flies in large flocks."
+The Pên-ts'ao repeats this description, and adds tu-chüch-
+ch'iao as another name of the same bird. This name, "bird of
+the Tu-chüch," and K'ou-chih, "rebels' pheasant," are referred
+to the superstitious belief that the arrival of great flocks of the
+syrrhaptes from the country of rebellious tribes indicated the
+approach of the rebels. The Pen-ta'ao quotes a passage from
+tho (History of the Tang Dynasty) "At the time of
+Kao-tsung when the Tu-chüch invaded the country, flocks of
+the syrrhaptes also passed the frontier; the people on the
+frontier wero frightened, and said: these birds are called
+Turks' birds and fly towards the south, the Turks will certainly
+invade our country.' And so it really happened."
+The present popular namo is sha-chi "sand-chicken," which
+term is identified with t'o-chin both in the Sheng-ching-t'ung.
+chih and Chi-fu-t'ung-chih. Abbé Hue mentions in his Travels
+that syrrhaptes was called lung-kiao "dragon-foot," by the
+Chinese in Mongolia.
+203. Phasianus torquatus Gmel. (Ringed Pheasant)-D. S.
+-ych-chi P. T-shan-chi P.- chik W. H.
+Still common in Chihli, though not in the close neighbour.
+hood of the capital. Some have been shot on the hills near
+the Summer Palace, but the grounds where pheasants are still
+plentiful, commenco only at about two days' journey from Pe
+king. The best shooting is to be had in the hills to the north.
+204. Syrmaticus reevesii Gray. (Reeve's or Longtailed Phea-
+sant).-D. S.- chih-chi P.- E shan-chih,
+chi, ti-chi, or ti-chik P. Ts.
+shan
+This magnificent pheasant has, as far as I know, never been
+shot by Europeans within the province of Chihli, but a fow are
+generally brought to Peking in winter, probably from tho south-
+western hills. It is of more frequent occurronco in Shansi,
+Shensi and Sse-ch'uan.
+205. Pucrasia xanthospila Gray.-D.
+206. Crossoptilon mantchuricum Swinh.
+(Hoki Pheasant).-
+D. S.-ho-chi P.-P. Ts.-Sh. Ch. Ch. F.-
+'hei-chi Sh. Ch.- 'hei-chih P. Ts.- chich P. Ts.
+--
+The genus Crossoptilon or Eared Pheasant, which is peculiar
+to north China, Manchuria and eastern Central Asia, is at once.
+distinguishable by its largo size, brond bushy tail and the
+whito tufts of feathers on both sides of the rod face. There
+are three or four species known: first, Crossoptilon auritum,
+already described as Phasianus auritus by the Russian Natu-
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+95
+ralist Pallas in the last century. In the succeeding period the
+knowledge of its habitat had been lost, but P. David discovered
+the species again in Kokonor. He took it for a now species
+and described it as Crossoptilon caerulescens, but the identity
+with Phasianus auritus Pall. has since been pointed out. (cf.
+Swinhoo Proc. Zool. Soc. 1871, p, 899). The second species is
+Crossoptilon dronynii Milne-Edwards, discovered by David on
+the eastern frontiers of Tibet, perhaps the same as Crossoptilon
+tibetanum Hodgson. The third species is spread over north
+China and Manchuria. It was at first also taken for Phasianus
+auritus Pall., but is justly described as a new species, Cr. man-
+tehuricum, by Swinhoe (Proc. Zool. Soc. 1862, p. 287). It is
+a fine bird; nearly as large as a turkey, with dark blue almost
+black plumage, with which the bushy greyish white tail, the
+white tufts on the head, the red face and red legs contrast
+beautifully.
+The Crossoptilon lives on wooded hills, and is for that reason
+very rare near Poking. The nearest place where they are to
+be found, is the country round the coal mines of Chaitang, west
+of Peking; from those hills which are still well wooded, P.
+David got his first specimens. The Crossoptilon is of more
+frequent occurrence in the north, in the part of Chihli outside
+of the Great Wall and towards Manchuria; European sports-
+man havo several times succeeded there in bagging this remark-
+able game bird.
+There is no difficulty in tracing out the name of this species
+in Chinese literature; the present popular name, 'ho-chi ('ho-ki)
+is the same as in the books; and comparing the de-
+scription of this as given in the Pên-ts'ao or Sants'ai-t'u-'hui
+one cannot but wonder why Williams explains it as "a variety
+of Reeves' pheasant, Phasianus superbus." The Pên-ts'ao says
+that it is like a pheasant but larger, of yellow and black colour,
+and has horns of feathers (10) on the head, and gives 'hei-
+chih "black pheasant" as a synonymous appellation.
+207. Perdix barbata J. Verr. & Desm. (Grey Partridge).-D.
+-pan-ch'ih ("half winged") P.-sha-chi P.
+Common on the baro hills northwest of Peking, especially
+beyond the inner branch of the Great Wall.
+208. Caccabis chukar var. pubescens Swinh. (Chinese variety
+of the Himalayan Chukar Partridge).-D. S.-shih-chi
+P.-Sh. Ch. or shih-chi-ts: P.
+Common in the hills near Peking.
+Partridges are designated in the books by ché-ku or
+yüich-chih.
+
+96
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+209. Tetrastes bonasia L. (Hazelhen, Hazelgrouse.-D.-
+sung-chi P.
+The European Hazelgrouse (Haselhuhn), which is common
+all over Siberia to the Amur, has been observed by David in
+northern Chihli. Specimens are sold in Peking occasionally;
+some are said to be kept in the Nan-'hai-tszě.
+210. Tetrao urogalloides Pall. (Siberian Capercailzio).-D.
+Observed by David in northern Chihli.
+211. Coturnix communis Bonn. (Quail).-D. S.-an-
+ch'un.
+212. Hemipodius viciarius Swinhoo.-shui-an-ch'un P.
+213. Otis tarda L. (Bustard).-D.-ti-pu P.-Sh. Ch.
+-pao P. T.-tu-pao ibid.
+The Great Bustard is getting very rare now in Chihli. In
+1860 and 1861 foreigners used to have very good sport after
+this bird near Tientsin; and in the later years specimens were
+often sold at the markets, but during the last years I have never
+seen a single one either in Peking or in Tientsin. The natives,
+however, asserted that there are bustards still in the northeast
+of the province.
+214. Grus cinerea Bechst. (Common Crane).-D.-
+'hui-'hao P.-Sh. Ch.-Ch. F.- ch'ing-hao P.
+215. Grus monachus Tomm.-D.-hsian-'hao P. Ts.
+216. Grus leucauchen Tomm.-D.
+This greyish white crane with red legs, which occurs in Japan,
+Amurland, Siberia and Mongolia, has been observed by David
+near Süan-'hua-fu, together with the preceding and following
+species.
+217. Grus viridirostris Vicill. (White Crane).-D. S.-1
+hsien-'hao P.-pai-'hao P.-Sh. Ch.-Ch. F.-'hao,
+flhsien-ch'in, t'ai-ch'in W. H.
+This beautiful whito crane with black wings and a red crown
+is sometimes brought alive to market for sale at Poking, but it
+is doubtful whether those specimens were caught within Chihli
+or perhaps brought from Liaotung.
+218. Grus virgo L.-D.
+Breeds in Mongolia, and has been seen in the north-western
+part of Chibli.
+219. Glareola orientalis Lath. (Swallow Plover).-D. S.-
+ttu-yen-tsze T. ("ground swallow").
+Common near Tientsin in summer; the Chinese name justly
+refers to the swallow like appearance of the bird and to its habit
+of nesting in the ground.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+97
+220. Vanellus cristatus Mey. & Wolf. (Peewit, Lapwing).-D.
+-wa-tsze P.- shui-chi P.-T.
+221. Chettusia cinerea Blyth. (Grey Lapwing).-D. S.
+222. Squatarola helvetica L.-D.
+223. Charadrius fulvus Gm. (Golden Plover).-D. S.-
+chin-pei-tszě T.
+Rare at Peking; uncommon round Tientsin in spring.
+224. Eudromias veredus Gould.-D..
+225. Aegialites mongolus Pall. (Mongolian Plover).-
+ch'iao-rh-cha T. ("sparrow-plover").
+This little redbreasted plover occurs near Tientsin in spring;
+it is not mentioned by David.
+cha (in Tientsin tsa) or shui-cha is now in Tientsin a
+general name for smaller water-birds, including snipe, plovers,
+sandpipers, redshanks and the like. In the books shui-cha de-
+signates the snipes.
+226. Aegialites hartingi Swinh. (Chinese Ringed Plover).-D.
+227. Aegialites cantianus Lath. (Kentish Plover).-D.
+228. Aegialites hiaticula L. (European Ringed Plover).-D.
+229. Aegialites dubius Scop. (Sand Plover).-D. S.
+230. Haematopus osculans Swinh. (Chinese Oystercatcher).
+-D. S.
+231. Recurvirostra avocetta L. (Avoset).-D.
+232. Himantopus candidus Bonn. (Long-legged Plover).-D.
+Để t ng ch 'ang-tri-nang-sse T.
+Only one seen by P. David at Peking; I got several speci-
+mens at Tientsin in May 1876.
+233. Totanus glottis L. (Greenshank).-D.
+284. Totanus fuscus L. ("Spotted Snipe ").-D. S.
+235. Totanus calidris L. (Redshank).-D. S.-I
+’hung-t’ui-cha T.
+236. Totanus glareola L. (Wood Sandpiper).-D. S.
+237. Totanus ochropus L. (Green Sandpiper).-D. S.
+238. Totanus incanus Vieill.-D. S.
+239. Tringoides hypoleucus L.-D. S.
+240. Terekia cinerea Gmel.-S.
+241. Limosa uropygialis Gould. (Eastern Godwit).-D.
+242. Limosa brevipes G. R. Gray.-D.
+243. Pseudoscolopax semipalmatus Jerdon. (Snipe-billed God-
+wit).-S.
+244. Scolopax rusticola L. (Woodcock).-D. S.-***
+ta-shui-cha T.
+245. Gallinago solitaria Hodgs.-D.
+
+98
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+246. Gallinago megala Swinh. (Eastern Great Snipe, "Double
+Snipe ").-D. S.
+247. Gallinago horsfieldi Gray.-D. S.
+248. Gallinago scolopacina Bp. (Common Snipe).-D. S.-
+shui-chi-rh P.-shui-cha P. T.-(also applied
+to the two preceding species).- an-ch'un-tsa T. ("Quail-
+Snipe").
+249. Limnocryptes gallinula L.-D.
+250. Rhynchaca bengalensis L. (Painted Suipe).-D. S.
+251. Tringa tenuirostris Horsf.-D. S.
+252. Tringa canutus D. (Knot).-D.
+253. Tringa damacensis Horsf.-D. S.
++254. Tringa salina Pall.
+This "Little Stint," the eastern representative of Tringa
+minuta of Europe, has not previously been recorded as forming
+part of the Fauna Pekinensis. It arrives with the snipe in
+spring, and is not uncommon on the marshes near Peking.
+255. Tringa subarcuata L.-D. S.
+256. Tringa cinclus var. chinensis Gray.-D. S.
+257. Tringa temminckii Leisl.-D. S."
+258. Numenius phaeopus L. (Whimbrel).-D. S.-J.
+hsiao-kou-lou-rh T. perk-perk-kou-lou-rh T. (perhaps to be written
+511, both kou-lou-rh and perh-perh are imitations
+of the cry of the curlews).
+259. Numenius tahitiensis Gmel. (Eastern Curlew).-D. S.-
+kou-lou-rh T.-chang-chi P.
+260. Ibidorhynchus Struthersi Vig.-D.
+261. Ibis nippon Temm. & Schl. (Japanese Ibis).-D.
+262. Tantalus leucocephalus Gmel.-D.
+263. Ciconia alba L. (Common Stork).-D.-kuan,
+pai-kuan P. Ts.-? ch'ing-chiu P.
+The stork resorts to Chihli but occasionally; P. David saw it
+once near Taku, and I have only once seen a small flock near
+Peking in summer 1875.
+The Chinese name kuan has been identified by Swinboe
+(Birds and Beasts of Formosa, Journ. N. Ch. Br. R. As. Soe.
+1865), and Williams with the Heron; and it is very probable
+that, the stork not occurring in southern China, the term is
+applied there to the different species of Ardea, but in the books,
+at least in the Pên-ts'ao, kuan designates undoubtedly the stork.
+The description given by Li-shih-chên says: "The kuan is
+like the crane but the crown of the head is not red; the neck is
+long, the bill red, the plumage is ashen grey and white, the
+wings and tail quite black. It nests mostly on high trees."
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+99
+Another author, quoted in the Pên-ts'ao, says that the kuan
+does not cry, but produces a noise by flapping the bill together,
+and that it chiefly nests on roofs.
+The Tien-ching-fu-chih quotes a passage from the ***
+about the kuan in which it is described as being like the
+crane but without a red crown, having red legs and nesting
+on high trees or on roofs. These notes mention all the well
+known peculiarities of the stork: its clattering noise, its nesting
+on roofs and trees, its red bill and feet. The name kuan is not
+in general use now at Peking, but in the hills the people called
+the black stork hei-kuan, and told me there was a pai-kuan which
+was very rarely seen, and which according to their description
+unmistakably was the common stork.
+In Peking the stork is sometimes called ch'ing-chia, the grey
+heron 'hui-chiu, the egret pai-chiu; I have not been able to find
+out the meaning of chiu (in the third tone) nor was any Chinese
+able to write the proper character for it.
+264. Ciconia nigra L. (Black Stork).-D.-wu-kuan
+yang-wu P. Ts.-hei-kuan P.
+The black stork is less uncommon in Chihli than the white
+stork. P. David mentions that it nests on rocks in the moun-
+tains near Peking; I saw it myself several times in the western
+hills in summer.
+265. Ardea cinerea L. (Common Heron).-D. S.-
+ch'ing-chuang P.-Ch. F.-Sh. Ch.- ch'ing-chang Sh. Ch.
+hsin-t'ien-yüan ibid.-wa-tsze T.
+The present popular name of the common heron ch'ing-chuang,
+i. e. the grey serious sc. bird, occurs in the Chifu-t'ung-chih
+and Shông-ching-t'ung-chih; in the latter work this name is
+identified with ch'ing-chang and haien-t'ien-yuan (i. e. the bird
+which confides in providence. The Pên-ts'no records hsin-t'ien-
+yuan, to which ching-chuan is added as a synonym, after the
+description of the Pelican (b. 47, f. 5). The name is said to be
+given because the bird stands the whole day immoveable near
+the water, and waits till a fish passes by. This would very well
+agree with the habits of the heron; but that the heron should
+be classed with the pelican, would appear strange even in a
+Chinese zoological system. It is doubtful, therefore, whether
+these names have the same signification in the Pen-ts'ao as
+they have now.
+The Chifu-t'ung-chih on the other hand identifies ch'ing-
+chuang with chiao-ching. Of this the Pên-ts'ao gives the
+following description: "The chiao-ching is as large as a duck
+but has long legs and a long bill, it is fond of pecking; on the
+
+100
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+crown it has a red tuft. The plumage is spotted with green,
+the bill red, the legs grey (F), it can be trained to perform
+tricks." The drawing of the chiao-ching is not unlike a heron,
+but the description does not seem to admit this identification.
+266. Ardea purpurea L.-D.-tien-kuo-niao T.-
+hua-wa-tsze T.
+Passes Tientsin in spring and autumn.
+267. Egretta modesta Gray. (Eastern Egret).-D. S.-
+pai-chuang P.-lu-sse P. Ts.-S. Ts.-Sh. Ch.-Ch. F.-
+pai-lu E. Y.-P. Ts.-sse-ch'in P. Ts.-
+hsuch-k'o ibid.-pai-niao ibid.-ch'un-ch'u E. Y.-
+P. Ts. (i. e. the bird which arrives at the time of the spring
+hoeing).-pai-chiu P.-pai-wa-tszě T.
+268. Garzetta egretta Briss. (Little Egret).-D.-N7
+pai-shuang-wa-tarẻ T.- chu-yü P. Ts.
+The popular term wa-tsze, applied in Peking to the peewit,
+means probably "marsh bird," and would best be written as
+above. In Tientsin it is applied to several birds of the Heron
+tribe.
+269. Nyctiardea nycticorax L. (Night Heron).-D. S.-
+'hui-wa-tsze T.
+270. Botaurus stellaris L. (Bittern).-D. S.-
+shui-
+lo-t'o P. Ts. (i. e. water camel, from the peculiar cry of the
+bittern which presents some resemblance to that of a camel).
+271. Ardetta cinnamomea Gmel. (Little Bittern).-
+hsiao-shui-lo-t'o P.-(?) kén-chi-tsze P.-shui-
+chi-tszě T.
+Near Peking and Tientsin in summer.
+272. Ardetta sinensis Gmel.-D. S.-Chinese names the same
+as those of the last species.
+Common near Peking and Tientsin in summer.
+278. Gallinula chloropus L. (Moorhen).-D. S.
+274. Porzana erythrothorax Temm. & Schl.-D.
+275. Porzana pygmaea Naum. (Little Crake).-D. S.
+276. Rallus indicus Blyth. (Asiatic Water Rail).-D. S.
+277. Fulica atra L. (Coot).-D. S.-Au-ting-chi
+P.-T.-Sh. Ch.-T ku-ting (T'ien-chin-fu-chih).
+ku "orphan "has evidently been chosen merely to express
+the sound of the popular name. Ku ought perhaps to be written
+i. e. swollen, tumid; ku-ting-chi would then signify "tumid-
+crowned hen," thus justly describing the white fleshy excrescence
+on the head of the coot.
+
+部交外
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURES
+278. Podiceps philippensis Bonn. (Eastern Little Grebe
+D. S.-'huang-pei-ya P
+279. Mergellus albellus L. (Smew).-D. S.
+280. Mergus serrator L.-D. S.
+281. Mergus castor L.-D.
+282. Cygnus musicus Bechst.-D.
+283. Cygnus minor Pall.-D.
+101
+酵
+284. Cygnus davidi Swinh. Proc. Zool. Soc. 1870, p. 480.-D.
+-Of this little white swan with orange-red bill and legs only
+one specimen is known, which P. David obtained in the market
+of Tientsin; it is preserved in the collection of the Roman
+Catholic Mission at Peking.
+All swans are called t'ien-, of which ku is a syno-
+nym. In the Pên-ts'ao several species are distinguished: the
+ta-chin-t'ou-e "great golden-headed swan," hsiao-
+chin-t'ou- little golden-headed swan," Jhsiao-"hua-é
+"little variegated swan."
+285. Anser segetum var. serrirostris Gould. (Bean Goose).-D.
+286. Anser albifrons Gmel.-D.
+287. Anser eygnoides L.-D.
+Wild Geese are yen or
+hung in Chinese; in Peking
+they are called ta-yen or ta-yen, -rh.
+288. Anas boschas L. (Mallard).-D.-fu, Fyel-ya,
+yeh-mu, shih, ch'en-fu W. H. (wild duck in
+general)-Dil-t'ou-ya P. Ta.-Sh. Ch.-P.-*
+shui-ya-tsze P.-hung-chiao-ya-rh P. ("red footed
+duck")-ta-hung-t'ui-ya P.
+289. Anas zonorhyncha Swinh.-D. S.
+290. Tadorna cornuta Gmel. (Sheldrake).-D.-kuan-
+ya T.-kuan-fu P. Ta..
+Tientsin in spring.
++291. Casarca rutila Pall.-
+'huang-ya P.
+Peking and Tientsin in spring, very rare.
+292. Spatula clypeata L. (Shoveller).-D.-pi-
+pa-tsui-ya T. ("guitar-shape-billed duck").
+Rare near Peking, common near Tientsin in spring.
+293. Dafila acuta L. (Pintailed Duck).-D. S.-
+ch'ien-wei-ya P.-Sh. Ch.-P. Ts.
+294. Mareca penelope L. (Widgeon).-D.
++295. Cyanopterus querquedula L.-pai-mei-ya P.
+("white-eyebrowed duck").
+Not mentioned by Swinhoe or David as occurring in China;
+I obtained one specimen at Peking in spring 1874.
+
+102
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+296. Querquedula crecca L.
+hsiao-shui-ya-rh P.-T.-
+(Teal).-D. S.-J
+hsiao-pa-ya P.-T.-
+'huang-lien-ya P. ("yellow faced duck")-VE PT SL ni-kua-
+ta-rh P. (i. e. the duck which gaggles in the mud).
+297. Aix galericulata L. (Mandarin Duck).-D. S.-#
+yuan-yang.
+298. Eunetta formosa Georgi. (Anns glocitans Pall).-D. S.
+-hua-lien-ya P.
+299. Eunetta falcata Pall.-D. S.-Xlo-wên-ya T.
+(i. e. the duck striped like network).
+300. Harelda glacialis L.
+Taku (David).
+301. Fulia cristata L. (Tufted Duck, Scaup).-D.-
+feng-t'ou-ya-tszě P.
+302. Phalacrocorax carbo L. (Cormorant).-D. S.-
+lu-tsz, shui-lao-ya (water crow "31) W. H...
+303. Pelecanus philippensis Gmel. (Pelican).-D.
++304. Pelecanus rufescens.-I bought two specimens of a Pelican
+at Peking in 1874, which were determined as P. rufescens at
+Berlin.
+The pelicans are called
+805. Larus niveus Pall.-D.
+t'ao-'ho in Chinese.
+806. Larus crassirostris Vieill.-D.
+307. Larus cachinnans Pall.-D. S.
+808. Larus occidentalis Aud.
+809. Chroicocephalus brunneicephalus Jerdon.-D.
+310. Xema kittlitzii Licht.-D.
+311. Sylochelidon caspia Pall.-S.
+812. Hydrochelidon nigra L. (Black Tern).-D. S.-
+Fhei-t'ou-ying-tszě T.
+Fy-ying-tszě "fishhawk" is a general term for terns
+at Peking and Tientsin, especially applied to the common tern. In
+forming special names for the different species yü is often omitted.
+313. Sterna hirundo L. (Common Tern).-S.-yü-ying-tsze
+P.-T.
+814. Sterna fuliginosa Temm.-D.
+315. Sternula minuta L. (Lesser Tern).-D. S.-T
+'huang-tsui-ying-tszě T.
++316. Diomedea albatrus Pall.-'hai-e.
+Seen near Taku.
+31
+"Water Crow" corresponds to the European terms of the Cormorant.
+German: wasserrabe, seerabe, French: cormoran, contracted from the Latin
+corvus marinus, i, e. sea raven.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+III. REPTILES.
+103
+1. Clemmys reevesi Gray Syn. Rept. p. 73, Cat. of Shield
+Rept. p. 18, t. V.-Strauch, Verth. d. Schildkröten über d.
+Erdball St. Peterb. 1865, p. 65.-Emys sinensis. David Rens.
+p. 228. kuei.
+A small marsh tortoise peculiar to China, where it has been
+found in various provinces. I am not aware of its occurrences
+near Peking, but it is not uncommon at Tientsin.
+2. Trionya sinensis Wiegmann Nov. Act. Acad. Leop. XVII,
+p. 189. Strauch, Verth. Schildkr. p. 129. (=T. Schlegelii
+Brandt, T. japonicus Schlegel, T. perocellatus Gray, T. tuber-
+culatus Cantor, teste Strauch).-Gymnopus perocellatus. David
+Rens. p. 228.-chia-yü P.-T.-pich, t'uan-yü
+P. Ts.
+The genus trionyx, of which there are several species known
+from Africa, America and India, is distinguished by the soft
+cartilaginous covering of the body, the protracted nose like a
+short proboscis and the very long neck. In China, "Snapping
+Turtles" occur in all provinces, which have been described as
+different species under the above names. One of the best
+authorities on shield reptiles, Dr. Strauch of St. Petersburg,
+considers not only all the Chinese forms to belong to the same
+species, but also to be identical with the Japanese trionyx.
+The Chinese trionyx is common in the rivers of Chihli, even
+in the small streams near Peking; it often reaches one foot in
+length, without the neck.
+The Chinese call it at present chia-yü, "scaly fish ;" its book-
+name is pieh or t'uan-yü "lump fish." The description of
+the pieh unmistakeably points to the trionyx: "The pieh is a
+scaly animal, which lives in the water but is bred on land. Its
+spine and ribs are connected like those of a turtle, but it has
+on all sides a fleshy rim. Therefore it is said the turtle (kuei) has
+the flesh within the shell, the pieh the shell within the flesh.'"32
+3. Eremias argus Peters Monatsber. Berlin Acad. 1869, p.
+61, f. 8.-Steindachner Sitz. Ber. Wien. Acad. LXII. 1. p. 336,
+t. II, f. 1, 2.-Swinhoe Proc. Zool. Soc. 1870, p. 410.-Er.
+variabilis David Rens. 1. c. p. 227.-Podarces argus (Peters).
+Strauch in Prshevalski's Mongolia and the country of the
+Tanguts II (1876) p. 32.-ma-she-tszě P.
+Pên-ts'ao-kang-mu B. 45, f. 12:
+Why Williams translates pich by Sea Turtle, is not easily conceived; all
+turtles are kuci, and there is no species of the Chelonae in the Chinese
+waters without a hard covering.
+
+104 THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+The common lizard of the cultivated fields about Peking,
+especially near the hills. The same species has been found
+around Chefoo, in Mongolia and in the Ortous country. How
+far it ranges to the south is not known yet.
+4. Phrynocephalus caudicoleulus.-David Rens. 1. c. p. 227.
+All lizards are called 石龍子 shih-lung-tszě or 山龍子
+shan-lung-tszě in the books.
+5. Gecko japonicus Dum. & Bibr. (Japanese Gecko).-
+shou-kung P.Ts.-pi-kung,
+壁虎
+(grub tiger"), Eyen-t'ien ibid.
+Common in Chihli and all over China.
+pi-'hu, 'ho-'hu
+蝎虎
+6. Elaphis taeniurus Cope.-Günther Rept. of Brit. India, p.
+242.-Swinhoe Proc. Zool. Soc. 1870, p. 410.
+This snake had formerly been observed at Shanghai and
+Ningpo; I captured a very large specimen in the monastery of
+Ta-chio-sse, northwest of Peking, which measured about 7 feet.
+7. Elaphis dione Pall.-Strauch, Schlangen des Russ. Reich.,
+p. 82. Prehevalski's Mongolia II, p. 46.-David, Rens. 1. c.
+p. 227. huang-ch'ang-ch'ung P.
+The commonest snake near Peking, and very variable in
+colouring. I got a specimen also from Manchuria. It is com-
+mon in Mongolia and Siberia.
+8. Coluber mandarinus Cantor.-
+riegated girdle ").-T.
+'hua-tai-tsze (“va-
+A black water snake with orange-red marks.
+9. Tropidonotus tigrinus Russel.-Amphiesma tigrinum David,
+Rens. 1. c. p. 227.-
+yeh-chi-po ("pheasant's neck ")
+P.− Đề thi ching-chang-chung P.
+North China and Japan. Greyish olive green with red marks
+on the neck, and black spots on the sides.
+10. Masticophis spinalis Ptrs. Monatsh. Berl. Acad. 1866,
+p. 91. Strauch in Prshovalski's Mongolia II, p. 46 (Zamenis).
+This pretty snake, brownish black with bright yellow marks,
+had been described by Professor Peters some time ago, but the
+habitat of the species was hitherto unknown. I discovered it
+in the western hills near Peking. Prshevalski found it on the
+Alashan mountains in Mongolia.
+11. Halys blomhoffii Schlegel.-Günther Rept. of India, p.
+393.-Swinhoe Proc. Zool. Soc. 1870, p. 412.-Trigonocephalus
+blomhoffii Strauch in Prshevalski's Mongolia II, p. 52. David,
+Rens. 1. c. pp. 227-228.
+This spotted brown viper has been observed in Japan, For-
+mosa, Mongolia, Sse-chu'an and Kiangsi; it is the only venemous
+snake in north China. Near Peking it is not of frequent occur.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+105
+部病
+of Chihli I
+have come across only two specimens. A very fine one was
+captured near the temples of Patach'u by gentlemen of the
+British Legation in 1875.
+renee, and during all my rambles through the hits ?
+The Chinese dread this viper very much and callit
+fai-shang-ts'ao i. e. the snake which flits on the grass, or
+ch'i-ts'un-taze i. e. the snake of seven inches.
+E
+12. Rana reinhardti Peters. (Edible Frog).-tien-chi
+(field chicken ") P.-P. Ts.wa W.-ching-chi
+(green chicken") P. Ts.-tso-yü ("sitting fish") ibid.
+hsia-yi ibid.
+The edible frog of Peking was determined as R. reinhardti
+by Professor Peters. Besides this species there occurs another
+forog in the waters of Chihli, very much like our common frog,
+FR. temporaria; which, however, I cannot properly classify, the
+mecessary literature not being at my disposal.
+13. Hoplobatrachus davidi A. Dum.-David, Rens. 1. c. p. 227.
+14. Bufo vulgaris Lat. (Common Toad)-ha-ma,
+lai-ha-ma.
+Ha-ma has often been translated by frog (e. g. by Williams,
+Morrison), but it is always applied to the toad in Peking. In
+the books, at least in the Pên-ts'ao, 'ha-ma or hsia-ma means
+ocertainly the toad, not the frog. Frogs are called wa or t'ien-
+echi in Wen-'hua as well as in Su-'hua.
+IV. FISHES.
+The subjoined list embraces only the fresh-water fishes of the
+province; I have had no opportunity yet of studying the marine
+Fauna. The scientific nomenclature will be found imperfect in
+many instances; the only literature available for me consist-
+ed, besides some general books of reference, of Basilewski's
+Ichthyographia Chinae borealis and Bleeker's Mémoire sur les
+Cyprinoides de la Chino (Amsterdam 1871).
+1. Siniperca Chua-tsi (Basilewski).-Perca Chua-tsi. Bas.
+Lc. p. 218, t. I, f. 1.-
+'hua-chi-yü P.
+This peculiarly coloured perch, called "Mandarin Fish" by
+foreigners, is very common in the fish markets of Peking and
+Tientsin.
+2. Siniperca chuan-tsi (Bas.)-Perca chuan-tsi. Bas. 1. c. p.
+218, t. II, f. 1.-huang-chi-yü P.
+
+106 THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+The perches of variegated colouring are described in the Pên-
+ts'no as kuei-yü (chich-yu) or chi-yü,
+shih-kuei-yi.
+The character
+identified with
+is not mentioned in the Pên-ts'ao, but it is
+in the Tien-ching-fu-chih.
+3. Labrax luyu Basil. (Chinese Sea perch).-Labrax ly-iuy
+Basilewski 1. c. p. 219.-lu-yü P.-T.-W.
+The Labrax, although a marine fish, comes up the river as
+far as Tientsin; I have seen myself fresh lu-yü caught in the
+Pai-'ho. The Pên-ts'ao-kang-mu asserts that it occurs in the
+Sung-kiang T, the upper Wusung river], and does not
+mention at all that it is found in the sea. The description
+is too short and insignificant to make it at all sure that the
+lu-yü of the Pen-ts'ao is the same as the lu-yi of the colloquial
+language; but the fact that the different species of labrax aro
+called lu-yü in Canton as well as in the north renders this
+identification very probable. Besides, Li-shih-chên says that
+the species of the Sung-kiang is like a perch (5) of white
+colour with black spots. It would be very interesting if
+European naturalists could ascertain whether there lives in the
+Sung-kiang a kind of spotted fish which does not exist in other
+Chinese waters.
+4. Ophiocephalus argus Cantor.-Ophioc. pekinensis. Basil. l. c.
+p. 225, t. XI, f. 3.-'hei-yi P. ("black fish ")-
+li-yü P. Ts.-li-yu, 'hei-li, hsüan-li, wu-li,
+tung-yu, wén-yü ibid.
+The Chinese Ophiocephalus or Snakefish, for the first time
+discovered by Cautor on the inland of Chusan, has afterwards
+been observed all over China, and is common in the rivers of
+Chibli.
+Williams justly identifies the li-yi of Chinese literature with
+the Ophiocephalus; I subjoin the description given in the Pên-
+ts'ao-kang-mu which is remarkable for its correctness: "The
+body is long, head and tail round, the scales fine, the colour
+black (); it has spots and variegated stripes (有斑點花文),
+and is somewhat like a snake, it has a tongue and teeth, and a
+stout back and belly; the dorsal fin is connected with the caudal
+one, the latter is not forked."
+5. Polyacanthus opercularis (L.)
+A small species of the Labyrinthici which I discovered in the
+small rivulet formed by the discharge of the hot spring of Wen-
+ch'üan-sse north-west of Peking. The same fish occurs in the
+waters near the hot springs of T'ang-shau. It has not yet been
+observed in other localities of the province.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+6. Gasterosteus sinensis.-David, Rens. 1. c. p. 227.
+107
+A new species of stickleback discovered by David, of which I have
+nnot been able to obtain specimens or to ascertain a Chinese name.
+7. Salmo sp. an nova?
+Neither Basilewski nor David mention the occurrence of a trout
+iin Chihli, and I have not myself been able to discover a species
+oof salmonidae in the rivers of our province. In autumn 1875,
+hhowever, Mr. E. L. B. Allen of H. B. M.'s Consular service brought
+mme kindly a specimen of trout which he caught during a sport-
+iing expedition to the northern part of Chihli. Although not
+ffull grown and not very well preserved, the fish was unmistakably
+Strout, of reddish grey colour with small black spots. Mr.
+AAllen told me that the species lives in great numbers in a river
+inn outer Chihli, about four or five days' journey north of Peking,
+Hprobably an affluent of the Luan-'ho, and that he has seen
+Especimens of one foot and a half in length. Whether this trout,
+wwhich does not agree with any of the European trouts I know,
+is a species hitherto undescribed, or perhaps identical with a
+#trout already known from Manchuria or the Amoorland; I am
+Inot prepared to decide.
+The Chinese call the trout 'hua-yü, i. e. variegated
+(or spotted) fish.
+8. Silurus asotus L. (Sheatfish).-Basil. 1. c. p. 241, t. III,
+f. 4.-nien-yü P.-T.-P. Ts.- t'i-yi P. Ts.-
+yen-yu ibid.
+Common, up to five feet in length.
+9. Pseudobagrus fulvidraco Richardson.-Silurus calvarius
+Basil. 1. c. p. 241, t. IX, f. 1.-ka-yü or ka-rh-yü P. (imi-
+tation of the curious creaking sound this fish produces).-M
+huang-sang-yu (yellowforeheaded-fish).-
+'huang-
+chang-yü,
+huang-chia-yü (yellow-cheeked fish.- BL
+yang-ya, L'huang-ya P. Ts.
+A kind of sheatfish, peculiar to China, greenish brown above
+and bright yellow underneath. It is smaller than the common
+sheatfish, but sometimes attains the length of three feet.
+The above quoted booknames have been otherwise explained
+as the "Goby" (Williams' Dictionary p. 1068), but it is clearly
+seen from the following description that our species is meant:
+"The 'huang-sang-yü is a fish without scales, the body and tail
+like a small sheatfish (nien-yu), the underparts are yellow, the
+back greenish yellow (). On the gills there are two
+transverse bones (? 33); the two cirri have. It swims
+* 兩有胃
+腮下有二橫骨
+34
+
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+108
+in flocks, it makes a noise like ya-ya35. It has a very tenacious
+life." (Pên-ts'ao b. 44, f. 15).
+10. Misgurnus anguillicaudatus Günth. (Chinese Loach).-
+Cobitis anguillicaudatus McCl., C. bifurcata McCl., C. pectoratis
+McCl. (teste Bleeker Mém. Cypr. p. 17).-Cobitis psammismus
+Richardson.-Cobitis decemcirrosus Basil. 1. c. p. 239, t. VII, f. 2.
+-ni-yü P. ("mud fish ").- ch'iu-yü P. Ts.-
+ni-ch'iu ibid.- Asi E. Y. (vol. III, f. 3)-P. Ts.-
+ni-ch'iu-rh T.
+Père David records a Cobitis pavonaceus (Rens. 1. c. p. 227) from
+Peking, which is probably the same as Basilewski's species; I
+have never seen but one cobitis in Peking. Dr. Williams ex-
+plains the ch'in-yü as an eel, "the large mud or conger eel."
+The conger eel is called 'hai-man-li, as Williams
+himself mentions (Syll. Dict. p. 575); the identity of ch'iu-yü
+with the cobitis can easily be seen from the drawing given in
+the Pên-ts'ao, or still better from the very correct illustration of
+the hsi or ch'iu in the Erh-ya.
+11. Carpio vulgaris Rapp. (Carp).-Cyprinus chinensis Basil.
+1. c. p. 227, t. II, f. 8.-Cyprinus obesus Basil. 1. c. p. 228, t. I,
+f. 2; t. V, f. 2.-li-yu.
+The Carp, common all over China, is no other than the Euro-
+pean species. The various species described by Basilewski from
+Peking (C. chinensis, obesus) and by Richardson from southern
+China (C. atrovirens, flammans, acuminatus, sculponeatus, hybis-
+coides) are all forms of the Cyprinus carpio or Carpio vulgaris,
+slightly different in colouring or dimensions. (cf. Bleeker, Mém.
+sur les Cyprinoides de la Chine 1871).
+12. Carassius auratus L.-Bleeker, Mém. Cypr. de la Chine
+1871. p. 7.-Carassius pekinensis, caeruleus, discolor Basil. 1. c.
+p. 229, t. III, f. 8; t. IX, f. 2.-Cyprinus auratus, macrophthal-
+mus, quadrilobatus Basil. 1. c. pp. 229-230, t. V, f. 1, 2, 4, 5.-
+Cyprinus gibelioides Cantor, C. abbreviatus Rich., C. carassioides
+Rich., C. langsdorfii Val., C. lineatus Val., (testo Bleeker).-
+Normal form: ẞchi-yü P.-T.-P. Ts.- fu-yü.-
+Golden variety: 1 chin-chi-yü P.-T.-chin-y.
+According to Bleeker all the species of "Bastard Carp" or
+Carassius described by various authors from China belong to the
+"Gold Fish" or the Cyprinus auratus of Linnaeus. The nor-
+mal colouring of the species is greenish-brown, and the "Gold
+Fish" is a variety which has been developed by domestication.
+It is even doubtful whether golden-coloured fish occur at all
+$ 5
+Lya, a creaking sound.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+109
+in a state of nature. 36 I must mention, however, that in Tien-
+tsin a golden-coloured carassius was brought to me which had
+been caught in the Pai-'ho; it was considered to be a great
+curiosity, and to be different from the gold fish kept in captivity.
+The common form here is that called Carassius pekinensis by
+Basilewski; it attains about one foot in length, and its colour-
+ing is brown above, greenish brown on the sides. Forms of
+bluish-silvery colour (C. caeruleus Bas.), or of a lustre changing
+from silvery to blue, green and golden (C. discolor Bas.) are
+found singly among the typical ones.
+All these forms are called chi-yü in Peking and Tientsin, and
+the one specimen of golden-coloured carassius-a "wild gold
+fish" as we might style it-was designated by chin-chi-yü.
+chi-yü is likewise the name of the carassius in the Pen-
+ts'ao.
+The numerous monstrosities and varieties of the gold fish
+kept in confinement have all different names; the fishes furnish-
+ed with trilobous or quadrilobous tail, and large prominent
+globous eyes are lung-chin-yü, those without a dorsal
+finya-tan-yü etc.
+13. Pseudogobio rivularis Basil. (Chinese Gudgeon).—Gobio
+rivularis Basil. 1. c. p. 231.-Gobio sinensis Bleeker.-Pseudo-
+gobio sinensis Günther Cat. Fish. Brit. Mus. VII, p. 175.-
+Pseudogobio rivularis Bleeker Mém. Cypr. Chine, pp. 8-23, t.
+VIII, f. 1.- 'hu-t'ou-yi P. (tiger-headed fish."
+Uncommon near Poking and Tientsin, has likewise been
+observed at Shanghai.
+14. Leuciscus aethiops Basil. 1. e. p. 288, t. VI, f. 1. Bleeker
+Mem. Cypr. Chine, pp. 10-45, t. XIV, f. 1.-
+'hei-tien-
+yü "Black-spotted fish" P.-Ech'ing-chuang-yü T.
+A dark coloured "Bleak," about one foot loug, peculiar to
+north China.
+15. Leuciscus idellus Val., Richardson, Bleeker Mém. Cypr.
+p. 47, t. X, f. 2.-Leuciscus tschiliensis Basil. 1. c. p. 238.-
+'hou-yü P.-T.
+Not uncommon at Peking and Tientsin; it has likewise been
+found in the Yang-tszě-kiang and near Canton.
+16. Elopichthys dauricus Basil.-Nasus dauricus Basil. 1. c.
+p. 234, t. VII, f. 1.-(?) 'huang-tsuan-yü P.
+According to Basilewski this fish is only brought to Peking in
+winter from Mongolia and Manchuria, but I have seen quite
+fresh specimens, and the Chinese assert that it occurs in the
+30
+cf. Darwin, The Variation of Animals and Plants under Domestica-
+tion I, p. 296.
+
+110
+THE VERTEBRATA OF THE PROVINCE OF CHIHLI WITH
+rivers of Chihli. It attains the length of about four feet; its
+flesh is yellow and resembles in colour and flavour somewhat
+that of the salmon.
+17. Squaliobarbus curriculus Richardson.-Leuciscus curriculus
+Rich. Ichth. Chin. p. 299.-L. teretiusculus Basil. 1. c. p. 232,
+t. IV, f. 1.-Squal. curr. Bleeker Mém. Cypr. Chin. pp. 12-48,
+t. XIII, f. 8.-Prshevalski's Mongolia II. Fishes p. 19.-
+tsun-y P. Ts.-P.-pi-yi ibid.-
+chih-yen-yü "red-eyed fish" ibid.
+The most widely distributed species of the Chinese leuciscini;
+it has been observed in Canton, Ningpo, Shanghai, Kiukiang,
+Sse-ch'uan, Tientsin, Peking, and lately by Prshevalski in
+Mongolia.
+The Chinese names as given above probably include several
+other species of the same tribe.
+18. Xenocypris macrolepis Bleeker Mém. Cypr. de la Chine
+pp. 14-58, t. V, f. 2.-Leuciscus argenteus Basil. 1. c. p. 282.-
+hsiao-pai-yü P.
+19. Culter recurviceps Richardson.-Leuciscus recurviceps Rich.
+Ichth. Chin. p. 295.-Culter alburnus Basil. 1. c. p. 236, t. VIII,
+f. 3.-Culter recurriceps Bleeker Mém. Cypr. Chine p. 15.-
+ch'iao-t'ou-yü P. (i. e. the fish with the head bent up-
+wards).
+20. Culter erythropterus Basil. 1. c. p. 236, t. VIII, f. 1.-
+Bleeker Mém. Cypr. Chine p. 15.-ho-pai-yü P.
+The genus Culter is peculiar to China as well as the allied
+genera of Pseudoculter and Semiculter; its chief characteristic
+is the prominent inferior maxilla which bends upwards. There
+are eight species known, one of which, the C. recurviceps, has
+been found all over China, whilst the C. erythropterus is pecu-
+liar to north China, and six other species have only been
+observed in the Yang-tszě-kiang.
+All forms of this group are included in the term pai.
+yu or chiao. The latter name is explained in the Pên-ts'ao
+as formed from fish and curved, because "head and tail are
+bent upwards" (L).
+21. Pseudoculter pekinensis Basil.-Culter pekinensis Basil. 1. c.
+p. 287.-Pseudoculter pekinensis Bleeker Mém. Cypr. Chine p. 14.
+-lien-tsze-yü P.-T. ("sickle-fish")."
+22. Pseudoculter exiguus Basil.-Culter exiguus Basil. 1. c. p.
+237.-Pseudoculter exiguus Bleeker Mém. Cypr. Chine p. 14.-
+huang-'hua-t'iao-tszě P.-
+'huang-ku-yü
+P. Ts.
+
+NOTES ON CHINESE ZOOLOGICAL NOMENCLATURE.
+111
+From the entrails of this little fish the Chinese distil a yellow
+eil of rancid smell used in lamps.
+23. Parabramis pekinensis Basil. (North China Bream).-
+. Abramis pekinensis Basil. 1. c. p. 239, t. VI, f. 2.-Parabramis
+ipekinensis Bleeker Mém. Cypr. pp. 15-80.- pien-yü P.-
+T- pien, fang W. (including all species of Bream).
+24. Hemiculter leucisculus Basil.-Culter leucisculus Basil. I. c.
+p. 238.-Hemiculter leucisculus Bleeker Mém. Cypr. pp. 15-76,
+it. II, f. 1.
+25. Anguilla pekinensis Basil.-Muraena pekinensis Basil. 1. c.
+IP. 246, t. III, f. 2.- pai-shan-yü P.-T.-P. Ts.-
+man-li-yü P. Ts.- shé-yü ("snake fish").
+Tne Pekinese eel although very much like our common eel
+i in appearance is considered to be a different species.
+26. Monopterus javanensis Lacepède. (Mud Eel).-Apterigia
+saccogularis Basil. 1. c. p. 247, t. VIII, f. 2.-Apterigia nigroma-
+eculata Basil. 1. e. p. 248, t. II, f. 2,-Apterigia immaculata Basil.
+Il. c. p. 248.-shan-yu P.-T.-W.- 'huang-tan P.
+Ts. huang-shan T.
+The three species of "Apterigia" described by Basilewski
+sare to be combined into one, the latter two forms being rare
+vvarieties slightly diffrent in colouring. This mud eel, common
+sall over China, is identical with the species known from India.
+27. Ophidium aculeatum Basil. 1. c. p. 248.
+Another species of the eel family mentioned by Basilewski; I
+Ihave never seen this fish.
+'huang.
+28. Acipenser mantschuricus Basil. 1. e. p. 250.-
+gyü P.-T.-W.-shan-yü P. Ts.-la-yü ibid. ("wax
+fifish," from the yellow colour of the flesh).-Iyu-pan-
+wy ibid. ("jade-slab fish," from the hard bony scales of the
+Esturgeon).
+The large sturgeons sold at Peking and Tientsin in winter
+aare mostly brought from the Amoor, but also from the Yellow
+IRiver, and the Chinese assert that the sturgeon occurs likewise
+tithough rarely in the rivers of Chihli. The Pên-ts'ao contains
+aa fair drawing and a very good description of the sturgeon, and
+says that it lives in all the great rivers of China, and the T'ien-
+cching-fu-chih mentions the shan-yü as forming part of the Fauna
+cof the Tientsin prefecture.
+BIO:B

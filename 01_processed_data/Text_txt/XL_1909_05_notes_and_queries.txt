@@ -1,0 +1,408 @@
+NOTES AND QUERIES.
+Trans-
+literation.
+In the Journal for last year (1908) no less than three
+new systems for the transliteration of Chinese words are
+referred to, while, if we are not mistaken, four or five other,
+older, systems are used in the pages of the same volume.
+Transliteration is required for at least two distinct purposes. First,
+for the printing of Chinese books in roman letters for the use of the
+Chinese. And for this purpose it seems almost inevitable that a system
+representing approximately the sounds of the locality where a book is to be
+used will be employed; that there must be, that is to say, a large number
+of systems of transliteration used in the printing of Chinese books.
+But the transliteration with which we are now concerned is that
+required for the representation of Chinese words in dictionaries, grammars,
+and other books written in European languages and destined for European
+and American readers in any part of China or of the world. For this
+purpose it seems needless to say that there ought to be and might be only
+one system-theoretically needless; but in practice we find, as has been said,
+seven or eight systems used or incidentally referred to in a volume of 200
+pages, and the whole number of systems now or lately in use must be very
+much larger than seven or eight.
+No improvement seems to be likely until people will realize that no
+conceivable system can really describe the sounds accurately to one who has
+not heard them; that no system will suggest quite the same sounds to
+different persons; and that, granting a system which could describe sounds
+accurately to everyone, it would do so only for a few years, since the sounds
+themselves are changing in a word, that the intrinsic scientific excellence
+of a system is of infinitesimal value compared with its simplicity and the
+fact of its actual use. What we want then is to make up our minds that the
+detection of a few flaws in an old system shall not tempt us to publish a new
+system which may appear to us to represent more accurately, in some cases,
+the particular sounds with which we happen to be familiar. For example, the
+scathing criticisms which are hurled, however justly, at Wade's system do
+not affect the great claim to be universally adopted which it derives from its
+
+NOTES AND QUERIES.
+109
+simplicity and its long use by so many students and scholars. The essential
+thing is that we should all use one and the same system, which should be
+also, if possible, simple, since few of us can say seriously with Mr. Punch
+"the more arrow-marks there are over the tops of the letters the better I
+am'pleased."
+The scientific accuracy with which our system represents the Chinese
+sounds will be at best a matter of degree, by no possibility attaining
+perfection, and of supremely little importance. "What is wanted is not a
+multiplying of Chinese romanizations but a simplifying of them "; and so
+every one who invents a new or uses an unusual system is only helping to
+make confusion worse, confounded, and retarding the progress and popularity
+of Chinese studies.
+But one of the new systems mentioned above (that of the English
+version of Richard's Geography) "has been adopted by the Chinese Imperial
+Postal Service, and . . . will doubtless be widely availed of." Although
+the reviewer, from whom we quote, does not avail himself of it even in his
+review of the Geography, if we are right in thinking that the Cheos are the
+Djows of his earlier writing, and the Chow of the new system. And so one
+or two remarks on the system as explained by Father Kennelly himself
+(pp. iv-vii of the Geography) may not be quite superfluous.
+First we note "Pekingese spoken only at the Capital and in a small
+portion of Chihli and Honan Provinces," and "Nankingese is spoken by
+two-thirds of the whole population of the Empire, and is everywhere
+understood." But is it not more accurate to say that the main dialects of
+Manchuria, Chihli, W. Shantung, Shansi, Shensi, Szechuen and parts of
+Honan, have characteristics which distinguish them from Nankingese and
+ally them more or less with Pekingese; and that the dialects of Central
+China, if roughly speaking Nankingese, are very far indeed from being free
+from variety? Not that there seems to be any serious objection to the use
+of Nankingese-the dialect represented being after all as of little importance
+in itself as the exact method of its representation, though the ideal for
+literary purposes would surely be to represent some Chinese literary standard
+of sounds, as is done in Couvreur's Dictionary, in preference to that of any
+colloquial dialect.
+We note next with pleasure "the aspirates, a most essential element of
+the Chinese language, are indicated" (p. iv), and "the Mandarin dialect
+lacks the initials bdgqrvx and z," (p. vi). Turning to the actual table of
+sounds (pp. vi, vii) we find :-
+A dialect which requires the final has, however, some slight disadvantages both
+for the general reader and for the accurate student.
+
+110
+NOTES AND QUERIES.
+"ai-as in aye," "ei-as in height." This would make nine Englishmen
+out of ten say lai as English lay, and lei as English lie (the exact opposite of
+what is intended), and the tenth would say lie for lai and lei alike.
+"an-as ow in how but prolonged," i.e. the a prolonged. "ao-as ow in
+how," "eu-as ou in souse." "ow-as ow in how (see eu) "-three spellings for
+one sound apparently, but meant to give two sounds, Wade's ao and ou or the
+French aou and eou. But at any rate why two spellings, eu and ow, for one
+sound, and that not very much like ow in how and quite different from the
+Chinese ao?
+"cul-as ll in hull."
+than this in excluding
+readers.
+"English and American writers" have done better
+from their transliterations-at least for English
+"i-as in pin," "as in machine" might have been better-the short
+final i (which is not even in Peking "as in pin ") being here represented by ik.
+"in-as the vowel sound in chin." Why not "as the in in chin"?
+"io-i as y in yawn." But what about the o?
+"o-as o in long." Would not lord be better than long?
+"ü-as u in abuse." This u in abuse is commonly in or ew, rarely co
+(French ou) but very rarely ü (French u or German ); but the Chinese sound
+is more like the French iu "ui- " the explanation involves the same error as
+above in the sound of height-weight would have been better. But why is this
+much abused and, to an Englishman, most confusing old spelling retained!
+It shows incidentally that e should be excepted from the statement that the
+vowels have their Italian value. Yet, if not ue, why not at least uei? and
+why in the course of the book does hwei appear instead of hui?
+The note on aspirates (p. vi) mentions two initials, kw and shr,
+which do not appear in the following list of initials. But instead of
+inserting these, why not omit chw, hw, and w from the list of initial
+consonants, since w in all these cases is a pure vowel (Italian u) coming in
+aspirated words after the aspirate? To an Englishman w looks more
+familiar as an initial or final, but grant (as we are bound to do) an
+elementary knowledge of Italian vowels, and uan is as easy to say as
+wan* and ou as easy as ow.
+"j-as in the French jaune, jamais "-a most inadequate explanation
+of this difficult initial-more like French r than j, but by no means like an
+English r.
+The euphonic initial ng does not appear in the list, but is retained in
+practice to the great discomfiture of English readers. The principle on
+There is no question here of the difference of sound or tone which in some dialects is
+most easily expressed by using both u and w-uang and wang.
+
+NOTES AND QUERIES.
+111
+which initial n and land final in and ing (so much confused at Nanking)
+have been distinguished is not described. The two improvements on
+Wade from a "scientific" point of view appear to be the distinction of s and
+hs, ts and ch, but were there two hundred improvements they might fail to
+compensate for the great evil (from a practically scientific point of view)
+of having added another new system of spelling.
+Father Kennelly's system is still young enough to be altered and
+improved, or at least to be better explained on future occasions, and so
+criticism, which is ridiculous in the case of an old system, may hope to be
+forgiven here. Of the actual spellings the duplicates eu and ow, and w and u,
+seem as if they might well receive attention; and most of the errors in the
+explanations would be removed by a slightly better acquaintance with the
+sounds of English words.
+C. M.
+Translation
+This Journal has published so many translations of
+Chinese poetry into English that it will be of interest
+to read the following translation from English into
+Chinese made by Mr. Ting Mien-ying, a teacher in the Tungchow Normal
+into Chinese.
+School.
+Little drops of water,
+Little grains of sand,
+Make the mighty ocean,
+And the pleasant land.
+Little deeds of kindness,
+Little words of love,
+Make our Earth an Eden,
+Like the Heaven above.
+大粒滴
+如世
+登界
+煦煦仁言
+涓涓 善 行
+上樂 仁善 其大 相相
+天園
+造乎其極
+海粒滴
+陸積承
+
+112
+NOTES AND QUERIES.
+The Moments.
+The moments fly,-a minute's gone;
+The minutes fly,-an hour is run;
+The day is fled, the night is here;
+Thus flies a week,-a month,-a year.
+月奔 間滅 兮 剎
+無
+月無歲時
+逝混 滅 那
+無
+涅
+過夜兮也分
+也瞬詞
+剎那 詞
+息
+相時 馳 去
+Autumn.
+The autumn winds are sighing,
+Sighing in the trees;
+The ripened corn is waving,
+Waving in the breeze.
+The harvest moon is shining,
+Shining in the night;
+Over hill and valley,
+In floods of silver light.
+The swallows come together,
+Together from the eaves,
+Waiting for the falling,
+The falling of the leaves.
+They know the time is coming,
+The time when they must flee
+Away to brighter sunshine,
+Far, far across the sea.
+洋亦知樓哀 山烟秋熟秋秋
+兮乘簷哉 川银月麥 風詞
+時彼前羣 光皎飄
+遷落秋
+秋風噫兮噫樹間
+言遠
+信燕
+浪兮
+涉天草遲
+重我遲
+兮照風
+遍寒前間
+
+Exhibition of Old
+NOTES AND QUERIES.
+113
+This Exhibition was inaugurated by this Society
+for the purpose of gathering together antique Chinese-
+Chinese
+porcelain and works of art from various collections
+Porcelain and
+for the purpose of making them accessible to public
+Works of Art.
+view. It was decided that the articles which would
+be admitted to the Exhibition were to be as follows:-Porcelain and
+Pottery of the Han, Tang, Sung, Yuan and Ming dynasties, and the
+following periods of the Ta Ching dynasty, viz:-Kang Hsi, Yung Cheng,
+Chien Lung, Chia Ch'ing, and Tao Kuang reigns; also antiques in
+Chinese agates, crystals, glass, enamelled ware, lacquer and jades. The
+Exhibition was held on the top floor of the new building of the Shanghai
+Mutual Telephone Company during the second and third weeks of
+November, 1908. There was a large attendance each day, both of foreign
+residents and of Chinese, and although it had been decided at first that the
+Exhibition should only be open for five days, there was such a general
+demand for the time to be extended that it was kept open for two weeks.
+A very large collection of representative specimens was brought together.
+Where so many excellent specimens were to be found, it would be invidious-
+to select any as most worthy of notice, but it is safe to say that the unique
+collection of antique Chinese pottery kindly loaned by H.E. Viceroy
+Tuan Fang, together with the 40 specimens of Kang Hsi and Ch'ien Lung
+ware, loaned by H.E. Ching Kwang, Provincial Judge of Kiangsi, formed
+the chief centres of attraction. A general description of Chinese porcelain
+had been prepared by Mr. Wilkinson and was on sale during the Exhibition.
+Photographs were taken of many of the best specimens, and these are to be
+reproduced in a catalogue which the Committee has requested the Honorary
+Secretary, Mr. A. W. Bahr, to publish. It is expected that this catalogue
+will be ready early in 1910. The General Committee which had charge of
+the Exhibition was appointed by the Council of the North-China Branch of
+the Royal Asiatic Society, and was composed of the following persons!:-
+C. O. Liddell, Esq., Chairman, Mrs. Ayscough, F. E. Wilkinson, Esq.,
+M. Chapeaux, Esq., T. W. Kingsmill, Esq., G. H. Thomson, Esq., Toatai
+Hoo Erh Mai, Kung Sin Ming, Esq., Taotai Shen Tun-ho, Tzung Sung Ching,
+Esq., Dr. S. M. Cox, Dr. A. Stanley, Dr. J. C. Ferguson, Honorary
+Treasurer, and A. W. Bahr, Esq., Honorary Secretary. The balance of the
+proceeds from the Exhibition was turned over to the Society for the
+purchase of books for the Society's Library. The following is a Statement
+of Accounts :-
+9
+
+114
+NOTES AND QUERIES.
+cts.
+1,291
+00
+ACCOUNTS-EXHIBITION OF OLD CHINESE PORCELAIN AND WORKS OF ART.
+RECEIPTS.
+By Cash collected at door
+$
+$
+DISBURSEMENTS.
+cts.
+To Sundries at Hall...
+115
+50
+"
+Pamphlets sold
+Hoo Erh Mai
+"
+211 00
+Hoo Erh Mai
+111
+95
+...
+142 50
+Wong Kia Zur
+154
+30
+"
+Wong Kia Zur
+Count du Monceau
+H. E. Hobson
+Yen Ching Suk
+Astor House
+190
+00
+Municipal License, Tls. 15
+20
+55
+16
+11
+00
+30
+11
+00
+C. O. Liddell
+15
+Shen Tun Ho
+56
+00
+W. C. Murray
+5
+Hotel des Colonies
+1
+A. W. Bahr
+22
+00
+888888888
+China Printing Co.
+32
+00
+Tong Hing, printer
+36
+95
+Sandwich Boys
+21
+20
+"
+Public Band, Tls. 50.00 @ 73
+68
+49
+Police Services ...
+243
+00
+"
+S'hai Mutual Telephone Co., Ltd., Tls. 200.00
+Scott, Harding & Co., fire insurance 57.00
+273
+97
+78
+08
+"
+Do.
+do.
+"181.70
+217
+92
+Tại Chong & Co.
+5
+00
+Hall and Haltz, Ltd., Tls. 75
+103
+50
+"
+"
+"
+"
+Balance to Credit
+Printing and Advertising
+Shanghai House Furnishing Co.
+Gardener, plants, etc.
+265
+38
+16
+00
+7 00
+200
+71
+Audited and found correct,
+JOHN C. FERGUSON.
+2,001 50
+2,001 50
+SHANGHAI, 25th March 1909.
+A. W. BAHR,
+Honorary Secretary.
+
+East Asiatic
+Society of
+Boston.
+NOTES AND QUERIES.
+115
+This Society was organized more than a year ago
+for the purpose of encouraging the study and discussion
+of questions relating to the Far East. Mr. Thomas R.
+Wheelock was elected first President and Mr. E. B. Drew
+the first Vice-President. Regular meetings of the Society are held each
+month from November to April. The list of members includes many
+persons who have been connected with China or Japan in former years.
+The Bird Collection
+in the Shanghai
+Museum.
+The interesting contribution which we publish
+in this volume will furnish some idea to the
+members of the Society of the large amount of
+work done by Mr. J. D. La Touche. Owing to the
+impossibility of securing expert services, the collection of birds was in
+a very undesirable condition when Mr. La Touche, in 1907, came to the
+assistance of Dr. Stanley, the Honorary Curator. A new register of the
+collection has been made and new labels attached to the old specimens.
+Mr. La Touche also succeeded in obtaining the services of efficient collectors
+and taxidermists, who have done most praiseworthy work. In addition
+to what he has done in connection with the collection of birds, Mr. La Touche
+has also given attention to the collection of mammals. Dr. Stanley has
+called attention, in his Report for this year, to the valuable assistance
+rendered by Mr. La Touche, but his work has added so much to the value of
+the Museum that it has seemed advisable to call especial attention to it.
+[*8061 XXXX
+]

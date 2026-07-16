@@ -1,0 +1,757 @@
+## p. 183 (#222) ############################################
+
+CORRECTIONS AND ADDITIONS
+TO THE
+LIST OF THE BIRDS OF CHIHLI PROVINCE
+By G. D. WILDER AND H. W. HUBBARD.
+(Printed in the Journal. Vol. LV.—1924.)
+We take advantage of this opportunity for correcting
+our List of the Birds of Chihli Province, to also make
+additions from our field notes of the last two years. For
+corrections made in the following paper our thanks are
+due to Dr. E. Hartert, Mr. J. D. La Touche, Pere Courtois
+and to Dr. E. Streseman of Berlin. The corrections are
+mainly changes in spelling or names made since the appear-
+ance of the various parts of "Die Vögel der paläarktischen
+Fauna" from which we drew the scientific names. We
+would apologize to the author, Dr. Hartert, for overlooking
+corrections he had made in his supplements.
+We are also indebted to the very careful studies of
+Mr. Peter B. Sushkin, results of which are given in his
+"Notes on Systematics and Distribution of certain Palae-
+arctic Birds," in the Proceedings of the Boston Society of
+Natural History, 1925.
+Numbers in this paper refer to those in the "List"
+except where the page is indicated. For the convenience
+of users of our original paper we offer a table of Contents.
+Page 157, first line, "some" read "names".
+2. CORVUS CORONE ORIENTALIS Eversman. The Black
+Crow winters in mountain valleys in company with the Thick-billed
+or Jungle Crow, and in some localities on the plain where it also
+nests occasionally. We have not yet met it in the city of Peking.
+where the Thick-billed Crow, Corvus coronoides hassi, is common.
+3. CORVUS CORONOIDES HASSI Reichenow. D. 601
+should be D. 603. In some parts of Chihli the Chinese use the
+appropriate name of 大嘴​老​鵡​tatsui lao kua¹ for this Thick-billed
+Crow.
+
+
+## p. 183 (#223) ############################################
+
+CONTENTS
+OF LIST OF BIRDS OF CHIHLI PROVINCE
+By G. D. WILDER and H. W. HUBBARD
+I.
+PASSERES,
+List Number.
+Corvidae, Crows, Daws, Jays, Pies, Rooks,
+..
+II.
+Choughs
+1-16
+..
+Sturnidae, Starlings,
+17-19
+Dicruridae, Drongos,
+20-22
+..
+..
+..
+Oriolidae, Oriole,
+..
+23....
+Fringillidae, Grosbeaks, Finches, Sparrows,
+Buntings,..
+24-66
+..
+Alaudidae, Larks,
+67-74
+..
+Motacillidae, Pipits, Wagtails,
+75-94
+..
+Zosteropidae, White-eyes,
+95-96
+..
+Certhiidae, Tree Creepers, Wall Creepers,
+97-98
+..
+Sittidae, Nuthatches,
+99-100
+..
+Paridae, Titmice, Wrens, Reedlings, Suthoras, 101-119
+Laniidae, Shrikes,
+120-128
+..
+Ampelidae, Waxwings,
+129-131
+Campephagidae, Cuckoo-Shrikes, Minivets,
+132-134
+Muscicapidae, Flycatchers,
+..
+135-143
+.
+Warblers,
+144-172
+..
+..
+..
+Babblers,..
+173-174
+..
+..
+Thrushes,
+175-190
+..
+..
+Wheatears, etc.,
+191-194
+..
+Redstarts, Chats, etc.,
+195-206
+..
+Accentoridae, Accentors,
+..
+Troglodytidae, Wrens, Dippers,
+207-208
+..
+209-210
+..
+Hirundinidae, Swallows,
+CYPSELI, Swifts,
+211-217
+218-220
+..
+
+
+## p. 184 (#224) ############################################
+
+CONTENTS-continued.
+III.
+CAPRIMULGI, Goatsuckers,
+221-222
+IV.
+UPUPAE, Hoopoes,
+..
+..
+223......
+V.
+CORACIAE, Rollers,
+..
+..
+224......
+VI.
+HALCYONES, Kingfishers,
+225-228
+..
+VII.
+PICI, Woodpeckers,
+229-239
+..
+..
+VIII.
+CUCULI, Cuckoos,
+240-244
+..
+IX.
+STRIGES, Owls,
+245-254
+Χ.
+ACCIPITRES, Falcons,
+255-262
+..
+Eagles,
+263-267
+..
+..
+..
+Buzzards,
+268-270
+..
+..
+..
+Marsh Harriers,
+271-275
+..
+..
+Hawks,
+276-279
+..
+..
+..
+Kite,
+..
+..
+280......
+Eagles,
+281-287
+..
+Vultures,
+288-289
+ΧΙ.
+GRESSORES, Storks, Ibises, Herons, Bitterns, 290-312
+XII.
+ANSERES, Swans, Geese, Ducks,..
+313-349
+XIII.
+STEGANOPODES, Cormorants, Pelicans,
+350-355
+..
+XIV.
+TUBINARES, Petrel, Albatros,
+356-357
+..
+XV.
+PYGOPODES, Grebes, Loons,
+358-363
+..
+XVI.
+COLUMBAE, Doves, Pigeons,
+364-369
+..
+..
+XVII.
+PTEROCLETES, Sandgrouse,
+370......
+XVIII. LIMICOLAE, Plovers,
+371-382
+Stints, Sandipers, Stilt, Godwits, 383-411
+Curlews,
+412-415
+Snipe,..
+416-424
+..
+..
+Jacana,
+.
+425......
+ΧΙΧ.
+LARI, Terns,
+426-436
+..
+Gulls,
+437-444
+XX.
+ALECTORIDES, Bustards,
+..
+445......
+Cranes,
+446-451
+..
+Rails, Coots,
+452-460
+XXI.
+HEMIPODII, Bustard-Quails,
+461......
+XXII.
+GALLI, Grouse, Patridges, Quails, Pheasants, 462-474
+
+
+## p. 185 (#225) ############################################
+
+LIST OF THE BIRDS OF CHIHLI PROVINCE
+185
+11. UROCISSA ERYTHRORHYNCHA ERYTHRORHYN-
+CHA (Gmelin) is now recognized as the name for the South China
+form. The bird north of the Yangtzu varying slightly, is called
+UROCISSA ERYTHRORHYNCHA BREVIVEXILLA Swinhoe.
+14. GARRULUS GLANDARIUS BRANDTI Eversman,
+should be deleted, as our specimen may have been brought in from
+Siberia, and all in our collections definitely from this region, prove to
+be No. 15. Garrulus glandarius pekingensis Reichenow.
+20. DICRURUS ATRA CATHOECA change to D. ATER
+CATHOECUS. This number should have been preceded by the
+name of the FAMILY-DICRURIDAE-DRONGOS.
+23.-Should read ORIOLUS CHINENSIS INDICUS Jerdon.
+25.-ЕОРHONA PERSONATUS read E. PERSONAΤΑ.
+[26.]-ЕОРHONA MELANURA MELANURA (Gmelin) is now
+changed to EOPHONA MIGRATORIA PULLA Pennard.
+27.-EOPHONA MELANURA MIGRATORIA change to E.
+MIGRATORIA MIGRATORIA.
+28-CHLORIS SINICA TSCHILIENSIS Jacobi, change to CHLO-
+RIS SINICA SINICA (Linnaeus), H. 103., as we cannot see
+the validity of tschiliensis as a subspecies.
+29. The genus ACANTHIS is now changed to CARDUELIS.
+30. ACANTHIS FLAMMEA FLAMMEA is now changed to
+CARDUELIS LINARIA LINARIA (Linnaeus).
+(31.)-URAGUS SIBIRICA SIBIRICA should be U. SIBIRICUS
+SIBIRICUS.
+33.-ERYTHROSPIZA MONGOLICUS should be E. MONGOLICA.
+34.-PYRRHULA PYRRHULA PYRRHULA, etc., change to
+PYRRHULA PYRRHULA CASSINI Baird H. 151, D. 491.
+Cassin's Bullfinch. One specimen from the Eastern Tombs,
+Dec. 1923. The pair mentioned in the notes, however, prove to be
+P. p. griseiventris.
+35.-Lafresne should be Lafresnaye, here and under No. 133 as well.
+36.-PYRRHULA ERYTHACA WILDERI Riley. A pair brought
+in from the Eastern Tombs, Dec. 1923, and sent to Mr. La
+Touche, prove to be quite different from the Southwest China
+form, P.e. altera. They may be the same as P.e. taipaishanensis
+Rothchild, described from Central China, but if so Mr. Riley's
+name still has priority.
+
+
+## p. 186 (#226) ############################################
+
+186
+CORRECTIONS AND ADDITIONS TO THE
+38.-CARPODACUS ROSEA change to C. ROSEUS.
+39.-CARPODACUS ERYTHRINA GREBNITSKII change to C.
+ERYTHRINUS GREBNITSKII. We have referred our speci-
+mens to this subspecies, which is a larger and brighter colored
+form, from the north, rather than to C. roseatus, purely on the
+ground of their measurements being slightly larger than those
+given for roseatus. Mr. La Touche refers both his Hupeh and
+Chihli specimens to the latter, C. roseatus.
+46.-PASSER MONTANA MONTANA change to PASSER MON-
+TANUS MONTANUS.
+48.-EMBERIZA LEUCOCEPHALOS change to E. LEUCOСЕР-
+HALA.
+53.-EMBERIZA SPODOCEPHALA SPODOCEPHALA Pallas.
+Delete the synonym, Emberiza personata Temminck, which
+is a Japanese bird.
+54.-EMBERIZA CIA OMISSA Rothchild. Sushkin considers this
+bird to range from Northern Szechuan north-east to the Tsin-
+ling Mts. The Chihli bird he considers to belong to the species
+godlewskii, closely related to E. cia but not a synonym as Hart-
+ert considers it. Our Chihli bird Sushkin describes as a new
+subspecies E. GODLEWSKII BANGSI.
+(56.) -EMBERIZA CIOIDES WEIGOLDI Jacobi. Having sub-
+mitted specimens to Mr. La Touche, he writes that he cannot
+distinguish in size or tint, any difference between our North
+Chihli specimens and his from Fukien, the Lower Yangtzu and
+Hupeh, but considers them all to be E. c. castaneiceps, No. 55.
+62. EMBERIZA YESSOENSIS (Swinhoe) is the Japanese form.
+Our bird is E. Y. CONTINENTALIS Witherby, described
+from the Yangtzu River, which we gave as a synonym.
+65.-CALCARIUS LAPPONICA LAPPONICA should be C.
+LAPPONICUS COLORATUS Ridgway.
+77.-ANTHUS TRIVIALIS MACULATUS Jerdon has now become
+the synonym; ANTHUS TRIVIALIS HODGSONI Richmond
+being recognized as the prior name.
+79.-ANTHUS CERVINA change to ANTHUS CERVINUS. The
+Red-throated Pipit was passing Peitaiho early in September,
+1924, in numbers.
+79-a. ANTHUS ROSEATUS Blyth. H. 443,
+identification of the specimens mentioned
+the peaks of Hsiao Wu T'ai Mts., 9000 ft.
+of the known range eastward.
+D. 319. This is the
+under No. 79, from
+This is an extension
+
+
+## p. 187 (#227) ############################################
+
+LIST OF THE BIRDS OF CHIHLI PROVINCE 187
+83.-МOТACILLA FLAVA MACRONYX Streseman. This sub-
+species is erected mainly on the basis of a longer hind claw than
+No. 84 M. f. borealis, and other subspecies.-11 mm. as com-
+pared with 8-10 mm. Sushkin, however, finds color differences,
+in absence of eyebrow-stripe in macronyx, earcoverts less black-
+ish, borders of the wing coverts light, of a purer color and broad-
+er, sometimes twice as broad, as in borealis. No dusky collar
+around throat and back a trifle brighter.
+Most of our specimens supposed to be borealis are macronyx
+according to the length of hind claw, but on separating them by
+this characteristic, the eyebrow-stripe and dusky collar charac-
+teristics do not seem to co-exist with the shorter claw, consist-
+ently.
+85.-M. F. TAIVANUS change to M. F. TAIVANA.
+94.-DENDRONANTHUS INDICA change to D. INDICUS.
+95.-ZOSTEROPS PALPEBROSA SIMPLEX Swinhoe. Mr. La
+Touche's identification of these specimens was not final, and he
+referred them to the British Museum. We have not heard the
+result, but this number should be whatever the Yangtzu Valley
+specimens are determined to be. They lack the reddish flanks
+of Z. erythropleurus and generally show a yellow wash on the
+center of the belly. Another specimen was found in October,
+1925, in the Peking market, where they are called 靑​肋​粉​眼兒
+​ch'ing' lei fen yen rh.
+97.-CERTHIA FAMILIARIS FAMILIARIS Linnaeus. A speci-
+men was taken at the Western Tombs, among a flock of Japanese
+titmice in January, 1926, after some eighteen years of watching
+for a second sight of the Tree Creeper.
+101.-PARUS MAJOR WLADIWOSTOKENSIS Kleinschidt. La
+Touche finds no differences between our Chihli specimens of the
+Japanese Titmouse and those from Hupeh which are Parus
+major artatus Thayer and Bangs. The grayness ascribed to
+P. m. wladiwostokensis appears in birds from both regions in
+worn summer plumage so that it is doubtful if the subspecies
+wladiwostokensis will stand for the birds of Chihli at least.
+104.-PARUS ATER PEKINENSIS David. The English name
+should be The Peking Coal Tit. Our note, from the name in
+Chinese to the words "Peking market", should be applied to the
+Marsh Tit, No. 107, which we have observed for years under
+the name of the Peking Tit. This led us to confuse the Marsh
+Tit with the Peking Coal Tit. It is distinguished from the
+Marsh Tit chiefly by its crest and a white spot on the nape
+from which it gets its name in Chinese子​點兒​tzu-tien-erh.
+It is known, but not common, in the song-bird market. Wefound
+it in the Eastern Tombs in January, 1925, but have not been
+able to find it anywhere else since then.
+The synonym given, Parus communis hellmayri Bianchi
+should be deleted, as it is the synonym of No. 107, the Marsh
+Titmouse.
+
+
+## p. 188 (#228) ############################################
+
+188
+CORRECTIONS AND ADDITIONS TO THE
+(105.)-PARUS ATER INSULARIS Hellmayr. The English name
+should be the Japanese Coal Tit.
+107.-PARUS PALUSTRIS HELLMAYRI Bianchi. Delete the
+statement "we have no other records" and insert the note under
+104, as suggested above.
+(108.)-PARUS PALUSTRIS JEHOLICUS Kleinschmidt. Remove
+the parenthesis and add the initials WH, as we found the bird
+common at the Eastern Tombs in January, 1925. The wing
+and tail measurements average larger than those of the bird
+common on the plain, P. p. hellmayri, yet the ground for erecting
+a subspecies seems rather slight.
+wing
+tail
+Eastern Tombs, January,
+Three females
+64,63.5,62 61,58.5,62
+Two males
+"
+"
+67,65
+59,60
+"
+June
+Peitaiho, summer
+One male
+58
+56
+65
+58
+Female
+60
+57
+"
+Paotingfu
+Male
+61
+52
+"
+Three females 63,61,60 54, 52, 49
+(109.)-PARUS ATRICAPILLUS KAMTSCHATKENSIS (Bona-
+part) should be omitted.
+112.-AEGITHALOS CAUDATUS GLAUCOGULARIS (Moore),
+should be omitted. The notes refer to the next number, AEGI-
+THALOS CAUDATUS VINACEA (J. Verreaux) of which
+the English name should be North China Silver-throated Tit.
+(117.)-SUTHORA WEBBIANA MANTSCHURICA, is the Man-
+churian form and should be omitted from the Chihli list.
+118.-SUTHORA WEBBIANA WEBBIANA Gray, is the Yangtzu
+River delta race, and should be omitted, the notes applying to
+No. 119.
+[119.]-SUTHORA WEBBIANA FULVICAUDA Campbell, was
+described from Korea, not Chihli, but is the mid-Chihli form.
+Remove the brackets.
+129.-BOMBYCILLA GARRULUS GARRULUS (Linnaeus), is
+the European form and should be stricken from this list, the
+note applying to the next.
+[130]-BOMBYCILLA GARRULUS CENTRALASIAE Poljakow.
+Remove the brackets.
+132.-CAMPEPHAGA MELANOSCHISTA MELANOPTERA
+(Rüppell), must now be called LALAGE MELASCHISTA
+AVENSIS (Blyth). The large white spot on each wing, in the
+Cuckoo shrike, is to be found only in immature birds and is not
+a sex mark.
+
+
+## p. 189 (#229) ############################################
+
+LIST OF THE BIRDS OF CHIHLI PROVINCE
+189
+134.-PERICROTUS BREVIROSTRIS (Vigors) is now called P. B.
+ETHOLOGUS Bangs and Phillips.
+135.-TCHITREA INCEI (Gould). Dr. Streseman has shown the
+Paradise Flycatcher to be a dichromatic form like Coloeus
+dauuricus. The males become either white or red after their
+post-juvenile moult, some appearing grayish or even parti-
+colored. We have one specimen all red, except one vane of one
+long tail feather which is pure white, and except the head, of
+course, which remains rich purple black in all plumages.
+142.-MUSCICAPA CYANOMELANA CUMILATIS should be M.
+C. CUMATILIS. Delete the synonym Cyanoptila bella (Hay),
+which is the Japanese form, and change "Japanese" to Chinese
+Blue Flycatcher.
+147.-PHYLLOSCOPUS BOREALIS XANTHODRYAS Swinhoe
+should be questioned until specimens are passed upon.
+148.-P. SUPERCILIOSA SUPERCILIOSA change to P. SUPER-
+CILIOSUS SUPERCILIOSUS.
+149.-P. OCCIPITALIS CORONATA change to P. O. CORONATUS.
+152.-P.FUSCATA change to P.FUSCATUS.
+153.-P.HOMEYRI change to P.HOMEYERI.
+157.-LUSCINIOLA THORACICA (Blyth) is changed to L. T.
+DAVIDI (La Touche), as the subspecies has been recently
+named. Streseman describes a Spotted Bush Warbler from the
+Eastern Tombs as Bradypterus taczanowskias tschiliensis,
+with wing 52 mm. and whole lower mandible black. My Peking
+specimen agrees with this, as well as with La Touche's descrip-
+tion. It would seem to be the same bird, the name davidi
+having priority, but it still is a question whether the species is
+thoracica or taczanowskias. The genus is also called Dumeti-
+cola, Bradypterus and Tribura, as well as Lusciniola. This is
+an excellent example of the state of flux in which some of our
+ornithological nomenclature is at present, but out of which
+systematists are striving gradually to emerge.
+[160.]-LOCUSTELLA FASCIOLATUS should be L. FASCIO-
+LATA.
+162.-L. CERTHIOLA ARTEMISIE should be L. C. ARTEMISIAE,
+but this name should become the synonym, for according to
+Sushkin this species may be divided into four geographical
+races, the Chihli birds being L. C. MINOR David and Oustelet.
+163.-L. LANCEOLATA (Temminck). Sept. 3rd to 12th, 1924, this
+bird in very varying plumages was common at Peitaiho.
+
+
+## p. 190 (#230) ############################################
+
+190
+CORRECTIONS AND ADDITIONS TO THE
+166.-ACROCEPHALUS AGRICOLA CONCINENS is now changed
+to ACROCEPHALUSCONCINENS CONCINENS (Swinhoe).
+(167.) -А. TANGORUM La Touche. Streseman considers this to
+be a synonym of A. BISTRIGICEPS, No. 168.
+(170.)-SYLVIA NISORIA BATRACHOPHILUS, is questioned by
+modern authorities and should be deleted.
+(178.)-TURDUS PHILOMELOS PHILOMELOS Brehm, should
+be deleted, as Pere David long since corrected his error.
+186.-T. RUFICOLLIS ATROGULARIS Temminck. The dark
+coffee-color throated Chihli specimens are held by some to be
+hybrids or a melanotic condition of our No. 185, T. r. ruficollis.
+Streseman's statement that nearly all of our Chihli birds are
+hybrids agrees with our observations. Hartert says that they
+may be cases of atavism or aberrations. However, we now have
+specimen from the Peking market,
+agrees
+fully with the description of the Black-throated Thrush, no
+1926
+trace of red appearing in the tail as with hybrids, so that the
+bird belongs to our list rightly.
+189.-MONTICOLA SOLITARIUS PHILIPPENSIS change to M.
+SOLITARIA PHILIPPENSIS.
+190.-ΜΥΙΟPHONUS CAERULEA change to M. CAERULEUS.
+191, 192. The genus SAXICOLA has been changed to OENANTHE.
+[192.]-SAXICOLA ISABELLINA. The only identification is found
+to be a bird seen, not "taken," but clearly observed as a blue-
+gray Wheatear in a flock of Pied Wheatears.
+193. The genus PRATINCOLA has been changed to SAXICOLA.
+198.-PHOENICURUS AUROREA AUROREA, change to P.
+AUROREUS AUROREUS.
+200.-P. ALASCHANICA has been changed to P. ALASCHAN-
+ICUS.
+210.-CINCLUS PALLASII PALLASII (Temminck) Chihli speci-
+mens are now described as C. P. WILDERI La Touche. Mr.
+La Touche separates this as a race intermediate between
+C. p. pallasii in Manchuria and C. p. souliei of Southwest China.
+Measurements in my specimens are as follows:-
+sex
+culmen
+wing
+tarsus
+tail
+two males
+23
+115, 110
+35
+64
+( 25, 25,
+124, 24;
+four
+females
+111, 108,
+30, 33,
+102, 114:
+33, 36;
+60, 60,
+58,58;
+We find that David also recorded a dipper from Chihli as
+Hydrobata pallasii.
+
+
+## p. 191 (#231) ############################################
+
+LIST OF THE BIRDS OF CHIHLI PROVINCE
+191
+211, 212, 213, the genus CHELIDON is changed to HIRUNDO.
+Scopuli should be Scopoli, here and under numbers 217, 367,
+414, 425.
+212.-HIRUNDO RUSTICA TYTLERI (Jerdon). Streseman thinks
+that tytleri is but an individual rusty variant of gutturalis and
+not a separate geographical race. Our observations have no-
+thing to disprove this opinion.
+214, 215. The genus HIRUNDO is now changed to DELICHON.
+Our two specimens, which we named Hirundo urbica minor,
+prove not to be a new sub-species, but to have been described
+from Fukien as Delichon urbica nigramentalis Hartert, see H.
+p. 810. However, this has not heretofore been known as a
+Palaearctic bird.
+(215.)-DELICHON URBICA WHITELEYI. (S) Mr. La Touche
+has a good specimen of this larger type, taken on migration at
+Chinwangtao.
+(222.)-CAPRIMULGUS STICTOMUS Swinhoe, is a synonym of
+C. MONTICOLA Franklin, and according to Streseman not
+supposed to range so far north.
+Page 199. After ROLLERS delete “OR BROADBILLS".
+In the next line change "Broad-bills" to ROLLERS.
+224.-EURYSTOMUS ORIENTALIS CALONYX (Sharpe). Delete
+the synonym. Change the English name, "Indian Broadbill",
+to Chinese Broad-billed Roller, for the name Broad-bill is
+confusing as it refers to another family of southern birds.
+232.-DRYOBATES MAJOR JAPONENSIS Seebohm. We should
+have noted that Mr. La Touche was not certain about calling
+the Chinwangtao specimens “japonensis".
+236,-DRYOBATES PYGMAEUS SCINTILLICEPS. Delete the
+second synonym Yungipicus p. semicoronatus (Licht,) which
+is a southern race.
+237.-D. KIZUKI SEEBOHMI (Hargitt). Several more specimens
+of the Japanese Pigmy Woodpecker were secured at the Eastern
+Tombs forest, January, 1925.
+241, [242.]-CUCULUS OPTATUS Gould, is held by some to be
+probably a synonym of C. INTERMEDIUS INTERMEDIUS
+Vahl and the latter name has precedence.
+243.-CUCULUS MICROPTERUS MICROPTERUS Gould. We
+have no first hand evidence of a cuckoo feeding its own young,
+and require strong proof to believe this possible. The case
+quoted is probably a mistaken identification or a cuckoo observ-
+ed in the act of depositing its egg in another large bird's nest,
+as the azure-winged magpie.
+
+
+## p. 192 (#232) ############################################
+
+192
+CORRECTIONS AND ADDITIONS TO THE
+254.-STRIX ALUCO NIVICOLA (Blyth). This should be S. A.
+MA (Clark.) S. A. NIVICOLA becoming a synonym.
+261.-FALCO NAUMANNI PEKINENSIS Swinhoe, was seen
+twice in the mountains southwest of Peking, January, 1926,
+where it evidently spends the winter.
+266.-AQUILA MACULATA (Gmelin), now yields to AQUILA
+CLANGA Pallas, in priority.
+267.-These specimens described as AQUILA POMARINA SINEN-
+SIS subsp. nov.? are found to be immature Kites. However, we
+believe that we have seen Pomarine Eagles but at present have
+no specimens with which to prove it.
+269.-BUTEO BUTEO JAPONICUS. Delete the last synonym
+B. vulgaris.
+(282).-HALIAEETUS NIGER Heude. This is the Korean Sea
+Eagle, not "Kamtchatkan".
+283.-PERNIS APIVORUS ORIENTALIS H. 1601 change to 1610.
+285.-BUTASTUR INDICUS (Gmelin). Delete the parenthesis, as
+we have taken this bird at the Eastern Tombs forest, on June
+21, 1923, and observed it at the Western Tombs in July, 1924.
+(290).-CICONIA CICONIA ASIATICA. This name should be
+omitted, as David wrote later in "Les Oiseaux de la Chine":
+"It is probably to the new form, C. C. BOYCIANA that the
+birds I saw on two occasions in North China should be referred."
+Möllendorff's reference to the "red bill" seems to be a mistake.
+291.-CICONIA CICONIA BOYCIANA Swinhoe. "Japanese"
+Stork is a bad name for this stork and would be much better
+changed to Chinese Stork.
+(293).-PSEUDOTANTALUS LEUCOCEPHALUS (Pennant).
+Mr. La Touche calls our attentiou to David and Oustelet's record
+of the Painted Stork at the mouth of the Peiho, in this province
+300, 301.-EGRETTA ALBA ALBA and E. A. MODESTA. As it
+is improbable that we have both these subspecies one should be
+deleted, but our authorities seem to differ as to which one.
+"Japanese" Egret is a bad name for the second.
+(313a). Add a new form CYGNUS CYGNUS LATOUCHEI Court-
+ois, described from a Chinwangtao specimen. A photograph
+of the type specimen appears in Sowerby's, "A Naturalist in
+Manchuria" P. 306, one of a supposed pair of Jankowski's
+Swans.
+
+
+## p. 193 (#233) ############################################
+
+LIST OF THE BIRDS OF CHIHLI PROVINCE/
+193
+(316).-CYGNUS DAVIDI Swinhoe. Dr. Hartert calls our atten-
+tion to the fact that he does not "omit" this bird, but discusses
+it under the Snow Goose, Page 1290.
+325a. NETTOPUS COROMANDELIANUS (Gmelin). Pygmy
+Goose or Cotton Teal. Although this bird is not given in the
+Palæarctic lists, two pairs were seen repeatedly, and unmis-
+takeably identified at thirty yards range with binoculars, on
+July 11 and 16, 1925, at the Summer Palace Lakes, near Peking.
+They must have been breeding, probably in the ruins and
+hollow trees of the grounds.
+350.-PHALACROCORAX CARBO SUBCORMORANUS (Brehm).
+P. C. SINENSIS is said to have priority over P.c. subcormo-
+ranus. A wild cormorant was seen at the Summer Palace Lakes
+in July, 1925.
+355.-FREGATA ARIEL (Gould). The Lesser Frigate Bird should
+be Fregata Taquila minor (Gray).
+358.-PODICEPS CRISTATUS (Linnaeus). Eight or more pairs
+were nesting in the Summer Palace grounds in July, 1925.
+[360.]-The brackets indicating hypothetical occurrence only of the
+Sclavonian Grebe, PODICEPS AURITUS should be changed to
+parentheses, as Mr. Sowerby reported a specimen at Tientsin
+in September.
+367. STREPTOPELIA CHINENSIS CHINENSIS Scopoli. Père
+David recorded the South China Turtle Dove from south Chihli.
+[406.]-PHALAROPUS FULCARIUS should be P. FULICARIUS.
+417-420.-The genus GALLINAGO is now changed to CAPELLA.
+423.-IBIDORHYNCHA is changed to IBIDORHYNCHUS.
+425.-HYDROPHASIANUS CHIRURGUS. A specimen was taken
+near Paotingfu, April, 1925.
+429.-GELOCHELIDON NILOTICA ADDENDA Mathews, is a
+southern form and our bird should be G.N. NILOTICA (Gmelin)
+according to the range given for the two races. It is impossible
+to determine the subspecies by description alone, without
+specimens for comparison, in this case.
+(433).-STERNA HIRUNDO TIBETANA Saunders. In June,
+1925, at the Hsieh Chia Ying marshes, we found a few pairs of
+the Common Tern breeding, and shot one specimen, which seems
+to have the characteristics assigned to this supposed subspecies,
+i.e., sides of neck, shoulders, flanks, clear gray, inclining to
+vinous on breast and belly; but it seems very doubtful if this
+darker form is a geographically distinct subspecies. Mr.
+Sowerby found the same differences in British specimens as in
+these of the Far East compared with European birds.
+13
+
+
+## p. 194 (#234) ############################################
+
+194
+LIST OF THE BIRDS OF CHIHLI PROVINCE
+(437.)-LARUS ARGENTATUS CACCHINANS Pallas. Strese-
+man thinks that we have only No. 438, L. A. VEGAE, in Chihli.
+457.-AMAURORNIS PHOENICURA Pennant, should be assigned
+to the subspecies CHINENSIS (Boddaert).
+459.-GALLICREX CINEREA (Gmelin). The Water Cock was
+observed twice at Peitaiho in late June, 1925, where it was
+probably breeding.
+462, (463.), (464.) - Mr. Sowerby questions the presence of any of the
+family Tetraonidae in Chihli on the strong grounds that market
+specimens are brought to Tientsin, and presumably also to
+Peking by rail from Siberia; also that the forests of Chihli are
+no longer of such an extent and nature as is suitable for them.
+There is on the other hand only their presence in Peking coupled
+with the statements of the dealers that the they come through
+Hupeik'ou, a pass in the mountains north of Peking, but
+scarcely a route for game to be brought all the way from
+Siberia. Dr. Miles, of the Peking Union Medical College, while
+hunting in the mountains north of Kuei Hua Ch'eng, in North
+Shansi, saw two large gallinaceous birds that he thought to be
+Capercailly. In spite of David's record of both Capercailly and
+Hazel Hen in 1877, when the forests both east and west of
+Peking were far more extensive than now, these birds should
+probably be stricken from the present day Chihli list, as Mr.
+Sowerby says. These three species should be sought for, if
+anywhere, in the unexplored forests north of Peking between
+the Great Wall and the Manchurian border.
+(471).-PHASIANUS COLCHICUS KARPOWI Buturlin. The
+parenthesis should be removed, for our Eastern Tombs specimens
+are of this subspecies.
+
+

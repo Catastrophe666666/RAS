@@ -1,0 +1,1421 @@
+## p. 248 (#280) ############################################
+
+CHINESE CHESS.
+By Z. VOLPICELLI.
+處置​其​如​治
+​者​得用​奕
+​勝​其​而知​響
+​The following sketch is an attempt to give an account of
+Chinese Chess, on a methodic plan, as is done in treatises on
+our game. In doing so, I have not been able to resist the
+temptation of occasionally pointing out resemblances between
+the Chinese game and ours in the Middle Ages; these lead
+naturally to the investigation of the origin of the royal game,
+but, unfortunately, I am not able for the present to pursue
+this subject, and must reserve it for a future occasion.
+Mr. HIMLY, in No. VI (for 1869-1870), New Series of this
+Journal, went very thoroughly into the history of Chess in
+China, and pointed out many analogies and differences
+with the same game in other countries in different times.
+Mr. HOLLINGWORTH, in No. III (for December 1866), New
+Series of this Journal, gave a very complete, thorough and
+succinct account of Chinese chess, but, unfortunately, he
+sacrificed clearness to brevity, and it would be difficult to
+learn the game from his article without the aid of a native
+player. He omitted, moreover, to point out a very remarkable
+difference between the Chinese and the Western game;-in
+the former, stalemate counts a win for the side which has
+confined the adverse King, so that he cannot move except
+into check.
+
+
+## p. 249 (#281) ############################################
+
+CHINESE CHESS.
+249
+The two games, notwithstanding some differences, possess
+so many features in common, that I have only considered it
+necessary to point out in what they differ, and shall therefore
+not explain such points as the alternation of the moves, and
+the mode of capture, etc., which are identical in both games.
+I have had some opportunity of consulting native works on
+Chess, but such as I have seen, are rather for the advanced
+player, as they give no elementary instruction, so that I have
+had to supply this deficiency by my own experience,
+corroborated always, of course, by such native players as I
+have been able to question.
+THE CHESS-BOARD.
+This differs considerably from ours, the only similarity
+being that they both appear to have 64 squares, but even this
+leads to no common consequences, for two important reasons:—
+First, the Chinese board is divided horizontally into two
+halves, cach of 32 squares, called Camps (), separated by
+a rectangular space which is called the River (). This
+really adds, for all intents and purposes, 8 squares to the
+board, because though they are not marked, still the River
+counts a step in passing it. Therefore, it would be more
+correct to say, that the Chinese board is a rectangle, 8 by 9,
+with the middle rank of squares left unmarked. Secondly,
+the Chinese chessmen are not placed on the squares, and do
+not move on them as in our game, but are placed on the
+points of intersection of the horizontal and vertical lines,
+and all the moves are performed on the lines, not on the
+squares.
+Figure I. shows a blank Chess-Board, and it will be seen at
+a glance that though only 8 men can be placed in a rank,
+each occupying one square, 9 men can be placed in a rank
+17
+
+
+## p. 250 (#282) ############################################
+
+250
+CHINESE CHESS.
+Fig. 1.
+Palace
+River
+Palace
+when they occupy the points of intersection. The Chinese
+have therefore 9 files to our 8, and, as will be seen later on,
+when treating of their Chess-Notation, they count from 1 to 9
+in a horizontal direction. For the same reason, the Chinese
+have 10 ranks instead of our eight. It follows naturally
+that the squares, having no importance, are not distinguished
+alternately by different colours, as is done on our Chess-
+Board, to guide the eye in the moves of certain Pieces.
+There is still another peculiarity to be noted; the four
+contral squares at the bottom and top of the Board, form
+what is called the Royal Palace (). Another glance at
+
+
+## p. 251 (#283) ############################################
+
+CHINESE CHESS.
+251
+-
+Figure I. will show that this space is distinguished by two
+diagonal lines, the only ones on the Board,-all the rest
+being horizontal and vertical. It will be seen later on that
+the Palace is the only field of action allotted to the King and
+his two Ministers.
+In Western medieval Chess there seems to have been
+some kind of division of the Board, because CESSOLES, an
+author of the 13th century,' speaking of the first move of the
+Pawn, when he is allowed to advance two squares, explains
+this anomaly by saying, that within the boundaries of the
+realm, the Pawns feel safer, and therefore advance more
+boldly, but once they are over the borders they must be more
+cautious, and are only allowed to advance one square.
+THE CHESS-MEN.
+The Chinese have 16 men a side, as with us, but their total
+is differently constituted from ours, their 16 being made up
+by 1 King, 2 Ministers, 2 Bishops, 2 Knights, 2 Rooks,
+2 Cannons and 5 Pawns, and some of these men are placed
+differently from ours. Figure II. shows a Chess-Board with
+all the Chessmen, as they are placed at the beginning of the
+game. The men are not shaped to roughly outline the object
+they are supposed to represent, like ours, but are simply
+round pieces of wood or ivory, like draughtsmen, with their
+names written on both surfaces.
+1 Jacopus de Cessolis, otherwise Jacopo Dacciesole, in his work, entitled
+Solatium Ludi Scacchorum, scilicet Libellus de Moribus Hominum et Officiis
+Nobilium, supposed to have been the first work printed in England by
+Caxton, who gave the English translation in the year 1474, under the name
+of The Game and Playe of the Chesse. The book was meant rather to teach
+morals than Chess, still the moves, etc,, are given.
+
+
+## p. 252 (#284) ############################################
+
+252
+CHINESE CHESS.
+Fig. 11.
+VIIIIII IV
+VI
+M
+VII
+VII VII
+VID
+VII
+VID
+VID
+VID
+VID
+VID
+VI
+VI
+T. King. 將 ​and 帥
+​II.-Minister,
+III.—Bishop, and †
+IV.-Knight,
+V.—Rook,
+VI.-Cannon,
+VII.—Pawn, and E
+I shall now describe the moves of the different Chess-men
+and the laws which regulate them.
+THE KING (將 ​and 帥​).?
+The Chinese names for this Piece really mean General,
+but I shall use the name familiar to Western players, as the
+2 The rival Kings, besides being distinguished by colour, are denoted by
+different characters.
+
+
+## p. 253 (#285) ############################################
+
+CHINESE CHESS.
+253
+alteration is immaterial. The power of this Piece, except in
+one case, is much more limited than that of our King; he
+can move forwards, backwards and laterally, one step at a
+time, like our Piece, but he cannot go out of the square space
+called the Palace, and even there, he is not allowed to move
+diagonally, though, as we have seen, there are two diagonals
+marked out; he can only move along the horizontal and
+vertical lines, and take any unprotected Piece or Pawn that
+lies next to him on these lines. I mentioned one exception,
+where the Chinese Piece could exercise a more powerful
+action than ours; it is directed, however, exclusively against
+the hostile King. In Chinese Chess, the two Kings cannot
+stand on the same file, no matter in which rank of the
+Palace, without some intervening Piece or Pawn; the King is
+thus enabled not only to prevent the other King from being
+played on his file, but he can also protect one of his Pieces on
+that file against any attack of the hostile Monarch.
+This law becomes very important towards the end of the
+game, when the greater part of the Pieces and Pawns have
+been exchanged; then, if there are no intervening men
+between the two Palaces, as the Kings can only be played on
+three possible files, the action of the hostile King reduces
+them to two in every case, and if he is placed on the middle
+file, the other King can only move backwards and forwards
+on either of the side-files. At the beginning of the game the
+Kings are placed in the centre of the first rank of the Palace,
+as shown in Figure II.
+The far greater freedom of action of our King compared
+with that of the Chinese one, secluded in his Palace, suggests
+the reflection that the spirit of a nation's civilisation affects
+every branch of its activity, even such small things as its
+games; the Chinese Chess-King is as different from ours as the
+Chinese Emperor from a European Constitutional Monarch.
+17.
+
+
+## p. 254 (#286) ############################################
+
+254
+CHINESE CHESS.
+THE MINISTER (±).³
+This Piece, by its position on the Board at the outset of
+the game, corresponds to our Queen, but its power is so much
+less, that this reason, and the fact that there are two Minis-
+ters, have prevented me from employing our term Queen to
+designate it. The Minister can move diagonally one step at
+a time, backwards and forwards, but always within the
+Palace, his action, like that of the King, ceasing at its walls;
+the diagonal lines are especially marked to indicate his
+moves. We thus see that the King and Minister combined
+possess all the variety of moves of our King, restricted to a
+narrow space. The two Ministers, at the beginning of the
+game, are placed, like good, loyal liegemen, one on each side of
+the King; in one move a Minister can be brought in front of
+the King, where he is protected by him and by the other
+Minister.
+I stated that I decline to call this Piece a Queen, as it
+would be too disparaging to our noble Amazon; yet, if we
+look back to our ancient game, we shall find that the two
+Pieces were very similar. As late as the 15th century our
+Queen could only move diagonally to the next square, either
+forward or backward, exactly like the Chinese Minister.
+Only on her first move was she allowed to spring two squares
+in any direction. In a MS. collection of Problems of the
+15th century in the Ducal Library at Florence, the Queen
+has sometimes the old manner of moving and sometimes the
+new one which the good old author calls "Alla rabbiosa "—
+66 angry fashion," as we should say in Pidgin-English. It is
+lucky for the brilliancy of Chess that the "angry fashion"
+This Piece has been generally called Secretary by foreign writers on
+the game, but Minister is more in accordance with our notions, as we call
+the principal Piece " King."
+
+
+## p. 255 (#287) ############################################
+
+CHINESE CHESS.
+255
+prevailed. The only difference between our mediæval Piece
+and the Minister was, that the former could fight all over the
+Board instead of being confined to a small arena.
+THE BISHOP (and ).*
+(فيل)
+The Chinese name really means Elephant (the second
+character being used as an homonym) and corresponds to the
+Arabic term Fil
+also meaning Elephant; the
+Italian Alfiere was derived from that word, with the Arabic
+article Al prefixed. This Piece moves diagonally forwards
+and backwards like our Bishop, but only two steps at a time,
+neither more nor less; he is, moreover, confined to his own
+Camp, not being ever allowed to cross the River. The
+Bishops and Ministers form a kind of landwehr, or militia,
+only employed for defensive purposes, the action of the
+former extending over the whole Camp, while the latter only
+defend the Palace. The Chinese Bishops are, if we may use
+the expression, both of the same colour, i.e., they can go to
+the same places and they can mutually protect each other.
+• At the beginning of the game, they are placed just outside
+the Palace, on the first rank, and they can circulate over
+the Camp, passing, however, always over the same places.
+Figure III. shows all the possible moves of the Bishop; it
+will be seen that he can only move to six other distinct places,
+after which he must repass over the spots he has already
+occupied. The most favourable position for the Bishop is
+just in the centre of the Camp (at No. 3 in the diagram),
+he can then command four places.
+·
+4 The same remark applies to this Piece as to the King-a different
+character is used for the two sides.
+
+
+## p. 256 (#288) ############################################
+
+256
+CHINESE CHESS.
+5
+14
+Fig. III.
+3
+12
+1
+16
+III.-Bishop, and
+象 ​相
+​The moves of the Chinese Bishop are very similar to those
+of ours during the Middle Ages, when he was called Alfyn;
+the latter also could only move on to the third square from
+that on which it stood, but it enjoyed two privileges
+denied to the present Chinese Bishop-it could jump over
+another man, like our Knight, and it could range all over the
+Board.
+THE KNIGHT ( ).
+This Piece is called Horse by the Chinese, by which name
+it is known in Italy also; it has the same moves as our Piece
+
+
+## p. 257 (#289) ############################################
+
+CHINESE CHESS.
+257
+-one step in a straight line and one in an oblique direction.
+Owing to the Chinese Piece moving on the lines instead of
+the squares, its move appears different from that of our
+Knight, and this difference is increased by the following
+consideration:-the Chinese Knight does not enjoy the
+important privilege of leaping over another man. This
+restriction of its powers brings out the importance of attend-
+ing to the order in which the two steps forming the Knight's
+move follow one another. In our game it matters little
+whether the first step be oblique and the second in a straight
+line, or vice versa, the Knight always comes to the same square,
+leaping over any obstacle. But in Chinese Chess it should be
+always remembered that the first step must be in a straight
+line, because, if there is another man in that place, the Knight
+cannot pass over him and perform the second part of his move
+-the step in an oblique direction. Figure IV. shows how the
+move of the Knight may be obstructed. The Knight at c 5
+would have 8 places to which he could be played, (they are
+marked from 1 to 8 on the Figure), if it were not for the Pawn
+at b 5, which prevents him going either to 6 or 7. If the Pawn
+were at b 4 or b 6, it would not impede any of the Knight's
+moves. As the attack of the Chinese Knight can be masked
+by a covering Piece or Pawn, it is possible to give a
+discovered check from the Knight, nay even give a double
+check with two Knights, both impossibilities in our game.
+Figure IV. shows how this double check can be given. The
+Knight at f9 masks the attack of the Knight at g 9, but if
+the former is played to d 8, the King will receive its check
+and the discovered one of the Knight at g 9. The Knight
+can cross over the River into the hostile Camp, and come
+back if he eludes capture; he is far more powerful than the
+other Pieces we have yet examined, as he is an attacking
+Piece forming part of the field army.
+
+
+## p. 258 (#290) ############################################
+
+258
+CHINESE CHESS.
+10
+Fig. IV.
+9
+8
+7
+8
+1
+7
+2
+6
+5
+6
+4
+VII-IV
+5
+4
+3
+2
+3
+1
+a
+b
+c d e f g
+I. King, 將 ​and 帥
+​h
+IV.-Knight,
+VII.—Pawn, and
+THE ROOK ( ).
+The Chinese call it Chariot, but its move is exactly like
+ours; it can, when there is no obstruction, march all over
+the board, forwards, backwards and laterally, taking as many
+steps as it pleases. It is by far the most powerful Piece on
+the Chinese board, and, as we shall sce later on, it is the only
+Piece which can give checkmate with the sole assistance of
+the King. Other Pieces can only win through stalemate.
+
+
+## p. 259 (#291) ############################################
+
+CHINESE CHESS.
+259
+All the Pieces we have examined, nine in all, occupy the
+first rank of the board,-the King in the centre, the two
+Ministers next to him, and on both sides, in successive order,
+the two Bishops, the two Knights and the two Rooks. There
+are still two more Pieces to be examined—the Cannons-which
+are placed at 63 and h 3.
+THE CANNON ( ).
+The Cannon has no corresponding Piece on our board, and
+its very peculiar attack contributes largely to differentiate the
+Chinese game from ours, and give the former that brilliancy
+which the confined action of nearly half its Officers would
+otherwise prevent. All the Pieces we have yet examined,
+attack and take hostile men in the same direction as they
+move, and with the same restriction-that there should
+be no intervening man,-none of them being able to leap
+over other men, like our Knight. The Cannon moves exactly
+like the Rook, and with the same extensive range; on an
+empty board, it can go from one end to the other, both
+forwards, backwards and laterally, but it cannot attack the
+man that lies immediately opposite to it on any of its
+horizontal and vertical lines of action,-it requires an
+intervening Piece or Pawn to enable it to exercise its power
+on the object of its attack. A covering Piece or Pawn is
+necessary for the attack of the Cannon; of course, the inter-
+vening man may be friend or foe, it may also be another
+Cannon. It has the privilege of our Knight in leaping over
+another man,
+man, but it is only allowed to do so when it takes a
+Piece or Pawn, and in so doing it moves in a straight line,
+either forwards, backwards or laterally. When there is no
+man to take, the Cannon cannot leap over another man, but
+is confined in its movements, as the Rook would be under the
+
+
+## p. 260 (#292) ############################################
+
+260
+CHINESE CHESS.
+same circumstances. The Chinese formulate this law of
+attack by saying, that the Cannou must have a "partition.'
+The power of the Cannon is enhanced by the support of the
+other Cannon on the same rank or file; in such a case, each
+serves as a "partition" to the other. It is very difficult for
+a foreign player to get familiarised with the vagaries of
+Fig. V.
+10
+VI
+9
+8
+7
+6
+5
+3
+2
+IF
+M
+1
+a b c
+dƒ
+9
+g
+h
+h i
+I.-King,
+and
+IV.-Knight,
+VI.-Cannon,
+this strange Piece. Figure V. illustrates the attack of the
+Cannon. The Black King is under check from the White
+Cannon at h 10, the White Knight at ƒ 10 serving as
+
+
+## p. 261 (#293) ############################################
+
+CHINESE CHESS.
+261
+"partition;" the Black Cannon at c 10 cannot take the
+White Knight by leaping over its King, as then the Black
+Cannon itself would serve as a "partition" for the White
+Cannon, the King still remaining in check; so Black has
+only two courses open to him, either to take the White
+Knight with his King, in which case the Black King would
+serve himself as a "partition" for the White Cannon, which
+could then take the Black Cannon, or to move out of check,
+in which case he also loses his Cannon.
+THE PAWN ( and .)
+5
+The Pawn has not the irregularity of its Western colleague,
+of taking a hostile man in a different direction from that in
+which it moves; during all its chess-life the Chinese Pawn
+takes in the same way as it moves. The move of the Pawn
+is always one step at a time; at first it can only move for-
+wards, but as soon as it has crossed the River, it receives
+an early promotion, and is allowed to move also laterally in
+either direction. It can never, however, move backwards or
+attack in that direction, and as soon as it has advanced to the
+last rank on the board, instead of bursting from its chrysalis
+and becoming a Queen, it is condemned to move only on that
+rank from right to left or vice versa. The Pawn thus loses
+much of its power when it advances too far in the hostile
+Camp, and it is necessary to be very cautious in advancing it
+when it has crossed the River; it is better to move it laterally
+along the same rank, until the opportunity offers of
+advancing it without loss.
+The seclusion of the King enables the passed Pawns, if I
+may use this expression, in the Chinese game, to play a very
+5 The same remark holds good for the Pawn as was made for the King
+and Bishop.
+
+
+## p. 262 (#294) ############################################
+
+262
+CHINESE CHESS.
+important part in the end game, and they are as useful as
+minor Pieces in attacking the hostile King in his Palace. As
+I have mentioned, the Chinese have only 5 Pawns, which are
+placed, at the beginning of the game, on the 4th rank, alter-
+nately on the 1st, 3rd, 5th, 7th and 9th files.
+CHESS NOTATION.
+The Chinese possess a method by which they can record
+all the moves of a game, and as it differs considerably
+from ours, it will need some explanation. They begin by
+dividing all the moves made on the board into three classes-
+advancing, retreating and lateral moves-and by numbering
+all the files, from right to left, from 1 to 9. All these
+distinctions are different for the two players, each counting
+from his own side, as in the English notation; thus, advancing
+for the one is retreating for the other, and vice versâ, and the
+1st file for the one is the 9th for the other. Each move is
+indicated by giving the name of the Piece, the number of the
+file on which it is placed, the direction of the move and the
+number of steps taken. This last indication is differently
+expressed according as the move is vertical or lateral; in the
+former case, whether advancing or retreating, the steps are
+counted from the place where the Piece stands, not included,
+up to the place where it goes, included; in the latter case, the
+number of the file to which the Piece goes, is only given.
+Thus, Rook 2 advancing 5, means, that the Rook which is
+on the 2nd file goes forward 5 steps; Cannon 5 retreating
+3, means, that the Cannon on the 5th file goes backwards
+3 steps. If these same Pieces were moved respectively 5
+and 3 steps laterally, the notation would be Rook 2, laterally
+7, ie., it goes to the 7th file; Cannon 5, laterally 2, or 8,
+according as the move was to right or left.
+As the place occupied by the Piece is only indicated by the
+
+
+## p. 263 (#295) ############################################
+
+CHINESE CHESS.
+263
+number of its file, if there are two similar Pieces on the same
+file, it is sometimes uncertain which of them is to be played;
+but I do not think this a very important defect of the
+notation; at least, in all the chess analyses I have studied, I
+have not yet met a case where the doubtful move was not
+cleared up by the next, or at most the next two moves.
+To explain the diagrams, I have employed, and shall
+continue to employ, the German notation, as the Chinese
+would needlessly complicate explanations, already difficult on
+account of the novelty of the subject; and the English system,
+to be adapted to the Chinese game, would require great
+alterations in the names of the files, the Chinese Pieces, as
+we have seen, not corresponding completely to ours.
+CHECK, CHECKMATE AND STALemate.
+In the Chinese game, besides the simple, perpetual and
+discovered checks, there is, owing to the peculiar attack of the
+Cannon, another kind, which we may call the covered check.
+A Cannon on the same rank or file as the hostile King, with
+no Piece or Pawn between them, is perfectly inoffensive, but
+if the owner of the Cannon interposes a Piece or Pawn, he
+gives check; of course, if the Piece interposed also attacks
+the King, this becomes a double check. In the Western
+game, it is at most possible to give a double check, but in the
+Chinese game a triple and quadruple check may be given.
+Figure VI. gives two examples of triple checks. If White
+plays his Knight to c 9 or g 9, he gives a triple check, viz.,
+discovered checks of Rook and Cannon and simple check
+with the Knight. If Black plays his Rook to ƒ 2, he gives
+discovered check from the Knight, covered check from the
+Cannon and simple check with the Rook. This same kind of
+triple check can be given with a Pawn in lieu of the Rook,
+but in both cases the White King, by taking the Pawn or
+
+
+## p. 264 (#296) ############################################
+
+264
+CHINESE CHESS.
+Rook, gets out of all three checks. A Cannon, instead of
+Rook or Pawn, would only give a double check.
+10
+9
+Fig. VI.
+I
+8
+N
+་
+7
+5
+4
+3
+2
+1
+a
+b c d
+VN
+I
+VI
+ƒ g h
+V.-Rook,
+VI.-Cannon,
+1.-King, 將 ​and 帥
+​IV.-Knight,
+Figure VII. gives an example of a quadruple check.
+White, by playing his Rook to e 9, gives double discovered
+check from the two Knights, covered check from the Cannon,
+and simple check with the Rook; a Pawn instead of a Rook
+would do as well, but in both cases, unless protected, the
+Black King can take the Pawn or Rook and get out of the four
+checks. A Cannon instead of the Rook or Pawn would only
+
+
+## p. 265 (#297) ############################################
+
+CHINESE CHESS.
+265
+10
+Fig. VII.
+9
+8
+7
+6
+M
+5
+1
+3
+2
+1
+b
+d.
+V-N
+N
+h
+1.–King, 將 ​and 帥
+​V.-Rook,
+IV-Knight.
+VI.-Cannon. H
+give a triple check. The examples given above are, as far
+as I can see, the only possible triple and quadruple checks.
+These complicated checks rarely occur in practice, as they
+are not much more than curiosities, simple and double checks
+being most paying, but I have given them, as they serve to
+illustrate the power and peculiaritics of the Chinese Picces.
+On giving check, the word "King" may be employed to
+warn the other player, but this intimation is often neglected,
+and only when by the following move it becomes evident that
+18
+
+
+## p. 266 (#298) ############################################
+
+266
+CHINESE CHESS.
+the adversary has not seen the check, is the word King
+mentioned. It is perhaps almost needless to remind the
+reader, that the primitive incaning of our word check was the
+same, as it came from the Persian word Shah
+(شاه)
+In the Chinese gaine, checkmate is similar to ours, but it is
+not the only way by which the player can win,-a stalemate
+also counts in his favour. If the adverse King has no Pieces
+or Pawns to play, and if he cannot move anywhere without
+being in check, he is considered to have lost, though he
+is not in check at the time.
+DRAWN GAME.
+This may happen in the following cases: 1st.-When there
+is not sufficient force. This does not take place as often as in
+our game, because when the force is too weak to checkmate,
+it may often be able to stalemate, which, as I have stated, leads
+to the same result. 2nd.-When the forces are equal on
+both sides, as Rook against Rook with no advantage of
+position. 3rd.-When one side can give perpctual check.
+This may happen more easily in the Chinese game, owing to
+the seclusion of the King, who is thus prevented from
+gradually getting away from the Checking Piece, and
+sheltering himself behind one of his own men.
+I am not aware that there is any rule corresponding to our
+50-move law, which draws the game.
+THE OPENINGS.
+The Chinese do not seem to have paid much attention to
+this branch of the science; they seem to have preferred
+devoting themselves to the endings; and while it is easy to
+find books full of beautiful end-games requiring great
+brilliancy of combination, either to draw or win, the openings
+
+
+## p. 267 (#299) ############################################
+
+CHINESE CHESS.
+267
+are dismissed with some general advice. What follows, is
+mostly the result of my observation of play; I shall, therefore,
+only indicate the usual moves which occur at the beginning
+of most games, and give some rules for general guidance.
+The advance of the King's Pawn, which is the first move
+in most of our openings, the so-called Royal openings, —is
+not advisable in the Chinese game, as that Pawn constitutes
+at first the only protection to the King; it should not be
+advanced until a late stage of the game. Perhaps the most
+Fig. VIII.
+10 V N-IIIII III IV
+9
+8
+VI
+VI
+7 VII
+6
+VII VII
+VII
+VII
+5
+4 (VI
+VID
+VID
+VII
+VID
+3
+VI
+VI
+①①①①①①①①⑦
+a b c d
+I. King. 將 ​and 師
+​II.-Minister,
+III.-Bishop, and
+IV.—Knight,
+V.-Rook,
+VI.-Cannon.
+VII.—Pawn. and
+
+
+## p. 268 (#300) ############################################
+
+268
+CHINESE CHESS.
+usual first move of the Chinese, is to play one of the Cannons
+to e 3 (see Figure VIII) in front of its King; it then
+attacks the adverse King's Pawn. This may be compared to
+our King's Knight's opening. I may continue the com-
+parison a little further, and say that Black may either defend
+his Pawn with a Knight at g 8 or c 8, as in the Italian
+Defence, or play one of his Cannons to e 8, à la Petroff. I
+Fig. IX.
+10 VIII III IV
+9
+8
+VI
+И
+7 VII
+VII
+VII
+VI
+VII
+6
+5
+4 (VI
+VID
+VID
+VID
+VID
+3
+VD
+2
+1
+IIIIIIIV
+a b c d e f g h i
+I. King. 將 ​and 帥
+​Il-Minister, +
+III.—Bishop, and #
+IV.-Knight,
+V.-Rook, M
+VI.-Cannon,
+VIT.Pawn, and 兵
+​
+
+## p. 269 (#301) ############################################
+
+CHINESE CHESS.
+269
+give a diagram (Figure IX) of the last position, as it will
+furnish another illustration of the Cannon's play. White
+now can take Black's King's Pawn with his Cannon giving
+check; Black in answer can take White's King's Pawn with
+his Cannon, leaping over the other Cannon, and relieve
+himself from check.
+It is also very common for both players to begin the game
+defensively, by protecting their King's Pawn with one or
+both Knights at c 3 and g 3 for White, and c 8 and g 8
+for Black,-a parallel, I might say, to our Three and Four
+Knights' Game. Another very common defence occurring
+among the first moves, is to play one of the Ministers to e 2
+or e 8 (for White and Black) to cover the King. The
+Cannons can also be played to advantage on the Rook's files,
+followed up by the advance of the Rook's Pawn, which
+cannot then be taken by the opposite Pawn, without ex-
+posing the adverse Rook to capture by the Cannon. The
+Chinese Pawns being so few in number, and placed on the
+fourth rank, all the attacking Pieces-Knights, Cannons and
+Rooks-can be brought into play without advancing a single
+Pawn. One of the Bishops is often played to e 3 for White
+and e 8 for Black; he then occupies the most commanding
+position he can attain on the Board, and he protects and is
+protected by the other Bishop. I may add, that to form a
+strong attack on the adverse King, the Knights should cross
+the River promptly, and a Rook on one of the Palace files.
+with a Cannon behind it, thus forming a double attack,
+is very dangerous for the other player. In the early stages
+the Pieces crowd on to the centre files both for attack and
+defence.
+ENDINGS OF GAMES.
+4
+In treating this part of my subject, I shall proceed, as is
+usually done in treatises on our game, by first examining the
+18.
+
+
+## p. 270 (#302) ############################################
+
+270
+CHINESE CHESS.
+simple class of endings, where a King is left alone, against
+an adverse force of different kinds, treating first the cases
+where this force is strongest, and following with the cases
+where it is weakest, and finally I shall give some complex
+positions of end games, where both sides have nearly equal
+forces, and it is simply a question of position and skill, to
+either win or draw. In all that follows, I shall suppose that
+the reader whom I am addressing has White the winning
+side, this will simplify very much many cases, as otherwise it
+would be necessary to use all sorts of circumlocutions to
+distinguish between similar Pieces of both sides. All the
+simple endings are much easier in the Chinese game, first,
+because the King is confined to his Palace, second, because a
+stalemate counts as much as a checkmate.
+KING AND ROOK AGAINST KING.
+With this force at your disposal, you can win in a very
+few moves. As the two Kings cannot stand on the same file,
+if your King is on the middle file, the Rook can, in most
+cases, give mate on the move, by checking on either of the
+side-files; if the Rook is unfortunately situated on the 8th or
+10th rank, and the adverse King on the 9th, as you cannot
+then check on a Palace file, without having your Rook
+captured by the King, you must either retreat the Rook a
+few steps, and then mate the next move, or gain a move with
+your King, keeping him, of course, still on the middle file, and
+then, when the adverse King is forced to move to the 10th or
+8th rank, you mate with the Rook. If your Rook is on the
+9th rank and the adverse King on the 8th or 10th rank, you
+win on the move, by simply gaining a move with either
+King or Rook, each keeping, however, to his file and rank, the
+adverse King is then stalemated,—in fact, as he cannot leave
+the Palace, and the other King cuts off the next file, and the
+
+
+## p. 271 (#303) ############################################
+
+CHINESE CHESS.
+271
+Rook the next rank, he has nowhere to go to. From all that
+precedes, it becomes evident, that with your King on the
+middle file, you win in at most two moves.
+When the adverse King occupies the middle file, you have
+to drive him off it, with your Rook, and then by occupying
+the middle file with your King, the position becomes one of
+those we have just examined. Let us see the method of
+of driving the adverse King off the middle file. This can
+generally be done in one move, by checking with the Rook
+on that file; the positions where this cannot be done, are the
+same as those we have examined in the first part of this
+ending, viz., when the Rook is on the 8th or 10th rank and
+the adverse King on the 9th, or the Rook on the 9th rank
+and the King on the 8th or 10th. In such cases you must
+retreat the Rook a few steps, and then check on the middle
+file the next move. So that, in at most three moves, you have
+your King on the middle file and the Rook ready to mate the
+next move. We can thus establish that with Rook, and the
+move, you are able to win, from all positions, in at most four
+moves. If it is Black's move, as he cannot alter materially
+of the positions, you can still mate him in at most four
+any
+moves.
+KING AND KNIGHT AGAINST KING.
+In the Chinese game it is not only possible to checkmate
+with the two Knights, but you can win with a single Knight
+by stalemate. As in the last ending, it will greatly simplify
+matters if your King is on the middle file; in such a case you
+have only to bring up your Knight, so that he may command
+the next place to the Black King. Figure X. shows how
+this can be done next move. With either of the Knights at
+i 6 or c 6, you can, if it is your move, play one to g 7 or d 8,
+stalemating your adversary. In advancing your Knight,
+
+
+## p. 272 (#304) ############################################
+
+272
+CHINESE CHESS.
+you should be careful not to play him on the middle file,
+covering your King, because, in such a case, Black can play
+his King on the middle file, pinning your Knight, until you
+move away with your King, thus losing all the advantage
+of the middle file.
+Fig. X.
+10
+9
+8
+7
+6
+5
+4
+3
+2
+N
+N
+1
+I
+a b c d e f g h i
+1.–King, 將 ​and 帥
+​IV.-Knight,
+If your King is on one of the side-files, you must move
+up your Knight, so as to command the 9th place on the centre
+file, then the adverse King can no longer move up and down
+that file, and must be played on to the other side-file, leaving
+
+
+## p. 273 (#305) ############################################
+
+CHINESE CHESS.
+273
+the middle file free for your King, and we come to the
+position examined in the first part of this ending.
+KING AND PAWN AGAINST KING.
+Though the Pawn cannot be Queened, it can win by
+stalemate whenever it has not reached the 10th rank. To
+examine this ending with greater clearness, I shall divide it
+into two classes:-1st. When your King is on the middle file.
+2nd. When the Black King is on the middle file. In the first
+class, as the Black King is on one of the side-files, your Pawn
+is either on the same side as the adverse King, or on the
+opposite one. The Pawn at 69, in Figure XI., shows the
+first case.
+If it is your move, you play the Pawn to c 9, and
+stalemate your adversary-(the Pawns, as I have stated, attack
+laterally as well as forwards, as soon as they have crossed the
+River). If it is Black's turn to play, as his King must go
+to d9, you still play your Pawn to c 9, checking, and when
+the Black King moves to d8 or d 10, you gain a move with
+your King, playing him to e 2, and Black is stalemated. The
+Pawn at ƒ9, in Figure XI., illustrates the second case. If it
+is your turn to play, you move Pawn to e9, and Black is
+stalemated; if, on the other hand, Black has to move, his King
+goes to d9, you still play your Pawn to e9, checking, and
+when the Black King moves to d8 or d 10, you gain a move
+with your King, playing him to e2, and the adversary is
+stalemated.
+Now let us examine the second class, i.e., when the Black
+King occupies the centre file. As in the preceding class, we
+may distinguish two cases-when your Pawn is on the same
+side as your King, and when the Pawn and your King are
+on opposite sides of the middle file. The Pawn at c9,
+Figure XII., will serve to show how you are to proceed in
+the first case. If it is your move, you play the Pawn to d9,
+
+
+## p. 274 (#306) ############################################
+
+274
+CHINESE CHESS.
+10
+9
+MID
+8
+7
+6
+5
+I
+Fig. XI.
+I
+"
+b c d
+I. King, 將 ​and 帥
+​VID
+h
+VII.—Pawn, and F
+and the Black King, being then unable to move up to e9, on
+the centre file, will have to go to ƒ 10, leaving the middle file
+free for your King, and as soon as you have occupied the
+centre file, we come to a position of the first class. If it is
+Black's turn to play, he will move his King to e 9 (his best
+move); you still play Pawn to d 9, checking, and the Black
+King will go either to e8 or e 10, as he will try to keep on
+the centre file as long as he can; you gain a move with your
+King by playing him to d2, and the Black King must
+abandon the middle file, and we come again to a position of
+
+
+## p. 275 (#307) ############################################
+
+CHINESS CHESS.
+975
+10
+9
+VID
+8
+7
+Ꮳ
+5
+4
+3
+2
+Fig. XII.
+I
+VID
+1
+I
+a b c d
+I. King. 將 ​and 師
+​ƒ g h i
+VII.-Pawn, and E
+the first class. The Pawn at 99, Figure XII., will show the
+second case. If it is your move, you play the Pawn to ƒ9,
+and the Black King is stalemated. If it is Black's move, ho
+will play his King to e 9, and as you cannot check with your
+Pawn at f9 without losing it, you must play your King to
+d2, gaining a move; now if Black plays King to e 10, you
+play Pawn to f9, and stalemate him; his best move is King
+to e 8, you then play Pawn to f9; Black has only one move
+to make, King to f8-(the Pawns do not attack backwards);
+you cannot then occupy the centre file with your King,
+
+
+## p. 276 (#308) ############################################
+
+276
+CHINESE CHESS.
+because Black can take your Pawn, so you play Pawn to e9;
+again Black has only one move to make, King to e 8—(the
+Pawn attacking laterally, as soon as it has crossed the River
+prevents the King going to ƒ9); you move your Pawn to d9,
+and the Black King must abandon the centre file, which you
+can then occupy safely, and we come again to a position of
+the first class.
+The Bishops and Ministers not being able to leave your
+Camp and Palace, are, as I have stated, useless for attacking,
+and as the Cannon cannot attack without an intervening
+man, there are no more endings where you can win with a
+single Piece or Pawn. I shall close the simple endings by
+showing how you can win with-
+KING, CANNON AND PAWN AGAINST KING.
+As you can win with King and Pawn alone, it seems a
+work of supererogation to show how you can do so with
+King, Cannon and Pawn; but the Cannon is such a strange
+Piece, that the more we know about it the better. So
+that, in what follows, I shall never attend to the attacking
+powers of the Pawn itself, but consider it simply as a
+"partition" for the Cannon.
+As in all the preceding endings, we must distinguish two
+cases-1st. Your King on the centre file. 2nd. Black King
+on that file. In the first case, if your Pawn is not farther
+advanced than the 7th rank, and on the same side as the
+adverse King, you can bring it on the same Palace file as
+the Black King, then play Cannon behind it, mating. If
+your Pawn is on the same side as the adverse King, but on
+the 8th rank, you can also win by gaining a move, either
+with King or Cannon, when the Black King is on the 9th
+rank. Figure XIII. will serve to show this position. You
+cannot play Pawn to d 8, as Black would take it, getting out
+
+
+## p. 277 (#309) ############################################
+
+CHINESE CHESS.
+277
+10
+Fig. XIII.
+9
+I
+8
+VID
+7
+6
+5
+4
+3
+I
+2
+1
+M
+a b c
+VI.-Cannon,
+d e f g h i
+I.–King, 將 ​and 帥
+​VII.–Pawn, 卒 ​and 兵
+​of the Cannon's check, so you must move King to e 2; Black
+must then retreat his King to d 10, and you play Pawn to
+d 8, covering check from the Cannon, and mating. When
+your Pawn is on the 9th rank, it is evident that it cannot
+serve as a "partition" for the Cannon to attack on a file, so
+you must then get your Cannon also on the 9th rank, behind
+the Pawn, so as to command that rank. You must do the
+same when your Pawn and the adverse King are on opposite
+sides of the centre file; in such a case, you cannot get your
+
+
+## p. 278 (#310) ############################################
+
+276
+CHINESE CHESS.
+because Black can take your Pawn, so you play F
+again Black has only one move to make, Kin
+Pawn attacking laterally, as soon as it has er
+prevents the King going to f9); you move
+and the Black King must abandon the ce
+can then occupy safely, and we come
+the first class.
+The Bishops and Ministers not
+Camp and Palace, are, as I have s
+and as the Cannon cannot att
+man, there are no more endi
+single Piece or Pawn. I sh
+showing how you can win
+
+KING, CANNON
+As you can win w
+work of supererog
+King, Cannon an
+Piece, that the
+that, in what
+powers of t
+"partition
+As in
+cases:
+on th
+adv
+ar
+a b
+VI.-Cannon.
+I
+de
+I. King, 帥 ​and 將
+​6
+7
+VII.—Pawn. † and E
+
+
+## p. 279 (#311) ############################################
+
+CHINESE CHESS.
+279
+Figure XIV. illustrates the second case, and, as I have
+said, will serve also for some positions of the first case. You
+cannot drive the Black King permanently off the middle file
+with Cannon and Pawn, because as soon as you have driven
+off the King and occupied the centre file with your King, if
+you move away either Pawn or Cannon to commence the
+attack on the Black King on the side-file which he occupies,
+the King comes back to the centre file, pinning either Pawn
+or Cannon which may be interposed between the two Kings.
+You must proceed by establishing both Pawn and Cannon
+on the 9th rank, the Cannon behind the Pawn; in this way
+the Black King is confined in his movements either to the
+8th or 10th rank, and as your King conmands one of the
+three places in either of those ranks of the hostile Palace, the
+adverse King has only two places on which to move,-
+alternately from the centre file to the side-file not
+commanded by your King; as soon as he moves to the side-
+file you occupy the middle file with your King, and the
+adversary is stalemated. Figure XIV. will make clear all
+the preceding explanations. If it is your move, you play
+Cannon to i 9, checking; Black must play his King either to
+e 8 ore 10; in cither case, you gain a move with your King,
+moving him to d 2; Black must play his King to ƒ 8 or ƒ 10,
+according as his first move was to e 8 ore 10; you play your
+King to e 2, and Black is stalemated. The Cannon and
+Pawn commanding the 9th rank, and your King the centre
+file, if it is Black's move, you win in only two moves.
+must leave either the 9th rank or the centre file, by playing his
+King to e8 or e10 in the first case, to ƒ9 in the second case.
+In the first case you still play Cannon to i 9, Black must move
+to ƒ 8 or ƒ 10, you play King to e 1, and stalemate. In the
+second case you play King to e 1, Black must move his King
+to ƒ 8 or ƒ 10, you then play Cannon to i 9, stalemating.
+Hc
+
+
+## p. 279 (#312) ############################################
+
+278
+CHINESE CHESS.
+19
+Pawn over to the Black King's side to serve as a "partition'
+for the Cannon without losing command of the centre file,
+because crossing over, as soon as the Pawn is on the middle
+file, the Black King occupies it, pinning the Pawn until
+your King moves on to one of the side-files. So that, in this
+case, as well as when the Pawn is on the 9th rank, you have
+to get your Cannon on the same rank behind the Pawn;-this
+position is also the one you must secure when your King is
+on the side-file, i.e., the second case, so I shall examine all
+these cases together, as they require the same mode of attack.
+Fig. XIV.
+10
+9
+8
+7
+6
+5
+4
+2
+1
+I
+I
+VID
+a b c d e f
+I.–King,師 ​and 將
+​ghi
+VI.—Cannon,
+VII. Pawn. 卒 ​and 兵
+​
+
+## p. 279 (#313) ############################################
+
+CHINESE CHESS.
+279
+Figure XIV. illustrates the second case, and, as I have
+said, will serve also for some positions of the first case. You
+cannot drive the Black King permanently off the middle file
+with Cannon and Pawn, because as soon as you have driven
+off the King and occupied the contre file with your King, if
+you move away either Pawn or Cannon to commence the
+attack on the Black King on the side-file which he occupies,
+the King comes back to the centre file, pinning either Pawn
+or Cannon which may be interposed between the two Kings.
+You must proceed by establishing both Pawn and Cannon
+on the 9th rank, the Cannon behind the Pawn; in this way
+the Black King is confined in his movements either to the
+8th or 10th rank, and as your King commands one of the
+three places in either of those ranks of the hostile Palace, the
+adverse King has only two places on which to move,-
+alternately from the centre file to the side-file not
+commanded by your King; as soon as he moves to the side-
+file you occupy the middle file with your King, and the
+adversary is stalemated. Figure XIV. will make clear all
+the preceding explanations. If it is your move, you play
+Cannon to i 9, checking; Black must play his King either to
+e 8 ore 10; in either case, you gain a move with your King,
+moving him to d 2; Black must play his King to ƒ 8 or ƒ 10,
+according as his first move was to e 8 ore 10; you play your
+King to e 2, and Black is stalemated. The Cannon and
+Pawn commanding the 9th rank, and your King the centre
+file, if it is Black's move, you win in only two moves.
+must leave either the 9th rank or the centre file, by playing his
+King to e8 or e10 in the first case, to ƒ9 in the second case.
+In the first case you still play Cannon to i9, Black must move
+to ƒ 8 or ƒ 10, you play King to e 1, and stalemate. In the
+sccond case you play King to e 1, Black must move his King
+to ƒ 8 or ƒ 10, you then play Cannon to i 9, stalemating.
+Hc
+
+
+## p. 280 (#314) ############################################
+
+280
+CHINESE CHESS.
+COMPLEX ENDINGS.
+The Chinese have collected a great variety of these, but
+most of them are very long, and with so many variations,
+running up sometimes to several hundred moves, that I
+cannot give the reader more than two examples, which, from
+their shortness and brilliancy, I may call problems. I shall
+give the solutions with explanatory notes. Figure XV.
+gives the first position :—
+Fig. XV.
+10
+VI
+9 VI
+8
+7
+6
+5
+4
+3
+2
+I
+VL
+VID
+VI
+II
+V
+1
+I
+VI
+a b
+c d e f g
+h i
+I. King,將 ​and 帥
+​II.-Minister,
+V.-Rook,
+VI.-Cannon,
+VII.-Pawn, and
+
+
+## p. 281 (#315) ############################################
+
+CHINESE CHESS.
+281
+If it were Black's turn to move, he could mato by the
+following moves :-
+Pawn, e 2-e 1, check.
+As the White King cannot go to ƒ 2, by reason of the Rook at
+d 2, and cannot take the Pawn with his King, on account
+of its being protected by the Black King, he must play
+Cannon 1-e 1, takes Pawn.
+Black then plays—
+Cannon b 10-b 1, check.
+White must move away Cannon, say—
+Black plays-
+Cannon e 1-e 4.
+Cannon a 9- —a 1, mate.
+We thus see that White's King is in a very critical position, and
+though Black's King may be checked, White, owing to the
+embarrassed state of his men, apparently cannot win. The
+following moves will, however, show how he can do so in a
+very pretty way:—
+(1) Rook h 3-e 3, check.
+It is useless for Black to interpose his Minister, as he would
+be taken, so he must play-
+(1) King e 10-d 10.
+White must keep up the attack-
+(2) Rook e 3-e 10, double check.
+Black cannot take the Rook with his Cannon, as he would
+still be under check from White Cannon at g 10, and if he
+take Rook with his King, White plays the other Cannon
+h 1—h 10, mating. So he must play—
+White plays-
+(2) King d 10-d 9.
+(3) Cannon h 1-h 9, check.
+If Black plays his King to d 8, White can check with his
+Rook at d 10, forcing Black's King to e 8, and then check
+first with one Cannon at g 8, and when Black removes the
+19
+
+
+## p. 282 (#316) ############################################
+
+282
+CHINESE CHESS.
+Minister, with the other Cannon at h 8, mating. Black
+having no option must play-
+(3) Minister f 8—e 9.
+(4) Rook e 10-d 10.
+This move, and the following one, are very pretty. Black
+must take the Rook-
+(4) King d 9—d 10, takes Rook.
+(5) Pawn ƒ 9-ƒ 10, mate.
+Black cannot go to d 9, as it is commanded by the Cannon at 9.
+Fig. XVI.
+10
+9
+VIII
+8
+7
+6
+5
+III
+4
+VII
+(VID
+VII
+VW
+3
+1-1-1
+2
+V
+1
+a b c
+1.–King, 將 ​and 帥
+​III.Bishop,象 ​and 相
+​VI.-Cannon,
+I
+VII
+† g hi
+11.-Minister,
+V.-Rook,
+VII.-Pawn, and
+
+
+## p. 283 (#317) ############################################
+
+CHINESE CHESS.
+283
+Figure XVI. gives the second position. A glance will show
+that Black can mate White on the move, by playing Rook
+h 2-h 1. White can only save himself as follows:
+(1) Pawn ƒ7-e7, check.
+(1) King e 8-d 8.
+Black has no other move.
+(2) Rook ƒ6-f8, takes Minister, check.
+This is the beginning of a series of sacrifices quite in
+Morphy's style, leading up, however, to a complete rout of
+Black's men.
+Black must play-
+(2) Minister e 9—ƒ 8, takes Rook.
+White continues his sacrifices-
+(3) Rook e 10-e 8, check.
+Black cannot take the Rook with his King, as it is protected
+by the Pawn, so he must play-
+(3) Bishop g 6-e 8, takes Rook.
+Black's King is blocked up by his own men. White has still
+one more sacrifice to make-
+(4) Pawn e 7-d7, check.
+(4) Cannon d 9-d7, takes Pawn.
+Black's move is compulsory-
+(5) Cannon / 6—d 6, check.
+This move, the last of a beautiful combination, strongly
+exemplifies the power of the Cannon; at the same time that it
+checks, it attacks the Black Rook at d 2-
+(5) Cannon d7—e 7.
+Black must remove the Cannon, as it is his only way out of
+chock-
+(6) Cannon d 6-d2, takes Rook, check.
+
+

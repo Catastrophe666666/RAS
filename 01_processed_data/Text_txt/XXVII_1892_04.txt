@@ -1,0 +1,2394 @@
+THE FAMILY LAW OF THE CHINESE.
+By P. G. VON MÖLLENDORFF.
+PREFACE.
+In 1878 I read an essay on the Family Law of the
+Chinese before the North-China Branch of the Royal Asiatic
+Society at Shanghai, which appeared in the Society's Journal
+[N.S. vol. XIII (1879) p. 99-121]. I had been largely
+indebted to Mr. E. H. PARKER, H.B.M.'s Consul, for valuable
+notes relating to my subject, and in a lengthy review of my
+essay in the China Review [vol. VIII (1879) p. 67-107] that
+gentleman again added a number of suggestions and observa-
+tions. These together with new investigations of my own
+have made it desirable to republish the old essay, with the
+necessary alterations and additions.
+Of the legal literature of China I have principally
+consulted the Statute Law and the Ordinances of the present
+dynasty
+(Ta-ching-lü-li), of which the laws
+relating to the present subject have been translated by
+Mr. G. JAMIESON in the China Review [vol. X (1881)
+p. 77-99].
+
+132
+THE FAMILY LAW OF THE CHINESE.
+In the arrangement of the subject before me I have taken
+as a basis the Roman law, which, owing to its logical structure
+and general completeness, has become a typical system, and
+has formed the foundation of the jurisprudence of all Euro-
+pean nations. I have chiefly consulted the works of PUCHTA,
+MACKELDEY, DERNBURG [Privatrecht, 2nd ed., vol. III, 1881]
+and others, for the Canon law WALTER'S Kirchenrecht.
+For the Jewish law the interesting work [in German] of
+S. MAYER on the Laws of the Jews, Athenians and Romans,
+furnished comparisons, ideas and suggestions. Since the first
+edition of my essay, the Realencyclopädie für Bibel und
+Talmud [by Dr. HAMBURGER, 2 vols. and 3 Supplements
+(1870-1892)] has become a standard work, to which I am
+much indebted.
+Some sentences have been quoted from MAINE'S Ancient
+Law, 6th ed. 1876, and from J. F. MCLENNAN's Studies in
+Ancient History, 1876, specially chapter II, p. 13 ss. I have
+also made use of C. N. STARCKE, The Primitive Family in its
+Origin and Development, London, 1889.
+The frequent comparisons with Jewish and Roman Law
+have been made with the object of proving that the Chinese
+laws and customs are pervaded by the same spirit of common
+humanity as those of other ancient peoples.
+I have constantly consulted the valuable Chinese-English
+Dictionary by H. A. GILES, Shanghai, 1892, and the excellent
+Nederlandsch-chineesch Woordenboek by G. SCHLEGEL, 4 vols.
+1886-90. The latter is a mine of information and far too
+little known. The trouble of having to use it with the
+help of an English-Dutch pocket-dictionary is too slight to
+stand in the way of its general use.
+
+THE FAMILY LAW OF THE CHINESE.
+TABLE OF CONTENTS.
+133
+Introduction.
+A.-On Marriage.
+1. General Remarks.
+2. Requirements for concluding marriages.
+3. Betrothal.
+4. Marriage.
+5. Relation of husband and wife to each other.
+6. Dissolution of marriage.
+7. Bigamy.
+8. Polygamy and Polyandry.
+9. Second nuptials and violation of the time of mourning.
+B.-On Patria Potestas.
+1. General Remarks.
+2. On the rights of both parents with regard to their
+children.
+3. On the rights of the husband with regard to his wife.
+4. On the duties of the children towards their parents.
+Ancestral worship.
+5. Acquisition of patria potestas.
+a. By marriage.
+b. By procreation.
+c. By adoption.
+1. General Requirements.
+2. Special Requirements.
+3. Effects of arrogation and of adoption.
+6. Termination of patria potestas.
+C.-On Guardianship.
+Alphabetical Index.
+
+134
+THE FAMILY LAW OF THE CHINESE.
+INTRODUCTION.
+As in the ancient Jewish state, the family is the unit of
+the Chinese; on its model the state is governed, and from the
+social conditions of the families the family law received its
+foundations. In this sense the state is called the family of
+the nation (kuo chia) and prefects and magistrates are
+popularly styled (fu mu kuan), parent officials.
+The Chinese family life, with its sexual purity coupled
+with filial piety, has greatly contributed towards the main-
+tenance of the Chinese nation. Everything revolves round
+the family as the centre, and the family circle with its natural
+conservatism has had a beneficial influence towards the
+outside world. The Chinese family life compares favourably
+with the somewhat too loose bonds of the occidental,-in fact,
+in family life China presents herself at her best.
+In the Chinese mind law¹ (li li) and general custom
+(kuei chi) are mixed up and cannot be kept separated.
+A Chinese judge will always modify the rigour of the law
+if local usage differs from it; and a Chinese will invariably
+be in favour of ch'ing li (the application of special
+circumstances) in each case. In this sense the term "family
+law" is to be understood not merely as a statement of the
+Chinese family laws (leges) but including also general usages,
+which will have to enter largely into a future codification of
+the Chinese law, especially private law.
+Tradition tells us very little of the family life of the
+Chinese in antiquity. Its foundations can be clearly recog-
+nised in the classical writings; in the Shiking, or Book of
+Odes, we even find traces of marriage by capture.
+Generally speaking the li have been superceded by the li, but in the
+marriage laws the lü are still mostly in force.
+
+THE FAMILY LAW OF THE CHINESE.
+135
+The Chinese family (chia) embraces, like the Attic
+ozos and the Jewish mishpachah, all members of the same
+household which stand under one head or pater familias
+(家長 chia chang, 家主chia chu, 家君 chia chin), without
+distinction, whether they have entered the family through
+marriage or adoption, and including servants and slaves."
+It is obligatory that all members of the family bear the same
+family name (Ehsing) as in India, Greece, and Rome.3
+Even with adoption a kind of quasi relationship is formed.
+In the oldest time of Chinese history the number of
+families may have been the same as the number of clans; the
+ancient term po hsing (the Hundred Family names, the
+people) occurs in the Shuking [I, 2 and frequently]. The
+idea that there exists a kind of relationship between families
+bearing the same name has lived up to the present time [see
+below "Impediments to Marriage"].
+Within the family the Chinese distinguish four grades
+of relationship, which follow according to the proximity of
+descent, without distinguishing thereby between consanguinity
+(nei chin) and affinity (wai yin). Genealogical
+tables are given in the (ta ch'ing lü li), vol. I,
+fol. 1-6. Compare W. H. MEDHURST, Journ. Ch. B.R.A.S.,
+1853, "Marriage, Affinity, and Inheritance in China" [see
+also Dr. LEGGE's Liki, vol. I, p. 202-209]. C. N. STARCKE
+[The Primitive Family, p. 201-3, 206, 298] discusses the
+different terms of Chinese relationship, but his authorities
+family.
+The Prussian Landrecht [I, 1, § 3] also includes the servants in the
+3 MCLENNAN, l.c., p. 217.
+See VON DER GABELENTZ, Chinese Grammar, p. 360.-S. WELLS
+WILLIAMS [in his Syllabic Dictionary, p. 1242] dates back the beginning of
+family names to over 3,000 years, without, however, quoting any authority
+in support of this statement. See also H. A. GILES, "The Family Natues,"
+Journal Ch. B.I.A.S., vol. XXI (1887) p. 256. G. JAMIESON, "Note on the
+Origin of the Family Names," Ch Rev., vol X. (1881), p. 89-93.
+18
+
+136
+THE FAMILY LAW OF THE CHINESE.
+were not free from error. The Relationships are presented by
+G. SCHLEGEL in his Woordenboek [vol. I, p. 1343] in a
+tabular form, in which, however, the relationships by adoption
+are omitted, the others are given in the Tsiang-tsiu (Amoy)
+dialect of the lower classes. A. J. MAY has compiled a list of
+all relationships in the China Review [vol. XXI (1894), p.
+15-39], which also is not quite complete and expressed in
+Cantonese. G. JAMIESON [China Review, vol. X (1881), p.
+199-200] gives also a table of the kindred on the male
+side only.
+The above-mentioned four grades of relationship, with the
+legal time for mourning, given hereafter, are taken from the
+useful little letter-writer (huan hsiang yao tsé,
+Important Rules for the Officials and the People), by Lu
+JUN-HSIANG (), Shanghai, 1892, 2 vols. 16º.
+1st grade. Term of mourning three years (usually re-
+duced to 27 months). Called chan tsui (mourning
+garments with frayed edges). For man and wife: the hus-
+band's parents. For wife and concubine: the husband.
+Term of mourning one year. Called chi nien.
+For man: sons, wife of eldest son, grandsons (descended from
+wife), uncle and his wife, daughters if unmarried, brothers,
+sister if unmarried, nephew (brother's son), niece (brother's
+daughter) if unmarried. For wife: her parents and grand-
+parents. For concubine: wife of husband, husband's parents,
+sons (her own and those of the wife and of other concubines).
+This term of one year is also kept by a man of double sacra
+(-i tzu shuang t'iao) on the death of his own
+parents.
+toň ts'ui
+Term of mourning five months. Called
+(mourning garments with unhemmed, but even cut edges),
+with the addition chang ch'i, i.e. in the lifetime of the
+parents. For man: the great-grandparents, the great-great-
+
+THE FAMILY LAW OF THE CHINESE.
+137
+grandparents, the grandparents, the wife. If the parents are
+already dead, the term of mourning is only three months
+(pu chang ch'i). For wife: her great-grandparents
+and great-great-grandparents.
+2nd grade.-Term of mourning nine months. Called
+ta kung (the greater merit). For man: the wives of
+sons (others than the eldest), grandsons (others than from
+first wife), married daughters, male and (unmarried) female
+cousins (children of paternal uncle), married sisters, wife of
+nephew (son of brother), married nieces (brother's daughters).
+For wife husband's grandparents, husband's uncle, husband's
+daughter-in-law (wife of a younger son or of a concubine's
+son), husband's nephew's wife, husband's married niece,
+grandsons.
+3rd grade.-Term of mourning five months. Called
+hsiao kung (the lesser merit). For man: grandson's wife,
+granduncle (brother of grandfather) and his wife, unmarried
+grandaunt, granduncle (son of great-granduncle) and his
+wife, brother's wife, male cousins (of the same surname),
+married female cousins (daughters of elder paternal uncle),
+unmarried female cousins (of the same surname), nephew and
+unmarried niece (grandchildren of paternal granduncle),
+son and unmarried daughter of nephew (brother's son),
+mother's parents, mother's brother, mother's sister. For wife:
+husband's aunt, husband's brother and the latter's wife,
+husband's sister, husband's second cousin, unmarried female
+second cousin of husband, husband's grand nephew and
+unmarried grand-niece.
+4th grade.-Term of mourning three months. Called
+ssu ma (coarse hemp garments). For man: wives of
+grandsons, grandsons of more distant relations, the married
+female relations which come under the 3rd grade if unmarried,
+the wives of relations of the 3rd grade, etc. etc.
+
+138
+THE FAMILY LAW OF THE CHINESE.
+For a complete list of all relationships and to illustrate
+the five kinds of mourning (wu fu) seven tables would
+be required:-
+1.-A man mourning for his kinsfolk.
+2.-A
+3.-A
+دو
+93
+دو
+دو
+mother's kinsfolk.
+wife's
+"
+"
+"
+"
+"
+her husband's
+"
+"
+دو
+4. A wife
+5.-A married woman mourning for her own kinsfolk.
+6. A concubine mourning for her husband's
+7.-Mourning for step-fathers and fathers by adoption
+and for step- and foster-mothers.
+دو
+Tables 1 to 6 are printed in English in LEGGE's Liki
+[vol. I, p. 209].
+Slaves (nu ts'ai) are also counted as belonging to
+the family; under the name of chia shén tzu are
+designated those which have been bought; chia
+sheng tzu or chia ch'an tzu are those born in the
+family, children of slaves, vernae, oixitat, and the Jewish yelid
+bayith (Jerem., 2, 14). Slaves are generally well treated, and
+their position in the family is more like that of the Jewish ebed,
+not like that of the slaves amongst the Greek and Romans.5
+The Chinese master may punish his slave, but not
+excessively. In ancient times criminals were made slaves as
+a punishment (kuan nu, slaves of the state).
+The Manchu family names are not publicly known. The
+Manchus, whose Emperors reign over China since 1644, do
+not use their family names (Ehsing, Manchu: hala) since
+the reign of the Emperor KANGHI (1662-1723), but only their
+personal names (ming, Manchu : gebu). The surnames are,
+however, known within the clans, and the law concerning
+them is, with some modifications to be indicated later on, the
+same for the Manchus as for the Chinese.
+5 E. J. EITEL," Slavery in China," Ch. Rev., vol. X (1881), p. 283-284.
+6 Liki, XXXVI, 48, LEGGE, vol. II, p. 363,
+
+THE FAMILY LAW OF THE CHINESE.
+A. ON MARRIAGE.
+1.-GENERAL.
+139
+"
+uxorem
+The ancient Roman conception of marriage was
+habere liberorum quærendorum causa," and the same one-sided
+view was accepted by the so-called "enlightened epoch" of
+last century, seeing in marriage nothing but the aim for the
+procreation and bringing-up of children.
+Fundamental institutions like marriage cannot be defined,
+but can only be approximately described. Better than the
+old conception is the definition given in l. 1 D. de ritu
+nuptiarum, 23, 2: "nuptiæ sunt conjunctio maris et feminæ,
+consortium omnis vitæ, divini et humani juris communicatio."
+The sentiment is here decisive, and as the means at the
+disposal of law have little influence of the sentiment, the
+influence of law over marriage can only be a limited one.
+The highest moral standpoint was reached by the Jews,
+who took marriage as "covenant" [Mal., II, 14] to which
+God is a witness.
+How and when marriage became a recognised institution
+with man is perhaps an idle question. Some take it that the
+communion of women in prehistoric times had to be conquered
+by the exogamous marriage by capture, and that the later endo-
+gamous marriage by capture formed a transition stage towards
+marriage by contract. Others again deny that primitive man
+ever lived in promiscuous intercourse. C. N. STARCKE³ quotes
+DARWIN [Descent, II, p. 362] and MAINE [Early Law, p. 206,
+216] "It is improbable that sexual intercourse was ever
+H. PAUL, Grundriss der Germanischen Philologie, vol. II, 2, p. 142.
+8 The Primitive Family, p. 242.
+
+140
+THE FAMILY LAW OF THE CHINESE.
+perfectly free, since the passion of jealousy is so strong in the
+whole animal kingdom that it cannot be supposed to have been
+dormant in primitive communities of men."
+Of the primitive condition of the Chinese, when the
+founders of the Chinese empire entered in the north-western
+part of China, we know next to nothing. Previously to the
+Chou dynasty (1122-255 B.C.), according to the commen-
+tators of the Shiking, a general laxity of morals prevailed, and
+it was not until the Chous laid down proper rites regulating
+marriage that promiscuous intercourse (yin pen,
+lewdness) ceased. But this judgment of the modern commen-
+tators is altogether unjust, and has no other foundation but
+the wish to excessively glorify the Chous. According to our
+idea the home life as depicted in the Shiking is a moral and
+happy one; it may be contrary to the present Chinese ideas
+of a life surrounded by all sorts of rites and usages, but it is
+altogether decent and morally irreproachable.
+"By the united action of heaven and earth all things
+spring up," says the Liki [LEGGE, vol. I, p. 439], "thus the
+ceremony of marriage is the beginning of a [line that shall
+last for a] myriad ages." The importance of marriage is
+thus emphasized [Liki, vol. II, p. 264]:-" Marriage is the
+union of the representatives of two different surnames in
+friendship and love, in order to continue the posterity of the
+former sages, and to furnish those who shall preside at the
+sacrifices to Heaven and Earth," and [p. 266]:-"Yes, the
+ceremony of marriage lies at the foundation of Government."
+Marriage is thus regarded by the Chinese as necessary
+and indispensable, and the best proof of this is furnished by
+the fact that, excluding priests and nuns who are not allowed
+* Two proverbs express it: 大禮有三千婚姻最重
+ta li yu san chien, hun yin tsui chung (Of the 3,000 rites marriage is the
+most important), and寧可成一房不可敗一戶 ning leo cwêng
+ifang, pu k'o pai i hu (Better establish a home than cut off one).
+
+THE FAMILY LAW OF THE CHINESE.
+141
+to marry, it is scarcely possible to find an old bachelor, and
+an old maid is a rarity.
+Chinese law further recognises the importance of
+marriage by giving a long list of marriage laws. 10 We must
+add, however, that marriage is not absolutely compulsory,
+nor is celibacy punished, as was the case under the Jewish
+law and the Attic code of Solon."
+The Chinese distinguish between two kinds of marriage
+which, not incorrectly, may be termed connubium and concu-
+binatus. In the first case they are obliged to be content with
+one wife (chi), who, like the Jewish and Roman, unlike
+the Greek, wife, shares the rank and honour of the husband.
+This wife is almost invariably chosen by the pater familias¹³
+from a family of equal position and circumstances; but the
+latter is not a conditio sine qua non and the requirement of
+equality of rank which led in Europe during the Middle Ages
+to the absurdity of marriages on the left hand (matrimonium
+ad morganaticam) 14 has been almost unknown in China. The
+wife is generally a woman with small feet.
+Concubinage is, however, at the same time permitted,
+and marriage with several concubines (ch'ieh) is allowed.
+The number of these, besides the one wife, is not limited by
+law, but only one wife is permitted.
+The better classes do not give their daughters to a man
+already married; Manchu girls are not allowed to become
+concubines.
+10 G. JAMIESON, "Translations from the Lü-li, or General Code of Laws,"
+China Review, vol. VIII, vol. IX, vol. X, p. 77-99 (the Marriage Laws).
+Among the Israelites each man was obliged to marry, and could be
+forced by the authorities to fulfil his duty until he had a son or a daughter;
+compare Pollux, III, 48; VIII, 40 (MAYER, L.c., vol. II, p. 286).
+12 Like the Romans, § 7 J. de nuptiis, 1, 10.-1. 2 C. de incestis et in-
+utilibus nuptiis, 5, 5.1.1 D. de his qui not. inf. 3, 2.-There is an excep-
+tion when a man is a filius familias for two families [see below under
+"Adoptions"].
+13 As in Biblical antiquity, Gen. 24, 21; Exod. 21, 9.
+"In Germany finally abolished by Reichsgesetz of 6th Feb. 1875.
+
+142
+THE FAMILY LAW OF THE CHINESE.
+Whilst the marriage with the wife (chi) is concluded
+by the parents of the two parties, the man is allowed to
+choose the concubines himself. These may be of low rank,
+even slaves, and have, without regard to priority of marriage,
+equal rank among themselves, but are subjected to the au-
+thority of the wife.
+The husband has not the right of degrading his wife,
+without sufficient reason, 15 to the rank of a concubine, nor
+of raising a concubine to the rank of a wife whilst the wife
+is alive.
+The wife is considered the mother of all the children
+born in the family16 and is honoured by the latter as their
+mother.
+The reason for the greater number of marriages with
+concubines is barrenness of the wife.17
+2. REQUIREMENTS FOR CONCLUDING MARRIAGES.
+A.-Absolute Impediments to Marriage.
+The attainment of puberty required by the Roman¹s and
+Canon law, of a certain age, as prescribed by modern legis-
+lation, as a pre-requisite for concluding marriage, is not
+known to Chinese law. It is, however, an established custom,
+that men marry when over twenty years of age, and that girls
+are rarely given in marriage before their fifteenth year. But
+as there are many exceptions in the laws in favour of persons
+15 See below, "Impediments to Marriage."
+16 The same in Jewish law [see MAYER, Z.c, vol. II, p. 339] and in
+Mohammedan law [see G. ROSEN, in Ztschrift D. M. G., vol. XXII, p. 543].
+17 This is probably the case with all polygamic peoples.-The ancient
+Jewish custom was (MAYER, l.c., vol. II, p. 339]-as it was considered a
+disgrace to have no children-the wife in such case induced her husband to
+take a maid-servant as concubine, the children born by the latter were
+considered hers and she was no longer childless.
+13 Pr. J. de nuptiis, 1, 10.-1. 14, D. 23, 1.-1. 4 D. 23, 2.
+10 Tit., X, 4, 2 Lib. sext. Decret., 4, 2.
+
+THE FAMILY LAW OF THE CHINESE.
+143
+under fifteen years of age, we may consider the latter as the
+age required for marrying. Very early marriages are not as
+common in China as is generally believed the common
+practice is to provide early in life a suitable wife for the son
+and a husband for the daughter, and to marry them when
+their character is formed.20 In China puberty commences
+at the same age as in Europe. The old idea that puberty
+arrives earlier in hot than in temperate climates is exploded
+by modern investigations.
+Suitability of age is generally recommended, as also that
+a young girl should not be married to an old man.21 But
+an early marriage in China is understood in the sense of
+an early settlement in life."
+Non-attainment of puberty, disease, or other defects
+(as insanity, deafness and dumbness, etc.) are considered
+impediments, if no notice of them has been given in the
+marriage contract.
+The defect of eunuchs naturally debars them from
+marrying. The right of having eunuchs (t'ai-chien,
+lao-kung) is an Imperial prerogative, and is also
+granted to the highest members of the Imperial family. It
+is also a prerogative of the king of Corea, who ranked with,
+but before, Imperial princes of the 1st order (ch'in-
+wang). As eunuchs have to serve and to live in the palace
+(nei kuan), it is for this reason alone impossible for
+them to marry.23
+There are, however, eunuchs at Peking who had children
+before their mutilation and who may obtain permission to
+visit their families from time to time. Cases may occur
+19
+Cp. Sirach, 7, 27; 42, 9-10.
+21 The same in the Talmud.
+Compare the German proverb "jung gefreit, hat keinen gereut."
+See Shiking, I, 11, 1 and II, 5, 6 [LEGGE, vol. III, p. 157 and 239].
+
+144
+THE FAMILY LAW OF THE CHINESE.
+where a eunuch, who by intrigues in the palace has risen
+position of honour, takes a wife pro forma and adopts
+a son for the succession. 24
+to a
+B.-Relative Impediments.
+1.-On Account of Relationship.
+"25
+Marriage between relations of all grades of agnatic
+relationship is prohibited; "cognates cannot marry any one
+of the generation above or below, but may marry any one
+of the same generation, not being agnate." For the
+relationship by adoption the prohibition does not remain in
+force after the first adoption has been dissolved by a new
+one. 26
+It may be here observed that there exists in China no
+relationship between the husband and his wife's sister, as
+is the case according to the Canonical, and after it the
+English law. In fact, since the Emperor SHUN married the
+two daughters of YAO [2357-2255 B.C.],28 such marriages
+are of frequent occurrence in China, probably because a
+wife finding that a concubine will be taken prefers to share
+the affection of her husband with her sister rather than with a
+stranger.
+See G. C. STENT, "Chinese Eunuchs," J. of N.C.B. of R.A.S., vol. XI
+(1877), p. 143.
+G. JAMIESON, l.c., vol. X, p. 82.
+This was contrary to Roman law.
+Based, as far as I can see, on Lev., 18, 18: "neither shalt thou take
+a wife to her sister to vex her, beside the other in her lifetime;" which
+can only apply to marrying two sisters at the same time, and not to
+marrying the sister after the wife's death.
+Mengtzu, V, I, 4 [LEGGE, II, p. 220]. From the Liki [vol. I, p. 132]
+it would appear that SHUN had three wives.
+
+THE FAMILY LAW OF THE CHINESE.
+145
+Altogether, there is no relationship between the relatives
+of the husband and those of the wife (called yin-ch'in).
+Relationship is always implied by the fact of bearing
+the same family name :-tung hsing pu
+wei hun yin (those of the same family name do not inter-
+marry).29 Considering that for a population of 400 millions
+only about 43830 family names exist, this impediment
+appears severe in the highest degree. In the course of
+ages 31 it happened that whole communities were composed
+of people with the same surname, so that men desirous of
+marriage had to look elsewhere for wives, and often to under-
+take for this purpose expensive voyages. Where a surname
+has two distinct origins, persons of the same surname may
+intermarry, provided that their line of ancestry can be traced
+from the separate stock,
+tung hsing pu t'ung
+tsung (of the same surname but of different ancestry), e.g.
+persons of the name of ch'e. On the other hand, families
+of the same ancestry have branched off under a different
+name and do not intermarry, as and, both pronounced
+hsü, who were one family until the reign of YUNG-CHENG
+[1723-36].33 It is the same with ch'en and yeh, and
+with yang and yi. An expedient to mitigate this
+Endogamic marriage is excluded. In the Institutes of Manu it is laid
+down that a "twice-born" man (i.e., one belonging to the sacerdotal,
+military, or commercial class [Manu, X, 4]) might elect for nuptials "a
+woman not descended from his paternal or maternal ancestors within the
+sixth degree and who is not known by her family name to be of the same
+primitive stock with his father" [see MCLENNAN, p. 84].-The American
+Indians profess to consider it highly criminal for a man to marry a woman
+whose totem (family name) is the same as his own, and they relate
+instances where young men, for a violation of this rule, have been put to
+death by their own relatives [see MCLENNAN, p. 97; C. N. STARCKE,
+p. 32]. The Australians are also divided into branches (murdoo), within
+which marriage is forbidden.
+30 408 simple and 30 double ones [see H. A. GILES, "The Family
+Names," J. of N.C.B. of R.A.S., vol. XXI (1887), p. 256].
+The prohibition occurs in books as early as the Tso chuan (1)
+and the Lun yü ().
+32 H. A. GILES, l.c., p. 256.
+33 H, A. GILES, l.c., p. 265, 283.
+
+146
+THE FAMILY LAW OF THE CHINESE.
+law has also been found. During the reign of YUNG-LO
+[1403-25] those families who took part in the grain
+transport were called military families (chun chia), the
+others being called families of the people (min chia).
+Since that time the distinction between chin and min
+has been maintained, and marriages between a chin and a
+min family bearing the same surname are permitted,―almost
+the only exception to the above-mentioned prohibition.
+Amongst the Manchus, Mr. PARKER says, cousins
+descended through male ancestors and having the same
+surname may intermarry after the fifth generation; but I
+have not been able to verify this statement.
+It will thus be seen that in China, as throughout America
+and Australia, the clan is exogamous, that is, marriage within
+the clan is forbidden.34
+2.-On Account of Affinity.
+Marriage is not allowed with sisters of the wives of
+ascendants or descendants, with the father's or the mother's
+sister-in-law, or with the sister of the son-in-law.
+35
+Further, marriage is forbidden with the step-daughter
+and with female relations within the fourth degree of relation-
+ship, with a widow of a relative of the fourth degree, or
+with the sister of the widowed daughter-in-law. Marriages
+with widows of relatives of a nearer degree are considered
+incestuous.
+Decapitation is the punishment of marriage with the
+father's or grandfather's former wives, 36 or with sisters of the
+father.
+31 C. N. STARCKE, Z.c., p. 44.
+35 As in Canonical law, cap. 8, X, 4, 14; WALTER, Kirchenrecht, § 310.
+3 Reuben lost his right of primogeniture for such incest [Gen., 35, 22].
+
+THE FAMILY LAW OF THE CHINESE.
+147
+Whoever marries his brother's widow is strangled.37 The
+re-marriage of the childless widow to her deceased husband's
+brother, the so-called levirate, 38 was of common occurrence
+with many nations in ancient times 39 and is still in vogue in
+the Caucasus.10 Among the Jews this custom existed before
+Moses, but was confined to the case of the widow being
+childless [Deut., 25, 7].
+In China, as already mentioned, the levirate is prohibited,
+but some assert that the Mohammedans in Peking practise it,
+and that it also occurs in the district of Huai-an in the
+province of Kiangsu. A writer in the China Review [vol. X
+(1881), p. 71] asserts its practice for the provinces of Kiangsi,
+Hupeh and Szechuan. I have not been able to find the
+slightest trace of it, and it can never be of the same importance
+with the Chinese as with other people (e.g. to keep the family
+property), as posthumous adoption, the Chinese substitute for
+it, fully meets the object.11
+3.-On Account of other Reasons.
+To marry during the legal time of mourning is prohibited
+[see above, p. 7].
+Marriage with concubines is, however, not punished in
+this case, unless either the bride or the bridegroom is in
+37 Decapitation, i.e. mutilation of the body, is a heavier punishment
+than strangulation.
+35 Or the dispensation from it through the ceremony of taking off the
+shoe (chaliza) of the Jews [Deut., 25, 7; Ruth, 4, 7].
+In India [BOHLEN, Indien, vol. II, p. 182], Persia [KLEUKER,
+Zendavesta, vol. III, p. 226], the Gallas [BRUCE. R., II. p. 223], and many
+other peoples [see C. N. STARCKE, lc., p. 165]. It existed amongst the
+Huns and in ancient Corea [see E. H. PARKER in Transact. of As. Soc. of
+Japan, vol. XVIII, part II (1890), p. 169].
+40 BODENSTEDT, Die Völker des Kaukasus, p. 82.
+11 G. JAMIESON [China Review, X, p. 83] says: In view of the severe
+penalty for it, it is scarcely possible that the levirate can be practised in
+any part of China,
+
+148
+THE FAMILY LAW OF THE CHINESE.
+mourning for a parent, or the bride for her late husband,12
+even if the marriage had never been consummated. It is
+considered to be a time of mourning for children or grand-
+children if father or mother or grandparent is confined in
+prison for a capital offence. In accordance with the principle
+of Chinese marriage-i.e., that the pater familias makes the
+marriage contract,-marriage is in this case permitted if the
+head of the family in prison gives his assent. The usual
+ceremonies and festivities are, however, to be omitted.
+Marriage is forbidden with a woman who has committed
+a crime and has fled for fear of punishment. In this pro-
+hibition is included marriage between an adulteress and her
+seducer.43
+Whoever forces the wife or daughter of a free man to
+marry either with himself or with a son, grandson, younger
+brother, or nephew, i.e., with a filius familias, is to be
+strangled.
+According to Roman law marriage could not be concluded
+between persons who stood to each other in the relation of
+guardianship, as tutor and pupilla." In China these are near
+relations, as only relatives or adoptive parents are able to
+exercise the right of guardianship and to acquire through it
+the patria potestas. A runaway female slave is not allowed
+to marry, as she can be lawfully given into marriage by no
+one except her master.
+Popular opinion is against a widow (kua-ju)
+marrying again. The Liki [LEGGE, vol. I, p. 439] says:-
+"Once mated with her husband, all her life she will not
+The same as in Roman law, according to which widows and their new
+husbands were punished if remarried before the end of the time of
+mourning [1. 1, 11-13, pr. D. de his qui not. inf., 3, 2.-Const. 2, C. 5, 9].
+Also prohibited by Roman law [1. 26, D. de ritu nuptiarum, 23, 2.-
+1. 13, D. de his quæ not. inf., 34, 9.-1. 29, § 1, D. ad legem Jul. de adult,
+48, 5.-Nov. 134, si quis autem, c. 12]; also by Attic law [1. 11, § 11, D. ad leg.
+Jul. de adult., 48, 5], and by the Jews [MAYER, l.c., vol. II, p. 320].
+"1. 66, D. de ritu nupt., 23, 2.-C. 5, 6.
+
+THE FAMILY LAW OF THE CHINESE.
+149
+change, and hence, when the husband dies, she will not
+marry again." If after the death of her husband she remains
+under the power of her husband's father or brother, whose
+power over her is, however, of the slightest, she will be
+prevented by them from tying a new matrimonial knot.
+There are even cases in which a widow instead of remaining
+in the family of her former husband successfully repudiates
+any connexion with it and disregards its wishes. The proverb
+expresses the popular mind in this respect: if heaven wants
+to rain or your mother to marry again, nothing can prevent
+them (天要下娘要嫁無法可制 tien yao hsia niang yao
+chia wu fa k'o chih). It is, however, not considered decent
+for a widow to marry again, and one who refuses all offers in
+this respect (or who does not want to add another fiddle-
+string
+mei hsin hsu hsien) may receive for her
+faithfulness an imperial reward in the form of a gateway
+(or p'ai-fang or p'ai-lou), which is erected in the
+place where she lives. After the bestowal of such reward
+she is not allowed to change her mind. 15 Should the
+head of the family try to force her into a new marriage,
+she is not obliged to obey. If she commits suicide-the
+common expedient of the unprotected female in China-
+the head of the family is punished. If, however, the marriage
+be concluded, she shall live with her new husband, the
+marriage presents, or rather the purchase-money paid for her,
+being forfeited.
+It is a rule that, in order to secure greater impartiality,
+officials cannot hold office in their native province. For
+the same reason they are not allowed to marry a woman
+45 It was considered decent, according to the national feeling of the
+Romans, that a widow should remain single, univira meant the same as
+castissima. Such a one was highly esteemed and received the wreath of
+chastity [Val. Max., II, c. 1; Prop., IV, eleg. 12; Puchta, Inst. III, p. 177].-
+The Jews, on the contrary, were much in favour of a second marriage of
+young widows [MAYER, l.c., vol. I, p. 322].
+
+150
+THE FAMILY LAW OF THE CHINESE.
+under their jurisdiction, or out of a family that has an
+interest in the performance of their official duty. An official
+who is related to one of the parties is not even allowed to
+sit as judge.46
+On account of inequality of rank, marriages between
+officials and actresses or singing girls are not allowed.
+Such marriages are also forbidden to the sons or grandsons
+of nobles with hereditary rank (disparagium, mésalliance),
+the punishment in such cases being degradation to a lower
+class of nobility and eventually loss of it.17
+A widow of a man of rank may not remarry.
+Buddhist priests (ho-shang) and nuns (Eni-
+ku), and those Taoist priests (tao-jen) and nuns (
+tao-ku) who do not shave their heads, but bind the hair
+in a net or head-band (wang-chin 18), are not allowed
+A similar thought prohibited in Rome marriage between a preses
+provinciæ and a woman of his province [l. 57, pr. D. de ritu nupt., 23, 2.-
+Cod. Theod., 3, 11.-Cod. Just., 5, tit. 2, 7].
+There are in China 9 classes of hereditary nobility: 5 (chio) and
+4 (y). The 5 chio are: kung duke, hou marquis, Fürst
+(often called marquis), 1 po count or earl, tzu baron, nan
+baronet. When the nobility conferred is not "hereditary in perpetuity"
+(shih hsi wang t'i), each descendant takes one rank lower
+than his father; so that the son of a kung becomes hou, the son of a hou
+becomes po, and so forth, nobility ceasing altogether with the son of
+a tzu. The 4 yü are military nobility.
+In Corea the nobility is divided into four political parties (ssu
+se, Cor. sa säk). These were formerly called Apei jen, Cor. puk in
+(northerners), nan jen, Cor. namin (southerners), tung jen,
+Cor. tongin (easterners), hsi jen, Cor. sie-in (westerners). After
+splitting into factions they are now called (1) lao-lun, Cor. noron,
+the most powerful party, a branch of the former sie-in, (2)
+namin, the largest, which has completely absorbed the tongin,
+(3) 小論 sioron, the inconsiderable remaining portion of the 西人
+sie-in, which at present has joined the noron, (4)
+siopuk, the
+only remaining branch of the pukin and in league with the namin.
+The members of each party do not intermarry with those of another.
+The old Chinese fashion, still in use in Corea [called mang-ken].
+
+THE FAMILY LAW OF THE CHINESE.
+151
+to marry. Only Taoist priests (tao-shih, or FI
+men-chu) who shave their head and plait their hair like
+other Chinese, in fact lay brothers, may marry.
+A priest who obtains a woman under the pretence that
+she shall marry another, and who then marries her himself,
+is severely punished.
+Marriage is impossible between male slaves and free
+women.19
+Any impediment to marriage renders the marriage
+already concluded null and void; 50 the impedimenta are
+always dirimentia. Ignorance of them exempts the parties
+from punishment, but the marriage is dissolved. In accord-
+ance with the sense of the marriage contract the parties who
+signed it are punished if the marriage laws are transgressed,
+the go-between only if he was aware of the illegality; but
+husband and wife are not punished unless they are sui
+juris. If the father, grandfather, or uncle signed the
+contract, they alone are punished; if it was another relation,
+he is punished as principal, and husband and wife as
+accomplices. The purchase-money is in each case forfeited,
+except when the parties were ignorant of the existence of
+of the impediment.
+A dispensation in cases of impediments to marriage is
+not admissible.51
+In China difference of religion has no influence upou
+marriage.
+According to the laws of the Lombards, parents had the right o
+killing or selling their daughters, if they married one in socage [MAYER,
+l.c., vol. II, p. 301]; in earlier times marriage between a free woman and
+a slave was not sanctioned, and the slave was put to death if he took
+the free woman by force [GRIMM, p. 324. See C. N. STARCKE, L.e., p. 106].
+50 As in the time of JUSTINIAN [$12, J. de nuptiis, 1, 10; C. 5, 8]. Modern
+legislation distinguishes between impedimenta juris publici which render
+a marriage null and void-e.g., incest, bigamy, and adultery-and impedi-
+menta juris pricati which make the marriage invalid, if only private
+interests are involved.
+St Also unknown to the Jews [see MAYER, Z.c., vol. II, p. 315].
+20
+
+152
+THE FAMILY LAW OF THE CHINESE.
+The law says that it is forbidden to intermarry with
+some of the savages; but this is not carried out in practice.
+In Formosa the Chinese constantly intermarry with the
+savages; that is to say, arriving singly they readily take
+savage girls as wives, chiefly from the settled tribes (
+shu-fan), who have adopted Chinese surnames.
+3.-BETROTHAL.
+A. The Contract.
+The mutual promise of marriage formed with the
+Romans an act of social and moral importance as a prepara-
+tion for marriage. In China the parties concerned are not
+the principal ones. The conclusion, however, of a justum
+matrimonium has to be preceded by a contract, 53 in which
+the amount of presents (arrhæ sponsalitice) and the latest
+day for concluding the marriage are fixed. When made,
+the contract, if in writing (li-shu), is signed by those
+persons in whose patria potestas bridegroom and bride
+stand; the latter never sign it, unless both have no older
+relations. This last condition, and the fact of the son
+holding office, being the only cases in which a filius or a
+filia familias becomes sui juris. This is the chief distinction
+between the Chinese and the Roman marriage.
+Before the contract is signed presents are sent to the
+family of the bride (na-tsai, in common parlance
+Elo-ting, giving of earnest). Then cards, with the names,
+birthdays, etc. inscribed thereon, are exchanged (
+32 G. JAMIESON, China Review, X, p. 88.
+t'ung-
+63 Known by the Romans [1. 2, D. de sponsalibus, 23, 1] and by the old
+German law [EICHHORN, Rechtsgeschichte, §54, $188, §321].
+
+THE FAMILY LAW OF THE CHINESE.
+153
+keng, spoken of as wên-ming, asking of names).
+When the parties are satisfied with all this, agreement is
+expressed by sending proof (na-chéng, commonly
+called
+wên-ting, settling the language), when the
+contract (li-shu) is exchanged.
+Thus the animus matrimonii, the intention of husband
+and wife to form a connexion for life, can, with the above-
+mentioned exceptions, have no place in China. In Rome
+the assent of the pater familias was required, but could only
+be refused for special reasons; husband and wife, however,
+were allowed free choice. Among the Chinese the heads
+of the families alone choose, and the inclination of the
+principal parties is never consulted.
+If the son is absent from home, or if by mere chance
+a love match does happen, the assent of the parents has to
+be obtained: chu ch'i ju ho? pi
+ku fu mu (how do we proceed in taking a wife? announce-
+ment must first be made to our parents).54 [Shiking, I,
+VIII, Ode VI, 3.]
+The preliminary negotiations are carried on by go-
+betweens (媒 mei-jen, 媒媾 mei-kou, 中人 clung-jen
+and mei-p'o), who, mostly women, form an important
+part in the whole transaction. Male and female, says the
+Liki [vol. I, p. 78, LEGGE], without the intervention of the
+matchmaker, do not know each other's name. Although
+the proverb asserts that nine out of ten go-betweens are
+swindlers (shih mei chiu k'uang), still as without
+clouds in the sky it cannot rain, so without go-betweens a
+match can never be made (天上無雲不下雨,地下無
+51 Emperor SHUN married without thus informing his parents, fearing
+they might prevent him from doing so [Mengtzu, IV, XXVI, 2. LEGGE,
+II, p. 189]. He considered that obtaining posterity was the higher
+duty.
+
+154
+THE FAMILY LAW OF THE CHINESE.
+tien shang wu yün pu hsia yü, ti hsia wu mei
+pu ch'eng ch'in).55
+Before the signature of the contract by the heads of
+the families, both parties convince themselves of the truth
+of the statements regarding the persons of the bride and
+the bridegroom, that they are sound in body and mind, and
+that they are not older than stated. The festivities of the
+betrothal then commence. As lies in the nature of the case,
+the age of the betrothed parties-except that it be too
+great is of no consequence.56 It often happens that a
+betrothal is entered upon by friendly families at a time when
+bride and bridegroom are not over three or four years of
+age. The betrothal of unborn children is forbidden.
+B. Effects of Betrothal.
+The contract of betrothal gives both parties a right
+to sue for the conclusion of marriage.57 The party who
+refuses to keep the contract is punished with fifty blows,
+and the court enforces the marriage. Where the contract
+35 Other proverbs are:
+ch' ch'i ju ho,
+fei mei pu tê, how is it taking a wife? without go-between it cannot be
+done [Shiking, I, VIII, Ode VI, 3-4. Compare Liki, I, 78, LEGGE, II,
+p. 297]. Or
+ch'i pi tung mei, marriage must be negotiated
+through a go-between.
+The Jews also use go-betweens (shadchân), the Greeks had female go-
+betweens popptat; in Rome a nuptiarum conciliator was similarly
+employed, who, if present at the marriage, was called auspex nuptiarum.
+Compare the Roman law [2. 14, D. de spons., 23, 1]: in sponsalibus
+contrahendis aetas contrahentium definita non est, ut in matrimoniis-
+si non sint minores quam septem annos.
+57 The same according to the Canonical, but not according to the old
+Roman law [1. 2, §2, D. de divers. repud., 24, 21; 1, 2, D. de spons., 23, 1; 1. 134,
+D. de verb. obl., 45, 1; Const. 2, C. de inutil. stipul., 8, 39. It was not until
+the time of the Christian Emperors that loss was entailed by repudiation
+without proper cause [1. 5, C. de spons., 5, 1]. Compare the English breach
+of promise cases.
+
+THE FAMILY LAW OF THE CHINESE.
+155
+is not made in writing, the acceptance of presents is taken
+as proof of the agreement.58
+The betrothal may even be maintained if the family of
+the bride enters into a second betrothal ; and only in case the
+family of the first bridegroom waives its claim may the bride
+marry the second bridegroom. The presents are in this case
+to be returned.
+A forcible abduction of the bride before the time fixed
+for the marriage is punishable, as is also any delay on the
+part of the bride's family beyond that time.60
+A singular situation arises if a filius familias is betrothed
+during his absence from the family, his grandfather,
+father, uncle or older cousin, i.e., a person in whose potestas
+he stands, having, in the meantime, chosen a bride for him,
+and having signed the contract. If the son has married,
+the betrothal made by the head of the family is dissolved.
+Otherwise the contract made by his family takes precedence
+over the one made by himself.
+c.-Dissolution of the Betrothal.
+If after signing the contract it appears that false state-
+ments have been made by the family of the bride, then the
+contract is void, the presents are returned, and the pater
+familias of the bride receives eighty blows. The punishment
+for a like fraud on the part of the bridegroom's family is
+more severe, and the bride keeps the presents. Should the
+58 In ancient times the Jews celebrated betrothal and marriage at the
+same time; considerably later, in the 3rd century A.D., the betrothal
+consisted in sending the bride something valuable or a document, declaring
+at the same time that he took her to be his wife. By this she became so far
+his wife that any breach on her part was punished with death.
+59 The Roman law punished this with infamy [1. 1, 1. 13, D. de his qui
+not. inf., 3, 2; Const. 18, C. ad legem Jul. de adult., 9, 9].
+Go Roman law allowed an action for delay of marriage where without
+sufficient reason the delay extended over two or three years [Const. 16, C. de
+epise, aud., 1, 4; Const. 2, 5, C. de sponsal., 5, 1; Const. 2, C. de reprod., 5, 17].
+
+156
+THE FAMILY LAW OF THE CHINESE.
+fraud be discovered after the marriage, an action for divorce
+can be entered.
+If the betrothal be dissolved before marriage, either
+through the death of bride or bridegroom, or through
+withdrawal of both parties (repudium voluntarium), or
+through a delay on the part of the bridegroom's family for
+over five years, or through an impediment to marriage
+just arisen or only just discovered, then the presents
+have to be returned. If the marriage be not concluded,
+through the repudium of one party, the party innocent of the
+dissolution of the betrothal gets back or keeps the presents.
+The fact of bride or bridegroom having been punished
+for theft or fornication gives a right to the other party to
+cancel the contract.
+4. CONCLUSION OF MARRIAGE.
+"The ceremony of marriage," says the Liki [LEGGE,
+vol. II, p. 428], "was intended to be a bond between two
+[families of different] surnames, with a view, in its retro-
+spective character, to secure the services in the ancestral
+temple, and, in its prospective character, to secure the con-
+tinuance of the family line. Therefore the superior man
+set great value on it. Hence, in regard to the various
+[introductory] ceremonies, the proposal with its accom-
+panying gift [always a goose ]; the inquiries about the
+[lady's] name; the intimation of the approving divination;
+the receiving the special offerings; and the request to fix the
+day; these all were received by the principal party, as he
+rested on his mat or leaning-stool in the ancestral temple."
+When the parties desire to conclude the marriage,
+presents of silks (na-pi, spoken of asta-li, the
+
+THE FAMILY LAW OF THE CHINESE.
+157
+great ceremony) are sent to the father of the bride, and a
+further document (li-shu, like the first one, also called
+hun-shu, the horoscopes of the betrothed couple)
+passes.61 This is the marriage contract stipulating the sum
+for the bride, which sometimes amounts to thousands of
+taels. The marriage is therefore preceded by a purchase,
+which is no mere sham transaction like the Roman coëmtio,
+but corresponds to the purchase of the ancient German
+laws and to that of the Jewish law. 62 By accepting
+the purchase-money, the father 63 of the bride sells and
+manumits his daughter to the bridegroom's family, to which
+she henceforth belongs. Then a date is fixed (ching-
+chi, commonly called Hsung-jih, sending the day), and on
+that day the presents, together with her furniture, boxes of
+clothing, eatables, etc., are paraded through the streets to
+the bridegroom's house, and the bride herself is brought in a
+closed red chair with music to her new home, where she is
+personally welcomed (ch'in-ying). The bride and bride-
+groom then kneel together before the ancestral shrine (
+pai-t'ang, pai-tien-ti, to worship heaven and earth)
+of the latter's family. They next drink together the nuptial
+cup (chin)-usually two cups tied together by a red string 65
+-and the marriage ceremony terminates (ch'eng-li).
+61 The Jewish kethubah papń Tobias 7, 14) and the Roman
+conscriptio, contained the obligations undertaken by the husband. The
+Roman contract itself was called pactio nuptialis, γαμικαὶ συγγραφαί, the
+document itself tabule nuptiales.
+62 See MAYER, l.c., II, p. 353.
+63 The Talmud says: The matrimonial purchase-money belongs to the
+father [MAYER, l.c., II, p. 326].
+The conclusion of the Jewish marriage consists in the bride being led
+by the bridegroom into the nuptial chamber or being received into the
+bridegroom's house. The latter ceremony is to-day represented by the
+chuppah or canopy, under which betrothal and marriage are celebrated at
+the same time [ride M. SACHS, Gebetbuch der Israeliten (Breslau, 1892),
+p. 466].
+65 According to the Liki [LEGGE, vol. II. p. 429] two halves of a
+melon-This bridal drink [Brauttrunk] was also known to the Germans
+[v. WEINHOLD, Die deutschen Frauen im Mittelalter, pp. 225, 264].
+
+158
+THE FAMILY LAW OF THE CHINESE.
+The wife leaves her family for ever (ch'u chia) 66 and
+belongs to the family of the husband, 67 i.e., she considers the
+parents of her husband as her own, and mourns for them
+legally a longer time (three years) than for her parents (one
+year).68
+69
+In China, then, the church has nothing to do with
+marriage; neither are the usual ceremonies and festivi-
+ties absolutely necessary for the conclusion of a justum
+matrimonium, as long as the consensus matrimonialis exists
+between those persons who sign the marriage contract. In
+fact when the bride has been brought up in the family of her
+future husband, as sometimes happens, the red chair and the
+parading of presents through the streets become useless. 70
+But, like the Jews, the Chinese invite guests, relations, and
+friends," who keep up the festivities for three days. During
+these three days the bride is accompanied by bridesmaids
+(ta-chin), who constantly attend on her. A peculiar
+custom is the so-called brawl-room (nao-fang). During
+the first three nights the newly married couple are con-
+stantly disturbed by practical jokes executed by relations (in
+some provinces even by complete strangers), everybody trying
+The same expression is used for a man who becomes a priest or a
+maiden who joins a nunnery.
+The Chinese custom requires a man to cleave to his father and mother
+and to compel his wife to do the same. Christianity by requiring a man to
+leave his father and mother and to cleave to his wife [Matth., 19, 5; Gal.,
+4, 22-28; Eph. 5, 31] has not expressed the popular sentiment and is not in
+accordance with Roman and modern law precepts. The beautiful words
+addressed by Ruth, the Moabite, to her Jewish mother-in-law Naomi
+(Ruth, 1, 16. Comp. 2 Sam., 15, 21] are often quoted in marriage sermons,
+but only mean that Ruth, the ancestress of the house of David, joins the
+Jewish faith.
+According to the Jewish law, the family of the mother is not called
+family [MAYER, 1.c., II, 283].
+See later on, under "Adoption."
+70 See SMITH, Chinese Characteristics, p. 116.
+Thus giving due importance and sufficient publicity to the ceremony
+[Liki, 1, p. 78 (LEGGE)].
+
+THE FAMILY LAW OF THE CHINESE.
+159
+to obtain clothes or other objects of necessity or value from
+the bridal chamber, which the bridegroom has to redeem on
+the following day with wine, cake, etc.
+Marriage, therefore, as we have seen, is concluded in
+China by the will of the parties concerned being expressed
+in a public manner. So it was according to Roman law 72
+and, closely following it, the Canonical law,73 until the
+Concilium Tridentinum (1545-63) introduced a formal act
+and made marriage a religious institution. This led to
+the doctrine of the indissolubility of the marriage bond,
+and the church arrogated to itself the exclusive right to
+decide in matrimonial cases. From that time began the
+differences between state and church which are only now on
+the point of being settled.
+In the ordinary course of events the Chinese wife brings
+no dowry (Echia-chuang, chuang-lien) to her
+husband. Still she may inherit, or she may be sui juris and
+possess money, land, or houses. In this case she can have
+her rights protected in the marriage contract.74
+Whilst the acquisition of a wife is called marriage (*
+ch'ü-ch'i, ch'eng-ch'in, ch'eng-hun), the ceremonies
+of which have a sacramental character, the expressions for the
+acquisition of a concubine (li or mai or chih
+ch'ieh) point to the inferiority of the action. The union is
+concluded without music and without the red chair.75 The
+punishment for transgressions against the marriage laws in
+21. 22, C. de nuptiis, 5, 4.
+73 Cap. I-X, de spons. et matr., 4, 1.
+71 Compare the special dowry contract of the Romans, pacta dotalitia
+(the document itself being called dotis tabule). The Jews also mentioned
+the dowry (nedunya. Compare Ezech., 16, 33) in the kethuba; the dowry,
+whether consisting of movable or immovable goods, but in most cases
+comprising female slaves, was called sson barzel (pecus ferreum).
+The same with the Jews: wives with nuptials and with marriage
+contract, concubines (pilegesh) without either; the same with the Greek
+; different, however, with the Roman pellex [1. 144, D. de verb.
+signif., 50, 16; Nov., 18, c. 5].
+21
+
+160
+THE FAMILY LAW OF THE CHINESE.
+the case of a concubine are less severe than in the case of
+a wife.
+is
+Marriage is called hun-yin; to marry a husband
+chia-fu for wife and concubine alike (
+nan hun nu chia, the man marries, the wife takes a husband).
+[Compare the Italian casare].
+5.-RELATION OF HUSBAND AND WIFE TO EACH OTHER.
+Through the marriage the wife becomes, as was the case
+according to the law before Justinian, 76 not only uxor but
+comes also into the manus mariti. She ceases to be sui juris,
+if she ever was it, and leaves the patria potestas, if she stood
+under it.77
+It is in consequence of the way in which the wife comes
+into the power of her husband that she acquires very few
+rights with the marriage. Though she shares the rank and
+honours of her husband, 78 she has no right to demand
+conjugal fidelity from him," whilst she, by sinning against it,
+commits a heinous crime.
+It is a cause for divorce if the wife beats her husband
+[a case probably as rare in China as with us, and, when it
+happens, more likely to be quietly endured than brought into
+court], but the husband has the right to inflict corporal
+punishment on her. He is, however, punishable if by doing
+this he inflicts a wound; but he escapes with a fine if he
+and his wife are willing to be divorced.
+See MACKELDEY, Lehrb. des röm. R., 14th ed., II, p. 266; compare Gaji
+Instit., § 49, § 108 ss., 11, § 86 88.
+MACKELDEY, l.c., II, p. 274, note; Gaj. Inst., III, § 14, 24.
+8 As the Roman uzor shared the dignitas mariti.
+"Unlike the Romans [Noc., 117, c. 9, § 5 liceat mulieri propter hanc
+etiam causam matrimonium dissolvere]. In ancient times the Chinese hus-
+baud's adultery was punished by castration (fu-hsing).
+
+THE FAMILY LAW OF THE CHINESE.
+161
+The wife owes the husband implicit obedience, and is
+not allowed to leave the house without his permission. If
+she disobeys, her husband may sell her to another as a
+concubine.
+The wife belongs to her husband's family even after his
+death; 80 if she leaves it, either to return to her own or to
+marry again, she has to leave behind her husband's estate,
+including what she brought with her. But her husband may
+have been the oldest member of his stock; in that case, after
+his death his power is transferred to his wife, and one not
+unfrequently hears of an old lady managing the family estate
+with only one son assisting her, the others living in other
+provinces and receiving their orders from her. After her
+death the family property is divided (fên chia ch'an)
+amongst the sons, who then become sui juris and register
+themselves as new families or households (hu).
+The wife cannot possess property of her own as long as
+her husband lives; everything she possessed before entering
+into the manus passes into the hands of her husband, 81 so that
+even property inherited by her remains with the husband
+after the marriage has been dissolved, unless it had been
+otherwise stipulated in the marriage contract. Although,
+therefore, the questions of dos, parapherna, pacta dotalitia,
+and donatio inter virum et uxorem do not really exist in
+Chinese law any more than they existed in the ancient Roman
+law, still a divorced wife or a widow will always take her
+jewellery and silks away with her. And it is in such that
+any donatio of the husband is invested.
+so Similar to the Roman law [1. 22, § 1, D. ad municip. et de incol., 50, 1:
+vidua mulier amissi mariti domicilium retinet].
+81 See MACKELDEY, l.c., vol. II, p. 275; Gaj. Inst., II, § 86, III, § 82;
+Ulp., XIX, § 18.
+Gaj. Inst., II. § 98: si quam in manum ut uxorem reciperimus, ejus
+res ad nos transeunt.
+
+162
+THE FAMILY LAW OF THE CHINESE.
+The husband is not liable for debts contracted by his
+wife before marriage, unless she was sui juris and had no
+family when he married her.
+If the husband changes his residence, the wife is obliged
+to follow him if he wishes it.83 Poor people change their
+domicilium only to emigrate to another province; people of
+the better classes generally leave their first wife at home, to
+educate the children and to look after the family property,
+and take a concubine at the new place. The emigration of
+females to foreign parts is prohibited.
+With all his power the husband is not allowed to hire
+out his wife to prostitution, although it does occur that a
+man whose wife has not borne a son, and does not allow him to
+purchase a concubine, hires for a time the wife of another to
+get a son by her. This is unlawful and not considered
+decent.85 But it is lawful for a man to enter into a contract
+with a widow and hire her for a certain number of years,
+until he gets a son by her. In this case the woman need not
+leave her former husband's family.
+6.-DISSOLUTION OF MARRIAGE.
+Marriage is naturally dissolved by the death of either
+husband or wife. Another cause for the dissolution is
+divorce. This may be either enforced by law or be a
+voluntary act.
+"The question is a disputed one with us [see DERNBURG, l.o., vol. II,
+p. 10].
+The same in Jewish law [Lev., 18, 20].-In Rome lenocinium facere was
+punished with infamy [1. 1, 1. 4, § 2, 3, D. de his qui not. inf., 3, 2-1. 43,
+§6-9, D. de ritu nuptiarum, 23, 2j.
+83 The Hindu in such cases will have recourse to "nigoya," i.e., hand over
+his childless wife to another man to obtain a child. See STARCKE, l.c., p. 142.
+“分家 fèn chia, 分妻 fen oki, 分鴛 jen yian, which expressions
+are also used for a one-sided divorce, when the husband sends his wife away,
+the Greek απόπεμψις.
+
+THE FAMILY LAW OF THE CHINESE.
+163
+a. A divorce must take place if there exists an impedi-
+ment to marriage, or if the wife commits adultery. The
+husband has in the latter case the right to kill both adulterers,
+if he surprises them in flagrante delicto.87 If he does not kill
+the wife, she is punished and sold as a concubine, the pur-
+chase-money for her being forfeited. If the adulterer kills
+the husband, the wife is strangled.88
+b. A divorce may take place-
+1. If both husband and wife are willing to dissolve
+marriage (owing, e.g., to incompatibility of
+temper).
+2. If the wife leaves the house against the will of
+the husband; 89 should she marry whilst absent,
+she is strangled.
+3. If the wife beats her husband.
+4. If the marriage contract contained false state-
+ments.
+5. If the wife has one of the following seven faults:
+barrenness, sensuality, want of filial piety to-
+wards the husband's parents, loquacity, thievish-
+ness, jealousy and distrust, or an incurable
+disease.
+The husband, however, is obliged to keep her in spite of
+one or several of the above-mentioned faults if she has kept
+the full term of mourning for three years after the death of
+67 Comp. Lev., 20, 10. The husband who kills both and thus maintains
+the purity of the family is invariably rewarded by the local official and
+praised by the people. A correspondent from Tsing-kiang-p'u describes
+such a case in the North-China Daily News of 19th Nov. 1894, and, evidently
+dissatisfied with the morality of the transaction, adds: "the most deplorable
+feature of the case is the fact of the official's letting the murderer go scot
+free, and public opinion justifying him fully in winking at such brutality."
+88 Compare 1. 43, § 12, 13, D. de ritu nuptiarum, 23, 2.
+59 On account of the suspicion of adultery; the Canon law required more
+than mere suspicion, e.g., cap. 12 X, de præsumptionibus: witnesses who
+solum cum sola, nudum cum nuda in eodem lecto jacentem ea ut credebant
+intentione, ut eam cognosceret carnaliter, viderunt.
+
+164
+THE FAMILY LAW OF THE CHINESE.
+his parents; or if his family, having been poor at the time of
+the marriage, have since become wealthy; and, lastly, if the
+wife has no other relations to whom she may return after
+the divorce.
+When the divorced wife leaves the house, the husband
+may give her a bill of divorce (hsiu shu, fên shu), a
+specimen of which is printed in G. SCHLEGEL'S Woordenboek
+[vol. I, p. 1053].
+According to Roman law the action for divorce was a
+private one, open to wife and husband alike.90 The Chinese
+wife may only bring an action if she thinks her husband is
+willing to give her her liberty, or if her husband has beaten
+her cruelly, or if she was deceived by false statements in the
+marriage contract, or if her husband was or has become a
+leper.91
+:
+The effects of the dissolution of marriage are the
+following the marriage is considered as having never been
+concluded; the wife returns to her family, if the latter will
+receive her, the children remaining with the father, and the
+purchase-money being given back to the husband, except when
+the latter was the cause of the divorce. If the family will not
+receive her back, she becomes sui juris. All relationship
+through the wife ceases with the divorce.92
+A third way of dissolving a marriage is the official
+declaration of death, if the husband has absconded and has
+not been heard of for three years. The wife abandoned can
+901. 2, C. de inut. stipulat., 8, 39.-1. 14, C. de nuptiis, 5, 4.
+"The Canon law has made marriage indissoluble [Conc. Trid. sess., 24,
+de sacramento matrimonii, cap. 7. Compare also Matth., 19, 6]. During
+the so-called enlightenment of last century the facilities for divorce were
+carried almost as far as in China and had to be considerably reduced. In
+the United States the most frivolous rules as to divorce seem to exist, and
+it appears to be granted from arbitrary motives.
+The same in Roman law [1. 3, § 1, D. de postulando, 3, 1.-J. de
+nuptiis, 1, 10].-The Canon law is of course different.
+
+THE FAMILY LAW OF THE CHINESE.
+165
+then demand such a declaration, especially if the family of
+her husband will not or cannot pay for her maintenance.
+The time within which, after dissolution of marriage, a
+legitimate child can be born is fixed by Roman law at from
+182 to 300 days, or 10 months, by modern legislation at from
+210 to 302 days. In China a pregnant wife is rarely or never
+divorced, but after she has left the house of her husband for
+good the child she bears cannot be claimed by him.
+7. BIGAMY (shuang shih).
+As before mentioned, the wife who maliciously leaves
+her husband and marries another during the lifetime of her
+first husband is strangled.
+If the husband, in the lifetime of his first wife (chi),
+marries another (ch'i, not a concubine ch'ieh; he is
+allowed to have as many of the latter as he likes), the
+marriage is null and void; the wife returns to her family,
+and her father keeps the purchase-money, unless he knew
+of the existence of the first wife. In this case the money is
+forfeited.
+A man who does double sacra is excepted (L
+i tzu shuang t'iao); his marriage with a second wife (chi)
+is not considered bigamous.
+S. POLYGAMY AND POLYANDRY.
+In ancient times we find no people strictly monogamous.
+Polygamy was universally practised, generally without dis-
+tinction between the wives, but sometimes a kind of
+monogamy existed side by side with permitted polygamy,
+i.e., one wife and several concubines. In this case the latter
+
+166
+THE FAMILY LAW OF THE CHINESE.
+were slaves and subjected to the wife. 93 Sensuality did not
+always lead to it, frequently the barrenness of the wife and
+the tendency to strengthen the family influence by having
+many sons was the guiding motive. Amongst the Jews it
+was an ancient custom which the Mosaic legislation neither
+cancelled nor sanctioned, expecting that time only could
+effect a change in a custom of such antiquity. In the Old
+Testament [Deut., 21, 15] it is rarely mentioned :-
+Abraham took Hagar as a concubine and divorced her when
+his wife bore a son.94 But he had other concubines beside
+Hagar [Gen., 25, 6]. Jacob had two wives, Leah and Rachel,
+and besides two concubines, Bilha and Silpa, whose sous
+were all legitimate. Esau had many wives. King Solomon's
+polygamy, which probably sprung from his love of splendour,
+is severely censured [1 K., 11, 1. Comp. Matth., 18, 25;
+Luke, 1, 5]. In the 11th century polygamy was finally
+abolished, at least for the Jews in Europe, by R. GERSCHOM,
+of Worms, in consultation with several other authorities.
+In China the case stands similarly. If the first wife is.
+barren, a concubine is purchased, but almost always with
+the consent of the wife. Filial piety demands that the
+family be continued, so that there be worship at the ancestral
+graves.96
+The concubines stand under the authority of
+the wife, their children regard her as their mother, for
+whose death they go into mourning for three years. It
+is self-evident that this is only an external form and that a
+child will always love its own mother. The statement of
+See C. N. STARCKE, 1.c., p. 261.
+Ishmael was his legitimate son, and that Abraham, instigated by
+Sarah's jealousy, sent him away too, was wrong.
+In Talmudic times the concubine (pilegesch) was a legitimate wife,
+but without the contract (hethuba), given only to the first wife.
+Mengtzu, IV, XXVI, 1 [LEGGE, II. p. 189]:-
+pu hsiao yu san wu how wei ta (having no descendants is the greatest
+of the three undutiful acts).
+
+THE FAMILY LAW OF THE CHINESE.
+167
+T. UNGER, in his book on marriage," that the children of a
+concubine treat their mother with contempt, is based on
+some misunderstanding.
+Amongst the lower classes in China polygamy is not
+the rule. In the better classes the first wife is frequently
+but slightly younger than her husband, and fades, in conse-
+quence of nursing her children too long-sometimes five or
+even six years,-earlier than her European sister. She remains
+at home to look after the children and the property, whilst
+her husband-official or merchant--is often absent for years.
+It is then that a concubine is taken, though rarely as long
+as the first wife is young.
+Polygamy has been called the "fruitful source of so
+much anguish and death by suicide." This is a sweeping
+statement. Most cases of polygamy occur in well-to-do
+families, whose means permit to them the maintenance of
+separate establishments for each wife, and the family life is
+not always disturbed.98
+Though undoubtedly a great evil, polygamy is so deeply
+rooted that reform cannot readily be effected. Even Chris-
+tianity has no direct prohibition against it, and Bishop
+COLENSO was of opinion that a convert with a plurality of
+wives was not required to put any of them away."
+100
+In Corea, where practically the same family laws
+are in force as in China, the children of concubines do
+"Die Ehe in ihrer welthistorischen Entwickelung, quoted by C. N. STARCKE,
+l.c., p. 158.
+58 Although a proverb says: 一婥美妾嬌非閨房之福 pi mei
+chick chiao fei kuei fang chih fu (beautiful maids and lovely concubines
+are not a blessing of the ladies' apartments); or
+ch'ü ch'i ch'ü tê ch'ü ch'ich chi sê (we marry a wife for her virtue, a
+concubine for her beauty).
+Only a bishop was required to be the husband of one wife [1 Tim. 3,
+2 ; Τit. 1, 6, 7 : μίας γυναικὸς ἀνήρ.
+100 Letter to the Archbishop of Canterbury: Cambridge, 1862.
+22
+
+168
+THE FAMILY LAW OF THE CHINESE.
+not inherit the noble rank of their father (they are called
+ilmiöng).
+Polyandry, which has to be treated in this chapter, is
+in China proper found exclusively in the prefectural city
+of Ting-chou (TF), in the province of Fukien, whose
+inhabitants speak the Hakka dialect. This polyandry of
+Fukien, carried by emigrants to Formosa, is of local origin,
+being caused by the extreme poverty of the above-mentioned
+district, in which, again, only the very poorest practise it.
+Here the brothers, who are the husbands of one wife, live
+with her alternately for some period. In the same place
+child murder is of common occurrence, so that infanticide
+and polyandry seem both to spring from poverty. MCLENNAN
+asserts that infanticide took its rise from the nomadic life
+of the primitive hordes, and that polyandry was the natural
+consequence of it, because women were scarce [Studies,
+p. 131, 134]. This was certainly not the cause of the
+Fukienese polyandry.101
+9.-SECOND NUPTIALS (kou) AND VIOLATION
+OF THE TIME OF MOURNING.
+After the death of the first wife, remarriage by the hus-
+band is permitted without any delay. The requirements of
+the household may often render it absolutely necessary.
+The widow, however, against whose remarriage custom is
+101 Polyandry is practised in Tibet, Kunawar, and among the Todas
+[C. N. STARCKE, 1.c., p. 163]; it is described as follows:-Should there be
+more brothers, and they agree to the arrangement, the juniors become
+inferior husbands to the wife of the elder; all the children, however, are
+considered as belonging to the head of the family [see MOORCROFT &
+TREBEK, Travels, I, p. 321. C. N. STARCKE, p. 134].-C. R. MARKHAM
+[Narrative of the Mission of George Bogle to Tibet (London, 1876), p. 336]
+quotes HORACE DELLA PENNA [1730] as an authority for saying that the
+wife attributes the offspring to him by whom she says she was with child.
+
+FAMILY LAW OF THE CHINESE.
+169
+ed, has to mourn three years for her husband,
+e is not allowed to marry."
+102
+of a man of rank is not allowed to marry
+nd has left his wife, she may claim a divorce,
+ssion to marry again, but she has to wait
+s if the husband were dead.
+custom exists in some parts of China, e.g.,
+arriage between a widow and a widower,
+advanced age, is concluded with the under-
+he widow belongs spiritually to her former
+en she dies her body is claimed by his family
+h him.
+widow is called ch' hou hun, to
+band
+kai chia, or fan t'ou
+田丈外號孟嘗君即齊田嬰之子曾相齊
+-ON PATRIA POTESTAS.
+1. GENERAL REMARKS.
+ule according to the Roman law of the
+ian, all persons who depend on a pater
+ndfather, father, uncle, mother, or husband,
+nder patria potestas. Such persons are
+e wives of the pater familias or his sons
+of mourning ended after 10 months, the breach of
+1. 1, C. 11, §1, and §3, D. de his qui not. inf., 3, 2.
+nse of cap. 5, X, de secundis nuptiis, 4, 21, is slightly
+
+田
+168
+THE FAMILY LAW OF THE CHINESE.
+not inherit the noble rank of their father (they are
+ilmiöng).
+Polyandry, which has to be treated in this chapt
+in China proper found exclusively in the prefectural
+of Ting-chou (f), in the province of Fukien, w
+inhabitants speak the Hakka dialect.
+This polyandry
+Fukien, carried by emigrants to Formosa, is of local orig
+being caused by the extreme poverty of the above-mention
+district, in which, again, only the very poorest practise i
+Here the brothers, who are the husbands of one wife, live
+with her alternately for some period. In the same place
+child murder is of common occurrence, so that infanticide
+and polyandry seem both to spring from poverty. MCLENNAN
+asserts that infanticide took its rise from the nomadic life
+of the primitive hordes, and that polyandry was the natural
+consequence of it, because women were scarce [Studies,
+p. 131, 134]. This was certainly not the cause of the
+Fukienese polyandry.101
+9.-SECOND NUPTIALS (ou) AND VIOLATION
+OF THE TIME OF MOURNING.
+After the death of the first wife, remarriage by the hus-
+band is permitted without any delay. The requirements of
+the household may often render it absolutely necessary.
+The widow, however, against whose remarriage custom is
+101 Polyandry is practised in Tibet, Kunawar, and among the Todas
+[C. N. STARCKE, 1.c., p. 163]; it is described as follows:-Should there be
+more brothers, and they agree to the arrangement, the juniors become
+inferior husbands to the wife of the elder; all the children, however, are
+considered as belonging to the head of the family [see MOORCROFT &
+TREBEK, Travels, I. p. 321. C. N. STARCKE, p. 134].-C. R. MARKHAM
+[Narrative of the Mission of George Bogle to Tibet (London, 1876), p. 336]
+quotes HORACE DELLA PENNA [1780] as an authority for saying that the
+wife attributes the offspring to him by whom she says she was with child.
+
+THE FAMILY LAW OF THE CHINESE.
+169
+generally opposed, has to mourn three years for her husband,
+in which time she is not allowed to marry.102
+The widow of a man of rank is not allowed to marry
+again.
+If the husband has left his wife, she may claim a divorce,
+or rather permission to marry again, but she has to wait
+for three years, as if the husband were dead.
+A peculiar custom exists in some parts of China, e.g.,
+at Ningpo a marriage between a widow and a widower,
+usually both of advanced age, is concluded with the under-
+standing that the widow belongs spiritually to her former
+husband, i.e., when she dies her body is claimed by his family
+and is buried with him.
+To marry a widow is called ch' hou hun, to
+take a second husband
+kai chia, or fan t'ou
+chia.
+B.-ON PATRIA POTESTAS.
+1.-GENERAL REMARKS.
+As was the rule according to the Roman law of the
+time before Justinian, all persons who depend on a pater
+familias, either grandfather, father, uncle, mother, or husband,
+stand in China under patria potestas. Such persons are
+therefore either the wives of the pater familias or his sons
+102 The Roman term of mourning ended after 10 months, the breach of
+which was punished [7. 1, C. 11, §1, and §3, D. de his qui not. inf., 3, 2.
+Nov., 22, c. 22]. The sense of cap. 5, X, de secundis nuptiis, 4, 21, is slightly
+different,
+
+170
+THE FAMILY LAW OF THE CHINESE.
+and daughters or more distant descendants on the male line,
+or slaves. The patria potestas is the same as the domini
+potestas, the power of the master over his slaves, according
+to the ancient Roman law.
+The children of a pater familias are either legitimate
+or illegitimate.
+If a man has got a girl with child, he must marry her;
+if he has a wife already, he must take her as a concubine.
+But in any case, even if he is prevented by death from
+marrying her, the child is considered his legitimate offspring.
+The master may dispose of the children of his slaves in
+marriage (chu hun), but has to obtain the consent
+of the child's parents if he wants to dispose of them in any
+other way.
+Illegitimate children whose father is known but who
+are not made legitimate per subsequens matrimonium or
+adoption (ssu tzu), and children of prostitutes (tsa
+chung, mixed seed, vulgo quesiti), 103 stand under the power
+of the mother, whose family name they bear.
+Where many individuals of the same surname live close
+together a clan (tsu or ts'u) is formed with a patriarchal
+constitution, which consists of individuals, not of families.
+The oldest and most respected of the fellow-clansmen (
+ts'u jen) is elected elder of the clan (
+ts'u lin,
+tsu chang, ts'u lao, ts'u hsiung). By him the
+genealogical register of the clan (ts'u p'u) is kept,
+and the ancestral temple of the clan is under his management.
+If the clan is poor, the elder determines the contributions
+for the spring and autumn festivals to be paid by each house-
+hold, and divides the sacrificial meat (tsu jou) amongst
+them. But frequently there is clan property (ts'u
+t'ien), left by a wealthy clansman. In that case the different
+10 Compare the Jewish mamzer, spurius, nothus, the child of adultery
+or incest [Deut., 23, 3; Sach., 13, 6, bastard].
+
+THE FAMILY LAW OF THE CHINESE.
+171
+households have nothing to pay, and any surplus is divided
+amongst them. Sometimes there exist endowments for a
+clan school, and from them candidates of the clan who are
+successful at the public examinations receive handsome
+rewards.
+Where a clan has thus been organised the greater part
+of the father's power passes into the hands of the clan
+elder. Meetings of the clan are frequently held, in which
+clan affairs, family questions, business matters, politics,
+etc., are freely discussed. Members of the clan who mis-
+behave themselves are punished, a common punishment being
+to debar a man from joining in the ancestral worship and
+from sharing the sacrificial meat for the space of one year
+(ting tsu i nien). A more serious punishment
+is to be turned out of the clan altogether (ch'u tsu);
+but on those who continually disgrace the clan by crimes,
+capital sentence is passed and carried out by drowning
+(Eyen ssu) or by burying alive (huo mai).
+The officials hardly ever interfere with clan decisions,
+but out of this imperium in imperio sprung during the Ts'in
+dynasty [ch'in, 255-202 B.C.] a law called
+i san ts'u, by which the whole clan was made responsible
+for the crime of a single clansman. This law, to all
+appearances cruel and brutal, is after all but a natural
+consequence of the unity of the clan, claimed whenever it is
+advantageous to the clan interests. In modern times it is
+only applied in cases of rebellion, high treason, and similar
+crimes.
+2. ON THE RIGHTS OF BOTH PARENTS WITH REGARD
+TO THEIR CHILDREN.
+The patria potestas over children, whether legitimate or
+adopted, is unlimited, The father (or after his death the
+
+172
+THE FAMILY LAW OF THE CHINESE.
+mother) 101 can do with them as he likes; he may not only
+chastise, but even sell, expose, or kill them.105 The latter
+occurs often enough, especially with girls, if the family is
+too poor to bring them up. Infanticide is not prohibited,
+but whenever it spreads too far (especially in the province
+of Fukien) 106 the officials issue proclamations against it.
+Moreover, it is generally considered blameable, and the
+voice of the people is raised against persons who carry the
+abuse of the father's power thus far.107
+The power of the father over his son does not cease as
+long as the father lives, unless the son enters the government
+service, 108 when the father, desiring to exercise his rights
+over him, has first to obtain the consent of the Emperor.109
+Over the daughter the father's power exists until she comes
+into the manus of a husband.110 If her marriage is dissolved,
+she
+may return into the power of her father; as a widow,
+however, she remains in the family of her former husband.
+The duty of the parents is expressed in the proverb
+兒成雙女成對一生大事已完 erh chééng shuang ni
+ch'eng tui i shêng ta shih i wan (when sons are paired and
+daughters mated the principal business of life is accomplished).
+104 Therefore not like Gaj. Inst., I, § 104.-§ 10, J. de adopt., 1, 11:
+feminæ nec naturales liberos in sua potestate habent; but the same as
+the law of the Visigoths, MAYER, 1.c., II, p. 416.
+10 The same power was given the father by the Romans [§ 2, J., 1,9;
+Gaj., Inst., 1, §55], by the Gauls [CESAR, de bello Gall., VI, 19], and
+by the Visigoths [lex Wisig., IV, 2, § 13], MAYER, 1.c., II, p. 416.
+10 Infanticide was not wholly suppressed in Guzerat [see SCHLAGINT-
+WEIT, Reisen in Indien, etc. (Jena, 1869), I, p. 60].
+10: CH. PITON, L'Infanticide en Chine, Bâle, 1887.
+108 In publicis locis atque muneribus atque actionibus patrum jura cum
+filiorum qui in magistratu sunt potestatibus collata interquiescere paululum
+et connivere, etc. AULUS GELLIUS, Noctes, II, 2. See GIBBON, Rome,
+chap. XLV (ed. 1815), vol. 8, p. 54.
+10 The same according to the ancient German law [MAYER, 1.c., II,
+p. 443].
+110 As in Jewish law [MAYER, 1.c., II, p. 440].
+
+THE FAMILY LAW OF THE CHINESE.
+173
+and
+3.-ON THE RIGHTS OF THE HUSBAND WITH REGARD
+TO HIS WIFE.
+The wife follows her husband wherever he likes to go,
+may not leave the house against his will. The husband
+has the right to chastise her, but not to inflict a wound
+[see above, "Causes for Divorce"]. He has not the right
+to kill her, except where he surprises her in flagrante
+delicto.
+He cannot, without sufficient reason, degrade his wife
+to the rank of a concubine. He may not hire her out to
+another man.
+4. ON THE DUTIES OF CHILDREN TOWARDS
+THEIR PARENTS.
+As long as the parents are alive, it is the duty of the
+children to show them reverence and obedience (hsiao
+shun) and, if necessary, to nurse and support them. 111 The
+son shall, if father, mother, or grandparents are over eighty
+years old, or feeble and ill, remain at home, 112 unless another
+son over sixteen years old lives with them. Officials
+especially are bound by this command, but should anyone
+use this as a pretence in order to quit his post, he is severely
+punished.
+Filial Piety is called the fundamental virtue [Lunyü, I, 2. LEGGE,
+I, p. 2. See also E. FABER'S Systematical Digest, and the essay
+"What
+is Filial Piety?" by various authors, in the Journ. of the N.C.B. of R.A.S.,
+vol. XX (1886), p. 115-144. Compare the Jewish kibbud am macm, reverence
+for father and mother].
+112 See Lunyü, IV, 19 [LEGGE, I, p. 35].
+
+174
+THE FAMILY LAW OF THE CHINESE.
+As long as parents, grandparents, or husband are in prison
+on account of a capital crime, the children, grandchildren,
+and wife are not allowed to participate in festivities and
+amusements of any kind. Disobedience towards parents or
+neglect to supply proper support is, on the motion of the
+parents concerned, severely punished 113 by the officials.
+Descendants are not allowed to enter an action against
+ascendants; they are not obliged to denounce crimes com-
+mitted by them or to appear as witnesses against them,
+except in cases of high treason, rebellion, etc.
+This exemp-
+tion extends to all members of the same household, even to
+servants and slaves.
+In fact the whole of Chinese life is theoretically based
+on filial piety; 114 on it the well-being of the family is built,
+and on this again society in general, and even the Empire
+itself, relies.115
+After the death of the parents the descendants take
+their place and see that their memory is kept unsullied.116
+It is their chief duty to strictly keep the term fixed for
+mourning and to rigorously perform the sacrificial cere-
+monies at the ancestral shrines and at the graves. The
+coffin has to be buried, if at all feasible, in the native soil,
+113 According to Lev., 20, 9; Deut., 21, 20-21; 27, 16; Prov., 30, 17,
+even disrespect to parents was to be punished by death.
+114
+***wan shan hsiao wei hsien (of all the virtues filial
+piety is the foremost).
+115 Comp. Exod., 20, 15; Deut., 5, 16; see also PLATO, opera [ed. Didot]
+vol. II, p. 327; Jalkut, I, § 830: who has parents and does not reverence
+them has disgraced God.
+The son is responsible for the father's debts to the amount of his
+inheritance,
+fu chan tzu tê fu chai tzu huan.
+11 See Lunyü, II, 5 [LEGGE, I, p. 11].
+
+THE FAMILY LAW OF THE CHINESE.
+and only then are the funeral ceremonies completed (
+ch'eng lien).118
+175
+All ancient nations regarded it as a sacred family duty to
+bury the dead with honours and to preserve their memory;
+filial piety towards the departed was considered a general
+duty of humanity (jen).119 On the ideas of the Greeks and
+Romans, BOECKH [l.c., p. 422] says: the whole of the cult of
+the dead is based on belief in the immortality of the soul,
+which belongs to the highest antiquity. In the popular belief
+of the Greeks the souls of the departed were reduced to
+unsubstantial shadows through the Homeric conception of the
+world turned to a sensual life. In contradistinction to this,
+old cults were maintained, by which the dead were honoured
+as heroes and blessed spirits, as by the early Italians in the
+cult of the dii manes.
+Belief in the immortality of the soul is very ancient,
+and with it came the natural wish to let the deceased
+participate in the family feasting; hence a cult of the dead
+sprung up. 120
+The Egyptians held a similar belief.121 Just as unci-
+vilised people of our times, especially on the Dark Continent,
+reverence their dead and believe in the invisible existence
+11s The onerous nature of this duty may be gathered from the case of a former
+Customs Taotai of Shanghai, FENG CHUN-KUANG (), who in
+1878 went as far as Kansu, in the north-west of China, to fetch the coffin
+of his father and to bring it overland to Canton, his native province. The
+difficulty of the voyage, on which many ceremonies had to be performed,
+exhausted the dutiful son to such an extent that he succumbed when only
+half the voyage was completed. His brother took his place and continued
+the voyage with the two coffins.
+11 See BOECKH, Encycl. & Methodol, der philol. Wissenschaften, 2nd ed.
+(Leipzig, 1886), p. 421.
+120 H. PAUL, Grundriss der Germanischen Philologie (1891-93), vol. I,
+p. 998.
+23
+H. BRUGSCH, Die Egyptologic (Leipzig, 1891), p. 180.
+
+176
+THE FAMILY LAW OF THE CHINESE.
+of the departed and in their influence for good or evil on the
+surviving, so also with the Egpytians was the dead the
+subject of special reverence. In Egypt the cult of the dead
+was exaggerated. They believed in a second life, which was
+assumed to be on the pattern of the temporal. They gave the
+dead all sorts of things - in the beginning, perhaps, the proper
+ones, later on common and worthless imitations.
+Dim and hazy as was the conception of a future life with
+the Greeks, Romans, and Egyptians, so is it with the Chinese.
+In fact, like the Egyptians, the Chinese consider the departed
+as taking the same interest in family matters as when alive,
+and serve them as such.122
+The religious belief of the Chinese is not very profound,
+and their worship at different temples is influenced not so
+much by a belief in the special efficacy of a particular idol as
+by the unpoetical hope of reward for offerings-all too charily
+made, a hope somewhat akin to that of a man who stakes
+his money and his faith-on a number in a lottery. In
+this sense they believe that the invisible spirits of the departed
+are hovering round their old homes and may benefit those
+who appeal to them, but might also be revenged on
+those who disregard and neglect them. Filial love is the
+moving spirit; habit and an indistinct fear are, however,
+closely allied with it.
+This cult of the dead has been called Ancestral Worship,
+and stamped as idolatrous by the decennial Missionary
+Conference of 1890.
+Now what is this cult?
+Each Chinese house contains an ancestral shrine (t'iao,
+chia ssu, chia t'ang), in which the wooden tablets
+of the ancestors (神牌 shén p‘ai, 神主 shén clu, 神木 shén
+ти, also called chia shen) are placed, with the names,
+rank, and dates of birth and decease of the various ascendants
+12 See Liki [LEGGE, 11, p. 311].
+
+THE FAMILY LAW OF THE CHINESE.
+inscribed thereon.
+177
+Before these incense is daily offered with
+prostrations (pai), and twice a month offerings of eatables
+are spread, again with prostrations. Besides this house-shrine,
+each clan possesses an ancestral temple (tsung miao),
+in which also tablets are placed, either of wood (shen
+mu) or of stone (shen chu).123 In spring and autumn
+periodical rites are performed by the clan, accompanied by
+sacrifices of meat (tsu), at this temple, together with
+ceremonies at the graves of the ancestors.
+Ancestral Worship is called 124 pai shén chu, to
+"pai" the tablet of a deceased parent or ancestor, or
+pai tsu tsung, to "pai" the ancestors. pai means [GILES]
+to pay one's respects to, to make obeisance, to worship, to
+visit (e.g., pai k'o, to make calls). All family affairs
+should be announced (ku) to the spirits [see Liki. LEGGE,
+I, p. 78] and their blessing invoked (chu tsung). The
+offerings (chi ssu) should be made in a sincere spirit
+to all ancestors, however remote (祖宗雖遠祭祀不可不誠
+tsu tsung sui yuan chi ssu ри k'o pu chiêng).
+At the Ch'ing-ming festival, 125 in the spring, the ancestral
+graves are visited and swept (pai fên, pai sao).12
+Then meat is offered (tsu), and paper money (RA
+123 For an illustration of their arrangement, see China Review, vol. IV
+(1875), p. 296.
+121
+shen, spirits, gods, divine, supernatural, mysterious [GILES], should,
+on account of the use of the word in the sense as here, never stand for God.
+That this is the true and only standpoint to take the author endeavoured to
+show in the China Review [vol. VI (1877), p. 273] by translating the articles on
+shang-ti and shen from the great Manchu Dictionary, the highest
+authority on the point, having been published with Imperial assistance. The
+term shang-ti exactly corresponds to the Hebrew El eljon in Genesis,
+ὁ ὕψιστος Θεός.
+125
+B, one of the 24 terms into which the year is divided, the 16th
+of the 2nd moon, about March.
+12 Greeks and Romans also honoured the memory of the dead by periodi-
+cal sacrifices at the graves [BOECкH, Z.c., p. 422].-The Jews also have a
+yearly visit to the grave, the so-called "Jahrzeit." Their service in memory
+of the dead (hazkarat neshamot) is part of their synagogical liturgy. The
+All Souls Day of the Church is the same, when supplications are made
+for the souls of the faithful deceased.
+
+178
+THE FAMILY LAW OF THE CHINESE.
+chin yin chih) and different articles for the use of the departed,
+also made of paper, are burnt in front of the tombs (
+127
+fen chien shao chih). The following is a prayer recited on
+this occasion: We have come to sweep your tomb, to show
+our gratitude for your protecting care, and now we beseech
+you to accept our offerings and make our posterity prosperous
+and happy.128
+A funeral repast, at which the sacrificial meat is eaten,
+concludes the ceremony."
+129
+This, then, is the form the so-called Ancestral Worship
+takes in China. The subject in its bearing on Christian
+converts was first discussed as early as the 17th century.
+The Jesuits saw nothing idolatrous in this form of wor-
+ship, and, perceiving the strong hold it had taken on the
+Chinese mind, allowed their converts to continue its prac-
+tice. Christianity was then on the point of conquering
+China. Subsequently rival sects set up a cry and accused
+the Jesuits of too great leniency towards heathen practices.
+Pope and Emperor were appealed to. The former at last
+gave a final verdict against ancestral worship, which the
+Emperor resented; in consequence of this dispute the cause
+of Christianity was blighted. The Roman Catholics have
+ever since disallowed ancestral worship.
+The Protestant missionaries have for a long time been in
+doubt about this cult. Many voices had already been raised
+against it, when at the last Missionary Conference (1890)
+The heathen custom of burning clothes and other articles at the funeral
+of the dead was permitted to the Jews, as this custom is also mentioned in
+the Bible [see Sanhedrin, p. 526]; it is called "serephah" [see HAMBURGER,
+Suppl., II. p. 83]. It was evidently an old Egyptian rite [see BRUGSCH,
+1.c., p. 180]. One of the oldest customs of all Germanic tribes was to place
+in the tomb of the dead something which had been treasured or regarded as
+indispensable by him while living see H. PAUL. L... vol. I, p. 999]. Even
+in this century it is customary in Sweden to place in the coffin tobacco-
+pipes, knives, and even a full bottle of whisky [WEINHOLD, Altnord.
+Leben, p. 493. H. PAUL, Lc.. vol. 1, p. 1600].
+12 W. A. P. MARTIN, Hanlin Papers, Second Series (1894), p. 346.
+See H. PAUL, l.c., vol. I, p. 998.-The idea that the dead invisibly
+participate in the meal we find everywhere. Compare the Irish wakes.
+
+THE FAMILY LAW OF THE CHINESE.
+179
+the question was put to the vote and it was decided "that
+this Conference affirm the belief that idolatry is an essential
+constituent of ancestral worship." The Conference con-
+demned all idolatrous customs, all customs that recognise any
+being as worthy of worship aside from the true God.
+Dr. YATES, a well-known missionary, says [p. 612] that
+three evils come from ancestral worship:-
+1. Betrothal of children at an early age, by which
+millions are made miserable for life."
+Now it is well known how much our line of thought is
+influenced by general custom. What appears to us as want
+of freedom and even severity does not appear so to the Chinese
+mind. The Chinese consider marriage as a business, in which
+the erotic element need not enter at all or is perhaps con-
+sidered troublesome. This was also the view taken in Europe in
+former ages 130 and the betrothal of children was a common
+practice. The romantic love in marriage is a thing of modern
+times. But even now it is not considered a necessary
+factor; equal aims and equal interests are more conducive
+to a happy union than mere love.
+We cannot hold ancestral worship responsible for early
+betrothals.
+2. "Polygamy, the fruitful source of so much anguish
+and death by suicide."
+Polygamy, as we have already said, is certainly an
+evil, but it is still practised by the great majority of
+mankind. "Anguish and death by suicide," said to be
+provoked by polygamy, are, in my opinion, not of frequent
+occurrence in China, because the evil is firmly established
+and the Chinese woman hardly considers it as baneful.
+In the majority of cases, but not in all, barrenness of the
+wife and the desire to have children lead to polygamy.
+Love of splendour, the wish to have a large family (and
+130 PAUL, Grundriss, vol. II, 2, p. 217.
+
+180
+THE FAMILY LAW OF THE CHINESE.
+hence greater influence), and carnal considerations have
+as much to do with it as ancestral worship. But before we
+judge others, ought we not to inquire into our own position?
+Have we realised the ideal of marriage of one man with one
+woman? or have we, to use the words of a modern author,
+rounded Seraglio Point, but not passed Cape Turk yet?
+3. "The heavy tax in support of this worship."
+The daily expenditure of 360 millions in joss-sticks
+alone 13 certainly comes to a respectable total at the end of
+the
+year,
+and the spending of so much money may be called
+an utter waste, but it can hardly be called an evil, and is not
+a heavy tax on the individual.
+A paper by Dr. MARTIN [Record of Conf., pp. 619-631]
+pleads for tolerance; Dr. H. BLODGET [ib., pp. 631-654]
+condemns ancestral worship as antagonistic to Christianity;
+Dr. E. FABER has given a concise and terse résumé of the
+whole question [pp. 654-655].
+Now religious Conferences and Councils have invariably
+been failures when absolute truth was to be ascertained, and
+I am afraid this last Conference was no exception to the rule.
+It is more than doubtful whether idolatry is really an
+essential constituent of ancestral worship. Idolatry is "the
+worship of idols, images, or anything made by hands, or
+which is not God" [Webster]. If the Chinese "worship"
+their dead as idols, they also worship their living parents
+in the same way, for the ancestral rites are but a continuation
+of the filial love shown to the living. In such rites there
+is no "worship" in our sense of the term, and by substituting
+"cult" the baneful spell of the word is broken.
+Ancestral worship is only external religion, but it has
+taken deep root in the hearts of the Chinese. Only thorough
+teaching can undermine it. A true convert to Christianity
+131 As W. WILLIAMS [Middle Kingdom, vol. II, p. 279] has done; he
+computes the yearly expenditure at one dollar per head.
+
+THE FAMILY LAW OF THE CHINESE.
+181
+will soon give up the superstitions closely connected with
+ancestral worship, and we have for this a good example in
+the Chinese Mohammedans, who with their better creed soon
+gave up the superstitious practices. The early church acted
+more wisely than our modern missionaries, for old customs
+which appeared dangerous to the new creed, but the sudden
+prohibition of which would have been unwise, were changed
+into Christian festivals. England and Germany offer many
+examples of this practice [comp. BEDA, Hist. eccl., I, 30,
+ed. HOLDER].
+The difference between the sacrifices to God and those
+offered to ancestors is well drawn in the Liki [LEGGE, vol.
+I, p. 413] "In the sacrifice to God we have the utmost
+expression of reverence, in the sacrifices of the ancestral
+temple we have the utmost expression of humanity."
+In India a somewhat similar cult of the dead existed, 13:
+but as to its present state I have no authorities.
+5. ACQUISITION OF PATRIA POTESTAS.
+Patria potestas may be acquired (a) through marriage, (b)
+through procreation, (c) through adoption, and (d) through
+purchase, the last method differing in nowise from (a) and
+(c). If the person who acquires patria potestas in one of
+these four ways stands himself under patria potestas, then
+he acquires it for his pater familias:-
+(a.) By Marriage.-The wife belongs after marriage
+to the family of her husband, and stands in his
+manus or in the patria potestas of that person under
+whose patria potestas the husband stands.
+(b.) By Procreation.-Children come under the
+patria potestas of their father, whether born by a
+wife or by a concubine.
+13 W. CALAND, Altindischer Ahnencultus. Das Gradda, nach den
+verschiedenen Schulen dargestellt. Leiden, 1893.
+
+182
+sons.
+THE FAMILY LAW OF THE CHINESE.
+(c.) By Adoption.-To explain this institution, most
+important in Chinese law, we take the Roman law
+as a type. 133
+A man may adopt a person as son or daughter, or, if he
+formerly had sons, as grandchild, but not as brother, wife, or
+concubine. In China nearly all adoptions take place in child-
+less families, and among these the greater part are adoptions of
+Five per cent of all families in China possess adopted
+children [E. H. PARKER].13 What is said with regard
+to adoption among the ancient Greeks holds good for the
+Chinese-The dying out of a family was to be prevented,
+as by the desolation of the house the dead lost their religious
+honours, the gods of the family their sacrifices, the hearth
+its flame, and the forefathers their name among the living.
+The oldest recorded instance of adoption in China is
+that of SHUN being received into the family of Emperor YAO
+[2200 B.C.]
+Adoption, like marriage and the acquisition of slaves, rests
+in China upon purchase, concerning which a contract is made,
+with the difference that the word "wife," "son," "daughter,"
+or "slave" is specifically mentioned in it. The most frequent
+case is the adoption of a nephew by a childless uncle. This
+nephew is generally a younger son, who then leaves his
+father's family and his son becomes the grandson of the adopt-
+ing uncle. If there is only one nephew whose duty it is to
+continue the line of his father, he has to marry another wife (
+chi), whose male issue is considered that of the uncle. The
+nephew has thus to perform double sacra and is called "one
+son with two ancestral halls" (Fitzu shuang
+G. JAMIESON, "The History of Adoption and its Relation to Modern
+Wills" [China Review, XVIII (1889), pp. 137-146].
+134 Compare l. 37, pr. D. de adopt., 1, 7.
+135 Compare the law of Manu, IX, 127, 159: the Hindu considers it a
+religious duty to have a son, by whose means he may pay off his debt
+to his forefathers. If without offspring he must adopt a child.
+
+THE FAMILY LAW OF THE CHINESE.
+183
+t'iao). He mourns the three years' term for his adoptive
+father and only one year for his parents. If he leaves
+only one son, the latter has, like his father, to marry two
+wives; the issue of the one is that of his grandfather, that of
+the other continues the uncle's family. When two sons are
+obtained the ancestral hall is completed (chéng t'iao).
+This, then, constitutes the only case where a Chinese may
+have two wives (chi) at the same time.
+Where there is no son or nephew, but only a daughter, a
+son-in-law may be taken into the family, who leaves his own
+family without being actually adopted. This is called
+chao hsü, inviting a son-in-law.
+It being prohibited in China for officials to hold office
+in their native province, adoption becomes the means of
+avoiding this restriction. The official in question is adopted
+into a family of another province, acquires thus a right of
+domicile (chi) in the province of his adopted parents,
+and may now hold an office in the province originally his
+native one. In the same way confiscation of property is
+prevented by adoption, if such confiscation is imminent on
+account of the crimes of near relatives.
+The general reason for
+chieh tsung tzn.
+cheng chi (taking over the succession),
+(going over to be heir), or
+adoption is to continue the stock,
+Adoption of agnates is called
+kuo ssu
+kuo ssu (going over to the
+sacra). There is a distinction between this and the adoption
+of a stranger :-Fi tzu (or nü) and
+(or nü) godchildren or filü lustrici, or
+chi tzu
+yang tzu
+(rearing a child). As long as the former is possible, few will
+resort to the latter fiction. The adoption of cognates is
+called kuei tsung (returning to the stock).
+24
+A.-General Requirements of Adoption.
+As the main idea of Chinese adoption, it may be stated
+
+184
+THE FAMILY LAW OF THE CHINESE.
+that only children out of families who bear the same family
+name may be adopted, as otherwise, according to the Chinese,
+the difference between families would soon cease to exist.
+No special requirements are prescribed for the adopter,
+and the law fixes no age limit under which one may not
+adopt, 136 although it is usual for the adopter to be older than
+the person to be adopted. Foundlings under three years'
+old
+may be adopted without further ceremony.
+An adopter may emancipate the adopted, and adopt him
+a second time.137
+The wife, acquiring after the death of her husband his
+patria potestas, has therefore the right of adopting; 138 she
+has, however, to ask the consent of the nearest male relation
+of her late husband, for adoption as well as for datio in
+adoptionem. She has further the right of preventing the
+legitimate or adopted sons of her former husband from
+giving themselves into arrogation against her wish.
+The adoption of one's younger brother or one's uncle,
+even if the latter is younger than the nephew, is not allowed;
+for the same reason the uncle may not adopt a nephew who
+is older or of the same age as himself.
+An interesting case is that of a foreigner desiring to adopt
+the two illegitimate children he had by a Chinese woman who
+had subsequently absconded. According to the law of his
+13 As is the case in Roman law [§ 4, J. de adopt., 1, 11: minorem natu
+non posse majorem adoptare placet; adoptionem enim naturam imitatur
+et pro monstro est, ut major sit filius quam pater. Debit itaque is qui
+sibi per adoptionem vel arrogationem filium facit, plena pubertate, id est
+xviii annis præcedere. L., 40, § 1, D. de adopt., 1, 7].
+13: Not so in Roman law [., 37, § 1, D. de adopt., 1, 7: eum quem quis
+adoptavit emancipatum vel in adoptionem datum iterum non potest
+adoptare].
+12 The same in ancient Egypt [see MAYER, 1.c., II, p. 427], but not so in
+Rome § 10, J. de adopt., 1, 11: feminæ quoque adoptare non possunt.
+Const., 5, 1. de adopt., 8, 48: mulierem quidem quae nec suos filios habet in
+potestate, arrogare non posse certum est].
+
+THE FAMILY LAW OF THE CHINESE.
+185
+country he could only legitimise his children, so long as their
+mother was living, by subsequens matrimonium. This was
+impossible, as the woman could not be found. The Chinese
+authorities were then asked to allow these children to take the
+foreign nationality of their father; and after obtaining this
+permission, the children were adopted by the father.
+B.-Special Requirements of Adoption and Arrogation.
+Whoever wants to give himself into arrogation must ask
+for the consent of the nearest relations of his former pater
+familias. If he has elder brothers alive, their consent also
+must be asked. In the lifetime of his father the son may
+give himself into arrogation, even without the consent of his
+father or his relations, if the father is insane and poor, so
+that the son by the arrogation acquires the means of support-
+ing him. If the father is far away the son is allowed to be
+arrogated, but the father may, on his return, claim back
+his son.
+According to its nature, the datio in adoptionem is,
+properly speaking, a sale (venditio), to which only the consent
+of the pater familias is required; the person to be adopted is
+not asked except he be a son holding office. In practice,
+however, it never happens that an adult married son is sold
+into adoption against his own free will. The wife of the
+adopted follows her husband, but the children remain in the
+family of the pater familias. 139
+A man having sons of his own may not adopt a stranger
+as their elder brother, but he may adopt grandchildren, as
+According to Roman law the children of an arrogated person followed
+their father, while the children of an adopted person remained with their
+grandfather [C. 2, § 2, D. de adopt, 1, 7 is qui liberos in potestate habet, si se
+arrogandum dederit, non solum ipse potestati arrogatoris subjicitur, sed et
+liberi ejus in ejusdem fiunt potestate tamquain nepotes. I., 40, pr. D. de
+adopt., 1, 7: quod non similariter in adoptione contingit, nam nepotes ex eo
+in avi naturalis retinentur potestate.-L., 26, 27, D. ibid.: ex adoptivo natus
+adoptivi locum obtinet in jure civili].
+
+186
+THE FAMILY LAW OF THE CHINESE.
+sons of his legitimate or adopted sons. After his death the
+latter have the right to dissolve such adoptions.
+Brothers may, after the death of their parents, give their
+elder or younger sisters into adoption, but not without the
+consent of the latter.
+Even after death a filius posthumus may be adopted
+for a man by his relations or friends, in case he died
+without any male descendants; preference is given, in
+such cases, to a nephew of the deceased. By special grace
+the Emperor may do this for princes of the blood or high
+dignitaries, but in all cases with the consent of the male
+relatives of the deceased. 110 By this means the levirate, as
+stated above, becomes unnecessary.
+c.-Effects of Arrogation and of Adoption.
+141 The
+In China the effects are in either case the same."
+adopted becomes agnate of all agnates of the arrogater or of
+the adopter. Altogether, the adopted son (or daughter) has a
+better position than the natural one, as he cannot be sold
+without the consent of his natural parents, unless a second
+adoption be of real benefit to the child. He has all the rights
+of a son (or daughter). In the case of inheritance, natural as
+well as adopted sons take precedence of all daughters.142
+Should the adopter have sons born after the adoption, so that
+the original cause for the adoption no longer exists, he
+cancel the adoption, if the parents are willing to take back
+the child. The child, however, must be kept if no member of
+his family lives to whom he can return; only officials may
+thus be left without family.
+may
+10 This adoption after death was also known to the Greeks [see MAYER,
+l.c.. II, 429, who quotes Demosth, and Isæus].
+Not so in Roman law [1. 1, 1. 23, D. de adopt., 1, 7.-§ 2. J. de adopt.,
+1, 11.-Const. 10, pr., § 5, C. de adopt., 8, 48.-§ 13, J. de hered., 3, 1].
+142 See CH. ALABASTER, "The Law of Inheritance," China Review, vol. V
+(1876), pp. 191-195.
+
+THE FAMILY LAW OF THE CHINESE.
+187
+The adopted child being regarded as the real child of his
+adopted parents, these must give their consent if the child
+wants to commence a three years' mourning after the death of
+his natural parents. An official is not allowed to mourn two
+terms of three years, but only one term for his adopted father,
+as mourning means in this case withdrawal for the time from
+official life.
+6. TERMINATION OF THE PATRIA POTESTAS.
+With the death of the father his power passes to the
+mother, and after her death to the eldest son, who then
+has also power over his younger brothers and elder and
+younger sisters.
+The father's power does not cease throughout his lifetime,
+except with his own free will or where the son holds office.
+Unless with the special permission of the Emperor, the father
+cannot in the latter case exercise power over his son. As
+already mentioned, the son becomes quasi sui juris if the
+father is insane and at the same time poor.
+Excepting where the father gives himself into arrogation,
+so that his children come under the power of his arrogater,
+the father's power may cease with his will:-
+1. By sale into adoption, by which the son acquires
+agnate rights in the family of his adopted father.
+2. By sale of a daughter into marriage, she becoming
+an agnate in her husband's family and entering his
+manus.
+3. By permission to the children to enter a religious
+order. They then lose their family name and leave
+the family connexion altogether (Hch'u chia).
+4. By exposing the children in tender age. The
+finder may lawfully adopt them if under three
+
+188
+THE FAMILY LAW OF THE CHINESE.
+years of age.113 If older, they are not allowed
+to be exposed, and only the ways mentioned under
+No. 1 and No. 3 are left to the father to rid himself
+of his child.
+In contradistinction to the Roman law, 144 the father may
+relinquish his power even against the wish of his children.
+An emancipation in the Roman sense, by which the
+emancipated person becomes sui juris, does not exist in China.
+After the death of the father the daughter becomes sui juris,
+if a widow and having sons, the son only in case he has
+a family.
+C.-ON GUARDIANSHIP.
+If at the time of the parents' death the children are still
+very young (under seven years), and no head of the family
+exists who has ipso jure a right to the patria potestas, the
+father's power devolves upon one of the male relations of the
+same surname (tung hsing chin chi), if no
+testamentaria tutela has been ordered. If no such relation
+exist, then one among the male relations of a different sur-
+name (wai hsing chin chi) is chosen. To be
+without any such relationship is in China an impossibility.
+If after the father's death no relation is willing to take the
+responsibility of the patria potestas upon himself, such
+guardian has to be appointed (Et'o ku, to confide an
+orphan to any one,
+shou t'o ku che, a guardian).
+113 Const. 2, 4, C. de infant, erpos., 8, 52. Nov. 153, c. 1 (non gloss.).
+Nov., 89, c. 11, pr.: solvere jus patriæ potestatis invitis filiis non
+permissum est patribus.
+
+THE FAMILY LAW OF THE CHINESE.
+189
+The guardian has the full patria potestas and, like the
+father, retains it, with the above-mentioned exceptions, as
+long as he lives. The property of the child, of which the
+guardian has the full usufruct, continues to be the child's.
+When a widow remarries, the children by her first
+husband come under the power of the second.
+But if a son
+of her first husband returns, with the consent of the second
+husband, to his father's family (ku teu kuei tsung,
+an orphan returning to his ancestors), a guardian has to be
+appointed.
+Between tutor and pupilla a marriage is impossible; it
+would be considered incestuous.
+
+190
+190
+THE FAMILY LAW OF THE CHINESE.
+INDEX.
+Adoption
+135, 144, 182 | Marriage
+"
+posthumous-
+Adultery
+147, 186
+148, 160, 163, 173
+contract
+Ancestral worship
+174, 176
+Mengtzň
+Mesalliance
+Betrothal
+152
+Bigamy
+Bridesmaids
+Mohammedans -
+165 Mourning, time of 136, 147, 158, 183, 187
+158 Nao-fang (brawl-room)
+139, 156
+152, 157
+144, 158, 166
+150
+147, 181
+Burial
+158
+174
+Nigoya (Hindu) -
+162
+Children 171; exposing children 187; Nobility
+illegitimate 170.
+Nuns
+Clan
+135, 170
+Nuptial cup
+.150, 169
+150, 187
+157
+Concubinage
+141, 159, 166
+Officials
+- 149, 172, 173, 183, 187
+Corea -
+113, 150, 167
+Orphans
+148, 188
+Death of husband, declaration of
+16
+Pater familias
+135, 169
+Deceased wife's sister -
+144
+Patria potestas
+169, 171, 181, 187
+Divorce 160, 162, 169, 172; bill of
+164
+Polyandry
+168
+Dowry
+159 Polygamy
+166
+Eunuchs
+Family
+names
+"
+Filial piety
+Go-betweens
+God, name for
+Guardian
+143 Presents
+134 Priests
+135, 145 Puberty
+173 Rank, inequality of
+153 Relationship, grades of
+152, 155, 156
+150, 187
+142
+150
+135
+147, 168, 189
+152
+.
+135
+177
+148, 188
+Husband and wife
+Impediments
+151, 160, 173
+142
+Infanticide-
+168, 172, 187
+Remarriage
+Savages
+Servants
+Shiking
+Shuking
+Law and Custom-
+Levirate
+134
+Shun, Emperor
+147, 168
+Liki
+140, 144, 148, 153, 154,
+156, 158, 176, 177, 181
+Slaves
+Term question
+Wife -
+Manchu
+Manu-
+138, 141, 146
+Widow
+145, 182
+Yao, Emperor
+- 131, 140, 143, 153, 154
+135
+144, 153, 182
+135, 138, 151, 170
+- 177
+141, 160, 165, 182
+- 148, 150, 168, 172, 189
+144, 182

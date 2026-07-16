@@ -1,0 +1,801 @@
+## p. 65 (#91) ##############################################
+
+SCIENCE IN OLD CHINA.
+BY HERBERT CHATLEY, D.Sc., A. INST. P.
+(Note-The following paper consists of notes made for a lecture
+delivered before the Society in April, 1921, somewhat expanded and
+supplemented. It is not intended as more than a sketch of an immense
+field of possible literary research, and the author is quite conscious of
+its many defects, omissions and possible inaccuracies)
+There is a popular belief common to old China hands.
+as well as to the Chinese themselves, that ancient China
+possessed extraordinary wisdom and that there are many
+things which the Chinese still know much better than the
+Westerner. The reputed infallibility of the Chinese calendar,
+of the Chinese doctor and above all of the Chinese political
+and psychological philosopher is a matter of common know-
+ledge, although one has yet to hear of the old China hand
+who systematically resorts to any one of these in real
+necessity.
+Strictly speaking the ancient world either, in the East or
+the West, knew no such thing as science, as it is understood
+in the modern sense of the word. Modern science is the
+result of a METHOD based on one consideration and one
+consideration only, viz: complete consistency between idea
+and fact. It does not matter whether the idea is an a priori
+one evolved out of the inner consciousness or an a posteriori
+one developed by a comparison of the facts. The only point
+is, does it agree with the facts as they were, they are and
+will be? Prophecy is the true test of knowledge and it is
+because in many fields and to some extent in all fields
+successful prophecy is possible that science is the only
+authority which the modern man can regard as to an appreci-
+able extent reliable.
+Although China never even reached the viewpoint here
+outlined, she did succeed in ascertaining a number of facts
+and correlating them to an extent which was of permanent
+and practical use. She also developed a few quasi-scientific
+theories which are of interest. In one respect she made
+what appears to a physicist a great advance. This was in
+developing, so long ago as the thirteenth century, a definite
+notion of the mathematical character of natural processes.
+Her ideas were largely wrong but the reality of the conception
+which she was trying to express has only been developed in
+the last three hundred years in Europe. In this connection
+however the enquirer should be warned that much of what
+5
+
+
+## p. 66 (#92) ##############################################
+
+66
+SCIENCE IN OLD CHINA
+passes for Chinese science is really European, having been
+introduced by the very clever Jesuit missionaries at the end
+of the Ming dynasty.
+China has, above all other nations, glorified literature.
+The bulk of that literature deals with history and politics,
+but a perusal of Wylie's "Notes on Chinese Literature” (of
+which a new and modernized edition is very badly needed)
+will show how widely the literati spread their interests. If the
+same mental energy had been spent on physical and mental
+science as was devoted to the study of rites and words, China
+would be now the leading country of the world. (Incidentally
+one would like to protest at this point against the much
+advertised barbarian character of the European contemporary
+of the ancient Chinese. Culturally and to a certain extent
+by blood even the rude Anglo-Saxon is the heir to Roman,
+Greek, Egyptian and Chaldean civilisation and the majority
+of the ancestors of the modern Chinese were probably just as
+much savage and uncultured in the time of the Chou dynasty
+as was then the ancient Briton, who is not the ancestor of
+the modern Englishman or American). As it is, the respect
+for mere words, as such, has resulted in a Chinese bibliolatry
+more intense than that of Europe or Islam but fortunately
+not directed along the lines of emotional religion.
+It must be mentioned that in the 17th century and again
+in recent years a great deal of translation of Occidental
+literature has been done and the hope is that gradually the
+Chinese mind will be moved from its conservative moulds
+and show a real activity in the direction of progressive
+development.
+There have been three great epochs of intellectual activity
+in China:-
+First, the primitive period of Yao and Shun and
+their successors, reputedly prior to 2000 B.C., merging some-
+what confusedly into the prime of the Chou dynasty about
+1000 B.C. (The Chinese perhaps rightly separate these two
+but we only know the first through the second.)
+Second, the middle period of Confucius and his disciples.
+Third, the renascence period of the Sung dynasty, in
+which Chu Hsi, the great Confucian commentator, flourished.
+Another important epoch is the beginning of the Manchu
+dynasty but there was such a strong infusion of Western
+knowledge at that time that it cannot be regarded as belonging
+to "old" China.
+Of the primitive period the only important scientific
+relics are
+
+
+## p. 67 (#93) ##############################################
+
+SCIENCE IN OLD CHINA
+67
+(a) a few documents incorporated in the Book of History,
+particularly the sections
+Yao Tien, which prescribes certain astronomical and
+meteorological observations.
+Yü Kung, which describes the geography of China
+as then known, and the
+Hung Fan, of later date, which is a general cos-
+mological scheme and indicates the influence of
+nature on man.
+(b) The Book of Poetry, which incorporates a number of
+natural history references. Zottoli catalogues no less than
+44 birds, 66 quadrupeds, 29 reptiles and insects, 18 fish, 170
+botanical terms and 15 minerals in the Book of Poetry.
+(c) The Book of Changes, which was in the view of later
+students, considered to be a system of cosmic philosophy.
+(d) The Chou Pai (See later under "Mathematics")
+In the Confucian period the most important quasi-
+scientific document is the appendix to the "Book of Changes"
+of which more will be said later.
+In the Sung dynasty, by the work of Chu Hsi (**) a
+definite system of physical, mental and moral philosophy (
+1) was developed, which aimed to give a consistent inter-
+pretation of Nature, Man and the Classical Oracles, and has
+played an even greater part in the cultural history of China
+than the writings of Aristotle did in Europe and has this
+further to recommend it that it is an evolutionary cyclic and
+monistic system which may be adapted to some extent to
+modern physical concepts. The symbolism of the Book of
+Changes is largely employed in this scheme of thought and it
+will be necessary to describe this at some length, since it is
+claimed by Chinese to be the quintessence of science and
+really has some interesting if technical features.
+The system, as developed in the (I Tzu Chuan)
+or "Memoir on the Philosophy of the Text" or main appendix
+to the Book of Changes (Chou I or I Ching), the
+commentary of Chu Hsi on the same (Pen I) and the
+general treatise by Chu Hsi (御​纂​朱子​全書​卷四​十九 ​Yu Chuan
+Chu Tzu chuan shu, Book No.49) is roughly as follows:-
+All things spring from one origin, which first differentiated
+into two polarities. These polarities, which may be arranged
+in eight different groups of three at a time or sixty four taken
+six at a time, combined and generated five elemental forms,
+which again polarized in two complex forms and finally
+produced all things. A definite order proceeds throughout
+all phenomena with a numerical basis and evolution runs in
+cycles of alternate perfection and degeneration. The human
+
+
+## p. 68 (#94) ##############################################
+
+68
+SCIENCE IN OLD CHINA
+mind obeys the same order but is perfect or defective
+according to the material forming the body and may be
+rectified to a degree depending on these materials by a
+voluntary conformation to the fundamental principle of order.
+This is the famous Yin Yang (), Japanese In-Yo,
+theory which permeates all Chinese thought. It is the
+hypothetical basis of medical and moral science, decorative
+art and architecture and even enters the very structure of
+the language.
+It is perhaps necessary to emphasise its quasi-mathe-
+matical basis. The following numerical categories, most of
+which are alluded to in the above summary, indicate how
+closely the system resembles the theories of Pythagoras and
+Plato on the one hand and modern atomistics on the other.
+ONE
+T'ai Chi, the great Limit or absolute, sym-
+bolised as the Pole Star
+TWO
+* T'ai I, the great Monad, the Cosmos as a
+whole unity.
+Liang I, the two primary forms or Liang Ch'i
+兩​氣 ​equivalent to Yin 陰 ​- and Yang 陽​一​,
+Darkness and Light, Negative & Positive, etc.
+Li Ch'i, Order and Breath; the "informing'
+or architectural cause and the primordial
+substance or vehicle. Roughly the same as
+Spirit and Matter, but with the idea that
+Spirit simply means the properties or
+activity of matter.
+Chien Kun, The first and last of the eight
+trigrams
+= or +++
+== or
+Corresponding to
+T'ien Ti, Heaven and Earth regarded as the
+extreme embodiments of Yang and Yin.
+(There is an enormous number of parallel dualities
+which are considered to indicate the Yin-Yang
+character or things, e.g., Sun and Moon, the two
+sexes, Wind and Rain, Hills and Valleys, etc., just
+like the Pythagorean antinomies).
+THREE San Ts'ai, the three faculties,
+FOUR
+A (T'ien-
+ti-jén) Heaven, Earth and Man.
+Ssu Hsiang, the four images, produced by taking
+the polarities Yin and Yang, two at a time.
+++ = ★ Tai Yang, the Sun
++
+=
+== +
+===
+Shao Yin, the Planets
+Shao Yang, the fixed stars
+T'ai Yin, the Moon
+(Note: The line Symbols must be read upwards)
+
+
+## p. 69 (#95) ##############################################
+
+SCIENCE IN OLD CHINA
+69
+FIVE
+Wu Hsing, the Five "Elements"
+水
+​Shui
+*
+Huo
+*
+Mu
+金
+​土
+​Chin
+Tu
+SIX
+Water Fire Wood Metal Earth
+These are considered as typical states of visible
+matter and are not necessarily identified with
+the ordinary substances bearing their names.
+Thus we might equally well call them :-
+Liquid, Nascent, Organic, Continuous
+and Granular. Each is supposed to be capable
+of positive and negative polarity, with mutual
+sympathies and antipathies, and a most
+elaborate system of correspondence with every-
+thing (the five planets, colours, bodily organs,
+senses, etc.) has been developed.
+Wu Fang, the five directions; the four cardinal
+points and the centre; according to de
+Saussure, this category is the fundamental
+source of all the rest, starting on an
+astronomical basis.
+Liu Ho, the six harmonies; correspond to the
+terminals of the North-South, East-West,
+and Zenith-Nadir axes.
+Six is also the Yin number par excellence,
+being three times TWO, which is fund-
+amentally Yin.
+EIGHT A Pa Kua, the Eight Trigrams, consisting of the
+polarities taken three at a time, correspond-
+ing to the eight octants of the azimuth and
+the Pythagorean ogdoad. It is rather
+curious that modern atomistics makes eight
+the perfect number of the inert elements
+or "noble gases," which are the "perfect"
+types of atom.
+NINE
+TEN
+The Eight Trigrams symbolically represent
+the Manifold with its constituent complexi-
+ties and are a common charm.
+Chiu Kung, the Nine Mansions, corresponding
+to the eight octants and the centre.
+Nine is also the Yang number par excellence,
+being three times THREE.
++ Shih Kan, the ten stems, corresponding to the
+five elements with their two polarities.
+Used in conjunction with the twelve
+branches (see below), they form algebraic
+symbols for the cycle of sixty.
+They are
+甲乙丙 ​丁 ​戊​己 ​庚
+​I 榮
+​Chia I Ping Ting Wu Chi Kang Hsin Jen Kuei.
+
+
+## p. 70 (#96) ##############################################
+
+70
+SCIENCE IN OLD CHINA
+TWELVE 十二​支
+​Shih Erh Chih, the twelve branches, corres-
+ponding to the twelve double-hour periods
+of the day and used to indicate the twelve
+fractions of an evolutionary cycle.
+They are
+子 ​丑 ​寅 ​卯 ​辰 ​巳 ​午​未 ​申
+​Tzu Ch'ou Yin Mao Ch'en Ssu Wu Wei Shên Yu Hsü Hai
+
+圖​正
+​經​雕
+​火​生​恒
+​丁​已​金
+​金​木​土​大
+​金木​土大菜
+​卯
+​享​丁​享
+​丙寅​火
+​丁卯​式
+​己卯​金
+​当
+​卯​土
+​角
+​黑​餘
+​辛丑​土 ​甲寅​土
+​丙寅​火
+​丙
+​破​武
+​暑​小暑​大秋
+​da
+બ
+甲寅
+​丑​癸
+​KH
+***
+料
+​雪花
+​成​成
+​金​木​土​火 ​金​木​土​大米
+​家
+​商
+​享​四
+​丙戌​土
+​丁亥​上​甲子
+​两​行​金​角​地​:丁​图
+​丙​于​水
+​A
+丑丑​丑
+​土木​金
+​水土​水
+​DIVINER'S COMPASS (LO FAN OR
+LO CHING).
+紅​空
+​菂​白
+​B
+陽​鵡
+​[Magnetic compass in central circle: next the Eight Trigrams: next
+the Stars of Ursa Major: next the 24 characters: next the 24 fortnightly
+periods; then the allocations of the stems and branches to the elements in
+various ways: outside the 28 lunar mansions.].
+
+
+## p. 71 (#97) ##############################################
+
+SCIENCE IN OLD CHINA
+71
+The figure of the diviner's compass reproduced herewith
+shows the use of three in the sympathetic, classification of
+directions.
+SIXTY
+The cycle of years, months, day or double-
+hours, made by combining the ten and
+twelve in pairs.
+SIXTY-FOUR The Hexagrams, being the 64 combinations
+of the polarities taken six at a time. Each
+has a name and a special paragraph in the
+text of the Book of Changes.
+THREE HUNDRED AND EIGHTY-FOUR.
+The individual lines ( yao) of the hexa-
+grams, of which each has a particular
+significance.
+The odd numbers are Yang and pertain to Heaven,
+totalling 25. The even numbers are Yin and pertain to
+Earth, totalling 30. Heaven and Earth together amount
+to 55, etc. 11520 is the number of all things (cf. Plato's
+"perfect number.").
+According to Wu Lin Chou (J) the cosmic.
+period of change is 129,600 years, subdivided into twelve
+sub-periods of 10,800 years. During the cycle the world
+passes from chaos to full organization and back again. Chu
+Hsi quotes the occurrence of fossil shells in the mountains
+as evidence of such cyclic change in the past.
+This period is obviously obtained by squaring the number
+360 and involves the assumption that just as the daily
+cycle is reproduced in the year of 360 days, so a great cycle
+of 360 years may be regarded as but a day in a major cycle
+of 129,600 years and in that period all things will grow,
+flourish and die just as life does during the year and vital
+activity during the day.
+It would be tedious to go into the details of this system
+any further here and it will suffice to say that the Confucian
+scholars thought they had discovered a real mathematical
+key to life on all scales and developed a calculus which,
+so they thought, will solve all the problems of development.
+In respect to its numerical basis, its cycles and its relativity
+it is not so silly as it first appears.
+It is this theory which has led many Chinese to
+imagine that their sages had forestalled the wisdom of
+Europe, and still causes many of them to despise the
+Westerner. In many respects it resembles the ideas of the
+Vishnu Purana.
+There would be no great harm in adopting certain parts
+of the terminology as a vehicle for western ideas. Thus the
+
+
+## p. 72 (#98) ##############################################
+
+72
+SCIENCE IN OLD CHINA
+proton and electron may be well called Yin and Yang and
+the atomistic theory of cetaves may be paralleled in the
+Pa Kua but as a whole the system has little value except
+as an example of Oriental speculative thought.
+We will now proceed to consider briefly the various main
+departments of science as developed in old China.
+ASTRONOMY.
+In the Book of History there is an early reference to the
+position of the sun in relation to certain groups of stars show-
+ing that the stars had been mapped and the position deter-
+mined of the ecliptic or path of the sun (and approximately of
+the moon also), and a system of 28 lunar constellations served
+to subdivide it. De Saussure holds that these stars are
+very nicely paired across the celestial sphere so as to enable
+the full moon to be used as an index to the sun's position.
+The solar year of 366 (sic) days has been known for about
+three millenia and the adjustment of the lunar months to
+the calendar is equally old. (See the "Yao Tien'). The
+five planets are referred to in the early books and their
+geocentric conjunction in the Sung dynasty was regarded
+as a special portent of the wisdom of that period. The
+historical records note eclipses, comets and novae in a
+manner which forms a valuable astronomical record although
+not intended for that purpose. The majority of the stars
+down to the fourth magnitude had been located on the
+celestial sphere before the Jesuits arrived at the beginning
+of the 17th century and even during the Mongol dynasty
+good instruments for measuring the positions of the celestial
+bodies had been devised. The rotundity of the earth's
+surface and the effect of latitude upon the sun's altitude
+are noted in a famous early work, the Chou Pai Suan Ching
+(MMI). In this short treatise, which professedly
+dates back to the Chou dynasty, the heavens are represented
+as a concave sphere. In the eleventh century one Su Sung
+made, by Imperial command, an elaborate astro-
+nomical clock.
+An
+Astronomy in China is much confused with meteorology
+since the main object of astronomical observations was
+weather prediction and the fixing of times and seasons.
+arbitrary system of cyclical number 10, 12 and 60 occurs
+from an early date (see above), but it is probable that its
+application to years is later than the Christian era, in spite
+of literary traditions to the contrary. The solar calendar
+of 24 periods of 15 days has been current for many centuries
+and is essentially meteorological. The lunar calendar with
+
+
+## p. 73 (#99) ##############################################
+
+SCIENCE IN OLD CHINA
+73
+its moons of 29 or 30 days, brought into approximate adjust-
+ment with the solar calendar by the use of intercalary months
+is also ancient.
+The 60 year cycle is probably that of the conjunction of
+Jupiter and Saturn in the same part of sky.
+The Sung school held that the earth was a condensation
+from air, at the centre of a nine-whorled spiral, the outer
+part being of pure air and revolving rapidly whereas the
+centre was stationary. This seems to be a faint echo of the
+Ptolemaic system.
+The enthusiasm with which the astronomical learning of
+the Jesuits was taken up is a matter of common history,
+and is evidenced by the instruments still to be seen in the
+famous Peking Observatory on the City Wall. There are
+two Mongol instruments in the yard below.
+BOTANY.
+There is a botanical work (the Nan Fang Ts'ao Mu
+Chuang) describing the plants of China
+dating back to the Ts'in dynasty and there are several later
+works of a similar character. There are also books on
+special plants, bamboo, rice, tea, etc. Similarly there are
+many works on agriculture which include a good deal of
+botanical data. The skill with which the Chinese farmer
+operates is proverbial, and is reputed to date back to a
+mythical Emperor Shen Nung, the Spirit Farmer.
+The botanical references in the Book of Poetry have
+been alluded to already. The famous "Materia Medica"
+of China (Pen Ts'ao Kang Mu ) is primarily
+botanical and dates back to the Ming dynasty.
+CHEMISTRY.
+This in ancient China was purely an empiric art. The
+industrialists developed a large number of secret processes
+for metallurgy, ceramic work, dyeing, distillation, etc., which
+are of great interest but no general principles seem to have
+been discovered. The reputed Chinese invention of gun-
+powder is uncertain and its use in firearms seems to be
+almost certainly foreign. Something in the nature of
+"Greek fire" seems to have been used by the Chinese
+warriors of yore. Alchemy as a theory appears nearly two
+thousand years ago principally in association with Taoism.
+Its main aim was the elixir of life by which the adept
+could become immortal but the transmutation of metals is
+also spoken of. Mercuric Oxide (Tan) or "Vermilion"
+
+
+## p. 74 (#100) #############################################
+
+74
+SCIENCE IN OLD CHINA
+was regarded as a very essential material, possibly on account
+of its colour and it was supposed that Gold, the metal
+par excellence, developed spontaneously in the ground by
+slow processes of natural transmutation which the adept
+could copy and accelerate. The redness of both, combined
+with the phenomena of amalgamation, probably lay at the
+basis of the hypothesis. There are many curious analogies
+and even identities with European alchemy (which is first
+definitely mentioned in the writings of the Alexandrine
+Greeks and not at all in the Egyptian hieroglyphics) and
+Dr. W. A. P. Martin was even of the opinion that alchemy
+originated in China.
+The use of alkalies for washing and clearing water, of
+salt for curing, of fluxes for smelting and glazing should be
+especially mentioned as having been long known in China.
+ENGINEERING.
+From the times of remote antiquity owing to the con-
+tinuous accretion and erosion going on in the delta of the
+Yellow River, great skill has been developed in the building
+of dykes and groynes and in the cutting of canals. Unfor-
+tunately the necessity of dealing with a river as an organic
+whole was not realised but still the actual volume of work
+done was prodigious.
+Similarly with the construction of fortifications such as
+the Great Wall and the various city walls, the quantity
+of work done is comparable with that in those much less
+useful piles, the Pyramids. The use of the arch has been
+well developed especially for bridges although the arches
+are usually too thin and not well supported. In buildings
+there are no extraordinary results although some of the
+large halls in temples and palaces required a considerable
+ability to construct. Marked skill in the construction of
+ships up to 500 tons should be mentioned.
+Irrigation works have been well advanced but here
+again not nearly enough consideration has been given to
+the larger aspects of the problems attacked.
+In machinery there are many useful appliances of long
+use in China. Some are said to have been introduced by
+the Jesuits but certainly many are much older.
+There are vague literary records of flying machines,
+taximeters for land measurement and even a "north-pointing
+chariot' which indicated a constant direction mechanically
+(not magnetically) but it seems probable that most of these
+things were not actually put into practice.
+
+
+## p. 75 (#101) #############################################
+
+SCIENCE IN OLD CHINA
+75
+GEOGRAPHY.
+From a very early date descriptions of China have been
+compiled which progressively became more elaborate until
+fairly good maps have been made of most parts of the
+Empire and even of it as a whole. The use of latitudes
+was understood, but as in early European cartography there
+was a most regrettable lack of attention to scale in details.
+In consequence while there are description of places and
+handbooks of travel in abundance they cannot be relied on
+to give a real idea of the proportion of things. Thus the
+sketch maps of the canal system in Kiangsu make small
+creeks as big as rivers and vice versa according to the
+exigencies of space for names, etc. The notions as to the
+mountain masses of the west of China were also rather
+vague. Nomenclature is inconsistent and variable and there
+was far too much reliance placed on written and second hand
+reports.
+Nevertheless an immense mass of information exists in
+these records and anyone travelling in the interior will find
+in the prefectural records a fund of information not given
+on the best modern maps.
+GEOLOGY.
+The historical and geographical compendia contain a
+great deal of scattered data as to the processes of channel
+and delta formation but no deductions seem to have been
+drawn from these in the past. The famous philosopher Chu
+Hsi mentions the existence of marine (fossil) shells in the
+hills as evidence of the rise and fall of the ground and
+adduces this in favour of a catastrophic theory of cyclic
+change, just as was done many years later by Cuvier. (It
+is interesting to compare Plato's remark:-"Everything
+generated is liable to corruption and its dissolution is as
+follows. Not only as regards terrestrial plants but likewise
+terrestrial animals, a fertility and sterility both of body and
+soul take place when the revolution of the heavenly bodies
+completes the periphery of their respective orbits, which are
+the shorter to the shorter lived and contrariwise to the
+contrary'-Republic, Book VIII, c. 3.)
+The divinatory art of Feng Shui (Wind and Water)
+attaches great importance to the formation of the land
+surface (Shan Ch'uan Hills and Streams) suggesting
+a mysterious reciprocity of the forms with the actions of
+wind and water. If it is permissible to regard the age long
+processes of aerial and subaqueous erosion and deposition
+
+
+## p. 76 (#102) #############################################
+
+76
+SCIENCE IN OLD CHINA
+as covered by this hypothesis, then it is of course fairly
+correct.
+Earthquakes are recorded in the historical books and
+modern students have found the data useful in frequency
+calculations.
+MATHEMATICS.
+The Chou Pai previously referred to makes mention of
+the properties of the right angled triangle. An early
+book the Chiu Chang Suan Shu () treats of
+mensuration, proportion, evolution, equation, etc., and
+even trigonometry. Several later works deal with men-
+suration and trigonometry and in the Sung dynasty a
+system of algebra (*) appears. At the end of the
+13th century one Chu Shih Chieh (*) had developed
+a process for the extraction of the roots of an equation
+following what is known as Horner's rule. The Chinese
+decimal notation is of considerable antiquity and doubtless
+helped to simplify calculation as well as facilitating the well-
+known use of the Suan Pan or abacus.
+Although great attention seems to have been given to
+mensuration even now in purely Chinese practice the
+necessity of triangulating irregular areas is not fully grasped.
+MEDICINE.
+There is an immense mass of literature in China on
+medical subjects and even at the present day it is very
+hard to convince the majority of Chinese that Occidental
+medicine has any advantages over their own. The know-
+ledge of anatomy shown in most of these books is very
+imperfect, which may be accounted for by the prohibition
+of dissection and also by the technical difficulties of anato-
+mical illustration. There are the most elaborate theories
+as to the behaviour of the pulse and breath, mostly based
+on the Yin-Yang dogma. A certain amount of practical
+surgical skill and a vast materia medica (see Botany), in-
+cluding some two thousand different items, of which a few
+at least are harmless and some certainly beneficial, make
+up the sum total. Perhaps one should add the practice of
+psychotherapy which was and is largely applied by Taoist
+'scholars" in cases of "possession" or hysteria, although
+this is not orthodox medical treatment in China any more
+than it is in the West. A very curious piece of medical
+Jurisprudence is to be found in the standard instructions.
+for the conduct of post mortem inquests.
+
+
+## p. 77 (#103) #############################################
+
+SCIENCE IN OLD CHINA
+77
+METEOROLOGY.
+The Chinese of antiquity seem to have arrived at almost
+the same conclusions as those geographers who hold that
+man is a creature of climate and according to the Book of
+History it was one of the principal of the Emperor's duties
+to see that his subjects were duly advised as to "Heaven's
+Decree" in the matter of weather. This very wise foresight
+led to the promulgation of official calendars (which are still
+published) indicating the course of the agricultural cycle.
+This is, in the average, so accurate for the latitude and
+conditions of Central China that it implies long observation
+and comparison. The popular belief, shared by many
+foreigners, as to the absolute accuracy of Chinese weather
+forecasts and in particular those of the twenty-four fort-
+nightly periods, is quite unwarranted. The mere considera-
+tion of the fact that the weather in such a large country
+differs greatly in different parts on the same day indicates
+the falsity of this belief. The historical records include
+remarks as to floods, droughts, violent rain, typhoons, etc.,
+which form a fairly useful statistical criterion of the fre-
+quency of such occurrences but there is no evidence to
+show that they have been so used in the past. As in
+Europe the Moon is supposed to have considerable influence
+on the weather, the real fact being that the moon has no
+such effect but in so far as its position when full, among
+the stars, indicates the sun's position (exactly opposite) it
+may be referred to in calendarization.
+PHYSICS.
+The Chinese do not seem to have made any important
+discoveries in Optics, although the use of spectacles for
+assisting the sight of the myopic bookworm is sufficiently
+long established to suggest that it may be of Chinese origin.
+Sun-dialling was well advanced.
+In Acoustics the discovery of the relation between the
+length of a pitch pipe and its note was made very early
+and the mythical "Yellow Emperor" is credited with the
+invention of the musical pentatonic scale from the study
+of the song of birds. Elaborate works on the arithmetical
+theory of tone exist but so unpractical were the literati that
+they never seem to have applied their theories to the design
+of instruments. A classification of timbre according to the
+material vibrating was also developed and there are quite
+a number of musical instruments.
+
+
+## p. 78 (#104) #############################################
+
+78
+SCIENCE IN OLD CHINA
+In heat, beyond the oblique suggestion that it is related.
+to motion in the Yin-Yang theory, there was no important
+discovery. Great skill in conserving the consumption of fuel
+may perhaps be recorded in this connection, as well as the
+early use of coal.
+Electrical phenomena, other than thunderstorms, were
+unknown.
+The magnetic compass has been in use for a long time
+and plays an important part in divinatory systems. The
+popular European idea that the compass was invented in
+China is somewhat discredited. (See the "North Pointing
+Chariot' under an earlier head).
+In Mechanics no general principles seem to be known,
+except perhaps the condensation of gases into fluids and
+solids, and the use of levers.
+The advantages of deep channels in hydraulics, was
+appreciated by Li Ping, the great irrigation engineer of
+Ssu Ch'uan, and the properties of "level" and flotation are
+well understood.
+PSYCHOLOGY.
+All kinds of speculations, based on the Yin-Yang system,
+Taoist and Buddhist dogmas, have been developed as to the
+constitution of the mind. The oldest symbol for it is
+Hsin, literally the heart, presumably because that organ is
+the principal indicator of mental disturbance. The orthodox
+psychology speaks of two "souls," the Hun and the P'o
+The former pertains to Heaven and the latter to Earth
+and at death each returns to its type. The control of the mind
+by the repression and delay of the emotions, the possibility
+of developing it by study and patient cultivation and the
+production of abnormal states of "ecstasy" are well-known
+features of Chinese psychological literature. The dominant
+Sung school held that the mind is simply the principle of
+order in man and herein again they approached the stand-
+point of the modern monists. Immortality is not regarded
+by the literati as a probability but there was a cyclic reincar-
+nation of the principle (not in the Buddhist sense which
+generally implies a fine drawn but nevertheless actual con-
+tinuation of the individual, although the Hinayana Buddhism
+is not clear on the point and almost merges into the Confucian
+idea) without karma or recollection. Retribution is regarded
+as bearing on the family and not on the individual, which
+of course as far as physical heredity is concerned agrees
+with modern ideas.
+"
+
+
+## p. 79 (#105) #############################################
+
+SCIENCE IN OLD CHINA
+79
+SOCIOLOGY.
+The main interests of the Chinese mind have always
+been directed towards that most difficult of all arts, that
+of human government, and incidentally they have produced
+a body of thought on sociological matters which compares
+with that of any other country. The notion of family and
+local responsibility, the influences on the populace of ritual-
+istic etiquette and music and the supreme importance of
+having the government in the hands of wise, prudent and
+moral men subject to the universal expression of the popular
+desire, run as a general theme throughout the great mass
+of the Chinese records of the past. Like all other peoples
+the Chinese have not been able to live up to their ideals
+and the shock of collision with civilizations trained in a
+different manner has disturbed the whole system in a most
+unfortunate manner but the mere possession of a large fund
+of common sense on political matters will probably prove a
+great safeguard in the future.
+ZOOLOGY.
+Chinese notions as to zoology are weak. Many low
+forms are supposed to be spontaneously generated and even
+the smaller mammals are thought to transform from one
+species to another. Several entirely fabulous beasts have
+been strongly believed in and generally this branch of know-
+ledge is very backward. Great skill has however been
+acquired in cultivating the silkworm and in the care of
+domestic animals.
+Sanitary science is almost lacking except in the practice
+of boiling food and drink for the destruction of infection,
+and in the reconversion of sewage to vegetable life.
+REFERENCES.
+1. Chinese Reader's Manual.-W. F. Mayers, American Presby-
+terian Mission Press, Shanghai, 1910.
+2. Confucian Cosmogony. T. M'Clatchie, Am. Pres. Mis. Press,
+Shanghai, 1874.
+3. Le Philosophe Tchou Hi--S. Le Gall, Catholic Mission Press,
+Shanghai, 1894.
+4. Sacred Books of the East.-Texts of Confucianism, Legg,
+Clarendon Press, Oxford, 1882.
+Vol. III. Shoo King.
+Vol. XVI. Yî King.
+5. Notes on Chinese Literature.-A. Wylie, Am. Pres. Mis.
+Press, 1867. (Recently reprinted).
+6. Lore of Cathay.-W. A. P. Martin, Oliphant, Anderson &
+Ferrier, Edinburgh, 1907.
+
+

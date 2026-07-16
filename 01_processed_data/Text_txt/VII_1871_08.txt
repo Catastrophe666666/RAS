@@ -1,0 +1,799 @@
+ARTICLE VI.
+THE OBLIGATIONS OF CHINA TO EUROPE IN THE MATTER
+OF PHYSICAL SCIENCE ACKNOWLEDGED BY
+EMINENT CHINESE;
+BEING EXTRACTS FROM THE PREFACE TO TSANG KWO-FAN'S EDITION
+OF EUCLID WITH BRIEF INTRODUCTORY OBSERVATIONS."
+BY REV. G. E. MOULE.
+SANG KWO-FAN is but recently dead. It is but
+a few months since he was looked upon both by
+Chinese and Europeans as the most eminent per-1
+sonage in the Empire out of Peking. His coun-
+trymen had a high opinion of his ability and good
+fortune, particularly after the fall of Nankin, and were
+'not without respect for his character as on the whole
+Jan officer of public spirit. By ourselves he was regarded
+alternately as implacably hostile on principle to the pre-
+sence of foreigners in China, and as dangerous to the
+throne itself and only biding his time to re-establish a native
+dynasty in his own person.
+It is not without interest to view him in another character, one
+in which he has bequeathed some results to his country; namely
+that of a scientific student, and one who understood in some
+ineasure the importance of physical science in the practical con-
+cerns of political and private life.
+Immediately after his own preface to his edition of Euclid he
+has reprinted the joint essay of Ricci and his illustrious pupil Seu;
+and then that of Wylie and his able assistant Le; a care for which
+the history of the relations of Europe and China will always be
+indebted to him. But in his own brief account of the occasion
+of his publication he has said enough of his love for western ma-
+thematics, and of his sense of obligations, on his own part and
+that of his countrymen, to scientific foreigners like Ricci in the
+past and Wylie in this age, to kindle our interest in that earlier
+* Read before the Society on 12th June, 1872.
+
+148
+THE OBLIGATIONS OF CHINA TO EUROPE.
+missionary; in the position he vindicated at the Ming court, by
+his knowledge and address, for himself and his distinguished
+companions; and in that eminent and earnest Chinese scholar
+who stood beside him and his brethren in all the labours and
+sufferings of many eventful years.
+In the midst of the polite conventionalities of a preface, the
+mutual appreciation of the great Jesuit and his eager and enlight-
+ened pupil Seu, recorded-one feels, with but little affectation-
+by their own pens, is full of deep interest morally and biographi-
+cally.
+Other points of interest are, (1) the Jesuit's intelligent assertion
+of the value, absolutely and in their applications, of the exact
+sciences, his share nevertheless in the lingering belief in astro-
+logy, the importance attached by him to an unceasing effort after
+improvement in weapons of war, antedating the present eager
+competition in the perfecting of 'arms of precision,'-his personal
+relation to Christopher Clavius the early modern commentator on
+Euclid, eminent also for his labours in connection with the re-
+formed calendar, and finally his narrative of the circumstances
+under which, as an imperial guest, he projected, and after long
+delay with the help of Paul Seu achieved, the translation of the
+First Six Books.
+There is something touchingly noble in his description of the
+impatience of the Christian Han-lin to make public his new made
+translation as first steps towards an acquaintance with western
+lore which might perhaps lead his fellow students to the reception
+of Christian Doctrine in the sequel; and also of his willingness
+that the honours of continuing the scientific labour should fall to
+others if it was so to be. Such a spirit, though in a Jesuit and
+a man of Keangsoo, would perhaps not have grudged these honours
+even to a Protestant Missionary and his assistant Le Jin-shub of
+Haining (2).
+(1) A century later a beautiful edition of the Principia was brought out by
+the Jesuits (in Europe)-with the unhappy Colophon that, however irrefrag-
+able Newton's conclusions, they were to be received only so far as they were in
+harmony with Holy Church.
+(2) I am indebted to Mr. A. Wylie who was so good as to read portions of
+this paper in my absence, at the Asiatic Society's meeting at Shanghai, not
+only for valuable information which I have embodied in the notes, but for
+corrections and elucidations of my rendering of mathematical terms in the
+text, and for one or two more important corrections.
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+Translation.
+149
+ELEMENTS OF GEOMETRY, IN FIFTEEN BOOKS, A CORRECTED EDITION
+PRINTED IN THE YAMEN OF TSANG KWO-FAN
+AT KIN-LING (NANKIN)
+IN THE SUMMER OF THE IV YEAR OF T'UNG-CHE.
+PREFACE.
+The first six books of the Elements of Geometry were obtained
+by Seu Wen-ting from the European Le Ma-tow (Mateo Ricci).
+At the same time Le Leang-an compiled the (1) Introduction to
+Astronomy and in the tract on the ratios of regular polygons and
+polyhedrons contained in circles and spheres respectively, and that
+on methods of trigonometrical observation, the references to the
+elements necessarily went beyond the first six books. This oc-,
+casioned disappointment to students because they could not get
+access to the complete work.
+At last during the reign Heen-fung Li Jin-shuh of (2) Hai-ning
+in conjunction with the western scholar Wei-lee Ya-leih (Alex-
+ander Wylie) continued the translation through the latter nine
+Books, and revised and corrected the whole. The work was now
+complete; but it had scarcely been engraved and published by
+Han Luh-kh'ing of Sung-keang when the blocks were destroyed
+by the (3) Banditti.
+Jin-shuh accompanying me to my camp at (4) Gan-kh'ing
+showed me the work; and represented that it was one which
+mathematicians could not dispense with, and if the present oppor-
+tunity of editing it (lit. engraving) were let slip it would again
+in course of time be lost.
+(1) Mr. Wylie informs me that this work consists of nineteen tracts
+published by the Jesuits, of which seven are religious, the others scientific.
+One of these latter is the first edition of the Elements of Geometry. Two
+others are the 圜容較義 and the 测量法義, names which I have
+explained rather than translated according to information kindly furnished by
+Mr. Wylie. (See Mr. Wylie's Notes on Chinese Literature, pp. 217 and 88).
+(2) Near Hangehow in Chekeang. The reign Heen-fung extended from
+1850 to 1862.
+(3) Taipings.
+(4) Capital of Ganhwey or Anhwey.
+
+150
+THE OBLIGATIONS OF CHINA TO EUROPE.
+My official post being now changed to Nankin I directed Jin-
+shuh to make a new revision of the latter nine books and get them
+printed.
+It then occurred to me that without the first six, beginners (in
+mathematics) would lack the principles of their science. But
+since the Rebellion, through the dispersion and destruction of
+books of all kinds, the "Introduction to Astronomy" is hardly to
+be met with. And the recent editions published in Kwangtung
+at the (1) Hai-shan-seen-kwan are so full of errors as to be little
+worthy of notice. I therefore directed that the first six books
+likewise should be revised and printed.
+Our Chinese Mathematical (2) Work arranged under nine heads
+founds its terminology throughout on concrete subject matters;
+treating each by separate method. The student sticking blindly
+to the track (marked out for him) pursues his search; and after
+a lifetime spent in practical mathematics knows his rules indeed,
+but knows nothing of the reason for them. So that mathematics
+are thought by some an impossible study owing to the wearisome
+multiplicity (of the rules); (but) simply because they look vaguely
+at the methods and have not the sense to enquire after principles.
+We read in the commentary; (on the "Spring and Autumn"
+of Confucius, § 13, Hi-kung 15th year) "upon the production of
+things follows form, after form comes multitude, after multitude,
+number." Hence number is a result of form. We consider form,
+penetrate to its principle, and then devise a method for determining
+its number. Thus though we have not yet seen the methods
+perfected by our predecessors we invent methods for ourselves
+which agree (with those) like tallies; and so we go on to calculate
+the remote and search into the abstruse, enlarging the ancient
+methods where they are inadequate and advancing continually
+ad infinitum.
+Our Elements of Geometry discuss not methods but principles,
+embracing all that possesses form; classed under the heads of
+(1) The establishment of the well-known Hong merchant Pun Tin-qua at
+Canton. He published a collection of works some years since including
+Euclid and other scientific books with the title
+The
+Hae-shan-seen-kuan collection. (I owe this information to Mr. Wylie).
+(2) Mr. Wylie tells me that this work, the JL is almost the earliest
+mathematical work known in China; and is so named because nine different
+branches of mathematics are treated in so many chapters. (Note on Chinese
+Literature, p. 91).
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+151
+point, line, surface and solid. That which is traced out by a point
+is a line. The meeting of lines gives surface. The (1) accumula-
+tion of surfaces is solid.
+Between line and line, surface and surface, solid and solid,
+there exist, as to form, mutual accretion or similarity, and as to
+numbers, their sum and difference, commensurable and incommen-
+surable numbers, rational numbers and surds.
+A thorough knowledge of points, lines, surfaces and solids ap-
+plied to the four rules of Arithmetic, is like building your chariot
+within doors, and bringing it forth to put it on wheels.
+Why investigate with servility each concrete object by itself!
+Are we then to conclude that the Nine Chapters may be dis-
+pensed with? Assuredly not. Let the student thoroughly master
+his tones and (rhyming) vocables, his scholia and commentaries,
+and he may then read and taste the deep streams of ancient
+literature. In like manner a clear understanding of the proper-
+ties of points, lines, surfaces, and solids will enable the student to
+solve the manifold problems of number.
+The rules of Arithmetic are adapted, each to its special purpose.
+But the Elements of Geometry lay open the original reasons for
+the arithmetical rules, and present us with results which the rules
+fail to reach. Develop your knowledge in the one and you will
+find its use in the other; just as diligence in the studies of child-
+hood finds its reward in (the access it procures to) the universe
+of books.
+(Signed)
+TSENG KWO-FAN.
+(2) IVth year of Tung-che, Xth month.
+ORIGINAL PREFACE (VIZ: OF SEU WEN-TING).
+In the days of (3) Th'ang and Yu the regulation of the Calendar
+by He and Ho, and the duties of the (4) Five Ministers, Sze-kung,
+(1) "Here," Mr. Wylie remarks, "the author evidently jumps from the
+abstract mathematical conception to the concrete; his aim being to show the
+relation between form and number in the process of involution. Hence we are
+to understand by point not a mathematical point but a unit or monad and
+then all will come straight."
+(2) 1865; November-December.
+(3) Vide Shoo-king, pp. 18 & 599. Ed. Legge.
+(4) The Five Ministers were respectively of Wastes, Husbandry, Works,
+Forests, and Music.
+
+152
+THE OBLIGATIONS OF CHINA TO EUROPE.
+How-tseih, Kung, Yu, and Teen-yoh, all depended upon mensur-
+ation and arithmetic.
+The (1) six arts of the "Ministers of Chow" included arith-
+metic amongst them; and the other five could not be applied
+without mensuration and arithmetic.
+Are we to think that (2) Seang and Kh'wang in the invention
+of Music, or Pan and Mih in that of Implements possessed some
+extraordinary and marvellous sleight of hand? No, it was merely
+their refinement in the application of method.
+Hence it is said that before the (3) three dynasties they pos-
+sessed a consummate science of original principles perfected by
+tradition of masters and the practice of pupils.
+But this perished at last in the fires of (4) Tsoo-lung.
+From the Han dynasty downwards every one made guesses for
+himself; like a blind man shooting at a target aiming at random
+and never hitting. Some relied on their notions of form, like one
+who would illuminate an elephant with a fire-fly; getting a view
+of its head but losing sight of its tail.
+At the present day even this (pretence at) science is lost, as it
+could hardly but be lost.
+The Elements of Geometry are the foundation of mathematics,
+whereby the nature of the square and circle, the horizontal and
+the vertical, can be ascertained; and the uses of the compass and
+square, the level and the plumb-line, perfectly explained.
+Master Ricci from his early years, in the intervals of his studies.
+in moral science, gave his mind to the polite arts. This is a pur-
+suit which belongs to the category of those which (5) are ad-
+vanced by the traditions of masters and the experiments of students.
+Now (Ricci) had for his master a mathematician of the highest
+fame named (6) Ting. Hence he is absolutely perfect in his
+(1) "Ministers of Chow"
+The Six Arts-Ritual, Music, Archery,
+Pushing the Chariot, Writing and Arithmetic.
+(2) Vide Lun-yu, p. 202. Mencius, p. 161, for Seang and Kh'wang. Pan
+name of Kung-shoo. Mencius 161 Qu. whether Mih is the heretical philo-
+sopher of whom Mencius says so much.
+(3) Hia, Shang, Chow.
+(4) Tsin Sze Hwang-ti B. C. 243, (vido Sze-kee 36th year of Sze Hwang,
+B. C. 215).
+(5) See above p. 6.
+(6) Christopher Clavius, (vid. Ency. Brit. art Euclid). T usually written
+Ja nail, adopted, somewhat fancifully, to represent the latin name Clavius,
+(quasi Clavus a nail). Some of the Roman Catholic Missionaries of the
+present day appear to be guided by the sense rather than sound of their
+names in turning them into Chinese. E. G. de la Place.
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+153
+demonstrations. Having long been intimate with me, and, in
+our occasional conversations, having frequently touched upon this
+topic, I begged him to turn into Chinese the various works on
+form and number. I conceived however that until this book
+(the elements) were translated, we could not discuss the others.
+And accordingly I assisted him in making a version of the six
+most important books. When it was finished we went through
+it again, advancing thus from what was obvious to what was
+abstruse, and from a state of hesitation to one of certainty.
+Meantime I found applications for what had seemed useless,
+and (gathered that the whole) was the foundation of all the
+useful arts.
+Well may our work be called the (1) Figure-garden of all Form,
+the Science-ocean of all the Schools.
+Although our work is by no means complete, yet compared
+with other books this is in a reasonably good condition.
+I cannot but reflect with amazement that, so unexpectedly, when
+the Science of the Ancients had been utterly lost already some
+two thousand years, we should thus have suddenly obtained a
+means of supplying the lack of the canon and traditions of Th'ang,
+Yu, and the three dynasties. The advantage to this age is most
+assuredly great.
+With two or three friends of common tastes I have therefore
+printed and published this Treatise.
+The master says; this book is of such service to all the schools
+as almost to be equivalent to the living presence of He and Ho,
+Pan and Mih. Small in extent, its great use lies in this that it
+will give accuracy and precision to the natural genius of students.
+My own opinion is that its usefulness will be greater or less
+according as persons use it.
+Like the great wood-cutter Tun Lin, whose proper genius guided
+him in choosing (trees for) posts or beams, joists or rafters.
+However, our master's learning is three fold; its highest divi-
+sion is Morals and Religion, its lowest Natural History and Phy-
+sics. Of Physics one distinct branch deals with form and number,
+each point being precise, real, and of the nature of an axiom;
+ascertained beyond the chance of doubt, and capable by analysis
+and demonstration of being assured to others.
+(1)萬象之形圈
+百家之學海
+20
+
+154
+THE OBLIGATIONS OF CHINA TO EUROPE.
+I have been eager to publish this, a part of the lowest class of
+the sciences; because I was anxious first to bring forward what
+is easy of belief; so that persons who have read our text and
+comprehended its meaning, may perceive that our master's eru-
+dition is trustworthy and beyond suspicion.
+As for what was said above that all the mathematical sciences
+depend on this (Euclid) for their principles-that could hardly be
+set forth even summarily in this preface of mine.
+Written by (1) Seu Kwang-ch'ee of Wu-sung.
+(PREFACE CONTINUED BY RICCI.)
+The all-important aim of scholarly study is the (2) Advancement
+of Knowledge; and that must take its rise from a clear under-
+standing of the principles of nature. But the principles of nature
+are complex and abstruse, and the human mind is dull and pur-
+blind. There is no way of perfecting knowledge except that of
+starting from what is clear and so successively advancing to what
+is still undiscovered.
+Our (3) remote western country, though of small extent, pos-
+sesses literary institutions which in respect of the material sciences
+analytically pursued are superior to those of all other states. And
+hence books which discuss the principles of things are exceeding
+numerous and full.
+Our students take it as an axiom in their discussions, that only
+what can be proved is of moment, and that mere opinion must be
+rejected. For they agree that the investigation of the principles
+(of things) begets knowledge; but opinion can but beget opinion
+after all.
+.Knowledge implies the absence of doubt; but opinion ever
+carries along with it (the possibility of) doubt.
+(1) The celebrated Paul Seu of Sikawei (Seu-kea-wei) near Shanghai
+(here called by its classical name Wu-sung), who with his grand-daughter
+Candida were zealous Christians; and at the same time were much honoured
+by the Chinese for their good deeds. His conversion seems to have taken
+place about the time of his admission to the Han-lin. Huc's Christianisme
+contains interesting particulars.
+(2) Ta-heo p. 222. Ed. Legge.
+(3) angular, in a corner. Query does he mean Italy? or Europe in
+general? Michael Angelo and Macchiavelli were dead. Galileo was still
+living, and not yet condemned for heresy.
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+155
+The philosophy of the abstract and abstruse, though argued Metaphysics.
+upon correct (principles of) demonstration, can never quite expel
+doubt. (Since) it is always possible for another (1) method (of
+discussion) to find a flaw (in yours). It can induce assent; but
+it cannot breed a faith which entirely excludes the possibility of
+mistake.
+Only the science of the real and the evident cuts up and dis- Physics.
+perses every kind of suspicion, and is able to compel a full assent,
+leaving no opportunity for another method to impugn it.
+The knowledge which results is at once deep and solidly esta-
+blished. In this category mathematics holds the highest place.
+Mathematics deals entirely with the parts and limits of things.
+The parts; as in the case of things divided, so as to occasion
+multitude; when (mathematics) will show how many they are;
+the limits, in the case of integers, when it demonstrates how great
+they are.
+matics.
+Number and degree may be conceived of apart from matter and are Mathe-
+discussed in the abstract, and then for numbers we have arithmetic;"
+and for degree geometry.
+thematics.
+Or both may be conceived of in connection with matter and then Mixed Ma-
+speaking of number we have for instance the harmony produced
+by sounds properly matched, and the science of music with its (2)
+sharps and flats; and speaking of degree we have as an example
+the movements of the visible heavens which mark time, and the
+sciences of Astronomy and Chronology.
+try and Co-
+These (3) four main branches subdivide into a hundred streams. Trigonome-
+One measures the magnitude of the universe; as the thickness of nies.
+the (4) successive superposed heavenly spheres, the distance from
+the earth of the sun moon and stars, and their comparative mag-
+nitudes, the diameter of the earth and distances on its surface;
+also the heights of mountains and hills, lofty buildings of all kinds,
+the depth of pits and valleys, the mutual distance of two places,
+the area and boundaries of fields, cities, and mansions, the solid
+content of storehouses, piles of goods, and large vessels. Another
+subdivision computes (5) locality, so as to explain the sequence of
+the seasons, the varying length of day and night and the hours of
+(1) Or perhaps hypothesis.
+(2)
+rather perhaps notes and intervals.
+(3) Namely Arithmetic and Geometry, pure and mixed.
+(4) 各重天
+(5) Query, the place of the earth in the solar system.
+
+Mechanics
+and Hydros-
+tatics.
+156
+THE OBLIGATIONS OF CHINA TO EUROPE.
+sunrise and sunset, and thus deduce (1) latitude and longitude;
+(2) the three commencements of the year, the equinoxes and
+solstices, the (3) days of opening and shutting, the year for the
+intercalary month, the month for an additional day.
+Another subdivision constructs instruments for observing the
+form of heaven and earth, and the sequence and place in the
+ecliptic of the (4) Seven Directors; for transmitting, the (5) eight
+sounds, and marking the passage of time by a self sounding (clock)
+so as to facilitate the occupations of the people, and (fix the time
+for) the sacrifice to (6) Shangte. Again another subdivision regu-
+lates the arts which work in water, earth, wood, and stone; builds
+cities, erects towers and stages, palaces and temples, from the roof
+to the foundation; opens canals, forms reservoirs and builds bridges.
+And all these not merely studying ornament and beauty, but
+securing by all means stability, so as to resist the wear and tear
+of any number of years.
+Another constructs machinery to economise power in moving
+great weights both vertically and horizontally, so as to facilitate
+the transport of provisions, the supply of water, the draining of
+marshes, the irrigation of deserts, the (7) raising and lowering
+of vessels of all sizes.
+These various machines either avail themselves of the force of
+wind, or depend on water power, or work by pulleys, or by (8)
+dams and valves or rely on a vacuum.
+Again another subdivision investigates (9) the optical powers
+of the eye, so as on a plane diagram with graduates rectangles or
+(1) A very hesitating version of H L F
+(2) The three commencements, vid: Lun-yu 162 note.
+mencement is said to be in
+Heaven's com-
+tsze (the winter solstice), Earth's in mau
+yin (a month later still). Opening and
+(a month later), and Man's in
+shutting, perhaps spring and winter.
+(3) See above.
+(4) The seven directors, probably the Sun, Moon, and five planets, Mercury,
+Venus, Mars, Jupiter, Saturn. Dr. Legge. Shoo. p. 33.
+(5) Query whether the gamut; or the sound made by the eight substances
+Metal, Stone, Silk, Bamboo, Gourd, Earth, Leather, Wood.
+(6) Shangte as the name for God was not finally proscribed by Papal
+ordinance till the 18th century. It is possible that the Imperial worship of
+the idol Shangte is meant.
+(7) Query in docking, or by canal-locks.
+(8) perhaps rather systems of cogwheels.
+(9) Qu: Optics or Perspective? 目視势
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+157
+curves according to the figure of each object, to represent the
+different properties of distance, obliquity, elevation and the rest;
+to observe the (1) limits of distant objects, so as to get at their
+true forms; produce the effect of great size by a small drawing,
+and of distance by one close to the eye, represent a solid globe
+by means of circles, depict accurately the unevennesses of surface,
+and give the lights and shadows in views of buildings.
+Another deals with Geography, from the general representation Geography.
+of the earth with its mountains and seas, to the separate maps of
+the five divisions of the earth and the four seas; every kingdom
+of each continent, and every island of each sea, with the provinces
+and departments, all laid down in miniature. The general maps
+answering to the points of the compass, the separate maps tallying
+with the general one; and all so proportioned as to avoid mistake
+and confusion. So that from the (2) chang, feet, inches, and
+tenths (of the map) you may compute any distances whatever by
+land or sea; learn the great from the small, and distance from
+what is close at hand; thus proving the charts useful as an itin-
+erary for land and sea without confusion or mistake.
+These are some of the branches which depend directly upon the
+general science of Mathematics.
+For the rest whether they are concerned with higher or lower
+matters all without exception depend on mathematics to establish
+their principles of working.
+For example the statesman ought to be thoroughly familiar with statecraft.
+the configuration of the frontier, the distance thence to foreign
+states and the extent of their territory, so as to know how with
+appropriate (3) ceremony to receive and dismiss their respective
+envoys; and to be ready for unforeseen chances, lest he be either
+needlessly apprehensive, or recklessly secure.
+If he neglect to estimate the productive powers and rate of
+consumption of his country, and the (4) receipts and expenditure
+of money and corn-he will be without data for the guidance of
+his administration.
+(1) Qu: angular measure.
+(2) The chang is ten Chinese feet.
+(3)議禮賓來往之儀
+(4) Produce and expenditure of taxos.
+
+Medicine.
+Commerce.
+War.
+158
+THE OBLIGATIONS OF CHINA TO EUROPE.
+If he knows nothing about (1) astronomy, and trusts to other
+persons' information, the confusion arising from false methods of
+computation will be great.
+Agriculturists who have no knowledge beforehand of the seasons,
+will be at a loss when to sow and plant all the various crops; or
+to guard against the calamities of drought and flood, and thus
+secure the (2) very root of the commonwealth.
+The physician who cannot compute the paths of the sun, moon
+and planets, and their influence on the diseased body will perillously
+mistake concords for opposites, and applying at random (3) his
+drugs, and instruments, not only do no good, but, mayhap, inflict
+great injury. Many a time have we seen, through some trifling
+disorder, under the misapplication of (otherwise) efficacious drugs,
+young and hale men pass away before their time; simply because
+of ignorance of (4) astrology.
+The merchant who is a bad calculator, will be in the dark as to
+all questions of barter, interest, rules of partnership, (and the like);
+and he will either be injuring his partner or be wronged by his
+partner, either alternative alike intolerable.
+Now I have no time to set forth all the branches of study that
+make use of mathematical methods, but, the military art, the
+most important to the state, that on which depend our security
+and our danger, has the most necessary dependence of them all
+upon this science. Wherefore for the commander of knowledge
+and courage, it is most necessary to have first studied mathematics.
+Otherwise though knowledge and valour are present, they will
+prove of no use. Of course the good general does not give his
+mind to questions of astronomy or chronology. The good gene-
+ral's anxiety is first about supplies of food and forage for his troops
+and horses, and the distance and natural features of his lines of
+march; their (5) dangerous or easy, open or confined (6), healthy
+or unhealthy character.
+(1) With a view to the Calendar. A hint, perhaps, at the empiricism of
+both the Chinese and Mahometan astronomers which was afterwards exposed
+so unsparingly by Verbiest.
+(2) Viz: supply of grain.
+(3)
+The last two are probes of steel and stone respect-
+ively. I do not know
+(4)
+in this connexion must be the influences of the heavenly bodies.
+(5) Steep and rugged or easy."
+(6)死生
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+159
+In the second place he studies the best disposition of his forces,
+whether the whole host or its divisions. As for instance a circular
+array to mask numbers, or one with wings (horns) to conceal
+paucity of force, or one like a crescent moon to surround the
+enemy, or a wedge shaped one to break and scatter him.
+Thirdly he (1) takes careful note of all weapons of offence and
+defence, thoroughly ascertaining their advantages and effective-
+ness, and comparative excellence under various circumstances, and
+ever proceeding in the course of improvement. He is well read
+in the historical examples of various states, and knows that the
+invention of a new and ingenious weapon has never failed to
+carry with it victory in attack, or else security in defence. There
+is nothing in beating few with many, or weak with strong forces;
+but to vanquish a numerous and mighty host with a small and
+weak one is the feat of none but the gifted captain of knowledge.
+I have heard that in the West some sixteen hundred years ago,
+before the general diffusion of (2) Christianity, when the different
+states were mostly united (under one rule), among them there
+was a famous captain who, with a few beaten troops matched
+against a host of tenfold strength, held an insulated and dangerous
+fort and repulsed all attacks whether by sea or land. And like-
+wise in China the renowned men who, from time to time, (3) like
+Kung-shu and Mih-tih, 'nine times attacked, nine times repulsed
+the foe,' performed such deeds by no other secret than their great
+skill in mathematics.
+Hence we may see that the connexion of this science with
+human affairs is of the greatest and most important nature. And
+therefore men of spirit, the heroes who have given principles to
+the world, whether by the practice that goes before or the subse-
+quent (work of) tradition, have never ceased in the world; but
+have kept adding light and extent (to the science) and making
+the commentaries on it fuller and fuller.
+However about the middle age of antiquity our western schools
+produced one noted philosopher named Euclid, who in mathema-
+tical science far outstripped his predecessors and instructed with
+unusual luminousness those who were afterwards to enter upon
+(1) A hint to the Ming which the Tartar afterwards attended to, when he
+induced Ricci's successors to cast heavy ordnance to assist him in crushing
+the remains of the Chinese power.
+(2) 天主
+(3) See Mencius p. 161.
+
+160
+THE OBLIGATIONS OF CHINA TO EUROPE.
+those paths. His definitions were very numerous and subtle. Of
+the works put forth by him during a life time, not a single sentence
+can be doubted or questioned. But his elements are especially
+solid and trustworthy. What is called the elements is the de-
+monstration of mathematical first principles. Every one who
+discourses (on mathematics) must start with these. Hence his
+successors lauded him with this saying: Euclid in his other books
+excelled other men; in this book he outdid himself.
+Now, after a thorough (1) trial of the book, his method and
+sequence are altogether surprising.
+At the commencement of his propositions he first exhibits de-
+finitions; then states axioms on which the propositions depend;
+and then produces his propositions (2). Each proposition has its
+statement, its construction, and its demonstration. Every point
+ascertained becomes the foundation for a succeeding (argument).
+In the thirteen books one line of argument runs through five
+hundred or more propositions: book having a mutual interdepend-
+ence on book and proposition on proposition. (And the sequence
+is essential). Nothing could be placed earlier or later than it
+actually is. There is a close connexion and mutual succession
+without break to the very end.
+It was said above that the (3) exact sciences are very easy and
+clear. By a gradually accumulating argument they end in de-
+veloping what is most abstruse. If you look cursorily at one or
+two of the later propositions, their assertions, difficult as they are
+of investigation, will also prove hard to believe. But when you
+take the early proposition as your ground of proof, and at each
+step (see) the seal of evidence, stage after stage opens out, till the
+meaning lies plain (4) like the eye-brows, more and more fully
+explicated, so that you shall at last smile (with pleasure).
+During the thousand and odd years since (Euclid) there have
+not wanted eager and strenuous disputants; but the result of the
+earnest scrutiny of a whole lifetime has been that (5) they could
+not cavil at a single word.
+(1) "Taste;" meaning the examination and appreciation of so many ages.
+(2) Mr. Wylie renders; "the propositions aro accompanied by explana-
+tions of theorems, constructions of problems, and scholia."
+(3)質理
+(4) I cannot illustrate this metaphor from Chinese classical literature.
+(5) This will hardly be maintained now.
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+161
+As to those who have devoted themselves to the geometry, al-
+though of divine perspicacity and favoured by heaven, they have
+all been obliged to use the Elements as their ladder of ascent.
+Until this book is mastered, whoever would take up a position
+within the (1) circle (of science), as a learner he will gain no help
+for his mind, and yet more as a teacher he will lack this (indis-
+pensable) help in his discourse.
+In
+In our western schools as it has been already said, the ten thousand
+books, to speak in round numbers, of the hundred sciences which
+depend on geometry all take this book as a canonical authority,
+and adduce it as proof whenever they establish a proposition.
+using other works it is necessary to quote the name, but in ad-
+ducing this book one merely says such a proposition of such a book.
+So that you may see that it is the daily meat and drink of geo-
+metricians.
+The present age has seen the rise of another famous philosopher,
+who was Mateo's principal master in mathematical studies. His
+name is master Clavius; and he has both enlarged and consider-
+ably elucidated this science.
+(2) In early life when Mateo was travelling in the west, in
+every renowned state, wherever he met with high and distin-
+guished houses, it was the general talk that, whatever might
+happen in the future, for all that went before the present age,
+Master Clavius' achievements in mathematics left him without
+an equal.
+(3) The result of this master's long and accurate studies in
+Euclid is a collection of expository notes, and additional and con-
+tinuatory matter amounting to two books. So that in all wo
+have, with the original, fifteen books. Besides, he introduced
+into each book certain new demonstrations of the same general
+character. And thus the work is as detailed and complete as
+possible, a very ford or bridge for future students, leaving abso-
+lutely nothing to be desired.
+(1)道
+(2) Clavius' employment in the reform of the calendar, and the contro-
+versy to which this led him with distinguished men, would necessarily render
+him famous among his contemporaries. He was attacked more than once by
+Scaliger and as often replied.
+(3) His two books are apparently confounded with the XIV and XV books,
+which are ascribed to Hypsicles, about A. D. 550. Mr. Wylie says that Ricei
+in projecting a version of the whole of Euclid probably intended to sub-
+stitute Clavius' for the ancient books XIV and XV. See preface to Mr.
+Wylie's edition of Euclid in Chinese.
+21
+
+162
+THE OBLIGATIONS OF CHINA TO EUROPE.
+From Mateo's first arrival in China he observed that whilst
+there was no lack of confidence on the part either of the students
+or the text books in geometry, there was nothing, so far as he
+could see, of the nature of (1) discussions of the principles. But
+without root or basis it is difficult to build. And thus the best
+intellects failed both in practice and discourse in demonstrating
+the rationale (of the science). What was correct failed to be
+clearly proved; and when they were mistaken no one could dis-
+criminate (the results) from what was right.
+I had at that time already a desire to translate this book and
+offer it for the use (2) of the scholars and gentles of the day, as a
+grateful acknowledgement of the courtesy with which they have
+received me a stranger. But my lack of ability, and the entire
+difference between the grammars of the east and west (deterred
+me). In seeking words and expressions (3) (in the one language
+to represent those of the other) there were ever many deficiencies.
+No doubt in speaking something may be done with effort; but
+when you take pen in hand to write it becomes a difficulty indeed.
+From that time onward I often met scholars of spirit who by
+suggestions or encouragements (moved me to proceed). But I
+was ever afraid of failure, and of commencing merely to desist.
+Alas, (said I) this is but a superficial acquaintance with the science
+that I possess, the discussion of the merest elements of form.
+Thus did I debate with myself. (But at length) I concluded:
+It is but the difficulty of the first step; where there's a will the
+work is done. And so I waited till the present time.
+In the year (4) Kang-tsze, Mateo had occasion to go to the
+capital with presents of homage, and sojourned there. During
+the winter of (5) Kwei-mau, Seu Thae-sze Sien-sheng of (6)
+Keang-soo came (to Peking). The (7) Thae-sze, naturally a per-
+son of fine parts, and long practised in elegant literature, and
+who, moreover, had for a considerable time been intimate with
+(1) Qu: the "Elements" viz: of Euclid.
+(2) 當世賢人君子
+(3)相
+(4) A. D. 1600-1601 Dr. Williams says he arrived in Peking in January
+1601 bringing presents for the Emperor by special permission.
+(5) A. D. 1603.
+*(6) 吳下
+(7) One of the names for members of the Han-lin. It is here given in
+advance, since he did not get that degree till afterwards.
+
+THE OBLIGATIONS OF CHINA TO EUROPE.
+163
+me and my brethren, foreigners (like myself), conceived the idea
+of sharing the task of translation with me and so rendering easy
+the production of our book. (1) As for the time he designed to
+come to it, along with me. In the spring however (qu: 1604)
+being recommended (for the examinations in) the Southern Palace
+he was chosen (2) Shoo-ch'ang. But just at the time when he
+was reading the more abstruse class of Chinese books, I had oppor-
+tunities of conversation with him, and frequently discussed the
+high doctrine of the Lord of Heaven putting morality and (3).
+devotion in the most prominent place. We had no leisure then
+for this mundane and unspiritual affair. (Viz: of mathematical
+discourse. But my teacher takes it to mean; "He had no time
+to think of political affairs." being a fine phrase for these,
+as compared with philosophy).
+Last autumn however he interrogated me about our western
+schools and (4) systems of promotion; to which I made answer
+by speaking of our natural philosophy, and so spoke of geometry
+and the like. This led to my mentioning the accuracy of this
+work, and explaining the difficulty of translating it and the manner
+of my relinquishing the task a while ago. The Sien-sheng said;
+"our ancient worthies used to say, 'it were a shame for a scholar
+to be ignorant of any one thing." If now this branch of science
+has been actually lost to us, it amounts to this that our students
+are all groping in the dark. As I have met with the book; and
+met too with you, Sir, a person so modest and so liberal, if you
+please to (5) entrust (the matter) to me, I shall of course think
+nothing of the labour, and lose no time in going to work. (Else)
+the loss will lie at the door of our generation."
+"Ah me! When I shrank from difficulty it grew as a matter
+of course. I faced it and it as naturally shrunk into insignificance.
+We must surely accomplish the task, Sien-sheng." We addressed
+ourselves to the work. He bade me dictate, and himself took
+down my sentences with pen and ink. It was considered and
+reconsidered again, with a view to express the sense of the original
+in Chinese phrase. Again and again it was revised; three suc-
+(1) This whole passage, especially the words
+is to mo
+very hard. I do not think I have given the sense-(if any sense) correctly.
+(2) That is member of the Han-lin, of a certain class.
+(3)
+Qu: an ellipsis of EShiking. p. 433. Legge.
+(4) Q:舉業
+(5) Namely of giving a classical shape to Ricci's dictations from Euclid.
+
+164
+THE OBLIGATIONS OF CHINA TO EUROPE.
+cessive draughts in all being prepared. The Sien-sheng's zeal
+forbade my requiting him with slothfulness. In the present spring,
+the most important and first portion of the work, the first six books,
+is at length finished.
+But (1) the original text of Euclid does not itself transmit to
+us its (ultimate) idea. Of master Clavius' work we have translated
+only the preliminary discourse.
+The Thae-sze in his eager zeal wished to complete it. But
+said I: "let us pause. Put forth this first that persons of like
+taste with us may prove by practice the usefulness (of the treatise);
+and then with due deliberation consult for the remainder." The
+Thae-sze replied: "be it so. If it be well that this book should
+be completed; why should it depend only on me." He desisted
+therefore from the translation, and sent it to be engraved; with
+the one aim of publishing it for the common advantage; impatient
+as he was of having it kept a secret even for a day.
+When it was ready for printing Mateo made a brief statement
+of its purport, to place at the commencement; which he knows
+well to be wanting in elegance, and would shrink from foisting
+into a connexion with this (2) splendid record of (mathematical)
+operations. Nevertheless, in however lame a manner he has
+made some introduction to the main gist of our work, and (re-
+corded) the occasions of the translation, that those who make use
+of it in time to come may know the intention of its communication
+to them; and considering the painful efforts (we have made) I
+hope they may practice (its principles) more and more thoroughly;
+so as to complete the fair work, and enable all men of instructed
+mind to pursue heartily the study of the exact sciences, and prove
+their efficacy in all the manifold divisions of polite study set forth
+above; thereby attaining merit and offering service to the empire.
+So too may Mateo and his brethren, these many years past en-
+tertained, though foreigners, with the consideration of ministers
+of state, repay one tenthousandth part the immensity of the
+(imperial) grace.
+Respectfully written in (3) Tin-wei of Wan-leih by the Euro-
+pean Mateo Ricci,
+(12)
+Qu: rather. "We have not neglected (fully given)
+the gist of Euclid's original text."
+(13) 述作之林
+(14) A. D. 1607, three years before Ricci's death. Wan-leih A. D. 1571
+to 1619.

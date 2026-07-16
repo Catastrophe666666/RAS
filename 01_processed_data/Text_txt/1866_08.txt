@@ -1,0 +1,496 @@
+## p. 107 (#499) ############################################
+
+[ 107 ]
+ARTICLE VIII.
+A SHORT SKETCH OF THE CHINESE GAME OF CHESS,
+CALLED KH'E 棋 ​ALSO CALLED SEANG-KHE 象棋​, TO
+DISTINGUISH IT FROM WEI-KHE 圍棋 ​ANOTHER
+GAME PLAYED BY THE CHINESE,
+BY H. G. HOLLINGWORTH.*
+THE Chinese Game of Chess is played by two persons, each having
+sixteen pieces, upon a board divided into sixty-four squares, eight
+on each of the four sides, but separated in the middle between the
+players by an oblong division called the River河​界​,which
+extends from one side of the board to the other.
+RED.
+
+兵
+​河
+​界
+​-
+BLACK.
+* This paper was read before the Society, on the 13th Oct., 1866.
+
+
+## p. 108 (#500) ############################################
+
+108
+THE CHINESE GAME OF CHESS.
+The squares are all of the same colour.
+The pieces are placed upon the points where the lines forming
+the squares intersect each other.
+The foregoing diagram represents the board with the pieces
+arranged as at the commencement of a game.
+From this it will be seen, that, though there are only sixty-four
+squares there are ninety positions for the pieces.
+The four squares through which the diagonal lines pass form the
+"Head Quarters," and the General and his Secretaries, are not per-
+mitted, to move beyond the lines bounding these four squares.
+The pieces are all of the same size and colour, distinguishable
+from each other by an inscription, which is not only of a different
+colour, on the pieces used by each player, but the characters used
+on the one side, are generally different from those used on the other.
+The pieces are termed Red and Black, and the characters on
+them are generally of these colours.
+The moves are played by each player alternately.
+The General is placed on the centre line, and has on each side
+four pieces, those next to him right and left are his Secretaries,
+then the Elephants, next to them the Horses, then the Chariots.
+In front of each Horse is placed a Cannon at a distance of two
+points; and in front of the General, Elephants and Chariots, are
+placed the five Soldiers, at a distance of three points.
+MOVEMENTS OF THE PIECES.
+Tseang.
+Sae.
+The General's movements are confined to the nine points in
+"Head Quarters," in which he moves the length or breadth of one
+square only at a time, backwards, forwards and sideways; he can
+take any of the adversary's pieces which stand unprotected in
+"Head Quarters" on the points adjoining that which he occupies,
+excepting however the diagonal points, as he has not the privilege
+of moving diagonally; he cannot be left on the same line as the
+opposite General without a piece intervening. He is exempt from
+capture, but he is not permitted to move into check, that is, on to
+any point guarded by one of the adversary's pieces.
+
+
+## p. 109 (#501) ############################################
+
+THE CHINESE GAME OF CHESS.
+109
+He is said to be in check when he is attacked by any piece of
+the adversary, and the expression
+Tseang (General) is
+used to warn him of his danger, he is then compelled to move out
+of check, interpose a piece, or capture the attacking piece; failing
+to make any of these movements he is checkmated, and loses the
+game.
+士
+​Sze.
+仕 ​Sxe.
+The Secretaries are also confined to Head Quarters, and have
+only five points to move to; they move on the diagonal lines,
+through one square at a time, forwards and backwards.
+Seang.
+Srang.
+The Elephants move diagonally, through two squares at a time,
+forward and backwards, but are restricted to one side of the board,
+not being permitted to cross the River.
+Ma.
+偶 ​Ma.
+The Horses move one point forwards, or backwards, and one
+diagonally, or one point sideways, and one diagonally, something
+like the Knight in the English game, but they cannot leap over
+any piece; they can move all over the board.
+Keu.
+Keu.
+The Chariots are the most powerful of the pieces, having the
+advantage of moving forwards, backwards and sideways, over all
+unobstructed points on the board.
+P'aou.
+P'aou
+The Cannons also move forwards, backwards and sideways, over
+all unobstructed points on the board; but attack, and capture, only
+
+
+## p. 110 (#502) ############################################
+
+110
+THE CHINESE GAME OF CHESS.
+when a piece intervenes, leaping over it, like a Knight in the
+English game.
+Tsuh.
+Ping.
+The soldiers move one point at a time, but only forwards, until
+they cross the River, then they move sideways as well, but not
+backwards, and have no increased power when reaching the oppo-
+site side of the board.
+CAPTURING ADVERSE PIECES.
+This consists in removing the adverse piece and placing the
+captor on the point which the former occupied.
+This movement is common to all the pieces, but the Cannon
+captures only when a piece intervenes, over which it leaps; all
+other pieces capture as they move.
+NOTATION.
+The longitudinal lines are numbered from Right to Left of each
+player, one to nine.
+The transverse lines are not numbered.
+The pieces are described by their characters in full, and the ex-
+pressions, forwards, backwards, and sideways, are made use of
+thus,-
+Chariot 1 forwards 10,
+Means,
+Chariot on line 1 forwards 10 points, which is the opposite side of
+the board.
+Chariot 1 backwards 10,
+Means,
+Chariot on line 1 backwards 10 points, and brings the piece back
+to its former position.
+Means,
+Chariot 1 sideways 9,
+Chariot on line 1 sideways to line 9, which is the players's left
+side of the board.
+The following games will serve to illustrate the previous remarks;
+the abbreviations are as follows:-
+g.
+E.
+for
+"
+General.
+Elephant.
+sec. for
+H.
+Secretary.
+Horse.
+"
+
+
+## p. 111 (#503) ############################################
+
+THE CHINESE GAME OF CHESS.
+111
+char. for Chariot.
+can. for
+Cannon.
+S
+Soldier.
+"
+f.
+for
+b.
+"
+S.
+"
+forwards.
+backwards.
+sideways.
+Black.
+Red.
+1.
+E
+7 f 5
+1.
+Η 8f 7
+2.
+can.
+2 s
+4
+2.
+can.
+8 s 9
+3. Η
+2f 3
+3. char.
+9s 8
+4. S
+3f 1
+4.
+Η
+2f 3
+5. can.
+8 s
+7
+5.
+can.
+2f 2
+6. S
+7f 1
+6. char. 8f 4
+7. Η
+3f 4
+7. char. 1s 2
+8. Η
+4 f 3 takes S
+8.
+can.
+9s 8
+9. char.
+9f 1
+9. S
+3f 1
+10. S
+7 f 1 takes S
+10.
+char. 8 s 3 takes S
+11. char. 1 s 2
+11.
+can.
+8f 2
+12. can. 7 f 5 takes H
+12. char. 2f 2
+13. can. 7 f 1
+13.
+sec.
+4 f 5
+14. can.
+7s 6
+14.
+can.
+2b1
+15. Η
+3b 4
+15. can.
+2s 4
+16. Η
+8f 6
+16. char.
+2b1
+17. can.
+4 s
+3
+17. Η
+7b9
+18. Η
+4 f 5 takes S
+18. E
+7 f 5
+19. can.
+6s 1 takes H
+19.
+char.
+2f 4
+20. can. 1 f 1 (check)
+20.
+E
+5b7
+21. can. 3 f 7 takes E
+and checkmates.
+Black.
+Red.
+1.
+can.
+2 s 5
+1.
+Η
+2f 3
+2. Η
+2f 3
+2.
+can. 2 s 1
+3. char. 1s 2
+3.
+char. Is 2
+4. Η
+8 f 7
+4.
+can.
+8 s 6
+5. S
+7 f 1
+5.
+char.
+2f 4
+6.
+S
+6.
+Η
+3f 1
+8 f 7
+7. Η
+3f 4
+7. char.
+2s 6
+8. can.
+8f 2
+8. S
+3f 1
+9. E
+7f 9
+9. can.
+6 f 3 takes H
+10. can.
+8f 2
+10. S
+3 f 1 takes S
+
+
+## p. 112 (#504) ############################################
+
+112
+THE CHINESE GAME OF CHESS.
+Black.
+Red.
+11.
+E
+9 f 7 takes S
+11.
+12.
+can. 8 s 3 takes S
+12.
+char. 6s 3
+char. 3 f 1 takes E
+13. char. 9s
+7
+13.
+can.
+6f 2
+14. Η
+7b9
+14. char. 3 f 4 takes char.
+15.
+Η
+9 b 7 takes char. 15.
+can.
+1 f 4 takes S
+16. sec.
+6f 5
+16.
+can.
+6b3
+17. char. 2 f
+7
+17.
+Η
+7b5
+18. S
+3 f 1
+18.
+can.
+6s 2
+19. S
+3s 4
+19.
+can.
+2 f 5 (check)
+20. sec.
+5b6
+20.
+can.
+1 f 3
+21. g
+5 f 1
+21.
+can.
+1s 3 takes H
+22. g
+5s 6
+22. can.
+3 s 6 takes sec.
+23. S
+4 f 1
+23.
+can.
+2b6
+24.
+can.
+3 s
+5 ta's S (ch'k)
+24.
+H
+3 f 5 takes can.
+25.
+can.
+5 f 4 ta's H(ch'k)
+25.
+E
+7 f 5
+26. S
+4 f 1
+26.
+can.
+2b 1
+27. sec.
+6f 5
+27.
+can.
+6 b 1 (check)
+28. g
+6b 1
+28.
+char. 9s 7
+29. E
+3f 1
+29.
+char. 7 f
+7
+30. char. 2b 6
+30.
+char. 7 f
+2 (check)
+31. sec.
+5b4
+31.
+char. 7 s
+6 ta's sec. (c'k)
+32. g
+6f 1
+32.
+can. 2 s
+6 takes S
+33. can.
+5s 4
+33.
+can.
+6 s
+5
+34. can.
+4 f 3 takes sec.
+34. g
+5 s
+6 takes can.
+35. g
+6s 5 takes can.
+35.
+char. 6b
+3
+36. E
+1f 3
+36. char. 6 s 5 ta's S (ch'k)
+37.. E
+3b 5
+37. Η
+5f 3
+38. S
+1 f 1
+38.
+sec.
+4 f 5
+39. char. 2f 5
+39. Η
+3f 4
+40. char. 2s 1 takes S
+40. Η
+4 f 3
+41. char. 1 f 3 (check)
+41. g
+6f 1
+42. char. 1s 2
+42. char.
+5 f 1 ta's E (ch'k)
+43. g
+5s 4
+43. Η
+3b5
+44.
+char. 2b 6
+44. Η
+5 b 6 (check)
+45.
+char. 2 s
+4
+45. can.
+6 f 4 takes char.
+46.
+S
+1 f 1
+46.
+Η
+6f 7
+47.
+S
+1f 1
+47. Η
+7 f 6
+(checkmate.)
+
+

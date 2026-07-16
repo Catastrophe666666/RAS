@@ -1,0 +1,1357 @@
+## p. 12 (#52) ##############################################
+
+12
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+M. CHAVANNES' EDITION OF
+SSU-MA CHIEN¹.
+BY REV. G. G. WARREN.
+Amongst the minor effects which the great war has had
+on literature, mention may be made of the delay in the
+publication of the great work that Mons. CHAVANNES has in
+hand, a work that has already been delayed by other labours
+of the accomplished author. Six volumes-though, as the
+"Third" volume came in two parts, there are only five in
+the actual numbering-have already appeared; the first with
+the date of 1895; the last with 1905. It is not possible even
+in a lengthy article to give any adequate idea of the rich
+treasures that are to be found in these large, thick and very
+heavy octavo volumes. Suffice it to say that they are in
+every way worthy of comparison with the great volumes of
+Dr. LEGGE on the Chinese Classics. There is the same
+mastery of the subject in all its aspects; the same thorough-
+ness of research; the same attention to minutiæ. Both
+Dr. LEGGE and Prof. CHAVANNES have done work that will
+need no re-doing for many a generation. Prof. CHAVANNES
+has indeed two advantages over Dr. LEGGE. In the first
+place, he has all Dr. LEGGE's works to start with. That this
+has been of advantage none is more ready to acknowledge
+than Prof. CHAVANNES himself; the French writer, being
+French, is generous to a degree in all his references to his
+great English predecessor. In the second place, not only
+has the general trend of historical science been greatly
+widened during the past half century, but it is only fair to
+acknowledge that Dr. LEGGE was not in the forefront of such
+science as there was fifty years ago; whereas Prof.
+CHAVANNES stands in the first rank of the scholars of to-day.
+Had Dr. LEGGE's training in matters other than Chinese
+borne some proportion to his Chinese scholarship, there
+would have been less to criticize in the noble heritage that
+In an English article it has seemed better to use Romanization
+familiar to English readers rather than the French system used by M.
+CHAVANNES; hence SSU-MA CHIEN instead of SE-MA TSIEN, etc. [Ed.]
+
+
+## p. 13 (#53) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+13
+he has left us. Prof. CHAVANNES is an excellent example of
+the truth that only a good all-round scholar can become a
+good expert in any one branch of scholarship.
+After giving just one example of the kind of help to
+students of the Chinese language that is to be found on page
+after page of the notes in the five volumes already published,
+the following article will be confined to a summary of the
+Introduction that fills 250 pages of the first volume.
+Three times in Vol. II (pp. 119, 155 and 181f.) there
+are notes on the correct way of translating passages in which
+the word 皆​occurs. As one of these passages is quite a
+locus classicus from the difficulty it has caused to men who
+have as much right as any to the title of sinologue, the notes
+are of special interest. The following summary is practically
+entirely translation, though, for convenience sake, the three
+notes have been somewhat rearranged.
+1st. When 皆 ​belongs to the subject of the verb, it
+stands after the subject and between it and the verb. E.g. c. vi,
+5, v°*事皆​决​於​法​.“All the affairs were settled by means
+of the laws;" vii, 9r°:漢軍​皆​走​, "All the Han soldiers
+fled."
+2nd. When 皆 ​belongs to the direct object of the
+verb, it is also placed before the verb. E.g. vi, 10, 1.:
+詔​捕​請​時​在​旁​者皆​殺​之​,“He gave the order to arrest
+all those who at the time were found near him and to kill
+them all;" vii, 9, r°:皆​院​田榮​降卒​, (HSIANG YÜ)
+exterminated all the soldiers of T'IEN YUNG who gave
+themselves up."
+66
+The position of 皆 ​is, therefore, always before the verb.
+Three cases present themselves which require differentiating
+in translation :-
+(a) When the verb is either neuter or passive,皆​must
+be either an adjective limiting the subject, or a pronoun
+taking its place. (For examples see the instances given
+under the first head above.)
+(b) When the verb is active, if the subject is singular
+and the object is plural, 皆 ​must belong to the object; or,
+vice versa, if the subject is plural and the object is singular,
+it must belong to the subject. E.g. vi, 11 r°皆​院​之​咸陽​.
+Note that the shows that the verb 阮 ​is active, 2 being its
+direct object. The sentence cannot therefore be correctly
+* The references are to the edition of the Chinese text of the Shih Chi
+published in Shanghai in 1888 by the T'u Shu Chi Ts'eng.
+
+
+## p. 14 (#54) ##############################################
+
+14
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+translated by the passive voice, "All were exterminated at
+Hsienyang." Again, the subject of the sentence is HSIANG
+Yü, and therefore singular, 皆 ​is therefore to be connected
+with the object, and the only correct translation must be
+"He exterminated them all at Hsien-yang." (We shall refer
+to this passage again presently.) Compare also the sentence
+given above from vii, 9, r°.
+(c) A third case occurs when both the subject and the
+object of an active verb are in the plural. Only the logical
+structure of the sentence in connection with the context can
+then determine whether 皆 ​should belong to the subject or
+the object. E.g. vi, 7, r°: CHIN SHIH HUANG-TI has been
+disappointed in an attempt to cross a mountain by reason
+of a violent storm. In his mad anger he inflicted a punish-
+ment on the disrespectful mountain;使​刑​徒​三千​人​皆伐​湘​山​樹​.
+This might mean that "he sent three thousand convicts all
+to cut down the trees on Mt. Siang"; but it is easy to see
+that the preferable translation is "he sent three thousand
+convicts to cut down all the trees on Mt. Siang."
+vi, 11, rº requires further consideration. The text of
+the whole sentence runs:使​御史​悉​案​問​諸​生​諸​生​傳​相告​引​乃​自
+​除​犯禁​者​四百​六十​餘​人皆​院​之​咸陽​. Prof. CHAVANNES' note
+reads: "Dr. LEGGE was the first to call attention to the
+difficulty of the passage which he had found in the two
+words 自​除​.(Chinese Classics, I. Proleg. p. 9, note). М.
+P. G. MÖLLENDORF made an unfortunate attempt to translate
+it (China Review, XVII, p. 298). His attempt had at least
+this good result, it led two other sinologues, Messrs. H. A.
+GILES and E. H. PARKER to study the text (China Review,
+XVII, pp. 353-355). Mr. GILES translated: 'The scholars,
+spreading the news amongst themselves, themselves weeded
+out some 460 of their number who had violated the prohibi-
+tion. These were all buried alive at Hsien-yang.'
+Mr.
+PARKER translated: 'The body of literates made each of
+them enquiry one from the other and ended by expelling
+from their body over 460 individuals guilty of this misde-
+meanour, all of whom were butchered at Hsien-yang.' In
+the first place, as noted above, the last phrase cannot
+be translated by the passive. The verb is active, its subject
+is singular, therefore must be connected with 2 the object.
+Next, the subject of the preceding phrase 自​除 ​is also CHʻIN
+SHIH HUANG-TI. Going still further back in the sentence, note
+that the word 引 ​implies the idea of continuity in the trans-
+mission (傳​) from one to the other, 相​. The word 告 ​is best
+taken in a sense it frequently bears, 'to denounce,' 'to
+
+
+## p. 15 (#55) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+15
+accuse.' (Cf. the phrase 原告​‘the plaintiff,'敬告​‘the
+defendant.') The sense then becomes quite clear: Each of
+the scholars, unwilling to accuse himself, began to throw the
+accusation from himself onto others. CH'IN SHIH HUANG-
+TI picked out those whom he considered guilty and he himself
+made them step out from the ranks,自​除​.” Lastly, although
+Dr. LEGGE translates 皆​院​之 ​by "they were all buried alive
+in pits," Prof. CHAVANNES writes, "No text known to me
+authorizes 'bury alive' as a translation of 阬​. The Kanghsi
+dictionary cites the word from vi, 3, 1, and says that it there
+means in the sense of 'to fall, or, to cause to fall;'
+figuratively, it signifies 'to fall into an accusation, to be
+involved in punishment."
+Prof. CHAVANNES' French translation for the whole
+passage runs: "Il chargea donc les enquêteurs impériaux de
+soumettre à un interrogative minutieux les lettrés; les lettrés
+se rejetèrent la faute les uns sur les autres; alors (TS'IN
+CHE-HUANG-TI) désigna lui-même ceux qui avaient violé ses
+defénses au nombre de quatre cent soixante environ; il les
+fit tous périr à Hien-yang." (II. p. 181.)
+The Introduction consists of five chapters. Chap. I.
+The Authors of the Historical Memoirs¹ (i) SsŬ-MA T'AN; (ii)
+SSU-MA CHIEN; (iii) The share taken respectively by Ssŭ-MA
+T'AN and SSU-MA CHIEN in the editing of the Records.
+Chap. II: The Reign of the Emperor Wu. (i) Exterior
+Policy; (ii) Interior Policy. Chap. III: The Sources. (i)
+The Shu Ching; (ii) Other Sources. Chap. IV: The Plan
+and the Critical Faculty of SsŬ-MA CHIEN. Chap. V: The
+Literary History of the Work. (i) Interpolations; (ii)
+Commentators and Critics; (iii) Editions. At the close of
+Chap. V there is closing summary of four pages. Four
+Appendices follow. The first is the translation of a letter
+written by SSŬ-MA CH'IEN to his friend JEN-AN in which the
+writer meditates on the reasons that caused him to submit to
+the disgrace of mutilation rather than to commit suicide.
+The second is the opinion of the historian PAN PIAO on the
+Memoirs. The third is a comparative table showing the
+chronological schemes of the Trung Chien Kang Mu (which is
+that usually followed in books of reference, e.g. GILES'
+Dictionary; FABER'S History, etc.) and of the Bamboo
+Books (with which SSU-MA CHIEN is in closer agreement).
+The fourth appendix is a translation of the Index giving
+the titles of the 130 chapters of the Memoirs.
+1 Hereafter the title will be abbreviated to "Memoirs."
+
+
+## p. 16 (#56) ##############################################
+
+16
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+Chap. I. SSU-MA T'AN.
+The last chapter of the Memoirs (c. cxxx) consists of two
+parts; the first is a biography of SSU-MA TAN; the second
+is an autobiography of the son SSU-MA CHʻIEN. The chapter
+confirms other parts and makes it quite clear that father and
+son shared the work of preparation for the publication of
+the Memoirs. Both in turn held the office of T'ai Shih
+Kung, which Prof. CHAVANNES gives good grounds for trans-
+lating "Grand Astrologer" rather than "Grand Annalist"
+with M. BIOT, or "Grand Recorder" with Dr. LEGGE. The
+office, though it carried with it the title of "duke," had sunk to
+a very low level. In the letter to JEN-AN to which we have
+just referred as being printed in the first appendix, the son
+says, "My father was a poor clerk whose duties kept him
+busy with the stars and the calendar. His rank in the list of
+officials was next to the diviners and the exorcists. The
+sovereign treated him as a plaything with which to amuse
+himself and entertained him as he did singers and comedians.
+He had but little esteem from ordinary people." While it is
+true that astrology rather than historiography was the duty
+of the two SSŬ-MA, it is to be remembered that they were
+in actual charge of certain archives and could get ready
+access to others that contained all available material for the
+making of a history. The connection between astrology and
+history was as marked in ancient China as in ancient Rome.
+Not only were all eclipses, comets and other striking astro-
+nomical phenomena recorded, but their bearing on the events
+of the nations was a necessary part of the records. The
+science of the stars was astrological not astronomical.
+SSU-MA T'AN had been taught by some of the most
+learned Taoists of his day, and his personal inclinations were
+altogether Taoistic in matters wherein early Taoists differed
+from their Confucian contemporaries; though it must be
+borne in mind that these were the very days in which the
+two were crystallizing into differentiated "teachings," the
+word still used for "religion" in China. Amongst the lore
+he had learned was that concerning the Governors of Heaven,
+to wit, the great constellations, the five planets, the sun, the
+moon and the meteors. The terrestrial map was but a
+reproduction of a pattern in the heavens. The celestial
+happenings in the various sections of the heavens that were
+allotted to the feudal countries (or, in the Han days, to the
+provinces) foreshadowed the happenings in the terrestrial
+counterparts. YANG HO had expounded to him the Yi Ching,
+that common ground to both Taoists and Confucianists.
+
+
+## p. 17 (#57) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+17
+He studied also the Taoistic instructions of HUANG-TZŬ.
+This Taoistic training was responded to from the mind, and
+by choice as well as by teaching the father must be classed
+as a Taoist. In lieu of the ordinary biographical matter, the
+son gives us a dissertation of the father's which shows his
+views on six different schools of thought. (It is an interest-
+ing fact that so far back as those days, six differing schools
+were to be distinguished.) One cannot but be interested in
+reasoning that led to the precedence accorded to Taoism
+by SSU-MA T'AN.
+He first discusses the School of the Yin and the Yang by
+whom all the phenomena of the universe were traced to the
+action and reaction of the dual principles of Yin and Yang-
+light and shade; involution and evolution; female and male.
+Although the two were at bottom but scholastic entities,
+those who pretended to find in them the roots of all things
+were led to observe facts and to trace the lineaments of
+Nature, chimerical in its explanation, but exact in its
+verifications.
+Next came the School of the literati, founded on the
+canonical books. Its age of gold went back to the days of
+YAO and SHUN; it exalted the three sages of the three early
+dynasties; it placed CONFUCIUS as its chief and ruled all
+human relations by love and righteousness.
+Third came the School of MICIUS. To begin with he
+held that all that was wrong in mankind sprang from lack of
+love. If only all men would love each other, all would be
+well. Next, he held that men should return to the simpler
+life of an earlier day-of YAO and SHUN, when food and
+dwellings, and even funeral rites were all of a simpler type
+than that common in MICIUS' days. (We have no exact date
+for MICIUS; but he seems to have been an earlier contemp-
+orary of MENCIUS.)
+Fourth came the Nominalists. Let things be what they
+were named : "when the Father is Father; the Son is Son;
+the Prince is Prince; the Minister is Minister, etc., all will
+be well." (Cf. CONFUCIUS' dictum in the Lun Yü xiii, 3.)
+Fifth, The Legalists thought that punishment would
+lead men to the right paths. Fear would be sufficient to
+prevent the doing of wrong and to lead to the doing
+of the right.
+Finally came the Taoists of the old pure type, of whose
+teaching a summary shall be given after we have seen
+the criticisms of SSU-MA T'AN on these five schools that
+he rejected.
+2
+
+
+## p. 18 (#58) ##############################################
+
+18
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+The School of the Dualists involved its adherents in
+such recondite calculations that life became a burdensome
+superstition. The Literati, while praised for their emphasis
+on the great distinctions of father and son, prince and
+minister, etc., are blamed for their much writing of books on
+matters that do not profit and for their dry-as-dust specula-
+tions. The Micians are praised for their love of simplicity
+and for their teaching that man is to be valued because he is
+man and not because of his clothes or his luxury. But their
+socialism is a thing that SsŬ-MA T'AN cannot away with.
+The Nominalists who would set things right by naming them
+rightly are dealt with severely. Little or nothing good is
+said about them, and the little good that is granted is dis-
+counted by the fact that the school deals with terms only and
+not with deeds. The Legalists must fail in setting up as a
+whole that which is only a part.
+Mons. CHAVANNES attempts the following summary of
+what Taoism meant to SSU-MA T'AN: One unique principle
+reigns over and realises itself in creation, being both trans-
+cendent and immanent. Without shape or sound or colour
+it existed before all things. It cannot be named. It appears
+in the things of time and space, moulding them according to
+type and expressing in them the impress of that reason that
+is supreme. Here and there we catch glimpses of the light
+by which it reveals itself to the perfect sage. We, too, can
+conceive some vague idea of its majestic reality. But
+having reached this height, the human spirit can but adore
+in silence, realising that the words of human language are
+incapable of naming that entity which more than includes the
+universe in itself. As a symbol we designate-not itself,
+but its mode of manifestation, by the word TAO.
+Tao, Way, implies a power in progress, action. The
+ultimate principle is not that of an immovable, dead perfec-
+tion conformed to the supposed needs of pure reason; it is a
+life of ceaseless becoming, at one and the same time relative,
+in that it changes; absolute, in that it is eternal. It implies
+an idea of directed progress whose steps follow an assured
+order-a universal becoming that is not mere agitation, but
+a realised law of harmony.
+This was the metaphysic on which SSU-MA T'AN based
+his ethic. He laid it down that man was a combination of
+soul and body. The soul was the principle of life; the body,
+the substratum of the soul. Death is the separation of the two
+and is final. That which dies is never reborn. But why
+
+
+## p. 19 (#59) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+19
+should it die? Death comes when the soul by its strugglings
+over-wearies itself, even as the body by overwork might
+destroy itself. Conformity to the Way permits us to avoid all
+usury of our being. All effort produces resistance and a
+perfect and harmonious action would be stayed by nothing
+and would therefore last for ever. SSU-MA T'AN had no
+doctrine of Elixir of Life, etc. To him the thing over which
+we had complete power was the soul. We could make of
+that an empty vessel, and fill it with the Tao. The body was
+neither a help nor a hindrance. In the life of this world it
+served as a substratum. But when the Tao becomes one with
+the soul, the soul continues to exist even if the body dis-
+appears. In such a case, death is a mere empty name.
+Such was the mysterious formula that made men as
+immortal as heaven or earth.
+We know very little about the ordinary life of the father.
+We cannot tell the date of birth of either father or son; we
+can date the father's death because of other coincident
+happenings; of the son's death we know nothing. From
+в.с. 140 to 110, the father held the post of Grand Astrologer.
+It happened that in 110 B.c., the empire bounds had spread
+so far that the emperor desired to perform a special and
+revived sacrifice common in the days of old so that he might
+signalise his taking over the control and lordship of many
+new territories. The Grand Astrologer had necessarily been
+consulted about much of the details of time and place and
+ritual, and it would seem probable that at the sacrifice itself
+he would have had some conspicuous part to play that would
+have satisfied his own views of the importance of his office
+rather than those too commonly held by others. But he was
+fated not to attain to what would have been the climax of his
+life. He fell ill upon the way and died before the place of
+sacrifice was reached.
+One privilege was granted him. His son, who had been
+on a long tour, returned in time to receive the last instruc-
+tions of the father and to perforin the final rites. The son
+describes himself as "still young" and thereby renders it
+improbable that B.c. 163 was the date of his birth. A writer
+who lived in the eighth century A.D. speaks incidentally of
+SSU-MA CH'IEN being forty-two at the time of the reform of
+the calendar in B.C. 104, which would make his birth occur
+
+
+## p. 20 (#60) ##############################################
+
+20
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+in B.c. 145 and the father's death occur in the son's thirty-
+sixth year-a date quite consistent in Chinese eyes with the
+description "still young."
+The autobiography gives Lung-mên as the place of birth.
+Were a Chinese historian allowed the choice of his birthplace,
+assuredly he would select some such spot as Lung-mên. It
+lies right in the heart of the country associated with the
+legends of HUANG-TI, Yao and SHUN, away there in the
+bend of the Yellow River where it receives its tributary the
+Wei and forms the basin that is now the borderland of
+Shensi, Shansi and Honan. Undoubtedly the associations of
+his birthplace much influenced a mind constituted as was
+SSU-MA CHIEN'S. Like many of his countrymen, he spent
+his early days in study and did deeds in school that would
+be unbelievable prodigies if told of a boy in the west. But
+unlike all but very few of his countrymen, when he was but
+eighteen he started on a great tour, travelling far and near
+that he might see the sites associated with the history of his
+native land. In a long note on pp. xxvi ff. of the Introduc-
+tion Prof. CHAVANNES collects a series of passages from the
+Memoirs that refer to the various wanderings of his life.
+First comes the passage in the autobiography referring to
+the tour; but there were other journeys, some connected
+with his official duties, but all of which like the first were
+made to pay their toll to his absorbing interest in history.
+The note is worth reproducing (though somewhat rearranged
+and abbreviated.)
+"At the age of twenty, I went to the Yangtzŭ and Huai
+in the south, ascended the Mt. of Kueichi and explored the
+cavern of Yü (Chekiang). I visited the Hill of Nine Doubts
+and navigated the Yüan and the Siang (practically the whole
+province of Hunan). In the north, I crossed the rivers Wên
+and Ssu (Kiangsu) and studied on the spot the capitals of
+Ch'i and Lu (Shantung).
+I found myself in trouble
+at P'i, Hsieh and P'êng-ts'êng (Shantung and Kiangsu). I
+repassed the countries of Liang and Ch'u (Honan and Anhui).
+I received orders to go to the west to Pa and Shu (Ssuch'uan)
+and passed through K'ang and Tso and Kun-ming (Yünnan)."
+(с. 130, p. 3.) The chapter on Rivers (c. 29) closes with this
+piece of biography: "In the south I have been on Mt. Lu
+(Kuling, Kiangsi) and have seen how Yü caused the Nine
+Rivers ('Kiukiang') to flow. Thence, I went on to Kuei-
+chi (Chekiang). I ascended the high ground at Ku-su
+whence I saw afar the 'Five Lake' (i.e. the T'ai Hu that
+
+
+## p. 21 (#61) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+21
+lies between Chekiang and Kiangsu and is said to be called
+the 'Five Lake' because it is 500 li in circumference). On
+the east I have looked on the junction of the Lo with the
+Yellow River and on the mountain of Ta-pei (Honan). I
+have travelled by water over the rivers Huai, Ssŭ, Chi To
+and Lo. In the west I have looked on Mt. Min and Li-tu
+(Chʻêngtu, Ssuch'uan). On the north I have been as far as
+Lung-mên (his native birthplace!) and on to Shou-fang"
+(the region N.W. of the great bend of the Yellow river.)
+Amongst other place referred to are Changsha and the river
+in whlch CH'Ü YÜAN drowned himself (near the south end of
+the Tungting Lake); Mt. Chi and the tomb of Hsü-YU;
+the palaces of the prince of Chun-shên in Ts'u; Fêng and
+Pei (where he interviewed members of some of the ancient
+families still living); the Temple at the birthplace of
+CONFUCIUS; the country of Huai-yin; the mountainous
+region of Ta Liang (N.W. of Kai-fêng, Honan); Mt. K'ung-
+tung, Kansu; Cho-lu, the legendary capital of HUANG-TI; on
+the east as far as the sea; on the north away to the Great
+Wall where he saw the guards and the guard-house built
+at Mêngtien for the Ch'in.
+On these journeys everything that could help the work
+of writing the great history was copied or written down,
+inscriptions, personal reminiscences, local legends, etc. We
+do not know how many pages of the work are enriched by the
+lore thus gathered. But in one respect Ssŭ-MA CHIEN was
+the child of his age. His ideas differed entirely from those
+that we are now accustomed to. Nowhere does he give his
+readers any help from the geographical knowledge gained.
+Where our modern writers make the scenery of the events
+they describe do much to give the reader a vivid impression
+of the event, SSU-MA CHIEN does nothing. One wonders
+what he would say could he see the profusely illustrated, well-
+mapped histories of to-day.
+After the full period of mourning for his father (twenty-
+seven months), SSU-MA CHIEN succeeded him in the post of
+Grand Astrologer. As such he bore a leading part in the
+great act of reform of the calendar which was accomplished
+in B.c. 104 and has continued to this day. The mathematical
+problems that were worked out by those who had to fix the
+matter in the days of the Emperor Wu are too complicated
+for any mention in a general paper. Much information on
+the matter can be obtained from the pages of Mons.
+CHAVANNES.
+
+
+## p. 22 (#62) ##############################################
+
+22
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+In B.C. 99 an event occurred which was fraught with
+terrible consequences for our author. Instead of giving a
+summary of the interesting chapter which is devoted to the
+reign of the Emperor Wu, we will content ourselves with
+a somewhat full account of one of the many expeditions that
+were fitted out in that reign. It was one of those which
+turned out unfortunately. While, happily, the unfortunate
+expeditions were fewer in number than the fortunate ones,
+the one we are about to describe was by no means the only
+disastrous one for Chinese arms.
+All down through the centuries of China's history there
+has been fighting on the northern borders. At least two of
+the great dynasties, the Yüan and the recently deposed
+Manchu, have been conquerors from the tribes that are
+outside the bounds of China proper. The building of the
+Great Wall did something, but not very much, to keep the
+hordes without the bounds thus set. No sooner had the
+builder of the Wall, CHIN SHIH HUANG-TI died, than the
+Tartar raids began again. In the days of the Han dynasty
+the particular tribe that troubled the Chinese was known
+as the Hsiung-nü. During the Emperor Wu's reign,
+expedition after expedition was fitted out against them, but
+though there were isolated successes on the part of the
+Chinese, the Hsiung-nü were never subdued. Occasionally,
+as we have said, the Chinese were defeated. Four times,
+namely, in B.c. 123, 103, 99 and 90, after defeat, the Chinese
+leaders were afraid to return to their Emperor, whose rage
+they knew to be terrible. They gave themselves up to
+Tartar life and became to all intents the allies of their
+quondam enemies, the foes of their fellow-countrymen. The
+Tartars thereby gained much knowledge that was useful to
+them concerning Chinese tactics and the best methods of
+opposing them.
+In B.c. 99 an expedition was fitted out under the command
+of general LI KUANG-LI, the brother of a favourite concubine
+of the emperor. A young man named LI LING, a grandson
+of the famous general LI KUANG, was placed in a subordinate
+position in the expedition. He was appointed to be captain
+of the rear-guard and to have special charge of the com-
+missariat of the main army. But he was more ambitious
+than such a command could satisfy. He therefore appealed
+to have the independent command of five thousand troops
+with whom he proposed to make a diversion from the main
+attack that would, in his opinion, be of double value in divid-
+ing the enemy and in gaining a success in the part he wished
+
+
+## p. 23 (#63) ##############################################
+
+M. CHAVANNES' EDITION OF SSŬ-MA CHIEN
+23
+to invade. The emperor was not at all sure that the young
+officer's abilities equalled his ambition, and it was only after
+some persuading and even then with many misgivings that
+he consented to the risky plan. LI LING started off with his
+5,000 men, leaving the frontier at a place named Chu-yen.
+He followed the river Tao-lai, and in a month's time had
+reached Chun-chi, a height probably identical with that now
+known as Ma tsung, S.E. of Hami; near there at any rate
+there has been discovered an inscription that purports to be
+the work of LI LING. Here he met the Hsiung-nü and
+gained a small initial success. But finding themselves opposed
+to only 5,000 isolated men, the Hsiung-nü sent in all direc-
+tions for reinforcements. Very soon, not less than 80,000 of
+them gathered together. LI LING also sent for reinforce-
+ments. But there was never any answer received to his
+appeal. In all haste he commenced a retreat, working his
+way back to the Great Wall. But he ran short of arrows,
+and while still some distance from safety one of his officers
+turned traitor and told the Tartars in what straits the Chinese
+actually were. Delivered from all fear, the Hsiung-nü pressed
+on the retreating foe. The Chinese had to pass through a
+valley, and there they were surrounded and from all sides the
+arrows poured in on them like rain. Abandoning their carts
+and all that they could, some 3,000 of the Chinese broke
+through the foe and pushed on to the south. But the Tartars
+were far more familiar with the roads and had all the advan-
+tages of local knowledge. Rocks were hurled from the heights
+as the Chinese passed. Officers and men perished in large
+numbers. When only some thirty miles from the Great
+Wall they were once more surrounded just as night fell. As
+a last measure of despair LI LING attempted single-handed
+and disguised to penetrate into the enemy's camp where he
+planned to assassinate the general. The mad attempt proved
+impossible and the utterly defeated general returned to his
+men. It was evident that whoever stayed till the morning
+broke would be taken alive or killed. Permission was given
+to all to save themselves as they could. Four hundred only
+out of the original 5,000 managed to reach the goal
+of the Great Wall. LI LING had realised that it would be
+better to trust to the uncertainties of giving himself up as a
+prisoner of war, rather than attempt to get to the Wall and
+thereafter face the certainties that would await him when
+he came face to face with the angry emperor. He was not
+only not killed, he lived with the foe for many years and was
+helpful to them.
+
+
+## p. 24 (#64) ##############################################
+
+24
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+The emperor was furious. The cringing courtiers joined
+in the hue and cry against the fallen officer. One voice only
+spoke up on behalf of LI LING; it was that of his friend
+SSU-MA CHIEN, who had been one of those who had joined
+in persuading the emperor to send Li on this ill-fated enter-
+prise. The Han Dynastic History gives us the spirited
+defence as follows:
+"LI LING served his parents piously and has ever been
+faithful to his colleagues. He was always hardy and never
+spared himself. Whenever the state was in danger, he was
+ever amongst the first to endanger his life on her behalf. He
+has always been a hero who deserves well of his country.
+Now that one of his many enterprises has failed, all those
+who have taken good care of themselves and who have watched
+over the well-being of their own wives and children have
+been forward to exaggerate the fault of the unfortunate with
+indecent clamourings. Consider that LI LING had but 5000
+troops; that with them he penetrated far into the country of
+the Hsiung-nü. He made even tens of thousands of these
+mounted robbers hold him in respect. Those slaves (i.e. the
+Hsiung-nü) had no chance of seeking their dead or succour-
+ing their wounded. When their archers had come in crowds
+they ventured to attack en masse and tried to hem in their
+valiant foe. For one thousand li he fought in retreat; his arrows
+failed him; his road was cut off. With but their bare fists,
+his soldiers threw themselves on the naked swords of the foe
+and struggled even to death. LI LING has given proof of a
+valiance that has defied death. Even amongst the generals
+of old, none has been greater than he. In the very hour of
+defeat he crushed his enemies in such numbers as to bring
+renown to the empire. If he has not yet died, he but lives
+in the hope of hereafter obtaining a success that will ransom
+him from any fault, and show his recognition of the benefits
+he has received from the emperor."
+The spirited defence was not only useless as regards
+LI LING, it brought SSU-MA CH'IRN into great danger. The
+emperor, vexed at having yielded against his will in giving
+LI the independent command, read into the defence an
+attack on general LI KUANG-LI, who had been accused of
+cowardice. It is very likely that the favoured concubine
+would do her best on behalf of her maligned brother. So it
+came to pass that the poor unsuspecting Grand Astrologer
+was handed over to the Board of Punishments on a charge
+of attempting to deceive the emperor. He was found guilty
+and sentenced to the most humiliating of punishments. Had
+
+
+## p. 25 (#65) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+25
+he possessed either influential friends or even money, he
+would have been able to avoid the dreaded mutilation. But
+he had neither, and so in B.C. 98 he suffered and fell from
+the ranks of the free into those of the slave and the under-
+ling. Seven years later he poured out his heart in a long
+letter to a friend who was threatened with perhaps a similar
+fate and had asked for SSŬ-MA's intervention. In pitiable
+language he describes his fallen estate, his loss of any power
+to speak for any one, and then goes on to meditate on the
+question whether he was right to submit to such a punish-
+ment. Ought he not to have committed suicide rather than
+cause such a disgrace to fall on his ancestors? One reason,
+he assures his correspondent, was all that he had for the
+step he took; his father had collected the material for the
+History; he himself had done much work upon it; but it
+was unfinished. He would not commit suicide because his
+work was yet to be done. Recalling the long list of literary
+work that had been done by those in misfortune, he cites
+WÊN WANG, who in the days of his imprisonment wrote the
+nucleus of the Yi Ching; CONFUCIUS, who wrote the
+Spring and Autumn Annals when he had got into difficulty;
+CH'Ü YUAN, who wrote his poem Li Sao, "Falling into
+Sorrow," when he was exiled; Tso-CHIU who wrote the
+Kuo Yü after he had become blind; SUN TZŭ who wrote the
+Treatise on War after his feet had been cut off; Lü PU-WEL
+who transmitted his encyclopædia to posterity after his
+banishment to Ssuch'uan; HAN FEI who wrote some of his
+essays while he was held a prisoner in Ch'in. Most of the
+300 Odes bear on their surface the fact that they were
+composed by those who were in difficulty. "Now I will
+yield to none of these. I put my confidence in my
+inexperienced words; I have brought together and arranged
+the ancient traditions till now scattered about the world; I
+have examined how affairs were conducted; I have sought
+an explanation of their success and failure, of their prospering
+or their ruin. I have written in all 130 chapters. I have
+wished as far as I was able to examine completely all that
+is of concern to Heaven and to man, to understand the
+changes that have occurred from antiquity to our own days
+and to make all into the work of one author. Before my
+plans were completed, this misfortune fell upon me. How
+regrettable it would have been not to finish my task! This
+was my reason for submitting to the most terrible of punish-
+ments without anger. When I shall have finished my book,
+I shall place it in the Archives, where it can be transmitted
+
+
+## p. 26 (#66) ##############################################
+
+26
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+to men of ability. Then I shall have washed away the shame
+of my long opprobrium. Though I shall have suffered ten
+thousand humiliations, what shall I regret?"
+But it was not merely personal considerations that
+prompted SSŬ-MA CHIEN in the composition of the Memoirs.
+He says, "I have come to the help of uncommon qualities
+nor do I allow myself to let slip a single opportunity. I
+have raised true merit and glory on high throughout the
+empire by writing the seventy biographies." "Why do you
+write a History?" was the question of HU SUI, a fellow
+official and a colleague in the work of the reform of the
+calendar; "when CONFUCIUS composed the Annals he used
+the events of the past to teach the princes of his day. He
+lived in troublous times when virtue seemed to have
+disappeared from off the earth. He exposed the facts of the
+past, pronounced praise or blame and thereby he showed
+decisively what are religion and righteousness. His book is
+a code-book for a sovereign. But the circumstances of
+today are not the same, The anarchy that desolated the
+days of the Annals has given place to settled government.
+How could the story of the past be a lesson for to-day?”
+In answer, SsŬ-MA denied that praise and blame were the
+only objects which CONFUCIUS had in view in writing his
+work. CONFUCIUS had magnified the ruling dynasty. In
+SSŬ-MA's hands, history was no longer to be a treatise on
+morals, it was to become the book of the nobility of a people.
+After his punishment, SSU-MA was given a secretaryship.
+This, which in afterdays became a common practice, was
+started with this occasion. Before this, a eunuch had never
+been put in charge of confidential communications.
+We can come to no certainty concerning the date of
+SSŬ-MA'S death. Sundry indications would seem to point
+out that the Annals were not even revised in any one year.
+Generally the Emperor Wu is described as "the reigning
+monarch"; but there are a few passages in which he
+appears with the posthumous title, Wu, which we now use.
+Prof. CHAVANNES thinks these facts justify us in believing
+that SSŬ-MA lived on into the next reign (B.C. 86); but that
+the Memoirs were drafted soon after в.с. 98.
+It is worth noting that another branch of the SSU-MA
+family occupied the throne of China as the Tsin dynasty
+from A.D. 265-419.
+In the last section of the first chapter, Prof. CHAVANNES
+discusses various methods that have been suggested of separat-
+ing the work of the father from that of the son. He is of
+
+
+## p. 27 (#67) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+27
+opinion that none of these holds good. There is certainly
+one distinction between the father and the son. We have
+seen how the father preferred the Taoist position to that of
+the Confucianist. That being so he would hardly have arranged
+for CONFUCIUS' biography to occupy a position by itself in
+the fourth section, while that of LAO-TZŬ is not only relegated
+to the next section, but LAO-TZŬ with three others occupies
+only one chapter. Chapter 47 which is given to CONFUCIUS
+is one of the longest in the work. One of the earliest
+criticisms of the work, that by PAN PIAO (A.D. 3-54)
+complains that in the discussion of points of doctrine it
+venerates HUANG-TI and LAO-TZŭ and treats lightly the
+authority of the Five Classics. It would be difficult to bring
+chapter and line to substantiate this criticism. But if it
+were sustained, one could only be of opinion that the father
+was responsible for the passages that would support it.
+Prof. CHAVANNES gives 47 pages to the full history of
+the Emperor Wu's reign. It was a glorious reign, and like
+those of Augustus and ELIZABETH it must have had its
+effect on the literature of the day. All that is necessary for
+our purpose is to give a very brief account of the external
+and internal progress made. The following territories (of
+which only the modern names are given) were added to the
+sway of the emperor during his reign. In B.C. 127, the
+angle in the N.E. of Shensi where the river bends south;
+in 125, a district in the same bend between the river and the
+Wall; in 115, Suchou and Lanchou prefecture, Kansu; in
+111, Kanchou prefecture, Kansu; Canton; Wuchou prefec-
+ture, Kuangsi; Leichou prefecture, Kuangtung; Hanoi,
+Hainan and parts of the present French possessions in Cochin
+China; in the same year, parts of Ssuch'uan, Yünnan and
+Kueichou were organised and two years later still other
+parts; finally in 109, Korea.
+In addition to the organisation of these immense tracts
+of territory, information was obtained for the first time about
+much of the lands lying away to the west. One of the
+messengers of the emperor actually came into contact with
+those who were at that time at war with Mithridates I. India
+itself, probably, came into view during the reign, and the
+Chinese were for the first time conscious that there were
+other considerable peoples that never had been under the
+control of the Emperors of China and yet were not mere
+savages like the Tartar hordes of the north.
+The internal policy of the empire deserves equal, or
+almost equal renown with its external, in all but one respect.
+
+
+## p. 28 (#68) ##############################################
+
+28
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+The internal receipts were never able to bear the external
+expenditure caused by the long years of warfare. There was
+no statesman of front rank who was able to deal with the
+financial problems of the reign. The usual expedients of
+hard-up sovereigns were tried, with their inevitable result of
+intensifying the ills they were designed to meet: debased
+coinage, sale of office and rank, enforced loans, -all alike
+left the Treasury empty. In the first place, the fact that the
+emperor reigned for fifty-four years was of real import.
+When he ascended the throne, only some sixty years had
+passed from the overthrow of the feudal system of the Chou
+dynasty and the unification of the empire. There was a
+strong attempt on the part of the descendants of the feudal
+rulers to revive the system after the fall of CHIN SHIH
+HUANG-TI'S dynasty. Indeed, all the machinery of restora-
+tion was in working order when the Han emperor ascended
+the throne. There were then quite a number of independent
+princelets, each with his own territory, which, doubtless, each
+expected to be hereditary. Not once or twice merely had the
+Han emperors to fight against this tendency. The first step
+taken was to make princes of members of the royal family
+only, forgetful that the majority of the greater Chou princedoms
+arose in that very way. Two further important steps were
+taken by Wu to remedy matters: in B.C. 127 the principle
+of dividing the princedom amongst all the sons of the ruler
+was introduced. Earlier, imperial "residents" had been
+appointed, whose duties were to report to the emperor
+everything of importance that went on in the principalities.
+Then, Wu sent off the leading members of the great
+families, including the royal family, and surrounded himself
+with fresh men whose interests were those of the monarch,
+and not of the families of the princes. Many of these were
+raised from the lowest ranks. Amongst them, KUNG-SUN
+HUNG, who had been the gaoler in a provincial town: CHU-FU
+YEN who had been a tramp: WEI CHING, who rose to be the
+first of the generals of the army from being the slave of his
+legitimate half-brothers who had set him, being a bastard,
+to tend sheep; CHIN MI-TI, who though well born had become
+a prisoner and as such was a mere groom, but who became
+the tutor of the new sovereign. All these men rose because
+of their talents. Similarly scholarship was awarded the share
+in government that it has ever since retained. In 124 the
+method of selecting the best literary men by examination
+received a great impulse. Of a quite different kind were the
+rewards given to Taoistic charlatans who played on the
+
+
+## p. 29 (#69) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+29
+greatest weakness of the emperor by offering silly pills of
+immortality, etc. Again and again some of these rascals
+were caught and deservedly punished, but they were followed
+by others equally rascally, until the great catastrophe towards
+the close of the reign, when the father actually executed his
+eldest son on a trumped-up charge supported by evidence
+that could only have been conceived of as such by a
+superstitious man.
+We have already referred to the reform of the
+calendar; and it must suffice in conclusion to recall two
+names of SSŬ-MA CH'IEN'S contemporaries who are still
+known to all readers of Chinese literature; LIU AN, a member
+of the royal family, was the king of Huai-nan; the name of his
+kingdom has furnished him with the name by which he is
+still known: HUAI-NAN TZŬ. K'UNG AN-KUO, who after the
+grandson is perhaps the most famed of the descendants of
+CONFUCIUS, was the leader of a band of men who were work-
+ing hard at the task of restoring the much damaged classical
+literature after the fires of the First Emperor and the disasters
+of the civil war.
+With Chap. III we come to a lengthy discussion of the
+present text of the Shu. Of the fifty-eight documents that are
+now included in the Shu, thirty-four are known as the
+"Modern" Text, the remaining twenty-four being the
+"Ancient" Text. According to the story handed on to
+us by SSU-MA CHIEN himself amongst others, the "modern"
+text is due to FU SHENG who concealed a copy of the Shu in
+his house wall, left his home during the time of persecution
+and strife, and came back to find some tens of chapters
+missing. In the old style of division, there were but twenty-
+nine; it is but mere rearrangment of division that has made
+the twenty-nine become thirty-four. For some years this
+is all that there was of the Shu. But in due course, CONFUCIUS'
+house was pulled down in order to build a palace for Wu's
+brother who had been made king of Lu by their father.
+A copy of the Shu, it is alleged, was discovered in the wall
+in ancient characters--hence the nomenclature of this and the
+other parts of the Shu. Dr. LEGGE gives us in his prolegomena
+his reasons for accepting the two stories. Mr. WYLIE had as
+early as 1867 in his Notes on Chinese Literature warned the
+stern reader that there was a large body of Chinese
+critics who were of opinion that the present "ancient" text
+is not that alleged to have been discovered by K'UNG AN-KUO,
+but a barefaced forgery made by one MEI TSI in the reign
+
+
+## p. 30 (#70) ##############################################
+
+30
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+of YUAN TI (one of the SSU-MA emperors, by the way) A.D.
+317 to 323.
+Prof. CHAVANNES not only gives in his adherence to this
+school of criticism, he goes beyond his Chinese predecessors
+by suggesting that the text alleged to have been "discovered"
+in the wall of CONFUCIUS' house was rather a mere arrangement
+of detached passages of the Shu that were known to K'UNG
+AN-KUO which came from other than the "twenty-nine" of
+FU SHÊNG'S text.
+The point of greatest interest to the student of SSU-MA
+CH'IEN is that whereas more than half of the "modern" text
+is quoted, there is no quotation from any of the "ancient"
+text books. When it is remembered that K'UNG AN-KUO was
+a personal friend of the historian the fact is one of cardinal
+importance. Prof. CHAVANNES pushes the investigation one
+step further than those who have discussed the matter before
+when he asks why the "ancient" text should have been lost
+and not the modern, and why the "modern" text should
+have been made such use of by SSU-MA CHIEN and not the
+ancient. The answer that the "ancient" text was worth
+neither quoting nor preserving would solve the question.
+There remains one further question. One of the thirty-
+four books, the Ta Shih, is alleged to have been found in
+yet another wall by a girl. SSU-MA CHIEN gives us a Τα
+Shih, but it is an entirely different book from that preserved
+in the present-day Shu. The same thing occurs in the case
+of one of the "ancient" books, the Trang Kao. This but
+adds to the suspicion which should attach to these books. It
+is better for us to confine our use of the Shu in studying
+pre-Confucian religion, manners, etc., to the thirty-three
+books of Fu SHENG'S text.
+In contrast with the great use made of the genuine Shu,
+is the curiously slight use made of the Odes. Six slender
+references to the book, and less than half of these with actual
+quotation, are found in the Memoirs; not thirty characters
+all told.
+Two books dealing with the early days of Chinese history
+were used. One of these is no longer extant; it was named
+the Shih Pén世​本​. PAN PIAO expressly tells us that Ssŭ-
+MA used this book. He writes: "in addition there was a
+book which kept the list of emperors, dukes, marquises, high
+dignitaries and great officers from the days of HUANG TI to
+those of the Spring and Autumn Annals." The work is only
+attributed to the days of the Ch'u and Han, i.е. в.с. 206-202.
+It is therefore of no value except for the tradition of those
+
+
+## p. 31 (#71) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+31
+days. The second book is preserved for us in the Li Chi, a
+work that was only compiled after SSU-MA's days. (Of course
+that is no reason for his not having a copy of any of the
+documents that are now combined in one volume. The
+documents are all of them earlier than SSU-MA's day.)
+SSU-MA makes excellent use of the three extant books
+that tell us so much about the Feudal States: the Tso
+Commentary, the Kuo Yü ("Les Discours des Etats "
+is CHAVANNES' rendering) and the Chan Kuo Ts'é
+("Conseils des Royaumes Combattants.") Occasionally we
+come across an unintentional mark of quotation, when the
+"reigning sovereign" is used of a king of Yen who came to
+the throne two centuries earlier; or our army," "our
+forts," and "our capital" when speaking of both Yen
+and Wei (cc. 44 and 34.).
+“
+Distinguishing between works which are mainly accounts
+of things said, e.g., the Shu, the Kuo Yü and the Chan
+Kuo Ts'é; and those of things done, e.g., the Tso Chuan,
+Prof. CHAVANNES emphasizes the interesting fact that in
+China the former are the more ancient. Setting aside the
+figment invented by Chinese writers of "historiographers
+of the left," whose duty it was to report speeches, and
+"historiographers of the right," whose duty it was to
+chronicle deeds a theory with practically nothing to support
+it, since there are no accounts of such officers nor are there
+such double reports left from any period-our author
+makes the following comments. "Man only reflects on his
+past life when he has reached maturity; nations only reflect
+on their infancy when they have reached an advanced stage
+of civilization. Hence it is that history only appears at a
+late date on the scene of literature." The Iliad was not
+written as history; it was composed as songs to entertain an
+audience. Just the same way in China-the sage discourses
+put into the mouths of the wise men of old were originally
+composed to adorn a moral, not to tell a tale. Both the Shu
+and the Kuo Yü were written on these lines; the type alters
+with the Chan Kuo Ts'é.
+The dryness of the early chronicles has never been
+equalled in literature. But from their earliest chapters they
+show that quality, -exactness, - that differentiates them from
+all other Eastern history. "The true grandeur of Chinese
+history" says Prof. CHAVANNES, does not consist in the
+fabulous antiquity that has often been attributed to it; it lies
+in the clearness and precision which belong to it right up to
+its beginnings, even as far back as the middle of the ninth
+
+
+## p. 32 (#72) ##############################################
+
+32
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+century B.C. Of how many peoples can it be said that they
+have written their history-not some legends about them-
+selves, but reliable history-not certain isolated episodes of
+importance, but the history showing the even tenor of their
+days, back to an epoch so far distant? Back to an age when
+other countries only recall some salient features which the
+historical science of to-day seeks to set in a correct light, by
+means that inscriptions furnish accidentally, China presents
+us with her detailed Annals in which each year, almost each
+month, is duly registered with rigorous exactitude." (p.clv. f.).
+The pages that follow the above extract would suffer
+from condensation : they bear on a portion of the Memoirs at
+once so interesting and so little known, that they must
+be transcribed :-
+"The brutal but glorious reign of CH'IN SHIH HUANG-TI,
+the incapable government of his son ERH SHIH HUANG-TI,
+the period of disorder which followed the overthrow of the
+Ch'in dynasty, and the first hundred years of the Han
+dynasty-such is the subject of the second half of the
+Memoirs. From the moment when we enter this epoch we
+recognise that the Chinese nation has attained to a complete
+consciousness of herself. We find at that time in the pages
+of SSU-MA CHʻIEN that richness of detail infinitely varied,
+that precision in the observation of facts which remain the
+master qualities of his successors and which make the
+Annals of the Middle Kingdom, taken in their whole, the
+most prodigious historical monument existing in the world.
+No doubt, SSU-MA CHIEN remains what he was from the
+beginning, merely a compiler; he reproduces texts without
+modifying them; he does not digest what he reads; on the
+other hand it is impossible not to see that he is peculiarly
+well-advised in the choice he has made of his materials;
+nothing escapes his patient investigations. He rarely avails
+himself of works at second hand. The edict of CH'IN SHIH
+HUANG-TI made a clean sweep of all the original documents
+of the ancient literature and only those writings whose
+literary form preserved them from oblivion were extant. On
+the other hand, starting from B.C. 231, SSU-MA CHIEN found
+in the archives of the palace, to which his position of Grand
+Astrologer gave him free access, dossiers of all important
+matters that had been submitted to the emperor. SSU-MA
+T'AN commenced the exploitation; the son continued the
+father's work. And this is why the Annals of the Ch'in and
+the Han have been compiled with a fulness that was lacking
+to those of the previous dynasties.
+
+
+## p. 33 (#73) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+33
+"These considerations explain, also, how it is that while
+we have been able to name the most important works used
+by the SSU-MA in their history of the earlier ages, when we
+come to the modern times of his day there is but one book
+which he used that we are able to name. That book is now
+lost. It is solely on the witness of PAN PIAO that we know
+that it existed and that SSŬ-MA made use of it. It only covered
+a brief period of five years (B.C. 206-202), called the
+epoch of the Ch'u and the Han because it was then that
+the king of Ch'u, HSIANG YÜ* and the king of Han, LIU
+PANG, waged a bloody warfare which ended in the triumph
+of the latter and the establishment of the Han Dynasty.
+This book had for its title 楚漢春​秋 ​The Springs and Autumns
+of the Ch'u and Han. The author was one Lu CHIA who is
+known to us by the chapter of the Memoirs devoted to him,
+C. 97-a chapter, which strange to say, omits all mention of
+this work. It only refers to another work of his, named 新​語
+​New Discourses. (This is preserved for us and bears no
+relation to a work of history. It is not another name for the
+Annals). He lived in the days of the first Han emperor,
+KAO-TSU, i.e. LIU PANG. In в.о. 196, KAO-TSU entrusted
+LU CHIA with a mission to Canton, to CHAO T'o, the king of
+Nan Yüeh. He succeeded in inducing CHAO to make his
+submission, at least in name, to China. Lu CHIA was well
+qualified to write the story of the struggle from which the
+Han emerged victorious, as he had followed the king
+of Han in all his wanderings and was, therefore, an
+eyewitness of the things he described. If what we read in
+the Memoirs are really the pages of Lu CHIA giving us the
+account of the duel to the death between HSIANG YÜ and
+LIU PANG, it is but right that we should pay homage to
+attractive vivacity of the style and to the clearness of the
+exposition. The personality of HSIANG Yü, generous,
+chivalrous and prudent, a great fighter but a poor diplomat,
+is well opposed to that of LIU PANG, deep and tenacious,
+conquered in more than seventy fights yet ever regaining
+the opportunity of fighting again, until at the last, his
+adversary, lost through his own faults, found death on that
+battle-field on which he performed prodigies of valour.
+"This book of Lu CHIA's must rank first amongst the
+sources which SSU-MA CH'IEN made use of, because it is itself
+a history. This is not the case with another work reproduced
+in the Memoirs, which is a philosophical dissertation rather
+*ie. HSIANG CHI. See GILES' Biog. Dict. No. 690.
+3
+
+
+## p. 34 (#74) ##############################################
+
+34
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+than a narrative of events. We refer to the Considerations of
+the Faults of the Ch'in, of which the author is CHIA I. CHIA
+I lived to be thirty-three only (в.с. 198-165); at the age of
+twenty he was promoted by the EMPEROR WÊN to one of the
+highest literary dignities of the empire, being made one of the
+"doctors of wide scholarship." He was the youngest of
+these doctors. He has left us some poetry of a penetrating
+sadness, but amongst his prose works the most remarkable
+assuredly is that which was known to and copied out by
+SSU-MA CHIEN. In these few pages he proposes to search
+out the causes to which the Ch'in owed their rise, and the
+faults to which were due their so sudden precipitation and
+fall. Taking into due consideration all the circumstances, one
+may place this little work on a level with MONTESQUIEU'S
+Considerations on the Causes of the Grandeur and Fall of the
+Romans. What depth as he follows out all the consequence
+of the political authority assumed by CH'IN SHIH HUANG-TI,
+destroying the Books, silencing the sincere, and in so doing
+condemning himself to be surrounded by flatterers and to be
+ignorant of the growing discontent amongst the masses ;
+what wisdom as he discerns the influence that the geographi-
+cal advantages of the native land of the Ch'in, defended
+by its mountains, protected by its river, must have on
+the destinies of the kingdom; what thoroughness in his
+demonstration that 'the methods of gaining and retaining
+are not the same;' with what knowledge of the human heart
+does he explain how the people, wearied of civil war, will-
+ingly accepted the heavy yoke of CH'IN SHIH HUANG-TI,
+because it was apparent to them that a strong government
+could give them a gage of peace, and how even after they
+had suffered much from the violence of their new master
+they hailed with joy the advent of his son in whom they
+hoped to find a more pleasing sovereign, 'for when the
+people are tired, they will easily accept anyone as a bene-
+factor;' finally, what felicity of language as he depicts
+the princes of Ch'in who would 'roll up the empire as a
+mat,' or 'stuff, as in a sack, all within the Four Seas'; or,
+as he depicts ('H'IN SHIH HUANG-TI 'brandishing his long
+horse-whip to rule the world'; or, the wise men who from
+fear of the tyrant 'muzzled their mouths and spoke not'; or,
+when the revolt spread in all parts, the adventurer CH'ÊN
+SHÊ (CH'ÊN SHÊNG) who 'by raising his arm and uttering a
+great cry' caused bands of men to gather round him armed
+'not with bows nor with lances, but with picks and with
+shovels and with poles unshod with iron." (p.clx.)
+
+
+## p. 35 (#75) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CH'IEN
+35
+Little need be said about the two remaining chapters of
+the Introduction. They deal with somewhat technical
+matters. To those to whom they are important, the original
+work of Mons. CHAVANNES and not a mere summary is
+necessary. Suffice it to say that he tells us how SSU-MA
+CHIEN groups his 130 chapters into five divisions :
+Principal Annals
+Chronological Tables
+Treatises
+12 chapters.
+10
+"
+8
+30
+"
+70
+دو
+Feudal State Annals
+Biographies
+The arrangement lacks unity; it is characteristically
+Chinese, analytic rather than synthetic. But its suitability
+is shown by the fact that it has formed practically the basis
+for the long series of 24 dynastic histories that have been
+published-first in order always being the Memoirs themselves.
+It would seem probable that the original work must have
+been written on bamboo. Paper or silk seems hardly to have
+come into use quite so early as the days of SSU-MA CHIEN.
+A grandson of the historian explained the work in the
+days of the emperor HSUAN (B.C. 73-49). In B.C. 28, the
+king of Tung-pʻing (Tai-an, Shantung) on a visit to his
+nephew, the emperor, made a request to be supplied with
+sundry non-canonical works including a copy of the Memoirs.
+WANG FÊNG, the commander-in-chief, objected to the request
+being granted, for the following reason; "The non-canonical
+books frequently contradict and even blame the works of the
+sages; they often glorify the gods and the genii and believe
+in prodigies. In the work of the Grand Astrologer, one finds
+accounts of the discussions in the days of the Fighting
+Kingdoms with regard to the alliances that were made
+between the north and the south, and the counter alliances
+of the east and west, deliberations which were inspired by the
+circumstances of the time or by knavery, the able plans that
+were discussed in the days of the Han, the calamities and
+prodigies over which the Governors of heaven preside, the
+straits which are caused by the configuration of the land
+where (troops) are shut up or where access is rendered
+difficult. All that sort of thing ought not to be in the
+possession of the lords and of the princes. The request
+should not be granted." (From the Han Dynasty History).
+An early writer, CHANG YEN, who lived A.D. 220-264
+tells us, that amongst the chapters missing in his days were
+the history of the reigns of the Emperors CHING and WU.
+
+
+## p. 36 (#76) ##############################################
+
+36
+M. CHAVANNES' EDITION OF SBU-MA CH'IEN
+Three early commentaries have been preserved to us and
+are still printed in the ordinary editions of the text-or
+extracts from them: the first is that of PEI YIN who died in
+A.D. 425 aged seventy or eighty years. ars. From the T'ang
+dynasty we have the commentaries of SSU-MA CHÊNG, a
+descendent of the historian, and of CHANG SHOU-CHIEH.
+Prof. CHAVANNES' concluding section reads as follows :-
+"In the preceding pages we have sought to consider the
+Historical Memoirs as a fact, and to explain the fact by its
+causes. We have recognised that if the intellectual, like the
+physical nature, has laws, these vary with race. To borrow
+a simile from chemistry, the work of a western historian is a
+'combination': that of a Chinese author is a 'mixture.'
+The rules which guided SSU-MA CHIEN are not the
+same as those which guided a THUCYDIDES, or a LIVIUS or
+a TACITUS. We have hardly to take into account the
+psychology of SSU-MA CHIEN or SSU-MA T'AN; to tell the
+truth, it matters little what part each played in the writing
+of the History, for neither the father nor the son has
+impressed his personality on the work. These authors are
+but the secondary causes of the History; the true causes are
+the documents which they have gathered together. Across
+the long succession of the ages which these documents
+represent, an experienced eye can detect the phases of an
+evolution which have little by little profoundly modified the
+art of writing history; each period discloses a state of mind
+which it is necessary to study if one would understand what
+has been produced. To relate each fragment of the Memoirs
+to its own epoch, then to value the index of scientific aptitude
+of that epoch, such should be the task of the critic who
+would determine absolutely the worth of the information
+contained in the work of SSU-MA CH'IEN.
+"If the Historical Memoirs are a compilation, their
+worth is not diminished on that account.
+"In the first place, they are so dated that they serve to
+answer a crowd of questions which would be otherwise
+insoluble. Thus, the problem of origins gives a place amongst
+all men to diverse legends. These are not all born at the
+same time; they succeed each other and frequently the later
+attempt to complete the earlier. So an apparent contradic-
+tion comes to pass, the earlier the text, the less far back do
+we ascend, while more modern writers people the night of
+time with bold hypotheses. SSU-MA CHIEN can be used in
+dealing with these false savants; he tells us nothing about
+the Three Sovereigns said to have preceded the Five
+
+
+## p. 37 (#77) ##############################################
+
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+37
+Emperors; he ignores the demiurge P'AN-KU. Here is
+a strong presumption which makes us think that these
+Three Sovereigns and P'AN-KU sprang fully armed from
+the brain of a comparatively recent author. SSU-MA CHIEN
+helps us to verify the text of books reputed to be ancient;
+the fidelity with which he reproduces his authors allows us
+to denounce as interpolations things which have been
+introduced in more recent days. We have given an example
+in comparing the traditional Shu Ching with that of which
+the Memoirs indicate the existence.
+"But the Memoirs are not useful merely from their
+negative qualities. Their preciousness lies in the fact that
+they have preserved for us an incalculable amount of material
+which but for their compilation would have been lost for
+ever. No doubt SSŬ-MA CHIEN has very little of the art of
+a historian in the manipulation of his matter; in the mosaics
+he shows us there are imbedded huge stones that do not fit.
+But, for pure science, this clumsiness of his has one quality
+that excels the best art. LIVY is counted amongst the
+greatest of historians of our race; nevertheless to a critic,
+his talent as a writer is his chief defect. He covers with his
+flowers the rudeness of antiquity; he sweeps too clean the
+débris left by a former age. In our thirst for knowledge we
+are almost tempted to say with M. TAINE, we would give the
+most eloquent of his discourses for some strain of a popular
+song; for some formula of pious vow; for some ritual prayer
+that would re-echo the voices which have died. The preference
+is legitimate. We now recognise that the perfect history
+cannot be realised. There is an infinity in human events as
+in all the manifestations of nature. Each point of view
+reveals new and unexpected horizons. To understand a fact
+it is necessary to view it on all sides; to see it as a resultant
+of many factors, as a centre from which effects radiate in all
+directions. It is not one history but many that we need ;
+political, economical, social and many others, without count-
+ing those that the future will reveal the need of. Truth is
+here only an approximation, and progress is shown by the in-
+creasing convergence of ever more numerous lines of thought
+towards an end which will ever escape our grasp, because the
+idea is never adequate to the living reality. If this concep-
+tion of scientific history is exact, while we can still admire
+the great historians of Greece and Rome, they cannot satisfy
+our intellectual requirements. We have to search with all
+our power to dissever the materials that they have made up
+into their works; it is in the basal facts that we find a basis
+
+
+## p. 38 (#78) ##############################################
+
+38
+M. CHAVANNES' EDITION OF SSU-MA CHIEN
+for unlimited speculation. SsŬ-MA CH'IEN saves us such
+work just because he has left his original texts unaltered.
+Thanks to him and to his successors who have imitated his
+method, if the history of China that we have is neither
+eloquent nor philosophical we at least possess and can exploit
+that richest quarry that has ever been found wherefrom to
+how stone for building the halls of that science which we
+look at as becoming more and more complex and more and
+more great like the extinguished world, of which it is the
+last reflection.
+"Lastly, to SSŬ-MA T'AN and SSU-MA CH'IEN belong
+incontestably the merit of having being first of their country-
+men to conceive of a general history. Up to their day, there
+had been only local chronicles; after them, two centuries
+passed before PAN Ku embraced a whole dynasty in one
+book, and twelve before SsŬ-MA KUANG once more wrote a
+general history. But for the Historical Memoirs, our know-
+ledge of Chinese history would have remained fragmentary
+and uncertain. One cannot but be enthusiastic over SSU-MA
+CHIEN: a patient collector of old documents, he astonishes us
+by his erudition more than he allures us by his genius. His
+work has become great because of the greatness of its theme;
+it partakes of the immortal interest in the youth of the
+Extreme East and becomes thereby a monument unto eternity.
+Following a simile dear to writers of the Middle Kingdom,
+which says that certain men have attained to a lasting reputa-
+tion because they have attached themselves to illustrious
+persons, as a gnat travels far that sits on the back of a swift
+horse, so, SSU-MA CHIEN has made himself inseparable from
+the Chinese people. As long as the memory of that already
+forty-century old people remains, so long will last the glory
+of SSU-MA -MA CHIRN."
+
+
