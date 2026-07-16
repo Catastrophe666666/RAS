@@ -1,0 +1,660 @@
+﻿master_id,year,volume,author,page,page_original,content_page_number,subject,title,year_start,year_end,Article?,In PDF?,notes,url,article_id,source,In Index?,need to check subject?,toc_source_pdf
+MASTER_00001,1858,OS 1 Part 1,"Edkins, J.",107,107-128,,Buddhism,"A Buddhist Shastra , Translated from the Chinese",1858,1858,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=125,_1858_05,source_b,,,v.1-2 1858-60.pdf
+MASTER_00002,1858,OS 1 Part 1,"Wylie, A.",44,44-102,,Numismatics,Coins of the Ta - ts'ing or present dynasty of China *,1858,1858,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=60,_1858_03,source_b,,,v.1-2 1858-60.pdf
+MASTER_00003,1858,OS 1 Part 1,"Macgowan, D. J.",103,103-106,,Ethnology,Contribution to the ethnology of Eastern Asia,1858,1858,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=121,_1858_04,source_b,,,v.1-2 1858-60.pdf
+MASTER_00004,1858,OS 1 Part 1,"Nicolson, F. W.",17,17-43,,Meteorology,"On Cyclones , or the Law of Storms",1858,1858,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=31,_1858_02,source_b,,,v.1-2 1858-60.pdf
+MASTER_00006,1858,OS 1 Part 1,"Foote, A. H.",129,129-137,,Travel,Visit to Simoda and Hakodadi in Japan,1858,1858,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=147,_1858_06,source_b,,,v.1-2 1858-60.pdf
+MASTER_00007,1859,OS 1 Part 2,"Macgowan, D. J.",170,38-43,,Literature,Chinese bibliography,1859,1859,,,,,I_1859_03,source_a,,,v.1-2 1858-60.pdf
+MASTER_00008,1859,OS 1 Part 2,"Shadwell, C. F. A.",222,102-104,,Meteorology,Memorandum on the present state of some of the magnetic elements in china and palces adjacent,1859,1859,,,,,I_1859_07,source_a,,,v.1-2 1858-60.pdf
+MASTER_00009,1859,OS 1 Part 2,"Syle, E. W.",176,44-59,,Music,On the Musical Notation of the Chinese,1859,1859,,,,,I_1859_04,source_a,,,v.1-2 1858-60.pdf
+MASTER_00010,1859,OS 1 Part 2,"Edkins, J.",165,,,Philosophy,Notices of the character and writings of Meh tsi,1859,1859,,,"MEH TSi, mozi, 墨子",,,,,,v.1-2 1858-60.pdf
+MASTER_00012,1859,OS 1 Part 2,"Ward, J.",231,,,Hydrology,"Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,1859,,,"YANG-TSZE KIANG Yangtzi River, 扬子江, 长江；WOOSUNG, wusong, 吴淞; HANKOW, Hankou, 汉口",,,,,,v.1-2 1858-60.pdf
+MASTER_00013,1859,OS 1 Part 2,"Pompe van Meedervoort, J. L. C.",211,,,Education,On the Study of the Natural Sciences in Japan,1859,1859,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00014,1859,OS 1 Part 2,"Fedorovitch, J.",247,127,,Meteorology,"Thermometrical observations, taken during a passage from Nagasaki to Shanghai",1859,1859,,,,,I_1859_10,source_a,,,v.1-2 1858-60.pdf
+MASTER_00015,1859,OS 1 Part 2,"Williams, S. W.",180,60-90,,Travel,Lecture on Japan,1859,1859,,,,,I_1859_05,source_a,,,v.1-2 1858-60.pdf
+MASTER_00016,1859,OS 1 Part 2,"Swinhoe, R.",145,,,Travel,Narrative of a visit to the island of Formosa,1859,1859,,,"Formosa, the old name of Taiwan, 台湾",,,,,,v.1-2 1858-60.pdf
+MASTER_00017,1859,OS 1 Part 2,"Swinhoe, R.",225,105-110,,Zoology,Notes on some new species of birds found on the island of Formosa,1859,1859,,,"Formosa, the old name of Taiwan, 台湾",,I_1859_08,source_a,,,v.1-2 1858-60.pdf
+MASTER_00018,1859,OS 1 Part 3,"Swinhoe, R.",287,,,Zoology,The Small Chinese Lark,1859,1859,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00019,1859,OS 1 Part 3,"Macgowan, D. J.",293,,,Law,On the Banishment of Criminals in China,1859,1859,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00020,1859,OS 1 Part 3,"Robertson, D. B.",302,302-308,,Agriculture,Cotton in China,1859,1859,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=338,_1860_03,source_b,,,v.1-2 1858-60.pdf
+MASTER_00021,1859,OS 1 Part 3,,350,350-352,,Meteorology,"Meteorological tables, from observations made in Japan",1859,1859,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916397&seq=386,_1860_06,source_b,,,v.1-2 1858-60.pdf
+MASTER_00022,1859,OS 1 Part 3,"Edkins, J.",309,,,Mythology,A Sketch of the Tauist Mythology in its modern form,1859,1859,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00023,1859,OS 1 Part 3,"Williams, S. W.",315,,,Contemporary History,Narrative of the American Embassy to Peking,1859,1859,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00024,1859,OS 1 Part 3,"Bridgman, E. C.",257,,,Ethnology,Sketches of the Miau - tsze,1859,1859,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00025,1860,OS 2 Part 1,"Edkins, J.",77,,,Hydrology,On the ancient mouths of Yangtsï kiang,1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00026,1860,OS 2 Part 1,"Macgowan, D. J.",45,,,Astronomy,"On the Cosmical Phenomena observed in the neighborhood of Shanghai , during the past thirteen centuries",1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00031,1860,OS 2 Part 1,"Edkins, J.",1,,,Confucianism,A Sketch of the Life of Confucius,1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00028,1860,OS 2 Part 1,"John, G.",20,,,Philosophy,"The Ethics of the Chinese, with special reference to the doctrine of Human Nature and Sin",1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00027,1860,OS 2 Part 1,"Pompe van Meedervoort, J. L. C.",85,,,Literature,Dissection of a Japanese criminal,1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00029,1860,OS 2 Part 1,"Shock, W. H.",92,,,Geology,"Notes on the mineral resources of Japan, etc.",1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00030,1860,OS 2 Part 1,Editorial Committee,353,,,Contemporary History,"Record of occurrences, 1860",1860,1860,n,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00032,1860,OS 2 Part 1,"Shadwell, C. F. A.",95,102-104,,Meteorology,Supplemental memorandum on the present state of the magnetic elements in China and places adjacent,1860,1860,,,,,I_1859_07,source_a,,,v.1-2 1858-60.pdf
+MASTER_00033,1860,OS 2 Part 1,"Courtney, C. F. A.",96,,,Meteorology,Temperature of Hakodadi,1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00034,1860,OS 2 Part 1,Editorial Committee,97,,,Meteorology,Winds and weather at Chefoo,1860,1860,,,,,,,,,v.1-2 1858-60.pdf
+MASTER_00035,1864,NS 1,"Lindau, R.",1,46034,,Travel,"Notes on the city of Yedo, the capital of Japan *",1864,1864,,,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00036,1864,NS 1,"Henderson, J.",13,13-28,,Meteorology,Notes on some of the physical causes which modify climate,1864,1864,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00037,1864,NS 1,"Dickson, W.",13,29-42,,Travel,"Narrative of an overland trip, through Hunan, from Canton to Hankow",1864,1864,,,"Hankow, Hankou, 汉口",,I_1864_03,source_a,,,v.1-2 1864-1865.pdf
+MASTER_00038,1864,NS 1,"Wylie, A.",43,43-60,,Travel,"Overland journey from St. Petersburg to Pekin, The",1864,1864,,,"Pekin, 北京",,I_1864_04,source_a,,,v.1-3 1864-1866.pdf
+MASTER_00039,1864,NS 1,"Henderson, J.",29,61-105,,Medicine,"Medicine and medical practice of the Chinese, The",1864,1864,,,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00040,1864,NS 1,"Canny, J. M.",61,106-141,,Travel,The Sea-board of Russian Manchuria,1864,1864,,,,,I_1864_06,source_a,,,v.1-2 1864-1865.pdf
+MASTER_00041,1864,NS 1,"Jamieson, R. A.",175,142-162,,Contemporary History,"Retrospect of events in the north of China, 1861-1864",1864,1864,n,,,,I_1864_07,source_a,,,v.1-2 1864-1865.pdf
+MASTER_00042,1864,NS 1,"Wylie, A.",163,163-166,,Antiquities,"Remarks on some impressions from a Lapidary Inscription at Keu - yung - kwan, on the Great Wall near Peking",1864,1864,,n,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00043,1864,NS 1,Edwards,166,166-169,,Hydrology,Extracts from a report on the present condition of the sea wall at the head of Hang - chow Bay,1864,1864,,n,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00044,1864,NS 1,"Wilds, E.",169,169-172,,Travel,Report on the appearance of the Rugged Islands,1864,1864,,n,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00045,1864,NS 1,Hollingworth and Piry,172,172-173,,Meteorology,"Barometric and thermometric observations taken September 1864, with a view to determining the height of Lew Shan",1864,1864,,n,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00046,1864,NS 1,"Gamble, W.",174,174,,Literature,Specimen of a new font of Chinese movable type belonging to the American Presbyterian Mission *,1864,1864,,n,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00047,1865,NS 2,Lamprey,1,46040,,Geology,Notes on the geology of the Great Plain *,1865,1865,,,,,II_1865_01,source_a,,,v.1-2 1864-1865.pdf
+MASTER_00048,1865,NS 2,"Kingsmill, T. W.",39,19-34,,Geology,A Sketch of the Geology of Quang -tung Province,1865,1865,,,"Quang-Tang Province, Currently Guangdong Province, 广东省",,,,,,v.1-2 1864-1865.pdf
+MASTER_00049,1865,NS 2,"Swinhoe, R.",39,35-50,,Zoology,Birds and beasts of Formosa,1865,1865,,,"Formosa, the old name of Taiwan, 台湾",,,,,,v.1-3 1864-1866.pdf
+MASTER_00050,1865,NS 2,"Brown, S. R.",53,51-78,,Christianity,Annals of the Western Ocean,1865,1865,,,,,II_1865_04,source_a,,,v.1-3 1864-1866.pdf
+MASTER_00051,1865,NS 2,"Collins, V. D.",53,79-90,,Botany,"Sorgo, or Northern Chinese sugar cane",1865,1865,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00052,1865,NS 2,"Edkins, J.",99,91-102,,Travel,A Visit to the Agricultural Mongols,1865,1865,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00054,1864,NS 2,Bastion,125,113-120,,Archaeology,The Remains of Ancient Kambodia,1865,1865,,,"Cambodia, 柬埔寨",,II_1865_08,source_a,,,v.1-3 1864-1866.pdf
+MASTER_00055,1864,NS 2,"Kingsmill, T. W.",175,121-150,,Contemporary History,Retrospect of events in China and Japan,1865,1865,n,,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00053,1864,NS 2,"Jamieson, R. A.",99,103-112,,Literature,The Hieroglyphic Character of the Chinese written Lan. 113,1864,1864,,n,,,II_1865_07,source_a,,,v.1-3 1864-1866.pdf
+MASTER_00056,1864,NS 2,"Jarvie, R.",151,151-153,,Agriculture,Respecting China grass,1864,1864,,n,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00057,1864,NS 2,"Butcher, C. H.",153,153-155,,Manners and customs,Notes on the funeral rites performed at the obsequies of Takee,1864,1864,,n,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00058,1864,NS 2,"Stronach, W. T.",155,155-156,,Law,"Traces of the Judicium dei, or ordeal in Chinese law",1864,1864,,n,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00059,1864,NS 2,Lamprey,156,156-157,,Chemistry,"Remarks on the "" water we use "" in Shanghai",1864,1864,,n,,,,,,,v.1-2 1864-1865.pdf
+MASTER_00060,1864,NS 2,"Jamieson, R. A.",157,157-160,,Buddhism,Remarks upon exhibiting a To - lo Pall to the Society,1864,1864,,n,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00061,1864,NS 3,"Martin, W. A. P.",,,,Travel,"Account of an overland journey from Peking to Shanghai, February and March 1865",1864,1864,,n,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079402040&seq=414,_1866_02,source_b,,,v.1-3 1864-1866.pdf
+MASTER_00062,1865,NS 3,"Martin, W. A. P.",,,,Travel,"Account of an overland journey from Peking to Shanghai, February and March 1866",1865,1865,,n,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079402040&seq=414,_1866_02,source_b,,,v.1-3 1864-1866.pdf
+MASTER_00065,1866,NS 3,"Williamson, A.",1,,,Travel,"Notes of a Journey from Peking to Chefoo via Grand Canal , Yen -chow -foo, &c",1866,1866,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079402040&seq=389,_1866_01,source_b,,,v.1-3 1864-1866.pdf
+,1866,NS 3,,26,,,Travel,"Account of an Overland Journey from Peking to Shanghai, made in February and March 1866",1866,1866,,,,,,,,y,
+,1866,NS 3,,40,,,History,An account of a translation of a Japanese Manuscript,1866,1866,,,,,,,,y,
+MASTER_00064,1866,NS 3,"Keer, J. G.",63,63-70,,Architecture,Description of the Great Examination Hall at Canton,1866,1866,,n,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079402040&seq=451,_1866_04,source_b,,,v.1-2 1864-1865.pdf
+MASTER_00068,1866,NS 3,"Wylie, A.",71,71-80,,Astronomy,Notes on the opinions of the Chinese with regard to eclipses,1866,1866,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079402040&seq=461,_1866_05,source_b,,,v.1-3 1864-1866.pdf
+MASTER_00073,1866,NS 3,"McCartee, D. B.",75,,,Zoology,On some Wild Silkworms of China ,1866,1866,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00069,1866,NS 3,"Williams, S. W.",81,,,History,Political intercourse between China and Lewchew,1866,1866,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00067,1865,NS 3,"Kingsmill, T. W.",94,,,Geology,Notes on some outlying coal-fields in the south-eastern provinces of China,1866,1866,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00072,1866,NS 3,"Hollingworth, H. G.",107,,,Manners and customs,"Short sketch of the Chinese game of chess, Seang - kh'e, A *",1866,1866,,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00071,1866,NS 3,"Butcher, C. H.",113,,,Contemporary History,"Retrospect of events in the north of China, 1866",1866,1866,n,,,,,,,,v.1-3 1864-1866.pdf
+MASTER_00074,1867,NS 4,"Bickmore, A. S.",1,46042,,Geology,"Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,1867,,,"Canton, Guangzhou, 广州; Kwang Tung, Guangdong Province, 广东省; Kwangsi, Guangxi Province, 广西; Hunan, 湖南; Hankow, Hankou, 汉口",,,,,,
+MASTER_00075,1867,NS 4,"Gardener, C. T.",21,21-32,,Christianity,Trans. Of inscription on tablet at Hangkow recording the changing the T'ien Chu Tang (Roman Catholic Church) into the T'ien Hao Tung *,1867,1867,,,"Hangchow, Hangzhou, 杭州; tienchu tang, tian zhu tang, 天主堂; tien hao kung, tian hou gong天后宫",,,,,,
+MASTER_00076,1867,NS 4,"Williamson, A.",33,33-63,,Agriculture,"Notes on the north of China, its productions and communications",1867,1867,,,,,IV_1867_03,source_a,,,
+MASTER_00077,1867,NS 4,"Williamson, A.",64,64-73,,Agriculture,"Notes on the productions, chiefly mineral of Shantung",1867,1867,,,"Shan Tung, Shandong Province, 山东省",,,,,,
+MASTER_00078,1867,NS 4,"Pryer, W. B.",74,74-79,,Zoology,Entomology of Shanghai,1867,1867,,,,,IV_1867_05,source_a,,,
+MASTER_00079,1867,NS 4,"Ellias, N.",80,80-86,,Hydrology,Notes on a portion of the old bed of the Yellow River an the water supply of the Grand Canal,1867,1867,,,,,,,,,
+MASTER_00080,1867,NS 4,"Wylie, A.",87,87-158,,Astronomy,Eclipses recorded in Chinese works,1867,1867,,,,,IV_1867_07,source_a,,,
+MASTER_00081,1867,NS 4,"Mayers, W. F.",159,159-186,,"Chronology, Historical",Chinese chronological tables,1867,1867,,,,,,,,,
+MASTER_00082,1867,NS 4,"Forrest, R. J.",187,187-208,,Christianity,The Christianity of Hung Tsiu Tsuen ; a review of Taeping Books,1867,1867,,,,,,,,,
+MASTER_00083,1867,NS 4,"Simon, G. E.",209,209-224,,Agriculture,"Carte agricole generale de l'Empire Chinois. Texte preface, legende et repertoire",1867,1867,,,,,,,,,
+MASTER_00084,1867,NS 4,"Watters, T.",225,225-242,,Mythology,Chinese notions about pigeons and doves,1867,1867,,,,,IV_1867_11,source_a,,,
+MASTER_00085,1867,NS 4,"Edkins, J.",243,243-250,,Geology,The Bituminous coal mines west of Peking,1867,1867,,,,,,,,,
+MASTER_00086,1867,NS 4,"Kingsmill, T. W.",251,251-265,,Contemporary History,"Retrospect of events in China and Japan, 1867",1867,1867,n,,,,,,,,
+MASTER_00087,1867,NS 4,The Hankow Times,266,266,,Hydrology,"Flood in the Han River 1857 "" The Hankow Times """,1867,1867,,,,,,,,,
+MASTER_00088,1868,NS 5,"Simon, G. E.",1,1,,Economics,Note sur les petites societes d'argent en Chine,1868,1868,,,,,,,,,
+MASTER_00089,1868,NS 5,"Kingsmill, T. W.",24,24-29,,Geology,Notes on the coal fields and general geology of the neighbourhood of Nagasaki *,1868,1868,,,,,,,,,
+MASTER_00090,1868,NS 5,"Jenkins, B.",30,30-57,,Music,Notions of the ancient Chinese respecting music,1868,1868,,,,,,,,,
+MASTER_00091,1868,NS 5,"Bickmore, A. S.",58,58-66,,Geology,Some remarks on recent elevations of land in China and Japan,1868,1868,,,,,,,,,
+MASTER_00092,1868,NS 5,"Preston, C. F.",67,67-77,,Biography,"Lok Ping Chiung, late Governor General of Sze - chuen, Notices of",1868,1868,,,"LOK PING CHEUNG, Luo Bingzhang, 骆秉章; SZE CHUEN, Sichuan Province, 四川省",,V_1868_05,source_a,,,
+MASTER_00093,1868,NS 5,"Medhurst, W. H.",78,78-86,,Antiquities,"Tablet of Yü, The",1868,1868,,,"Yü, Yu or Da Yu, 禹或大禹",,,,,,
+MASTER_00094,1868,NS 5,"Simon, G. E.",87,87-152,,Geology,Note sur quelques unes des recherches que l'on pourrait faire en Chine at au Japon au point de vue de la geologie et de la paleontologie,1868,1868,,,,,,,,,
+MASTER_00095,1868,NS 5,"Wylie, A.",153,153-258,,Travel,"Itinerary of a jouney through the Provinces of Hoo - pih, Sze - chuen and Shen - se",1868,1868,,,,,V_1868_08,source_a,,,
+MASTER_00096,1868,NS 5,"Ellias, N.",259,259-279,,Hydrology,Report of an exploration of the new course of the Yellow River,1868,1868,,,,,,,,,
+MASTER_00097,1868,NS 5,Editorial Committee,280,280-285,,Contemporary History,"Retrospect of events in China and Japan, 1868",1868,1868,,,,,,,,,
+MASTER_00098,1869-70,NS 6,"Markham, J.",1,,,Travel,"Notes on the Shantung Province, being a journey from Chefoo to Tsiuhsien, the city of Mencius",1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00099,1869-70,NS 6,"Mayers, W. F.",31,,,Religion,"On Wen - ch'ang, the god of literature, his history and worship ",1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00100,1869-70,NS 6,"Eitel, E. J.",45,45-51,,Buddhism,The Fabulous source of the Hoang-ho,1869,1870,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916355&seq=81,_1869_03,source_b,,,v.6-7 1869-72.pdf
+MASTER_00101,1869-70,NS 6,"Simon, G. E.",53,,,Economics,Sur les Institutions de Crédit en Chine,1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00102,1869-70,NS 6,"Mayers, W. F.",73,73-103,,Military art and science,"On the Introduction and use of gunpower and firearms among the Chinese, with notes on some ancient engines of warfare",1869,1870,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916355&seq=109,_1869_05,source_b,,,v.6-7 1869-72.pdf
+MASTER_00103,1869-70,NS 6,"Himly, K.",105,105-121,,Manners and customs,The Chinese game of chess as compared with that practised by Western nations,1869,1870,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916355&seq=141,_1869_06,source_b,,,v.6-7 1869-72.pdf
+MASTER_00104,1869-70,NS 6,"Macgowan, D. J.",,,,Ethnology,Notes on the Chihkiang Miautsz,1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00105,1869-70,NS 6,"Moule, G. E.",129,129-137,,Education,"Notes on the provincial examination of Chekiang, 1870, with a version of one of the essays",1869,1870,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916355&seq=165,_1869_08,source_b,,,v.6-7 1869-72.pdf
+MASTER_00106,1869-70,NS 6,"Smith, F. P.",129,,,Agriculture,Chinese chemical manufactures,1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00107,1869-70,NS 6,"Williams, S. W.",149,,,History,Journal of a mission to Lewchew in 1801,1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00108,1869-70,NS 6,"McCartee, D. B.",,,,Antiquities,"Trans. of the inscriptions upon a stone tablet commemorating the repairs upon the Ch'eng Hwang Miau, or Temple of the Tutelary Deity of the City",1869,1870,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00109,1869-70,NS 6,,173,,,Contemporary History,"Retrospect of events in China and Japan, 1869, 1870",1869,1870,n,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00110,1869-70,NS 6,North China Daily News,,,,Manners and customs,Example of Chinese torture,1869,1870,,n,,,,,,,v.6-7 1869-72.pdf
+MASTER_00111,1871-72,NS 7,"Mayers, W. F.",1,q,,History,A Historical and statistical sketch of the island of Hainan,1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00112,1871-72,NS 7,"Swinhoe, R.",25,25-40,,Ethnology,The Aborigines of Hainan,1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00113,1871-72,NS 7,"Swinhoe, R.",41,41-92,,Travel,Narrative of an exploring visit to Hainan,1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00114,1871-72,NS 7,"Stent, G. C.",93,93-136,,Music,Chinese lyrics,1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00115,1871-72,NS 7,"Kingsmill, T. W.",137,137-146,,History,"The Mythical origin of the Chow or Djow Dynasty, as set forth in the ""Shoo-king"" ",1871,1872,,,"THE CHOW OR DJOW DYNASTY, Zhou Dynasty, 周朝; THE SHOO-KING. Shujing or Shangshu, 《书经》或作《尚书》",,,,,,v.6-7 1869-72.pdf
+MASTER_00116,1871-72,NS 7,"Moule, G. E.",147,147-164,,Science,The Obligations of China to Europe in the matter of physical science acknowledged by eminent Chinese,1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00117,1871-72,NS 7,"Watters, T.",165,165-182,,"History, Ancient",The Life and works of Han Yu or Han Wen-Kung,1871,1872,,,"HAN Yu OR HAN WeN-KUNG, Han Yu or Han Wengong, 韩愈，人称韩文公",,VII_1871_09,source_a,,,v.6-7 1869-72.pdf
+MASTER_00118,1871-72,NS 7,"Stent, G. C.",183,183-196,,Mythology,Chinese legends,1871,1872,,,,,VII_1871_10,source_a,,,v.6-7 1869-72.pdf
+MASTER_00119,1871-72,NS 7,"Thompson, J.",197,197-204,,Archaeology,On the Antiquities of Cambodia,1871,1872,,,,,VII_1871_11,source_a,,,v.6-7 1869-72.pdf
+MASTER_00120,1871-72,NS 7,"David, Le P. A.",205,205-234,,Zoology,Quelques renseignments sur l'histoire naturelle de la Chine septentrionale et occidentale,1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00121,1871-72,NS 7,"Macgowan, D. J.",235,235-236,,Medicine,Chinese use of shad in consumption and iodine Plants in scrofula,1871,1872,,,,,VII_1871_13,source_a,,,v.6-7 1869-72.pdf
+MASTER_00122,1871-72,NS 7,"Macgowan, D. J.",247,237-240,,Medicine,"On the "" Mutton wine "" of the Mongols and analagous preparations of the Chinese",1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00123,1871-72,NS 7,Editorial Committee,241,241-250,,Contemporary History,"Retrospect of events in China, etc., 1871, 1872",1871,1872,n,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00124,1871-72,NS 7,Meteorological Committee,251,251-260,,Meteorology,"Meteorological observations, April - December 1872",1871,1872,,,,,,,,,v.6-7 1869-72.pdf
+MASTER_00125,1873,NS 8,Shanghai Meteorological Committee,vii - viii,vii - viii,,Meteorology,Weather report for 1873,1873,1873,,,,,,,,,v.8-9 1873-1874.pdf
+MASTER_00126,1874,NS 8,"Williams, S. W.",1,46044,,Contemporary History,Recollections of China prior to 1840,1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=23,_1874_01,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00127,1874,NS 8,"Kingsmill, T. W.",23,23-30,,Biography,"The legend of Wen Wang, founder of the dynasty of the Chows in China",1874,1874,,,,,,,,,v.8-9 1873-1874.pdf
+MASTER_00128,1874,NS 8,"Schmidt, C.",31,31-44,,History,Extracts from the history of Shanghai,1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=53,_1874_03,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00129,1874,NS 8,"Watters, T.",45,45-66,,Mythology,Chinese fox - myths,1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=67,_1874_04,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00130,1874,NS 8,"Viguier, S. A.",67,67-78,,Contemporary History,Brief account of the French Expedition of 1866 into Indo - China,1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=89,_1874_05,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00131,1874,NS 8,"Edkins, J.",79,79-92,,Confucianism,"Visit to the city of Confucius, A",1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=101,_1874_06,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00132,1874,NS 8,"Dennys, N. B.",93,93-132,,Music,Short notes on Chinese instruments of music *,1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=115,_1874_07,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00133,1874,NS 8,"Bushell, S. W.",133,133-180,,Archaeology,"Stone drums of the Chou Dynasty, The *",1874,1874,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446666&seq=155,_1874_08,source_b,,,v.8-9 1873-1874.pdf
+MASTER_00134,1874,NS 8,Editorial Committee,181,181-187,,Contemporary History,"Retrospect of events in China, 1873",1874,1874,n,,,,,,,,v.8-9 1873-1874.pdf
+MASTER_00135,1875,NS 9,"Moule, G. E.",47,47-70,,Literature,"Notes on Col. Yule's edition of Marco Polo's "" Quinsay "" *",1875,1875,,,,,IX_1875_01,source_a,,,v.8-9 1873-1874.pdf
+MASTER_00136,1875,NS 9,"Camajee, D. N.",71,71-98,,Religion,"Legends of the ancient Mazdayacnian prophets, and the story of Zoroaster",1875,1875,,,,,IX_1875_02,source_a,,,v.8-9 1873-1874.pdf
+MASTER_00137,1875,NS 9,"Taintor, E. C.",2,99-134,,Ethnology,The Aborigines of Northern Formosa,1875,1875,,,"Formosa, the old name of Taiwan, 台湾",,IX_1875_03,source_a,,,v.8-9 1873-1874.pdf
+MASTER_00138,1875,NS 9,"Watters, T.",7,135-160,,Buddhism,"Notes on the "" Miao - fa - lien - hua - ching "", a Buddhist sutra in Chinese",1875,1875,,,,,IX_1875_04,source_a,,,v.8-9 1873-1874.pdf
+MASTER_00139,1875,NS 9,"Cordier, H.",,,,Contemporary History,Narrative of recent events in Tong - king,1875,1875,,,"TONG-KING, Tonkin 东京, northern part of Vietnam",,,,,,v.8-9 1873-1874.pdf
+MASTER_00140,1875,NS 9,"Macgowan, D. J.",7,,,Medicine,Notes on Chinese toxicology,1875,1875,,,,,,,,,v.8-9 1873-1874.pdf
+MASTER_00141,1876,NS 10,"Palladius, A.",1,1-54,,Geography,"Elucidations of Marco Polo's travels in North China, drawn from Chinese sources",1876,1876,,,,,,,,,
+MASTER_00142,1876,NS 10,"Holcombe, C.",55,55-70,,Travel,Notes made on a tour through Shan - hsi and Shen - hsi,1876,1876,,,"Shan-HSI, Shanxi Province, 山西省; Shen-HSI, Shaanxi Province, 陕西省",,X_1876_02,source_a,,,
+MASTER_00143,1876,NS 10,"Kingsmill, T. W.",71,71-74,,Ethnology,Short notes on the identification of the Yue - ti and Kiang tribes of ancient Chinese history,1876,1876,,,"YUE-TI, Yuezhi, 月氏; KIANG, Qiang, 羌族",,X_1876_03,source_a,,,
+MASTER_00144,1876,NS 10,"Bretschneider, E.",75,75-308,,Ethnology,Notices of the mediaeval geography and history of Central and Western Asia *,1876,1876,,,,,,,,,
+MASTER_00145,1876,NS 10,"Little, A. J.",309,309-324,,Contemporary History,"Retrospect of events in China, 1875",1876,1876,n,,,,,,,,
+MASTER_00146,1876,NS 10,,App. I,App. I,,Agriculture,List of the principal tea districts in China,1876,1876,,,,,,,,,
+MASTER_00147,1876,NS 10,,App. II,App. II,,Meteorology,"Observatoire Meteorologique et Magnetique des Peres de la Compagnie de Jesus a Zi- ka - wei, Septembre 1874 - Septembre 1875",1876,1876,,,,,,,,,
+MASTER_00148,1877,NS 11,"Kingsmill, T. W.",1,1-32,,Geology / History,The Borderlands of geology and history,1877,1877,,n,,,,,,,v.11-12 1877-78.pdf
+MASTER_00149,1877,NS 11,"Hobson, H. E.",33,33-40,,History,"Fort Zelandia, and the Dutch occupation of Formosa",1877,1877,,,,,XI_1877_01,source_a,,,v.11-12 1877-78.pdf
+MASTER_00150,1877,NS 11,"Mollendorf, 0. F. von",41,41-112,,Zoology,"The Vertebrata of the Province of Chihli, with notes on Chinese zoological nomenclature",1877,1877,,,,,,,,,v.11-12 1877-78.pdf
+MASTER_00151,1877,NS 11,"Martin, W. A. P.",113,113-122,,Literature,On the Styles of Chinese epistolary composition,1877,1877,,,,,XI_1877_03,source_a,,,v.11-12 1877-78.pdf
+MASTER_00152,1877,NS 11,"Edkins, J.",123,123-142,,Meteorology,On Chinese names for boats and boat gear with remarks on the Chinese use of the mariner's compass,1877,1877,,,,,XI_1877_04,source_a,,,v.11-12 1877-78.pdf
+MASTER_00153,1877,NS 11,"Stent, G. C.",143,143-184,,Manners and customs,Chinese eunuchs,1877,1877,,,,,,,,,v.11-12 1877-78.pdf
+MASTER_00154,1878,NS 12,"Mayers, W. F.",1,46040,,Manners and customs,On the Stone figures at Chinese tombs and the offering of living sacrifices,1878,1878,,,,,,,,,v.11-12 1877-78.pdf
+MASTER_00155,1878,NS 12,"Parker, E. H.",19,19-50,,Literature,The Comparative study of Chinese dialects,1878,1878,,,,,XII_1877_02,source_a,,,v.11-12 1877-78.pdf
+MASTER_00156,1878,NS 12,"Hosie, A.",51,51-90,,Meteorology,"Droughts in China, A. D. 620-1643",1878,1878,,,,,,,,,v.11-12 1877-78.pdf
+MASTER_00157,1878,NS 12,"Hosie, A.",91,91-96,,Astronomy,"Sunspots and sun - shadows observed in China, B. C. 28 - A. D. 1617",1878,1878,,,,,,,,,v.11-12 1877-78.pdf
+MASTER_00158,1878,NS 12,"Kingsmill, T. W.",97,97-126,,Religion,"The Ancient language and cult of the Chows ; critical and exegetical notes on the "" Shi- king """,1878,1878,,,,,,,,,v.11-12 1877-78.pdf
+MASTER_00159,1878,NS 12,"Fritsche, H.",127,127-335,,Meteorology,The Climate of Eastern Asia,1878,1878,,,,,XII_1877_06,source_a,,,v.11-12 1877-78.pdf
+MASTER_00160,1879,NS 13,"Fauvel, A. A.",1,1-36,,Zoology,Alligators in China *,1879,1879,,,,,XIII_1879_01,source_a,,,v.13-15 1878-1880.pdf
+MASTER_00161,1879,NS 13,"Schulze, F. W.",37,37-98,,Meteorology,Periodical change of terrestrial magnetism *,1879,1879,,,,,XIII_1879_02,source_a,,,v.13-15 1878-1880.pdf
+MASTER_00162,1879,NS 13,"Mollendorf, P. G. von",99,99-122,,Law,The Family law of the Chinese and its comparative relations with that of other nations,1879,1879,,,,,,,,,v.13-15 1878-1880.pdf
+MASTER_00163,1879,NS 13,"Kingsmill, T. W.",123,123-132,,Biography,"The story of Shun, the Emperor",1879,1879,,,"Shun, 舜",,,,,,v.13-15 1878-1880.pdf
+MASTER_00164,1879,NS 14,"Kingsmill, T. W.",1,46052,,History,The Intercourse of China with Central and Western Asia in the Second Century B.C.,1879,1879,,,,,XIV_1879_01,source_a,,,v.13-15 1878-1880.pdf
+MASTER_00165,1879,NS 14,"Rhein, J.",31,31-34,,Antiquities,Rock inscriptions at the north side of Yentai Hill *,1879,1879,,,"YENTAI HILL, Yantai Hill, 烟台山",,XIV_1879_02,source_a,,,v.13-15 1878-1880.pdf
+MASTER_00166,1879,NS 14,"Haas, J.",35,35-64,,Numismatics,Siamese coinage *,1879,1879,,,,,,,,,v.13-15 1878-1880.pdf
+MASTER_00167,1880,NS 15,"Bretschneider, E.",311,1-194,,Botany,Early European researches into the flora of China,1880,1880,,,,,,,,,v.15-16 1880-81.pdf
+MASTER_00168,1880,NS 15,"Bushell, S. W.",195,195-310,,Numismatics,Coins of the present dynasty of China *,1880,1880,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916306&seq=251,_1880-1881_02,source_b,,,v.15-16 1880-81.pdf
+MASTER_00169,1880,NS 15,"Balfour, F. H.",311,311-316,,Philosophy,"The "" Naturalistic "" philosophy of China",1880,1880,,,,,,,,,v.15-16 1880-81.pdf
+MASTER_00170,1881,NS 16,"Guppy, H. B.",1,,,Hydrology,"Notes on the hydrology of the Yang - tse, the Yellow River, and the Pei - ho *",1881,1881,,,,,,,,,v.15-16 1880-81.pdf
+MASTER_00171,1881,NS 16,"Guppy, H. B.",13,,,Geology,"Some notes on the geology of Takow, Formosa",1881,1881,,,,,,,,,v.15-16 1880-81.pdf
+MASTER_00172,1881,NS 16,,18,,,Botany,"Botanicon Sinicum Part I. Notes on Chinese botany, from native and Western sources",1881,1881,,,,,,,,,v.15-16 1880-81.pdf
+MASTER_00173,1881,NS 16,"Dechevrens, Le P. M.",231,,,Meteorology,"The Climate of Shanghai, its meteorological conditions",1881,1881,,,,,,,,,v.15-16 1880-81.pdf
+MASTER_00174,1882,NS 17,"Giles, H. A.",1,46044,,Literature,Notes on Chinese composition,1882,1882,,,,,,,,,
+MASTER_00175,1882,NS 17,"Guppy, H. B.",23,23-34,,Geology,On the geology of the neighbourhood of Nagasaki,1882,1882,,,,,XVII_1882_02,source_a,,,
+MASTER_00176,1882,NS 17,"Anderson, G. C.",35,35-40,,Travel,Notes on the south coast of Saghalien,1882,1882,,,"SAGHALIEN, Sakhalin, 库页岛/萨哈林岛",,,,,,
+MASTER_00177,1882,NS 17,"Toda, E.",41,41-220,,Numismatics,Annam and its minor currency,1882,1882,,,,,,,,,
+MASTER_00178,1882,NS 17,"Hirth, F.",221,221-236,,Government,The Hoppo - book of 1753,1882,1882,,,,,XVII_1882_05,source_a,,,
+MASTER_00179,1883,NS 18,"Edkins, J.",1,46046,,History,What did the ancient Chinese know of the Greeks and Romans,1883,1883,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00180,1883,NS 18,"Scherzer, F., trans. Gould, C.",25,25-36,,Manners and customs,Corea,1883,1883,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00181,1883,NS 18,"Kleinwachter, G.",37,37-54,,Geology,Researches into the geology of Formosa *,1883,1883,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00182,1883,NS 18,"Imbault - Huart, C.",55,55-140,,Travel,Fragmens d'un voyage dans l'interieur de la Chine,1883,1883,,,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079446823&seq=107,_1883_04,source_b,,,v.18-19 1883-1884.pdf
+MASTER_00183,1883,NS 18,"Morrison, G. J.",141,141-158,,Travel,"Some notes of a trip to Corea, in July and August, 1883",1883,1883,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00184,1883,NS 18,"Guppy, H. B.",159,159-162,,Geology,Notes on some dikes at the mouth of the Nankow pass *,1883,1883,,,,,XVIII_1884_07,source_a,,,v.18-19 1883-1884.pdf
+MASTER_00185,1883,NS 18,"Guppy, H. B.",163,163-164,,Agriculture,Samshu - brewing in North China,1883,1883,,,,,XVIII_1884_08,source_a,,,v.18-19 1883-1884.pdf
+MASTER_00186,1883,NS 18,"Little, A. J.",165,165-182,,Travel,Notes on Szechuen and the Yangtse valley,1883,1883,,,"SZECHUEN, Sichuan, 四川省; YANGTSE, Yangtzi River, 长江",,,,,,v.18-19 1883-1884.pdf
+MASTER_00187,1884,NS 19 Part 1,"Gardener, C. T.",1,1,,Zoology,"Animal, fossil, mineral and vegetable products of the consular district of Ichang",1884,1884,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00188,1884,NS 19 Part 1,"Parker, E. H.",27,27-53,,Travel,"Journey in Chekiang, A",1884,1884,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00189,1884,NS 19 Part 1,"Parker, E. H.",54,54-74,,Travel,"Journey in Fukien, A *",1884,1884,,,,,XIX_1884_03,source_a,,,v.18-19 1883-1884.pdf
+MASTER_00190,1884,NS 19 Part 1,"Parker, E. H.",75,75-93,,Travel,"Journey from Foochow to Wenchow, through Central Fukien, A",1884,1884,,,"FOOCHOW, Fuzhou, 福州市; W?NCHOW, Wenzhou, 温州市; FUKIEN. Fujian Province, 福建省",,XIX_1884_04,source_a,,,v.18-19 1883-1884.pdf
+MASTER_00191,1884,NS 19 Part 1,"Moule, G. E.",94,94-102,,Buddhism,"Buddist sheet - tract, containing an apologue of human life, A *",1884,1884,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00192,1884,NS 19 Part 1,"Hosie, A.",103,103-114,,Telecommunication,Trade routes to Western China,1884,1884,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00193,1884,NS 19 Part 2,"Imbault - Huart, C.",,,,Literature,"Poete Chinois du XVIIIe siecle, Yuan Tseu - ts ' ai, sa vie et ses oeuvres, Un",1884,1884,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00194,1884,NS 19 Part 2,"Kingsmill, T. W.",,,,Ethnology,"Serica of Ptolemy and its inhabitants, The",1884,1884,,,,,,,,,v.18-19 1883-1884.pdf
+MASTER_00196,1885,NS 20,,207,,,Literature,Chinese theatricals and theatrical plots,1885,1885,,,,,,,,,v.20 1885.pdf
+MASTER_00197,1885,NS 20,"H., F.",,,,Language and languages,"Derivation of the German word "" huhnerauger """,1885,1885,,,,,,,,,v.20 1885.pdf
+MASTER_00199,1885,NS 20,"Giles, H. A.",1,,,Literature,"The Hung Lou Mêng, commonly called “ The Dream of the Red Chamber """,1885,1885,,,"THE HUNG LOU M?NG, Hong Lou Meng, Dream of the Red Chamber, 红楼梦",,,,,,v.20 1885.pdf
+MASTER_00206,1885,NS 20,,25,25-50,,Manners and customs,The Prevalence of infanticide in China,1885,1885,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916280&seq=39,_1885_02,source_b,,,v.20 1885.pdf
+MASTER_00201,1885,NS 20,"Playfair, G. M. H.",69,68-79,,Geography,The Mystery of Ta - ts ' in ,1885,1885,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916280&seq=83,_1885_03,source_b,,,v.20 1885.pdf
+MASTER_00198,1885,NS 20,"T., C. B.",81,81-98,,Literature,"How snow inspired verse, and a rash order made the flowers bloom ("" Ching - hua- yuan, Chapter IV)",1885,1885,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916280&seq=99,_1885_04,source_b,,,v.20 1885.pdf
+MASTER_00207,1885,NS 20,,117,,,Manners and customs,What is filial piety ?,1885,1885,,,,,,,,,v.20 1885.pdf
+MASTER_00203,1885,NS 20,"Nocentini, L.",155,,,Literature,Sinology in Italy,1885,1885,,,,,,,,,v.20 1885.pdf
+MASTER_00205,1885,NS 20,"Hirth, F.",163,163-177,,Agriculture,Western appliances in the Chinese printing industry,1885,1885,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015027916280&seq=181,_1885_07,source_b,,,v.20 1885.pdf
+MASTER_00206,1886,NS 21,,193,,,Literature,Chinese Theatricals and Theatrical Plots,1885,1885,,,,,,,,y,
+MASTER_00202,1885,NS 20,"Phillips, G.",207,,,Geography,The Seaports of India and Ceylon,1885,1885,,,,,,,,,v.20 1885.pdf
+MASTER_00204,1885,NS 20,"Gabelentz, G. von der",227,,,Literature,Some additions to my Chinese grammar,1885,1885,,,,,,,,,v.20 1885.pdf
+MASTER_00208,1886,NS 21,,1,,,Language and languages,"The Advisability, or the reverse, of endeavoring to convey Western knowledge to the Chinese through the medium of their own language",1886,1886,,,,,,,,,
+MASTER_00209,1886,NS 21,"Macgowan, D. J.",22,,,Literature,Histrionic notes,1886,1886,,,,,,,,,
+MASTER_00210,1886,NS 21,"Phillips, G.",30,,,Geography,"Seaports of India and Ceylon, as described by Chinese voyagers of the 15th Century, together with an account of Chinese navigation, The ; Part II *",1886,1886,,,,,,,,,
+MASTER_00211,1886,NS 21,"Macintyre, J.",43,,,Religion,Roadside religion in Manchuria,1886,1886,,,,,,,,,
+MASTER_00212,1886,NS 21,"Playfair, G. M. H.",67,,,"Chronology, Historical",Alphabetical list of the dynastic and reign - titles of Chinese Emperors,1886,1886,,,,,,,,,
+MASTER_00213,1886,NS 21,"Allen, H. J.",89,,,Geography,Where was Ta - ts ' in ?,1886,1886,,,,,,,,,
+MASTER_00214,1886,NS 21,"Hirth, F.",98,,,Geography,"Reply to Mr. H. J. Allen's paper "" Where was Ta - ts ' in ? """,1886,1886,,,,,,,,,
+MASTER_00217,1886,NS 21,"Macgowan, D. J.",133,133-192,,Economics,Chinese guilds or chambers of commerce and trades unions,1886,1886,,,,,,,,,
+MASTER_00218,1886,NS 21,"Allen, H. J.",193,,,Confucianism,Is Confucius a myth ?,1886,1886,,,,,,,,,
+MASTER_00219,1886,NS 21,"Edgins, J.",199,,,Literature,"Philological importance of geographical terms in the "" Shi - ki """,1886,1886,,,,,,,,,
+MASTER_00220,1886,NS 21,"Allen, H. J.",204,,,Geography,Ta - ts ' in and dependent states,1886,1886,,,,,,,,,
+MASTER_00221,1886,NS 21,"Hirth, F.",209,,,Geography,"Reply to Mr. H. J. Allen's paper "" Ta - ts ' in and dependent states "" *",1886,1886,,,,,,,,,
+MASTER_00222,1886,NS 21,"Hirth, F.",214,,,Literature,"Chinese equivalents of the letter "" R "" in foreign names",1886,1886,,,,,,,,,
+MASTER_00223,1886,NS 21,"Giles, H. A.",255,,,Literature,The Family names,1886,1886,,,,,,,,,
+MASTER_00224,1886,NS 22,"Parker, E. H.",289,113-115,,History,"Manchu relations with Tibet, or Si - tsang",1886,1886,,,,,,,,,
+MASTER_00215,1886,NS 21,"Legge, J.",,,,Travel,"Defense of the trans. of a passage in the "" Tsochwan",1886,1886,,n,,,,,,y,
+MASTER_00216,1886,NS 21,,,,,Folklore,Folk - lore Society,1886,1886,,n,,,,,,y,
+MASTER_00226,1886,NS 21,"H., F.",,,,Literature,Pen - ts ' ao - meng - ch'uan,1886,1886,,n,,,,,,y,
+MASTER_00227,1886,NS 21,"Carles, W. R.",,,,Travel,Corea,1886,1886,,n,,,,,,y,
+MASTER_00228,1887,NS 22,"Parker, E. H.",1,46043,,Military art and science,"The Military organization of China prior to 1842, as described by Wei Yuan",1887,1887,,,,,,,,,
+MASTER_00229,1887,NS 22,"Becher, H. M.",22,22-38,,Geology,Notes on the mineral resources of Eastern Shantung,1887,1887,,,"SHANTUNG, Shandong Province, 山东省",,XXII_1887_02,source_a,,,
+MASTER_00195,1887,NS 22,,39,39-52,,Law,Chinese partnerships ; liability of the individual members,1887,1887,,,,,,,,,
+MASTER_00230,1887,NS 22,"Hirth, F.",53,53-66,,Government,Notes on the early history of the salt monopoly in China,1887,1887,,,,,XXII_1887_04,source_a,,,
+MASTER_00231,1887,NS 22,"Parker, E. H.",67,67-80,,Economics,The Salt revenue of China,1887,1887,,,,,,,,,
+MASTER_00232,1887,NS 22,"Zwehtkoff, P., Trans. Carles, W. R.",81,81-89,,Agriculture,Remarks on the production of salt in China,1887,1887,,,,,,,,,
+MASTER_00233,1887,NS 22,"Nocentini, L.",90,90-99,,"Chronology, Historical","Names of the sovereigns of the old Corean states, etc.",1887,1887,,,,,,,,,
+MASTER_00234,1887,NS 22,"Hirth, F.",129,129-202,,Porcelain,Ancient porcelain : a study in Chinese mediaeval industry and trade,1887,1887,,,,,XXII_1887_11,source_a,,,
+MASTER_00235,1887,NS 22,"Hirth, F.",203,203-223,,Education,The Chinese Oriental College,1887,1887,,,,,XXII_1887_12,source_a,,,
+MASTER_00236,1887,NS 22,"Parker, E. H.",220,220-221,,Art,Extracts from the Chinese works regarding the writing of the Ju - chih and Kitan Tartars *,1887,1887,,,,,,,,,
+MASTER_00237,1887,NS 22,"Henry, A.",233,233-284,,Botany,Chinese names of plants,1887,1887,,,,,,,,,
+MASTER_00240,1888,NS 23,"Carles, W. R.",1,,,History,A Corean monument to Manchu clemency,1888,1888,,,,,,,,,v.23 1888.pdf
+MASTER_00245,1888,NS 23,"Moule, G. E.",9,,,Taoism,A guide to True Vacuity,1888,1888,,,,,,,,,v.23 1888.pdf
+MASTER_00239,1888,NS 23,"Phillips, G.",23,,,History,"Changchow, the capital of Funkien in Mongol times",1888,1888,,,,,,,,,v.23 1888.pdf
+MASTER_00243,1888,NS 23,"Hobson, H. E.",31,,,Architecture,The Porcelain Pagoda of Nanking,1888,1888,,,,,,,,,v.23 1888.pdf
+MASTER_00244,1888,NS 23,"Jamieson, G.",59,,,Agriculture,Tenure of land in China and the condition of the rural population,1888,1888,,,,,,,,,v.23 1888.pdf
+MASTER_00238,1888,NS 23,Moore,185,185-247,,Hydrology,The Bore of the Tsien - tang Kiang (Hang - chau Bay),1888,1888,,,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015005759314&seq=205,_1888_04,source_b,,,v.23 1888.pdf
+MASTER_00246,1888,NS 23,"Volpicelli, Z. H.",248,,,Manners and customs,Chinese chess *,1888,1888,,,,,,,,,v.23 1888.pdf
+MASTER_00247,1889-90,NS 24,"Mollendorf, P. G. von",1,1-45,,Literature,Essay on Manchu literature,1889,1890,,,,,,,,,v.25 1890-91.pdf
+MASTER_00248,1889-90,NS 24,"Morse, H. B.",48,48-135,,Numismatics,Currency and measures in China,1889,1890,,,,,,,,,v.25 1890-91.pdf
+MASTER_00249,1889-90,NS 24,"Faber, E.",141,141-220,,History,Prehistoric China,1889,1890,,,,,,,,,v.25 1890-91.pdf
+MASTER_00250,1889-90,NS 24,"Edkins, J.",253,253-288,,Architecture,Chinese architecture,1889,1890,,,,,XXIV_1890_08,source_a,,,v.25 1890-91.pdf
+MASTER_00251,1889-90,NS 24,"Parker, E. H.",289,289-302,,Christianity,Notes on the Nestorians in China,1889,1890,,,,,XXIV_1890_09,source_a,,,v.25 1890-91.pdf
+MASTER_00252,1889-90,NS 24,"Fries, S. R. von",303,303-306,,Architecture,"The "" Tent theory "" of Chinese architecture",1889,1890,,,,,,,,,v.25 1890-91.pdf
+MASTER_00253,1889-90,NS 24,"Hallifax, T. E.",307,307-308,,Zoology,Note on the comparative longevity of males and females in Japan,1889,1890,,,,,XXIV_1890_11,source_a,,,v.25 1890-91.pdf
+MASTER_00254,1890-91,NS 25,,i - ii,i - ii,,Botany,"Botanicon Sinicum : Notes on Chinese botany, from native and Western sources, Corrigenda and addenda to Part I",1890,1891,,,,,,,,,v.26 1891-1892.pdf
+MASTER_00255,1890-91,NS 25,,1,1-468,,Botany,"Botanicon Sinicum Part II. Notes on Chinese botany, from native and Western sources",1890,1891,,,,,,,,,v.26 1891-1892.pdf
+MASTER_00256,1890-91,NS 25,"Faber, E.",402,402-410,,Botany,"General remarks on "" Botanicon Sinicum "" ",1890,1891,,,,,,,,,v.25 1890-91.pdf
+MASTER_00257,1891-92,NS 26,"Fraser, E. H.",1,1-43,,Ethnology,The Fish - skin Tartars,1891,1892,,y,,,,,y,,v.26 1891-1892.pdf
+MASTER_00258,1891-92,NS 26,"Kingsmill, T. W.",44,44-79,,Astronomy,A Comparative table of the ancient lunar asterisms,1891,1892,,y,,,XXVI_1891_02,source_a,y,,v.26 1891-1893.pdf
+MASTER_00259,1891-92,NS 26,"Volpicelli, Z. H.",80,80-107,,Manners and customs,Wei - ch ' i *,1891,1892,,y,,,,,y,,v.26 1891-1892.pdf
+MASTER_00260,1891-92,NS 26,"Groot, J. J. M. de",108,108-120,,Buddhism,Militant spirit of the Buddhist clergy in China,1891,1892,,y,,,XXVI_1891_04,source_a,y,,v.26 1891-1892.pdf
+MASTER_00261,1892-93,NS 27,"Rosthorn, A. von",1,46043,,Government,"Salt administration of Ssuch'uan, The",1892,1893,,y,"SSUCH'UAN. Sichuan, 四川省",,,,y,,v.27 1892-1893.pdf
+MASTER_00262,1892-93,NS 27,"Rosthorn, A. von",22,22-32,,Hydrology,River stages and branch routes from Ssuch ' uan to Yunnan and Kuichou,1892,1893,,y,,,,,y,,v.27 1892-1894.pdf
+MASTER_00263,1892-93,NS 27,"Volpicelli, Z. H.",108,33-69,,History,Early Portuguese commerce and settlements in China *,1892,1893,,y,,,,,y,,v.27 1892-1895.pdf
+MASTER_00264,1892-93,NS 27,"Gardener, C. T.",71,71-130,,Numismatics,"Coinage of Corea, The *",1892,1893,,y,,,,,y,,v.27 1892-1896.pdf
+MASTER_00265,1892-93,NS 27,"Mollendorf, P. G. von",131,131-190,,Law,"Family law of the Chinese, The",1892,1893,,y,,,,,y,,v.27 1892-1897.pdf
+MASTER_00266,1893-94,NS 28,"Kingsmill, T. W.",1,1-213,,Telecommunication,Inland communications in China *,1893,1894,,y,,,,,y,,
+MASTER_00267,1893-94,NS 28,"Scott, J.",214,214-232,,History,Stray notes on Corean history and literature,1893,1894,,y,,,,,y,,
+MASTER_00268,1893-94,NS 28,"Clarke, G. W.",233,233-400,,History,"Yu - li or Precious Records, The *",1893,1894,,y,,,,,y,,
+MASTER_00269,1894-95,NS 29,"Bretschneider, E.",1,1-546,,Botany,Botanicon Sinicum Part III. Botanical investigations into the materia medica of the ancient Chinese,1894,1895,,n,,,,,y,,
+MASTER_00270,1894-95,NS 29,"Bretschneider, E.",547,547-605,,Geography,"Chinese geographical names mentioned in the "" Pen Ts ' ao Kang Mu """,1894,1895,,n,,,,,y,,
+MASTER_00271,1894-95,NS 30,"Imbault - Huart, C.",1,1-73,,Travel,"Voyage de l'Ambassade Hollandaise de 1656 a travers la Province de Canton, Le",1894,1895,,n,,,,,y,,
+MASTER_00272,1894-95,NS 30,"Parker, E. H.",74,74-101,,Economics,"Financial capacity of China, The",1894,1895,,n,,,,,y,,
+MASTER_00273,1894-95,NS 30,"Parker, E. H.",102,102-141,,Economics,Chinese revenue,1894,1895,,n,,,,,y,,
+MASTER_00274,1894-95,NS 30,"Bushell, S. W.",142,142-160,,Numismatics,"Hsi Hsia Dynasty of Tangut, their money and peculiar script, The *",1894,1895,,n,,,,,y,,
+MASTER_00275,1894-95,NS 30,"Fraser, M. F. A.",161,161-176,,History,"Manchu ukase, A",1894,1895,,n,,,,,y,,
+,1895-1896,NS 30,"IMBAULT HUART, C.",1,1-73,,Travel,LE VOYAGE DE L'AMBASSADE HOLLANDAISE DE 1656 A TRAVERS LA PROVINCE DE CANTON.,1895,1896,,y,,,,,y,y,
+,1895-1896,NS 30,E. H. PARKER,74,74-101,,Economics,THE FINANCIAL CAPACITY OF CHINA.,1895,1896,,y,,,,,y,y,
+,1895-1896,NS 30,E. H. PARKER,102,102-141,,Economics,CHINESE REVENUE.,1895,1896,,y,,,,,y,y,
+,1895-1896,NS 30,"BUSHELL, S. W.",142,142-160,,Economics,"THE HSI HSIA DYNASTY OF TANGUT, THEIR MONEY AND PECULIAR SCRIPT.",1895,1896,,y,,,,,y,y,
+,1895-1896,NS 30,"FRASER, M. F. A.",161,161-176,,History,A MANCHU UKASE.,1895,1896,,y,,,,,y,y,
+MASTER_00276,1896-97,NS 31,"Parker, E. H.",1,1-39,,Ethnology,Inscriptions de l'Orkho,1896,1897,,y,,,,,y,,
+MASTER_00277,1896-97,NS 31,"Kingsmill, T. W.",38,38-39,,Ethnology,"Huns of Europe, The (Notes on E. H. Parker's paper "" Inscriptions de l'Orkhon "")",1896,1897,,n,,,,,y,,
+MASTER_00278,1896-97,NS 31,"Forke, A.",40,40-60,,Philosophy,Wang - chung and Plato on death and immortality,1896,1897,,y,,,XXXIII_1896_02,source_a,y,,
+MASTER_00279,1896-97,NS 31,"Kingsmill, T. W.",61,61-72,,Ethnology,"Chinese system of family relationship and its Aryan affinities, The",1896,1897,,y,,,,,y,,
+MASTER_00280,1896-97,NS 31,"Taylor, F. E.",73,73-80,,Numismatics,Scarcity of copper cash and the rise in prices,1896,1897,,y,,,,,y,,
+MASTER_00281,1896-97,NS 31,"Mollendorf, P. G. von",81,81-101,,Literature,"Limitations of comparative philology, On the",1896,1897,,y,,,,,y,,
+MASTER_00282,1896-97,NS 31,"Carles, W. R.",102,102-115,,Telecommunication,"Grand Canal of China, The",1896,1897,,y,,,XXXIII_1896_06,source_a,y,,
+,1898-1899,NS 32,Thos. W. KINGSMILL,1,"1,35",,Manners and customs,"THE CHINESE CALENDAR: ITS ORIGIN, HISTORY AND CONNECTIONS.",1898,1899,,y,,,,,n,,
+,1898-1899,NS 32,BYRON BRENAN,36,"36,65",,Government,THE OFFICE OF DISTRICT MAGISTRATE IN CHINA.,1898,1899,,y,,,,,n,,
+,1898-1899,NS 32,NATALIS RONDOT,66,"66,78",,Art,ON THE CHINESE COINS AND SMALL PORCELAIN BOTTLES FOUND IN EGYPT.,1898,1899,,y,,,,,n,,
+,1898-1899,NS 32,E. BRASS,79,"79,92",,Agriculture,SEALING AND WHALING IN THE NORTHERN PACIFIC.,1898,1899,,y,,,,,n,,
+MASTER_00287,1900-1901,NS 33,"Bourne, F. S. A.",1,"1,10",,Government,Possible and impossible reforms,1900,1901,,y,,#5 - Journal of the North China Branch of the Royal Asiatic ... v. 32-33 1898/1899-1900/1901. - Full View | HathiTrust Digital Library,VOL . XXXIII .1900-1901,source_b,y,,
+MASTER_00288,1900-1901,NS 33,"Williams, E. T.",11,"11,29",,Religion,Some popular religious literature of the Chinese,1900,1901,,y,,,,,y,,
+MASTER_00289,1900-1901,NS 33,"Bushell, S. W.",30,30-45,,Numismatics,Additional coins of the present dynasty *,1900,1901,,y,,,,,y,,
+MASTER_00290,1900-1901,NS 33,"Edkins, J.",46,46-55,,Philosophy,"Siun King, the philosopher, and his relations with contemporary schools of thought",1900,1901,,y,,,,,y,,
+MASTER_00291,1900-1901,NS 33,"Betts, G. E.",84,84-104,,Ethnology,Social life of the Miao Tsi,1900,1901,,y,"MIAO TSI., Miao zi/Miao zu, 苗子/苗族",,,,y,,
+MASTER_00292,1900-1901,NS 33,"Vale, J.",105,105-119,,Agriculture,Irrigation of the Ch'eng tu Plain,1900,1901,,y,"CH'ENG TU PLAIN, Chengdu Plain, 成都平原",,,,y,,
+MASTER_00293,1900-1901,NS 33,"Moule, G. E.",120,120-156,,Confucianism,"Notes on the Ting - chi, or half - yearly sacrifice to Confucius *",1900,1901,,y,,,XXXIII_1899_03,source_a,y,,
+MASTER_00294,1900-1901,NS 33,"Mencarini, J.",157,157-184,,Economics,"Philippine Chinese labour question, The",1900,1901,,y,,,,,y,,
+MASTER_00295,1900-1901,NS 33,"Macklin, W. E.",236,236-260,,Philosophy,Mencius and some other reformers of China,1900,1901,,y,,,,,y,,
+MASTER_00296,1900-1901,NS 33,"Walshe, W. G.",261,261-283,,History,"Ancient city of Shaohing, The",1900,1901,,y,"SHAOHING, Shaoxing, 绍兴; Cheh-kiang, Zhejiang Province, 浙江省",,,,y,,
+MASTER_00297,1901-1902,NS 34,"Forke, A.",1,1-100,,Philosophy,"Chinese sophists, The",1901,1902,,y,,,XXXIV_1901_01,source_a,y,,
+MASTER_00298,1901-1902,NS 36,"Box, E.",101,101-135,,Folkore,Shanghai folk - lore,1901,1902,,y,,,,,y,,
+MASTER_00299,1901-1902,NS 34,"Kingsmill, T. W.",136,136-141,,Ethnology,"Hirth, Dr. F., and the Hiung Nu",1901,1902,,y,,,,,y,,
+MASTER_00300,1903-1904,NS 35,"Edkins, J.",1,"1,20",,Biography,"Kwo Tsi, an eminent military commander of the Tang Dynasty",1903,1904,,y,"KWO TSI YI, Guo Ziyi, 郭子仪",,XXXV_1903_01,source_a,y,,
+MASTER_00301,1903-1904,NS 35,"Chalfant, F. H.",21,21-25,,Manners and customs,Standard weights and measures of the Ch ' in Dynasty *,1903,1904,,y,,,XXXV_1903_02,source_a,y,,
+MASTER_00302,1903-1904,NS 35,"Walshe, W. G.",26,26-64,,Manners and customs,Some Chinese funeral customs,1903,1904,,y,,,,,y,,
+MASTER_00303,1903-1904,NS 35,"Ferguson, J. C.",65,65-75,,Biography,Wang An - shih,1903,1904,,y,,,,,y,,
+MASTER_00304,1903-1904,NS 35,"Kingsmill, T. W.",76,76-101,,Ethnology,"Mantses and the Golden Chersonese, The",1903,1904,,y,,,XXXV_1903_05,source_a,y,,
+MASTER_00305,1905,NS 36,"Carey, F. W.",1,1-35,,Travel,Notes of an overland journey from Szemao to Rangoon *,1905,1905,,y,"Szemao, Simao, currently Pu'er, 思茅，今普洱; Rangoon. Yangon, 仰光",,,,y,,
+MASTER_00306,1905,NS 36,"Vale, J.",36,36-50,,Agriculture,Irrigation of the Ch'eng tu Plain and beyond *,1905,1905,,y,"Chen-tu, Chengdu, 成都",,,,y,,
+MASTER_00307,1905,NS 36,"Watson, W. C. H.",51,51-102,,Travel,Journey to Sungp ' an *,1905,1905,,y,"Sungp'an, Songpan, 松潘",,,,y,,
+MASTER_00308,1905,NS 36,"Leavenworth, C. S.",103,103-119,,History,"History of the Loochoo Islands, The",1905,1905,,y,,,,,y,,
+MASTER_00309,1905,NS 36,"Mencarini, J.",120,120-129,,Travel,Java,1905,1905,,y,,,,,y,,
+MASTER_00298,1905,NS 36,"Box, E.",130,130-156,,Mythology,Shanghai folk - lore,1905,1905,,y,,,,,y,,
+MASTER_00310,1906,NS 37,"Martin, W. A. P.",1,46042,5,Judaism,"Jewish monument at Kaifungfu, The",1906,1906,,y,"Kaifungfu. Kaifengfu, 开封府",,XXXVII_1906_01,source_a,y,,
+MASTER_00311,1906,NS 37,"Kingsmill, T. W.",21,21-54,,Ethnology,Ancient Tibet and its frontagers,1906,1906,,y,,,,,y,,
+MASTER_00312,1906,NS 37,"Ferguson, J. C.",55,55-82,,Economics,Notes on Chinese banking system in Shanghai,1906,1906,,y,,,,,y,,
+MASTER_00313,1906,NS 37,"Alabaster, E.",83,83-149,,Law,Notes on Chinese law and practice preceding revision,1906,1906,,y,,,,,y,,
+MASTER_00314,1906,NS 37,"Headland, I. T.",150,150-184,,Manners and customs,Chinese children's games,1906,1906,,y,,,,,y,,
+MASTER_00315,1907,NS 38,"Morse, H. B.",1,1-60,,Numismatics,Currency in China *,1907,1907,,y,,,XXXVIII_1907_01,source_a,y,,
+MASTER_00316,1907,NS 38,"Williams, E. T.",61,61-96,,Law,Witchcraft in the Chinese penal code,1907,1907,,y,,,XXXVIII_1907_02,source_a,y,,
+MASTER_00317,1907,NS 38,"Faber, E.",97,97-164,,Botany,Contribution to the nomenclature of Chinese plants,1907,1907,,y,,,,,y,,
+MASTER_00318,1907,NS 38,"Kingsmill, T. W.",165,165-215,,Astronomy,"Two zodiacs (solar and lunar), their origin and connections, The",1907,1907,,y,,,,,y,,
+MASTER_00319,1908,NS 39,"Moule, A. C.",1,1-160,,Music,"List of the musical and other sound - producing instruments of the Chinese, A *",1908,1908,,y,,,XXXIX_1908_01,source_a,y,,
+MASTER_00320,1909,NS 40,"Alexeieff, V.",1,46031,,Archaeology,Archaeological survey of the environs of China's ancient capitals,1909,1909,,y,,,XL_1909_01,source_a,y,,v.40-42 1909-1911.pdf
+MASTER_00321,1909,NS 40,"Parker, E. H.",10,10-43,,Law,"The Principles of Chinese law and equity, ",1909,1909,,y,,,XL_1909_02,source_a,y,,v.40-42 1909-1911.pdf
+MASTER_00322,1909,NS 40,"Arnold, J. H.",44,44-68,,Travel,"The Ascent of Mt. Morrison (Niitaka Yama),",1909,1909,,y,,,,,y,,v.40-42 1909-1911.pdf
+MASTER_00323,1909,NS 40,"Touche, J. D. D. La",69,69-107,,Zoology,"Collection of birds in the Shanghai Museum, The",1909,1909,,y,,,XL_1909_04,source_a,y,,v.40-42 1909-1911.pdf
+MASTER_00325,1910,NS 41,"Hall, J. C.",1,"1,25",185,Confucianism,"Confucian reformers in Japan in the 18th Century, The (Trans. of Dazai's "" Exposition of Doctrine "")",1910,1910,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401513&seq=187,_1910_01,source_b,y,,v.40-42 1909-1911.pdf
+MASTER_00326,1910,NS 41,"Kingsmill, T. W.",26,26-56,,Music,"Music of China, The *",1910,1910,,y,,,,,y,,v.40-42 1909-1911.pdf
+MASTER_00327,1910,NS 41,"Moule, A. C.",,,,Christianity,Notices of the Nestorian missions from Chinese sources other than the Christian monument *,1910,1910,,n,,,,,y,,v.40-42 1909-1911.pdf
+MASTER_00328,1910,NS 41,"Torrance, T.",57,57-76,,Manners and customs,Burial customs in Sz - chuan *,1910,1910,,y,,,,,y,,v.40-42 1909-1911.pdf
+MASTER_00324,1910,NS 41,"Moule, A. C.",76,76-116,,Archaeology,"Christian monument at Hsi - an - fu, The",1910,1910,,y,,,,,y,,v.40-42 1909-1911.pdf
+MASTER_00329,1911,NS 42,"Williams, F. W. (ed.)",,,,Contemporary History,The journal of the S. Wells Williams (April 1858 - January 1860),1911,1911,,y,,,,,y,,v.40-42 1909-1911.pdf
+MASTER_00330,1912,NS 43,"Moule, A. C.",1,46112,,Religion,T'ai Shan *,1912,1912,,y,"TAI SHAN, 泰山",,,,y,,v.43-45 1912-14.pdf
+MASTER_00331,1912,NS 43,"Reymond, C. du Bois",32,32-43,,Manners and customs,Notes on Chinese archery,1912,1912,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00332,1912,NS 43,"Warren, G. G.",44,44-62,,Archaeology,Three sites in Hunan connected with the classical legendary history of China *,1912,1912,,y,,,XLIII_1912_03,source_a,y,,v.43-45 1912-14.pdf
+MASTER_00333,1912,NS 43,"Stanley, A.",65,63-68,,Decorative arts,Chinese art metal work *,1912,1912,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00334,1912,NS 43,"Hodous, L.",69,69-80,,Manners and customs,"Great Summer Festival of China as observed in Foochow, The",1912,1912,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00335,1912,NS 43,"McCormick, F.",129,129-188,,Art,China's monuments,1912,1912,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00336,1913,NS 44,"Stanley, A.",65,65-76,,Decorative arts,Chinese embroidery and other textile work *,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00337,1913,NS 44,,,,,Art,Corrections and notes,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00337,1913,NS 44,,,,,Christianity,Corrections and notes,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00338,1913,NS 44,Timothy Richard.Litt.D.,,,,Literature,Introduction to a great Chinese epic or religious allegory by Ch'iu Ch'ang Ch ' un,1913,1913,,n,,,,,y,,v.43-45 1912-14.pdf
+,1913,NS 45,Timothy Richard.Litt.D.,1,46032,,Literature,One of the World's Literary Masterpieces,1913,1913,,y,,,,,y,y,v.43-45 1912-14.pdf
+MASTER_00340,1913,NS 44,"Williams, E. T.",11,11-45,,Confucianism,"State religion of china during the Manchu Dynasty, The *",1913,1913,,y,,https://babel.hathitrust.org/cgi/pt?id=chi.13256147&seq=313,_1913_02,source_b,y,,v.43-45 1912-14.pdf
+MASTER_00341,1913,NS 44,"Henke, F. G.",46,46-64,,Philosophy,The philosophy of Wang Yang Ming,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+,1913,NS 45,"Stanley, A.",65,65-75,,Art,Chinese Embroidery and Other Art Textile Work,1913,1913,,y,,,,,n,y,v.43-45 1912-14.pdf
+MASTER_00339,1913,NS 44,"Parker, E. H.",76,76-99,,History,Mongolia after the Genghizides and before the Manchus,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00342,1913,NS 44,"Shields, E. T.",100,100-109,,Travel,Omei San : the sacred mountain of West China,1913,1913,,y,,https://babel.hathitrust.org/cgi/pt?id=chi.13256147&seq=432,_1913_07,source_b,y,,v.43-45 1912-14.pdf
+MASTER_00343,1913,NS 44,"N. G. Moffett, L. I. and Gee,",,,,Zoology,Check list of birds of the Lower Yangtze valley from Hankow to the sea,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00344,1913,NS 44,"Richmond, C. W.",,,,Zoology,Appendix,1913,1913,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00345,1914,NS 45,"Wilhelm, R.",1,46034,,Taoism,On the Sources of Chinese Taoism,1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00346,1914,NS 45,"Ferguson, J. C.",13,13-20,,Painting,""" Ink Remains "", by An I - chou",1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00347,1914,NS 45,"Stanley, A.",21,21-31,,Zoology,"Collection of Chinese reptiles in the Shanghai Museum, The",1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00348,1914,NS 45,"Edgar, J. H.",32,32-45,,Geology,from Batang to Menkong * Through the land of deep corrosions,1914,1914,,y,"BATANG, 巴塘; MENKONG, Mangkang, 芒康",,,,y,,v.43-45 1912-14.pdf
+MASTER_00349,1914,NS 45,"Edgar, J. H.",46,46-56,,Hydrology,The Great wall,1914,1914,,y,"HUANGHO, Yellow River, 黄河",,,,y,,v.43-45 1912-14.pdf
+MASTER_00350,1914,NS 45,"Edgar, J. H.",57,57-64,,Meteorology,Notes on temperatures in high altitudes on the Tibetan border,1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00351,1914,NS 45,"Couling, S.",65,65-75,,Archaeology,"Oracle - bones from Honan, The *",1914,1914,,y,"HONAN, Henan Province, 河南省",,,,y,,v.43-45 1912-14.pdf
+MASTER_00352,1914,NS 45,"Stanley, A.",76,76-84,,Decorative arts,Chinese wood carving *,1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00353,1914,NS 45,"Reymond, C. du Bois",85,85-90,,Art,"Chinese sun - dial, A *",1914,1914,,y,,,XLV_1914_10,source_a,y,,v.43-45 1912-14.pdf
+MASTER_00354,1914,NS 45,""" Ardsheal "" Sections i - xix *",91,91-109,,Literature,Reminiscenes of a Chinese Viceroy's secretary,1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00355,1914,NS 45,"Lobingier, C. S.",110,110-123,,Law,"Bibliographical introduction to the study of Chinese law, A",1914,1914,,y,,,,,y,,v.43-45 1912-14.pdf
+MASTER_00356,1914,NS 45,"Moule, A. C.",124,124-125,,"Chronology, Historical","Table of the Emperors of the Yuan Dynasty, A",1914,1914,,y,,,XLV_1914_13,source_a,y,,v.43-45 1912-14.pdf
+MASTER_00357,1915,NS 46,"Stanley, A.",1,46038,,Archaeology,Putoshan *,1915,1915,,y,,,,,y,,
+MASTER_00358,1915,NS 46,"Moule, A. C.",17,17-45,,Christianity,Notices of Christianity in China. Extracted from Marco Polo *,1915,1915,,y,,,XLVI_1915_02,source_a,y,,
+MASTER_00359,1915,NS 46,"Bradley, C. B.",38,38-44,,Literature,"Tone - accents of two Chinese dialects, The *",1915,1915,,n,,,,,y,,
+MASTER_00360,1915,NS 46,"Couling, S.",45,45-57,,Architecture,Chinese pagodas,1915,1915,,y,,,,,y,,
+MASTER_00361,1915,NS 46,"Hodous, L.",58,58-60,,Manners and customs,"Ch'ing Ming Festival, The",1915,1915,,y,,,,,y,,
+MASTER_00362,1915,NS 46,"Translated by "" Ardsheal "" Sections",61,61-76,,Literature,Reminiscenes of a Chinese Viceroy's secretary,1915,1915,,y,,,,,y,,
+MASTER_00363,1915,NS 46,"Warren, G. G.",77,77-100,,Antiquities,The Wu Pan tablet,1915,1915,,y,,,,,y,,
+MASTER_00364,1915,NS 46,"Tyler, W. F.",101,101-116,,Astronomy,"On a large meteorite February 13, 1915 *",1915,1915,,y,,,XLVI_1915_09,source_a,y,,
+MASTER_00366,1916,NS 47,"Ferguson, J. C.",,,,Bronzes,Early Chinese bronzes *,1916,1916,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00365,1916,NS 47,"Warren, G. G.",39,,,Literature,M.Chavannes ' editions of Ssu - ma Chien,1916,1916,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=52,_1916_02,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00368,1916,NS 47,"Ward, F. K.",,,,Botany,Notes on the flora of the W. Ssuch ' uan Mountains,1916,1916,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00367,1916,NS 47,"Annandale, N.",,,,Zoology,"Freshwater sponges from the T'ai Hu (Great Lake) of the Kiangsu Province, China",1916,1916,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=89,_1916_04,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00369,1916,NS 47,"Sowerby, A. de C.",,,,Zoology,Recent research upon the mammalia of North China,1916,1916,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00372,1916,NS 47,"Stanley, A.",,,,Zoology,Two new species of Chinese snakes *,1916,1916,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00370,1916,NS 47,"Parker, A. P.",,,,History,Some notes on the history and folk lore of old Shanghai,1916,1916,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00371,1916,NS 47,"Latourette, K. S.",,,,History,Survey of the work by Western students of Chinese history,1916,1916,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00389,1917,NS 48,"Inglis, J. W.",1,46034,#227p183,Buddhism,"Vows of Amida, The",1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00384,1917,NS 48,"Inglis, J. W.",12,46371,,Buddhism,"Nestorian share in Buddhist translation, The",1917,1917,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=258,_1917_02,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00381,1917,NS 48,"Chatley, H.",16,16-28,,Religion,Magical practice in China,1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00376,1917,NS 48,"Hodous, L.",29,29-41,,Mythology,"Dragon, The",1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00375,1917,NS 48,"Edgar, J. H.",42,42-56,,Ethnology,"Country and some customs of the Szechwan Mantze, The",1917,1917,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=292,_1917_06,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00387,1917,NS 48,"Ayscough, F. W.",57,57-70,,Religion,Shrines of History. Peak of the East T'ai Shan *,1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00380,1917,NS 48,"Laver, H. E.",71,71-82,,Zoology,Land birds and others met with at sea off the coast of China in 1915,1917,1917,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=323,_1917_08,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00382,1917,NS 48,"Stanley, A.",83,83-84,,Art,"Method of making ink rubbings, The *",1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00388,1917,NS 48,"Edgar, J. H.",85,85-87,,Archaeology,Stone implements on the Upper Yangtze and Min Rivers *,1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00383,1917,NS 48,"Couling, S.",88,88-90,,Literature,"Morrison Library, The G. E.",1917,1917,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=344,_1917_11,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00379,1917,NS 48,"Lanning, G.",91,91-114,,Language and languages,"Kinship of the English and Chinese languages, The",1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00378,1917,NS 48,,115,115-117,,Buddhism,Introduction to the Buddhist library of Huen chwang by the Emperor Tai Tsung,1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00374,1917,NS 48,"Ros, G.",118,118-144,,Numismatics,Coins of the Republic of China *,1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00385,1917,NS 48,"Segalen, V.",145,145-162,,Sculpture,Recent discoveries in ancient Chinese sculpture *,1917,1917,,y,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00377,1917,NS 48,"Ferguson, J. C.",163,163-170,,Bronzes,Four examples of Chinese bronze statuary *,1917,1917,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=453,_1917_17,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00386,1917,NS 48,"Wright, H. K.",171,171-188,,Religion,"Religious element in the Tso Chuan, The",1917,1917,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401570&seq=465,_1917_18,source_b,y,,v.47-48 1916-1917.pdf
+MASTER_00373,1917,NS 48,"Ferguson, J. C.",,,,Painting,""" Ink Remains "" by An I - chou, See also N. Q.",1917,1917,,n,,,,,y,,v.47-48 1916-1917.pdf
+MASTER_00390,1918,NS 49,"Chatley, H.",1,46034,1,Hydrology,River problems in China *,1918,1918,,y,,,,,y,,
+MASTER_00391,1918,NS 49,"Laver, H. E.",13,13-37,,Zoology,"Some notes on land - birds, including also general remarks on the birds observed at sea on the coast of China in 1916",1918,1918,,y,,,XLIX_1918_02,source_a,y,,
+MASTER_00392,1918,NS 49,"Zwemer, S. M.",38,38-52,,Islam,Animistic elements in Moslem prayer,1918,1918,,y,,,,,y,,
+MASTER_00393,1918,NS 49,"Ling, P. C.",53,53-75,,Taoism,"Eight Immortals of the Taoist religion, The",1918,1918,,y,,,,,y,,
+MASTER_00394,1918,NS 49,"Hodous, L.",76,76-81,,Manners and customs,"Kite Festival in Foochow, China, The",1918,1918,,y,"FOOCHOW, Fuzhou, 福州市",,,,y,,
+MASTER_00395,1918,NS 49,"Harding, H. L.",82,82-85,,Manners and customs,On a method of divination practised at Foochow,1918,1918,,y,,,XLIX_1918_06,source_a,y,,
+MASTER_00396,1918,NS 49,"Ottewill, H. A.",86,86-92,,Manners and customs,"Note on the Tu Ti'en Hui held at Chinkiang on the 31st May, 1917",1918,1918,,y,"CHINKIANG, Zhenjiang, 镇江市",,XLIX_1918_07,source_a,y,,
+MASTER_00397,1918,NS 49,Hutson J.,93,93-100,,Religion,"Domestic altar, The",1918,1918,,y,,,,,y,,
+MASTER_00398,1918,NS 49,"Ferguson, J. C.",101,101-110,,Painting,Ku K'ai - chih's scroll in the British Museum *,1918,1918,,y,"KU K'AI-CHIH, Gu Kaizhi, 顾恺之",,,,y,,
+MASTER_00399,1918,NS 49,"Bruce, J. P.",111,111-127,,Philosophy,"Theistic import of the Sung philosophy, The",1918,1918,,y,,,XLIX_1918_10,source_a,y,,
+MASTER_00400,1918,NS 49,"Morgan, E.",128,128-143,,Religion,"Case of ritualism, A",1918,1918,,y,,,,,y,,
+MASTER_00401,1918,NS 49,"Kliene, C.",144,144-159,,History,Chinese puzzledom,1918,1918,,y,,,,,y,,
+MASTER_00402,1919,NS 50,"Edmunds, C. K.",1,46047,,Travel,Thirty thousand miles in China *,1919,1919,,y,,,,,y,,
+MASTER_00403,1919,NS 50,"Williams, C. A. S.",26,26-34,,Literature,Chinese metaphorical zoology,1919,1919,,y,,,L_1919_02,source_a,y,,
+MASTER_00404,1919,NS 50,"Lobingier, C. S.",35,35-48,,Ethnology,"Early Malays and their neighbours, The",1919,1919,,y,,,,,y,,
+MASTER_00405,1919,NS 50,"Skvortzow, B. W.",49,49-107,,Agriculture,"Notes on the agriculture, botany and the zoology of China, Sections i - xxxii *",1919,1919,,y,,,,,y,,
+MASTER_00406,1919,NS 50,"Kliene, C.",108,108-121,,Literature,"Land of Peach Bloom, The",1919,1919,,y,,,,,y,,
+MASTER_00407,1919,NS 50,"Ferguson, J. C.",122,122-132,,Literature,Recent books by a Chinese scholar,1919,1919,,y,,,,,y,,
+MASTER_00408,1919,NS 50,Yan Taz Chiu,133,133-143,,Agriculture,Chemical industry in Kwangtung Province,1919,1919,,y,"KWANG-TUNG PROVINCE. Guangdong Province, 广东省",,,,y,,
+MASTER_00409,1919,NS 50,"Kellogg, C. R.",144,144-157,,Zoology,"List of the birds in the Museum of the Anglo - Chinese College of Foochow, China",1919,1919,,y,,,L_1919_08,source_a,y,,
+MASTER_00410,1919,NS 50,,158,158-161,,Travel,Formosa,1919,1919,,y,,,,,y,,
+MASTER_00411,1919,NS 50,"Moore, A.",162,162-169,,Zoology,"Attractions of entomology, The",1919,1919,,y,,,,,y,,
+MASTER_00412,1919,NS 50,"Gee, N. G.",170,170-184,,Botany,"Beginning of the study of the flora and fauna of Soochow and vicinity, A",1919,1919,,y,,,,,y,,
+MASTER_00413,1919,NS 50,"King, G. E.",185,185-188,,Travel,Notes on Kansu,1919,1919,,y,"KANSU, Gansu Province, 甘肃省",,,,y,,
+MASTER_00414,1919,NS 50,"Howell, E. B.",189,189-190,,Art,"Exhibition of pictures by a Russian artist, An *",1919,1919,,y,,,L_1919_13,source_a,y,,
+MASTER_00415,1920,NS 51,"Dodd, W. C.",1,46034,,Ethnology,"Relation of Chinese and Siamese, The *",1920,1920,,y,,,,,y,,
+MASTER_00416,1920,NS 51,"Stanley, A.",13,13-24,,Art,Greek and Chinese art ideals,1920,1920,,y,,,,,y,,
+MASTER_00417,1920,NS 51,"Morgan, E.",25,25-44,,Philosophy,"Destiny, fate",1920,1920,,y,,,,,y,,
+MASTER_00418,1920,NS 51,"Chatley, H.",45,45-50,,Geology,China's petrified sun - rays,1920,1920,,y,,,,,y,,
+MASTER_00419,1920,NS 51,Hutson J.,51,51-80,,Art,Chinese ideas of antiques,1920,1920,,y,,,,,y,,
+MASTER_00420,1920,NS 51,"Lanning, G.",81,81-98,,History,Names and nicknames of the Shanghai settlements,1920,1920,,y,,,,,y,,
+MASTER_00421,1920,NS 51,"Ayscough, F. W.",99,99-134,,Literature,Chinese poetry and its connotations *,1920,1920,,y,,,,,y,,
+MASTER_00422,1920,NS 51,"Skvortzow, B. W.",135,135-158,,Agriculture,"Notes on the agriculture, botany and the zoology of China, Sections xxxiii- xxxviii *",1920,1920,,y,,,,,y,,
+MASTER_00423,1920,NS 51,"Mason, I.",159,159-180,,Islam,"Chinese life of Mohammed, A",1920,1920,,y,,,,,y,,
+MASTER_00424,1921,NS 52,"Morgan, E.",1,1-39,5,Taoism,"Operations and manifestations of the Tao exemplified in history, The",1921,1921,,y,,,,,y,,
+MASTER_00425,1921,NS 52,"Moninger, M. M.",40,40-50,,Ethnology,"Hainanese Miao, The *",1921,1921,,y,"HAINANESE MIAO, 海南省苗人",,LII_1921_02,source_a,y,,
+MASTER_00426,1921,NS 52,"Ayscough, F. W.",51,51-78,,Travel,Notes on the symbolism of the Purple Forbidden City *,1921,1921,,y,,,,,y,,
+MASTER_00427,1921,NS 52,"Skvortzow, B. W.",79,79-111,,Agriculture,"Notes on the agriculture, botany and the zoology of China, Sections xxxix - xlvi *",1921,1921,,y,,,,,y,,
+MASTER_00428,1921,NS 52,"Wilkinson, H. P.",112,112-136,,Ethnology,Exogamy in China,1921,1921,,y,,,LII_1921_05,source_a,y,,
+MASTER_00429,1921,NS 52,"Morse, H. B.",137,137-138,,Geography,"Lampacao, a mystery of the Far East",1921,1921,,y,"Lampacao, Lampacau, 	浪白澳",,LII_1921_06,source_a,y,,
+MASTER_00430,1921,NS 52,"Kliene, C.",139,139-155,,Literature,"Marriage maker, The",1921,1921,,y,,,,,y,,
+MASTER_00431,1921,NS 52,"Kemp, E. G.",156,156-185,,Travel,"Highways and byways of Kweichow, The *",1921,1921,,y,"KWEICHOW, Guizhou, 贵州省",,,,y,,
+MASTER_00432,1921,NS 52,"Werner, E. T. C.",186,186-191,,Christianity,"Christ in the "" Li Tai Shen Hsien T'ung Chien """,1921,1921,,y,"LI TAI SHEN HSIEN T’UNG CHIEN, Li Dai Shen Xian Tong Jian, 历代神仙通鉴",,LII_1921_09,source_a,y,,
+MASTER_00433,1921,NS 52,"Fletcher, W. J. B.",192,192,,Literature,"Trip to Hua Kang, A",1921,1921,,y,,,LII_1921_10,source_a,y,,
+MASTER_00434,1921,NS 52,"Fletcher, W. J. B.",193,193,,Literature,"Song of a skirt, The",1921,1921,,y,,,LII_1921_11,source_a,y,,
+MASTER_00435,1922,NS 53,"Sowerby, A. de C.",1,46042,#533,Zoology,"Natural history of China, The",1922,1922,,y,,,,,y,,
+MASTER_00436,1922,NS 53,Heidenstem,21,21-36,,Geology,"Growth of the Yangtze delta, The *",1922,1922,,y,,,,,y,,
+MASTER_00437,1922,NS 53,Hutson J.,37,37-60,,Archaeology,"Shuh country, The",1922,1922,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=51,_1923-1924_06,source_b,y,,
+MASTER_00438,1922,NS 53,"Edgar, J. H.",61,61-68,,Ethnology,Notes on names of non - Chinese tribes in Western Szechwan,1922,1922,,y,,,,,y,,
+MASTER_00439,1922,NS 53,"Edgar, J. H.",68,68-69,,Religion,Note on Chiang sacrifice and litholatry,1922,1922,,n,,,,,y,,
+MASTER_00440,1922,NS 53,"Ferguson, J. C.",70,70-83,,Literature,""" Fir - flower Tablets """,1922,1922,,y,,,,,y,,
+MASTER_00441,1922,NS 53,"Hudson, E.",84,84-92,,Literature,Lan - tsih *,1922,1922,,y,,,,,y,,
+MASTER_00442,1922,NS 53,"Gaunt, T.",93,93-94,,Literature,Ling Yin monastery poem,1922,1922,,y,,,,,y,,
+MASTER_00443,1922,NS 53,"Norin, E.",95,95-104,,Geology,Notes on the coal and Iron Ore deposits of Central Shansi,1922,1922,,y,,,,,y,,
+MASTER_00444,1922,NS 53,"Hers, J.",105,105-117,,Botany,Chinese names of plants ; a preliminary list of the trees and shrubs of North Honan,1922,1922,,y,,,,,y,,
+MASTER_00445,1922,NS 53,"Jacot, A. P.",118,118-130,,Zoology,"Oribatoidae Sinensis, Part I",1922,1922,,y,,,,,y,,
+MASTER_00446,1922,NS 53,"Sjolander, D.",131,131-157,,Zoology,"Distribution and habits of the Argali sheep of Central Asia, The *",1922,1922,,y,,,,,y,,
+MASTER_00447,1922,NS 53,"Cowdry, N. H.",158,158-188,,Botany,Plants from Peitaiho,1922,1922,,y,,,,,y,,
+MASTER_00448,1922,NS 53,"Skvortzow, B. W.",189,189-195,,Agriculture,"Notes on the agriculture, botany and the zoology of China, Sections xlvii - xlix *",1922,1922,,y,,,,,y,,
+MASTER_00449,1922,NS 53,"Riley, J. H. and Richmond, C. W.",196,196-237,,Zoology,"Partial bibliography of Chinese birds, A",1922,1922,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=271,_1923-1924_17,source_b,y,,
+MASTER_00450,1922,NS 53,"Werner, E. T. C.",238,238-246,,Christianity,"Christ in the "" Li Tai Shen Hsien Tung Chien "" *",1922,1922,,y,,,,,y,,
+MASTER_00451,1923,NS 54,"Budd, C.",1,46024,,Literature,"Snowstorm, A",1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00452,1923,NS 54,"Jamieson, C. A.",3,46093,,Literature,Chu - goh Leang and the arrows,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00453,1923,NS 54,"Hudson, E.",13,13,,Literature,"Drought, The",1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00454,1923,NS 54,"Hudson, E.",14,14,,Literature,Then and now,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00455,1923,NS 54,"Hudson, E.",15,15,,Literature,"Night in the mountains, A",1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00456,1923,NS 54,"Stael - Holstein, Baron A. von",16,16-24,,Buddhism,Hsuan - tsang and modern research,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00457,1923,NS 54,Hutson J.,25,25-54,,Archaeology,The Shuh country,1923,1923,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=51,_1923-1924_06,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00458,1923,NS 54,"Ferguson, J. C.",55,55-64,,Art,"Culture, the basis of Chinese art",1923,1923,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=81,_1923-1924_07,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00459,1923,NS 54,"Chatley, H.",65,65-80,,Science,Science in old China *,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00460,1923,NS 54,"Fischer, E. S.",81,81-113,,Travel,Modern travel from Tai Yuan Fu via Mount Wu Tai to the Mongolian frontier,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00461,1923,NS 54,"Darroch, J.",114,114-128,,Biography,A page of ancient Chinese history,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00462,1923,NS 54,"Ayscough, F. W.",129,129-149,,Travel,"Preliminary notes on the literary background of the "" Great River """,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00463,1923,NS 54,"Torrance, T.",150,150-167,,Religion,"Religion of the Ch'iang, The *",1923,1923,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=192,_1923-1924_12,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00464,1923,NS 54,"Jacot, A. P.",168,168-181,,Zoology,"Oribatoidae Sinensis, Part II",1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00465,1923,NS 54,"Heeren, J. J.",182,182-199,,Christianity,Bishop Della Chiesa and the story of his lost grave *,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00466,1923,NS 54,"Kliene, C.",200,200-224,,Ethnology,Some similarities in Chinese and ancient Egyptian culture,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00467,1922,NS 54,"Riley, J. H. and Richmond, C. W.",225,225-226,,Zoology,"Partial bibliography of Chinese birds, A (complementary to the List given in Vol 53, pp. 196-237)",1922,1922,,y,,,,,y,,
+MASTER_00468,1923,NS 54,"Morgan, E.",227,227-228,,Manners and customs,How tonnage was measured in ancient China,1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00469,1923,NS 54,"Morgan, E.",229,229-245,,Taoism,"Taoist superman, The",1923,1923,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00470,1923,NS 54,"Shirokogoroff, S. M.",246,246-249,,Religion,General theory of shamanism among the Tungus,1923,1923,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=292,_1923-1924_18,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00471,1923,NS 54,"Werner, E. T. C.",250,250-267,,Religion,Chinese composite deities,1923,1923,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=296,_1923-1924_19,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00472,1924,NS 55,"Shirokogoroff, S. M.",1,46035,,Ethnology,Who are the Northern Chinese ?,1924,1924,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=383,_1923-1924_20,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00473,1924,NS 55,"Ferguson, J. C.",14,14-27,,Ethnology,Southern Migration of the Sung Dynasty,1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00474,1924,NS 55,"Warren, G. G.",28,28-44,,Philosophy,Was Chu Hsi a materialist ?,1924,1924,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=410,_1923-1924_22,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00475,1924,NS 55,"Chatley, H.",45,45-59,,Folklore,"Dead Hand in China, The",1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00476,1924,NS 55,"Torrance, T.",60,60-65,,Agriculture,Origin and history of the irrigation work of the Chengtu Plain,1924,1924,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=442,_1923-1924_24,source_b,y,,v.55-56 1924-1925.pdf
+MASTER_00477,1924,NS 55,"Torrance, T.",66,66-77,,Geography,History of Shuh a free translation of the Shuh Chi,1924,1924,,y,,https://babel.hathitrust.org/cgi/pt?id=mdp.39015030676376&seq=448,_1923-1924_25,source_b,y,,v.54-55 1923-24.pdf
+MASTER_00478,1924,NS 55,"Jacot, A. P.",78,78-83,,Zoology,"Oribatoidea Sinensis, Part III",1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00479,1924,NS 55,"Hayes, L. N.",84,84-104,,China--Religion,"Gods of the Chinese, The",1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00480,1924,NS 55,"Mironov, N. D. and Shirokogoroff, S. M.",105,105-130,,Folklore,Sramana - Shaman,1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00481,1924,NS 55,"Ayscough, F. W.",131,131-155,,China--Religion,Cult of the Ch'eng Huang Lao Yeh,1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00482,1924,NS 55,"Wilder, G. D. and Hubbard, H. W.",156,156-239,,Zoology,List of the birds of Chihli Province,1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00483,1924,NS 55,"Shirokogoroff, S. M.",261,261-269,,East Asian languages,Critical bibliographical notes : study of the Tungus languages,1924,1924,,y,,,,,y,,v.54-55 1923-24.pdf
+MASTER_00484,1925,NS 56,"MacNair, H. F.",1,46051,,Asia,Some observation on China's international relations,1925,1925,,y,,,,,y,,v.55-56 1924-1925.pdf
+MASTER_00485,1925,NS 56,"Sheppard, G. W. (ed.)",30,30-31,,Literature,"Edict of Ch ' in Shih Huang, A",1925,1925,,y,,,,,y,,v.55-56 1924-1925.pdf
+MASTER_00486,1925,NS 56,"Pott, F. L. H.",32,32-50,,Philosophy,"Teaching of Micius, The",1925,1925,,y,,,,,y,,v.56-57 1925-1926.pdf
+MASTER_00487,1925,NS 56,"Dovey, J. W.",51,51-69,,China--Religion,"Life and times of Confucius, The",1925,1925,,y,,,,,y,,v.56-57 1925-1926.pdf
+MASTER_00488,1925,NS 56,"Barbour, G. B.",70,70-75,,Geology,"Springs of Tsinanfu, The",1925,1925,,y,,,,,y,,v.55-56 1924-1925.pdf
+MASTER_00489,1925,NS 56,"Jacot, A. P.",76,76-79,,Zoology,Shantung foraminifera,1925,1925,,y,,,,,y,,v.56-57 1925-1926.pdf
+MASTER_00490,1925,NS 56,"Werner, E. T. C.",80,80-86,,Geography,"Burial place of Genghis Kwan, The",1925,1925,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401695&seq=440,_1925_07,source_b,y,,v.55-56 1924-1925.pdf
+MASTER_00491,1925,NS 56,"Heeren, J. J.",87,87-109,,Religion,Some new light on the life and times of Bishop Della Chiesa,1925,1925,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401695&seq=451,_1925_08,source_b,y,,v.56-57 1925-1926.pdf
+MASTER_00492,1925,NS 56,"Ferguson, J. C.",110,110-133,,Literature,"Stories in Chinese paintings, I",1925,1925,,y,,,,,y,,v.55-56 1924-1925.pdf
+MASTER_00493,1925,NS 56,"Werner, E. T. C.",134,134-148,,China--Religion,Rebuttal notes on chinese religion and dynastic tombs,1925,1925,,y,,,,,y,,v.55-56 1924-1925.pdf
+MASTER_00494,1925,NS 56,"Gillis, I. V.",149,149-171,,East Asian languages,"Critical review of Chalfant's notes upon the "" Shuo Wen """,1925,1925,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401695&seq=517,_1925_11,source_b,y,,v.55-56 1924-1925.pdf
+MASTER_00495,1925,NS 56,"Mason, I.",172,172-215,,Islam,Notes on Chinese Mohammedan Literature,1925,1925,,y,,,,,y,,v.56-57 1925-1926.pdf
+MASTER_00496,1926,NS 57,"Turner, F. B.",1,46040,,Geology,Flood and famine in North China,1926,1926,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401638&seq=31,_1926-1927_01,source_b,y,,v.57-58 1926-1927.pdf
+MASTER_00497,1926,NS 57,Hosie,19,19-27,,Geography,"Map of China in the making, A",1926,1926,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401638&seq=55,_1926-1927_02,source_b,y,,v.57-58 1926-1927.pdf
+MASTER_00498,1926,NS 57,"Edgar, J. H.",28,28-49,,Geography,"Tibetan and his environment : an interpretation, The",1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00499,1926,NS 57,"Morgan, E.",50,50-56,,"History, Ancient",League of nations in ancient China,1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00500,1926,NS 57,"Ferguson, J. C.",57,57-69,,Asia,General survey of standard Chinese histories,1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00501,1926,NS 57,"Freeman, M.",70,70-91,,Philosophy,"Yen Hsi Chai, a 17th century philosopher",1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00502,1926,NS 57,"Teesdale, J. H.",92,92-109,,Biography,"Li Sin Cheng, the Chung Wang or "" Faithful Prince """,1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00503,1926,NS 57,"Gee, N. G.",110,110-112,,Zoology,Chinese fresh water sponges,1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00504,1926,NS 57,"Torrance, T.",113,113-122,,Zoology,"Chinese cat, The",1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00505,1926,NS 57,"Shirokogoroff, S. M.",123,123-183,,Ethnology,Northern Tungus migrations in the Far East,1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00506,1926,NS 57,"Wilder, G. D. and Hubbard, H. W.",184,184-194,,Zoology,Corrections and additions to the list of the birds of Chihli Province,1926,1926,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401638&seq=222,_1926-1927_10,source_b,y,,v.57-58 1926-1927.pdf
+MASTER_00507,1926,NS 57,"Werner, E. T. C.",195,195-198,,Antiquities,"Postscript on tomb - destruction, A",1926,1926,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401638&seq=235,_1926-1927_11,source_b,y,,v.57-58 1926-1927.pdf
+MASTER_00508,1926,NS 57,G. S. S. G.,199,199-200,,Antiquities,Some notes on the remains of a phallic shrine in Japan,1926,1926,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00509,1927,NS 58,"Moule, A. C.",1,1-35,#297p255,Asia,"Siege of Saianfu and the murder of Achmach Bailo, The",1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00510,1927,NS 58,"Ferguson, J. C.",36,36-56,,Political science,Political parties of the Northern Sung Dynasty,1927,1927,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401638&seq=348,_1926-1927_15,source_b,y,,v.57-58 1926-1927.pdf
+MASTER_00511,1927,NS 58,"Leung, G. K.",57,57-69,,Literature,Mei Lan - Fang (the man and his art),1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00512,1927,NS 58,"Abraham, R. D.",70,70-81,,Art,"Motives of Chinese art, The",1927,1927,,y,,https://babel.hathitrust.org/cgi/pt?id=coo.31924079401638&seq=388,_1926-1927_17,source_b,y,,v.57-58 1926-1927.pdf
+MASTER_00513,1927,NS 58,"Hudson, E.",82,82-84,,Literature,"Little Lu - fu, and looking at a painting by Wang - tzu",1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00514,1927,NS 58,"Jacot, A. P.",85,85-125,,Zoology,"Genus gueldenstaedtia (leguminoseae), The",1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00515,1927,NS 58,"Morgan, E.",126,126-141,,Biography,Chou - kung ; The Duke of Chou,1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00516,1927,NS 58,"Kojeuroff, G. P.",142,142-157,,Ethnology,Some contributions to the anthropology of the buriats,1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00517,1927,NS 58,"Couling, C. E.",158,158-171,,China--Religion,"Partriarch Lu, The",1927,1927,,y,,,,,y,,v.57-58 1926-1927.pdf
+MASTER_00518,1928,NS 59,"Mason, I.",1,46044,,"Associations, institutions, etc.",Three score years and ten,1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00519,1928,NS 59,"MacGillivray, D.",23,23-49,,Geography,"Jews of Honan, The",1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00520,1928,NS 59,"Ferguson, J. C.",50,50-58,,Porcelain,Shapes of porcelain vessels,1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00521,1928,NS 59,"Hayes, L. N.",59,59-77,,Geography,The Great Wall of China,1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00522,1928,NS 59,"Freeman, M.",78,78-110,,Political science,"Ch'ing dynasty criticism of Sung politico - philosophy, The",1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00523,1928,NS 59,Wang Kuo Wei,111,111-123,,Folklore,Chinese foot measures of the past nineteen centuries,1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=173,_1928-1929_06,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00524,1928,NS 59,"Meerkerk, M. E. R. F.",124,124-127,,Literature,"A German translation of the Hsi Hsiang Chi, A review",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=190,_1928-1929_07,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00525,1928,NS 59,"Phelps, D. L.",128,128-145,,Education,"Place of Music in the Platonic and Confucian systems of moral education, The",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=194,_1928-1929_08,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00526,1928,NS 59,"Englaender, A. L.",146,146-168,,Geology,"Origin and growth of deserts and the encroachment of the desert on North - China, The",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=212,_1928-1929_09,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00527,1928,NS 59,"White, L. M.",169,169-187,,Religion,Early Christianity in Japan,1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00528,1928,NS 59,"Werner, E. T. C.",188,188-199,,China--Religion,"Origin of the Chinese priesthood, The",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=258,_1928-1929_11,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00529,1928,NS 59,"Jacot, A. P.",200,200-217,,Botany,Contributions from the Herbarium of the Shantung Christian University,1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00530,1928,NS 59,Hu Shih,218,218-230,,Biography,"Wang Mang, the socialist emperor of nineteen centuries ago",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=294,_1928-1929_13,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00531,1928,NS 59,"Biallas, F. X.",231,231-253,,Literature,"K'u Yuan, his life and poems",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=307,_1928-1929_14,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00532,1928,NS 59,"trans. Hudson, E.",254,,,Literature,"Kite's message, The",1928,1928,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00533,1928,NS 59,"Moule, A. C.",256,256-257,,Asia,"Murder of Achmach Bailo, The",1928,1928,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=332,_1928-1929_16,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00534,1929,NS 60,Chang Hsin - hai,1,46041,#447p371,Asia,Some types of Chinese historical thought,1929,1929,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=461,_1928-1929_17,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00535,1929,NS 60,Hu Shih,20,20-41,,China--Religion,"Establishment of Confucianism as a state religion during the Han dynasty, The",1929,1929,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=482,_1928-1929_18,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00536,1929,NS 60,"Mason, I.",,,,Islam,"Mohammedans of China : when, and how they first came, The",1929,1929,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00537,1929,NS 60,"Chatley, H.",,,,Ethnology,Did ancient Chinese culture come from Egypt ?,1929,1929,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00538,1929,NS 60,"Kann, E.",84,84-100,,Political Economy,"Gold in China : in its historical, practical and financial aspects",1929,1929,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=546,_1928-1929_21,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00539,1929,NS 60,"Englaender, A. L.",100,100-114,,Geology,Some notes on Aisa's Ice Age,1929,1929,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=563,_1928-1929_22,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00540,1929,NS 60,"Edgar, J. H.",,,,China--Religion,Did Manicheism influence Lamaism ?,1929,1929,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00541,1929,NS 60,"Liu, J. C.",120,120-126,,Botany,"List of plant names included in the Cowdry Chihli flora, not recorded in the Index Florae Sinensis and its two supplements, A",1929,1929,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=584,_1928-1929_24,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00542,1929,NS 60,"Talbot, R. M.",127,127-128,,Antiquities,"List of legible inscriptions on stones in the foreign cemetery on Double Island, Swatow, 1922",1929,1929,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210006400178&seq=591,_1928-1929_25,source_b,y,,v.59-60 1928-1929.pdf
+MASTER_00543,1929,NS 60,"Morgan, E.",129,,,Art,"The George Eumorfopoulos collection : catalogue of the Chinese and Corean bronzes, sculpture, jades, jewellery and miscellaneous objects : by W. Percival Yetts, A",1929,1929,,y,,,,,y,,v.59-60 1928-1929.pdf
+MASTER_00544,1930,NS 61,"Buxton, D.",,,,"History, Ancient","Light thrown on ancient Chinese history by recent archaeological discoveries, The *",1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00545,1930,NS 61,"Vacca, G.",,,,Science,Some points on the history of science in China *,1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00546,1930,NS 61,"Fischer, E. S.",,,,Geography,"Journey to the Tung Ling and a visit to the desecrated Eastern Mausolea of the Ta Tsing dynasty, in 1929, A",1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00547,1930,NS 61,"Ferguson, J. C.",,,,Literature,"Stories in Chinese painting, II",1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00548,1930,NS 61,"Morgan, E.",,,,East Asian languages,"Language and new thought, or new words for new ideas",1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00549,1930,NS 61,"Chatley, H.",,,,East Asian languages,Can Chinese writing be simplified ?,1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00550,1930,NS 61,"Wells, H. R.",81,81-91,,China--Religion,"Book of changes and genesis, The",1930,1930,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=119,_1930-1931_07,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00551,1930,NS 61,"Soothill, W. E.",92,92-99,,"History, Ancient",Kingship in China *,1930,1930,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=130,_1930-1931_08,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00552,1930,NS 61,"Bruce, P.",,,,China--Religion,The I - Wei a problem in criticism *,1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00553,1930,NS 61,"Forke, A.",108,108-110,,Philosophy,"Philosopher Yang Hsiung, The *",1930,1930,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=146,_1930-1931_10,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00554,1930,NS 61,"Ayscough, F. W.",,,,Geography,"Symbolism of the Forbidden City, Peking, The *",1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00529,1930,NS 61,"Jacot, A. P.",94,,,Botany,Contributions from the Herbarium of the Shantung Christian University,1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00555,1930,NS 61,"Hauer, Erich",156,156-164,,East Asian languages,Why the sinologue should study manchu ?,1930,1930,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=198,_1930-1931_13,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00556,1930,NS 61,"trans. Budd, C.",,,,Literature,Chinese poems,1930,1930,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00557,1931,NS 62,Wu Lieh - teh,,,,Medicine,Early days of Western medicine in China,1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00558,1931,NS 62,Coching Chu,32,32-40,,Astronomy,Climatic changes during historic time in China,1931,1931,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=314,_1930-1931_16,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00559,1931,NS 62,"Porterfield, W. M.",41,,,Botany,Bamboos in China,1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00560,1931,NS 62,"Ping, C.",57,57-82,,Zoology,Preliminary notes on the natural history of Nanking,1931,1931,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=343,_1930-1931_18,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00561,1931,NS 62,"Chatley, H.",83,,,"Chronology, Historical","History of the days of the week, The",1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00529,1931,NS 62,"Jacot, A. P.",94,,,Botany,Contributions from the Herbarium of the Shantung Christian University,1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00562,1931,NS 62,"Abraham, R. D.",107,107-116,,Porcelain,Chinese pottery and porcelain : an appreciation,1931,1931,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=395,_1930-1931_21,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00563,1931,NS 62,"Mason, I.",117,,,Islam,Chinese - Moslem chronology,1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00564,1931,NS 62,"Haward, E.",,,,"History, Modern","Indian frontier, The",1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00565,1931,NS 62,Tsai Yuen - Pei,120,131-136,,Philosophy,"Chinese nation and the doctrine of the golden mean, The",1931,1931,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=421,_1930-1931_24,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00566,1931,NS 62,"Gardner, C. S.",,,,East Asian languages,"Western transcription of Chinese, The",1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00567,1931,NS 62,Lu Yen - Ying,148,148-152,,China--Religion,"Confucianism, Democracy and nationalism",1931,1931,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=438,_1930-1931_26,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00568,1931,NS 62,"Morgan, E.",153,,,Philosophy,"Cosmic spirit, The",1931,1931,,y,,,,,y,,v.61-62 1930-31.pdf
+MASTER_00569,1931,NS 62,"Gapanovich, J. J.",172,172-198,,Ethnology,"Asiatic origin of South American man, The",1931,1931,,y,,https://babel.hathitrust.org/cgi/pt?id=uc1.31210004481691&seq=462,_1930-1931_28,source_b,y,,v.61-62 1930-31.pdf
+MASTER_00570,1932,NS 63,"Ferguson, J. C.",,,,Porcelain,Porcelains of successive dynasties,1932,1932,,,,,,,,,
+MASTER_00571,1932,NS 63,"Johnston, R. F.",,,,Religion,"Poet - monk of Modern China, A",1932,1932,,,,,,,,,
+MASTER_00572,1932,NS 63,"Saeki, P. Y.",,,,Christianity,"Hsu - T'ing Mi - shi - so Sutra, or Jesus - Messian - Sutra, The",1932,1932,,,,,,,,,
+MASTER_00573,1932,NS 63,"Hughes, E. R.",,,,History,Political indealists and realists of China of the fourth and third centruies B. C.,1932,1932,,,,,,,,,
+MASTER_00574,1932,NS 63,"Moyer, R. T.",,,,Geography,"Aridity of North China, The",1932,1932,,,,,,,,,
+MASTER_00575,1932,NS 63,"Ferguson, J. C.",,,,Painting,"Stories in Chinese paintings, III",1932,1932,,,,,,,,,
+MASTER_00576,1932,NS 63,"Kulp, D. H",,,,Anthropology,Chinese anthropometrics : studies in Chekiang and Kwangtung,1932,1932,,,,,,,,,
+MASTER_00577,1932,NS 63,"Murphy, D. C.",,,,Antiquities,"Research museum in Far Eastern antiquities, A",1932,1932,,,,,,,,,
+MASTER_00578,1932,NS 63,"Morgan, E.",,,,Literature,Studies in conduct and character,1932,1932,,,,,,,,,
+MASTER_00579,1933,NS 64,Wu Lieh - teh,,,,Travel,Early Chinese travellers and their successors,1933,1933,,,,,,,,,
+MASTER_00580,1933,NS 64,"Bishop, C. W.",,,,Religion,"Worship of Earth in Ancient China, The",1933,1933,,,,,,,,,
+MASTER_00581,1933,NS 64,"Ferguson, J. C.",,,,History,Loyang as the national capital,1933,1933,,,,,,,,,
+MASTER_00582,1933,NS 64,"Freeman, M.",,,,Philosophy,"Philosophy of Tai Tung - yuan, The",1933,1933,,,,,,,,,
+MASTER_00583,1933,NS 64,"Fischer, E. S.",,,,Archaeology,"T'ai Miao, a description of the supreme hall of sacrefices of the Forbidden City",1933,1933,,,,,,,,,
+MASTER_00584,1933,NS 64,"Chatley, H.",,,,History,Futher notes on the history of the days of the week,1933,1933,,,,,,,,,
+MASTER_00585,1933,NS 64,"Saeki, P. Y.",,,,Christianity,"Translation of the fragments of the Nestorian writing in China, The",1933,1933,,,,,,,,,
+MASTER_00586,1933,NS 64,"Penniston, J. B.",,,,Geography,"Origin of loess, The",1933,1933,,,,,,,,,
+MASTER_00587,1933,NS 64,"Gale, E. M.",,,,History,Some Chinese sources for the study of Northeastern Asia,1933,1933,,,,,,,,,
+MASTER_00588,1933,NS 64,trans. Cheng Te - k'un,,,,Travel,"Travels of Emperor Mu, The",1933,1933,,,,,,,,,
+MASTER_00589,1933,NS 64,"Rispaud, P. J.",,,,Language and languages,Notes sur les alphabets lu du Yun - nan et les denominations ethniques donnees aux T'ay,1933,1933,,,,,,,,,
+MASTER_00590,1934,NS 65,"Grabau, A. W.",,,,Anthropology,"Beginning of the human race, The",1934,1934,,,,,,,,,
+MASTER_00591,1934,NS 65,"Ferguson, J. C.",,,,Painting,Painters among Catholic missionaries and their helpers in Peking,1934,1934,,,,,,,,,
+MASTER_00592,1934,NS 65,"Chatley, H.",,,,"Chronology, Historical","Cycles of Cathay, The",1934,1934,,,,,,,,,
+MASTER_00593,1934,NS 65,Teng Kuei,,,,Archaeology,Bamboo and bamboo painting,1934,1934,,,,,,,,,
+MASTER_00594,1934,NS 65,"Lyon, D. W.",,,,Literature,"Past decade in Chinese literature, The",1934,1934,,,,,,,,,
+MASTER_00595,1934,NS 65,"Gale, E. M., Boodberg, P. A. and Lin, T. C.",,,,Economics,Discourses on salt and iron (Yen T'ieh Lun : Chaps. XX - XXVIII),1934,1934,,,,,,,,,
+MASTER_00596,1934,NS 65,"Saeki, P. Y.",,,,Christianity,"Translation of the fragments of the Nestorian writing in China, The (concluded)",1934,1934,,,,,,,,,
+MASTER_00597,1934,NS 65,trans. Cheng Te - k ' un,,,,Travel,"Travels of Emperor MU, The (concluded)",1934,1934,,,,,,,,,
+MASTER_00598,1934,NS 65,trans. Lee Shao - chang,,,,Buddhism,"Prajna - Paramita Hridaya Sutra or "" Essence of transcendental wisdom "" The (Hsuan Chuang, A. D. VIIth Cent.)",1934,1934,,,,,,,,,
+MASTER_00599,1935,NS 66,"Williams, E. T.",,,,Religion,"Worship of Lei Tsu, patron saint of silk workers, The",1935,1935,,,,,,,,,
+MASTER_00600,1935,NS 66,"Siren, 0.",,,,Painting,How the Chinese llok upon the art of painting,1935,1935,,,,,,,,,
+MASTER_00601,1935,NS 66,Lin Yu - tang,,,,Literature,"Technique and spirit of Chinese poetry, The",1935,1935,,,,,,,,,
+MASTER_00602,1935,NS 66,"Drake, F. S.",,,,Geography,China's North - west passage : a chapter in its opening,1935,1935,,,,,,,,,
+MASTER_00603,1935,NS 66,Lin Tung - chi,,,,Language and languages,"Word "" one "" in Chinese poetry, The",1935,1935,,,,,,,,,
+MASTER_00604,1935,NS 66,"Andrew, G. F.",,,,Ethnology,Men and matters in the land of the Yellow Earth,1935,1935,,,,,,,,,
+MASTER_00605,1935,NS 66,"Ferguson, J. C.",,,,Archaeology,Inscriptions on bronzes,1935,1935,,,,,,,,,
+MASTER_00606,1935,NS 66,"Dubs, H. H.",,,,Astronomy,Eclipses during the first fifty years of the earlier Han dynasty,1935,1935,,,,,,,,,
+MASTER_00607,1936,NS 67,"Ferguson, J. C.",,,,Archaeology,"Six horses of T'ang T'ai Tsung, The",1936,1936,,,,,,,,,
+MASTER_00608,1936,NS 67,"Chatley, H.",,,,Architecture,T'ai Chi Shang Yun the chinese astrological theory of creation,1936,1936,,,,,,,,,
+MASTER_00609,1936,NS 67,"Gibson, H. E.",,,,Archaeology,"Inscribed bones of Shang, The",1936,1936,,,,,,,,,
+MASTER_00610,1936,NS 67,"Williams, E. T.",,,,Religion,Agricultural rites in the religion of old China,1936,1936,,,,,,,,,
+MASTER_00611,1936,NS 67,"Prip - Moller, J.",,,,Archaeology,"On the building history of the Pao Shu T'a, Hangchow",1936,1936,,,,,,,,,
+MASTER_00612,1936,NS 67,"Dubs, H. H.",,,,"History, Ancient",Han Kao - Tsu and Hsiang Yu,1936,1936,,,,,,,,,
+MASTER_00613,1936,NS 67,"Saeki, P. Y.",,,,Christianity,Old problems concerning the Nestorian monument,1936,1936,,,,,,,,,
+MASTER_00614,1936,NS 67,"Brown, M. H.",,,,Confucianism,"Chinese attitude to peace and war in pre - Confucian Times, The",1936,1936,,,,,,,,,
+MASTER_00615,1936,NS 67,"Nystrom, E. T.",,,,Geography,"Geophysical prospecting for gold, metallic ores and petroleum and its possible application in China, The",1936,1936,,,,,,,,,
+MASTER_00616,1936,NS 67,"Drake, F. S.",,,,Travel,China's Northwest passage : the struggle for the Tarim Basin in the later Han dynasty,1936,1936,,,,,,,,,
+MASTER_00617,1936,NS 67,"trans. Ch'en, S. C.",,,,Economics,"Sang Hung - yang, economist of the early Han",1936,1936,,,,,,,,,
+MASTER_00618,1937,NS 68,"Sowerby, A. de C.",,,,Art,Animals in Chinese art (presidential address),1937,1937,,,,,,,,,
+MASTER_00619,1937,NS 68,"Gibson, H. E.",,,,Archaeology,Music and musical instruments of Shang,1937,1937,,,,,,,,,
+MASTER_00620,1937,NS 68,"Moyer, R. T.",,,,Agriculture,Some observations on the agriculture of inner Mongola,1937,1937,,,,,,,,,
+MASTER_00621,1937,NS 68,"Goodrich, L. C.",,,,History,Korean interference with Chinese historical records,1937,1937,,,,,,,,,
+MASTER_00622,1937,NS 68,"Gale, E. M.",,,,Geography,Chekiang highways,1937,1937,,,,,,,,,
+MASTER_00623,1938,NS 69,"Sowerby, A. de C.",,,,Archaeology,Pottery tomb figures of ancient China (presidential address),1938,1938,,,,,,,,,
+MASTER_00624,1938,NS 69,"Gibson, H. E.",,,,Religion,Domesticated animals of Shang and their sacrifice,1938,1938,,,,,,,,,
+MASTER_00625,1938,NS 69,"Morgan, E.",,,,History,Times and manners in the age of the Emperor Kang Hsi,1938,1938,,,,,,,,,
+MASTER_00626,1938,NS 69,"Stifler, S. R.",,,,Language and languages,"Language students of the East India company's Canton factory, The",1938,1938,,,,,,,,,
+MASTER_00627,1938,NS 69,Wen Yu,,,,Language and languages,"Influence of liquids upon the dissolution of initial consonant groups of the indo sinic families, The",1938,1938,,,,,,,,,
+MASTER_00628,1939,NS 70,"Sowerby, A. de C.",,,,Ethnology,Some Chinese animal myths and legends (presidential address),1939,1939,,,,,,,,,
+MASTER_00629,1939,NS 70,"Read, B. E.",,,,Science,"Dragon in Chinese medicine, The",1939,1939,,,,,,,,,
+MASTER_00630,1939,NS 70,"Morgan, E.",,,,Religion,Sacrifices in ancient China,1939,1939,,,,,,,,,
+MASTER_00631,1939,NS 70,"Gibson, H. E.",,,,Language and languages,"Evolution of Chinese characters beginning from Shang pictographs, The",1939,1939,,,,,,,,,
+MASTER_00632,1939,NS 70,"Williams, E. T.",,,,Religion,Worshipping imperial ancestors in Peking,1939,1939,,,,,,,,,
+MASTER_00633,1940,NS 71,"Sowerby, A. de C.",,,,Zoology,Some remarkable animals of China (presidential address),1940,1940,,,,,,,,,
+MASTER_00634,1940,NS 71,"Read, B. E.",,,,Medicine,Insects used in Chinese medicine,1940,1940,,,,,,,,,
+MASTER_00635,1940,NS 71,"Gibson, H. E.",,,,Economics,Cowries as money during the Shang and Chou periods,1940,1940,,,,,,,,,
+MASTER_00636,1940,NS 71,"Drake, F. S.",,,,Archaeology,"Inscribed Chou pottery vessel, An",1940,1940,,,,,,,,,
+MASTER_00637,1940,NS 71,"Tomkinson, L.",,,,History,Chinese historical attitudes to peace and war,1940,1940,,,,,,,,,
+MASTER_00638,1940,NS 71,"Dunlap, E. W.",,,,Archaeology,"Chin Shan Tsui Temple Peitaiho, The",1940,1940,,,,,,,,,
+MASTER_00639,1940,NS 71,"Poston, D. G.",,,,Ethnology,Bits of old Soochow,1940,1940,,,,,,,,,
+MASTER_00640,1940,NS 71,"Fishcher, E. S.",,,,Geography,Jehol,1940,1940,,,,,,,,,
+MASTER_00641,1946,NS 72,"Ferguson, J. C.",,,,Archaeology,Decorations of Chinese bronzes,1946,1946,,,,,,,,,
+MASTER_00642,1946,NS 72,"Beath, S. S.",,,,Archaeology,Ching Te Chen procelain city of emperors,1946,1946,,,,,,,,,
+MASTER_00643,1946,NS 72,"Roberts, D.",,,,History,Interpretations of Chinese history,1946,1946,,,,,,,,,
+MASTER_00644,1946,NS 72,"Sowerby, A. de C.",,,,Science,Zoological exploration in China,1946,1946,,,,,,,,,
+MASTER_00645,1946,NS 72,"Fishcher, E. S.",,,,Religion,"Sacred Lamaist dances, The",1946,1946,,,,,,,,,
+MASTER_00646,1946,NS 72,"Ruffe, M. D ' Auxion de",,,,Law,Criminal law in ancient China,1946,1946,,,,,,,,,
+MASTER_00647,1946,NS 72,"Ankerson, W. A.",,,,Ethnology,"Chinese shadow play, The",1946,1946,,,,,,,,,
+MASTER_00648,1946,NS 72,"Schwarz, K. L.",,,,Literature,Bibliographical catalogue of European books printed before 1900,1946,1946,,,,,,,,,
+MASTER_00649,1948,NS 73,"Francis, J. de",,,,Christianity,"Missionary contribution to Chinese nationalism, A",1948,1948,,,,,,,,,
+MASTER_00650,1948,NS 73,"House, I. E.",,,,Zoology,"Butterfly hunting in Pi Hu, S. Chekiang",1948,1948,,,,,,,,,
+MASTER_00651,1948,NS 73,Yao Shan - yu,,,,Religion,"Cosmological and anthropological philosophy of Tung Chung - shu, The",1948,1948,,,,,,,,,
+MASTER_00652,1948,NS 73,Chang Hsing Lang,,,,Christianity,"Cause which induced the monk I - szu, the Nestorian Archbishop of Ch'ang an, to come to China and the exact date of his arrival, The",1948,1948,,,,,,,,,
+MASTER_00653,1948,NS 73,"Gillett, M. C.",,,,Language and languages,Some notes on the blue Turkish tongue,1948,1948,,,,,,,,,
+MASTER_00648,1948,NS 73,"Schwarz, K. L.",,,,Literature,Bibliographical catalogue of European books printed before 1900,1948,1948,,,,,,,,,
