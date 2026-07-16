@@ -25,8 +25,11 @@ Large regenerated cache files such as `topic_modeling_articles.csv`, `topic_mode
 ## Main Workflow
 
 ```text
-ras_subject_expanded.csv + articles/*.txt + hit_stopwords.txt
-        -> build_ras_text_dataset.py
+1858_1948_full_subject.csv
+        -> corrected LCSH / subject-expanded mapping
+ras_subject_expanded.csv
+        -> social_network outputs
+        -> build_ras_text_dataset.py + articles/*.txt + hit_stopwords.txt
 article_text_master_dataset_v2_header_removed.csv
         -> build_topic_modeling_dataset.py
 topic_modeling_articles.csv
