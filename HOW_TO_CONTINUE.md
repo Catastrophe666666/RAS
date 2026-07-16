@@ -35,5 +35,21 @@ For social network analysis, use:
 
 ## 4. China Journal Note
 
-The China Journal has not yet been OCRed or structured. The current RAS workflow can serve as a methodological template for a future China Journal pipeline, beginning with OCR, article segmentation, metadata extraction, and validation.
+*The China Journal* has not yet been OCR-processed or converted into a structured dataset. The current RAS workflow can serve as a methodological template for a future *China Journal* pipeline, including OCR, document segmentation, metadata extraction, text cleaning, and validation.
 
+Potential document categories in *The China Journal* include:
+
+* Classified Index of Advertisers
+* Articles
+* Scientific Notes and Reviews
+* Societies and Institutions
+* Educational Notes and Intelligence
+* Publications Received
+* Miscellaneous Materials
+
+For each identified item, the pipeline may extract the following metadata fields:
+
+* Year
+* Title
+* Author name
+* Author title or affiliation, where available
