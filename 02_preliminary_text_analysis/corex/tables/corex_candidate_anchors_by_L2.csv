@@ -1,0 +1,1621 @@
+﻿L2,rank,term,tfidf_score
+Agriculture,1,salt,0.11620026356685202
+Agriculture,2,chinese,0.09167926297245829
+Agriculture,3,river,0.08675939942762753
+Agriculture,4,min,0.085736900234721
+Agriculture,5,water,0.08515232742208702
+Agriculture,6,one,0.08322876950290582
+Agriculture,7,dam,0.08318398659139321
+Agriculture,8,deg,0.06917483995994773
+Agriculture,9,china,0.06673991698270007
+Agriculture,10,shuh,0.06436131839523772
+Agriculture,11,made,0.06308669074831448
+Agriculture,12,shan,0.061674652227741676
+Agriculture,13,cotton,0.06043763271016348
+Agriculture,14,two,0.05976399040366922
+Agriculture,15,samshu,0.05963900442660526
+Agriculture,16,millet,0.05959015581784261
+Agriculture,17,large,0.05732562555124088
+Agriculture,18,lui,0.055086546883073975
+Agriculture,19,chemical,0.05498421979211693
+Agriculture,20,une,0.05437507136574165
+Agriculture,21,plus,0.05437507136574165
+Agriculture,22,seals,0.05386839544504432
+Agriculture,23,time,0.05073581916051201
+Agriculture,24,miles,0.05059050440931785
+Agriculture,25,feet,0.049562675240073226
+Agriculture,26,sea,0.04950313276380295
+Agriculture,27,found,0.04777677445310242
+Agriculture,28,coal,0.04744492984522997
+Agriculture,29,kwanhsien,0.047033271134981416
+Agriculture,30,works,0.04622935444382374
+Antiquities,1,rock,0.10648555386958426
+Antiquities,2,worship,0.07426691104929785
+Antiquities,3,tombs,0.0662459690229558
+Antiquities,4,chow,0.056929460634978835
+Antiquities,5,stone,0.05609873977719468
+Antiquities,6,hsien,0.05458482841977551
+Antiquities,7,year,0.05448876046720597
+Antiquities,8,characters,0.05130414602994575
+Antiquities,9,phallism,0.049511274032865225
+Antiquities,10,hill,0.0485349667157208
+Antiquities,11,hier,0.0469325618436535
+Antiquities,12,sacred,0.0469325618436535
+Antiquities,13,north,0.04353899135573394
+Antiquities,14,table,0.043313014489618606
+Antiquities,15,tablet,0.042994909262666706
+Antiquities,16,side,0.04244181291464735
+Antiquities,17,yentai,0.04236816381675639
+Antiquities,18,shrine,0.041259395027387694
+Antiquities,19,inscriptions,0.041121374284993184
+Antiquities,20,vessel,0.040663900453556306
+Antiquities,21,may,0.03996357617720235
+Antiquities,22,chinese,0.03989874495244633
+Antiquities,23,memory,0.03953259310068987
+Antiquities,24,swatow,0.039110468203044584
+Antiquities,25,ruht,0.039110468203044584
+Antiquities,26,island,0.039110468203044584
+Antiquities,27,den,0.039110468203044584
+Antiquities,28,written,0.038162514634388
+Antiquities,29,tsu,0.0349206828756409
+Antiquities,30,yumoto,0.033007516021910155
+Archaeology,1,one,0.07603119010401915
+Archaeology,2,chinese,0.07262272219704209
+Archaeology,3,ancient,0.05809644407772213
+Archaeology,4,found,0.051581228838548175
+Archaeology,5,china,0.04998627831316616
+Archaeology,6,cambodia,0.048599294435304634
+Archaeology,7,dynasty,0.04762873177764213
+Archaeology,8,may,0.04655075065911674
+Archaeology,9,city,0.0445094833763819
+Archaeology,10,temple,0.044015300321876664
+Archaeology,11,great,0.04322433619094232
+Archaeology,12,stone,0.04125410114138288
+Archaeology,13,two,0.04088061990734164
+Archaeology,14,first,0.04067582897268471
+Archaeology,15,bones,0.03649490064927519
+Archaeology,16,kambodia,0.03571547295387704
+Archaeology,17,putoshan,0.0352464190716646
+Archaeology,18,time,0.03458711449786491
+Archaeology,19,name,0.03382463135090559
+Archaeology,20,many,0.03351004374114356
+Archaeology,21,also,0.03324947083370137
+Archaeology,22,characters,0.032211049020287645
+Archaeology,23,priest,0.032063214766685555
+Archaeology,24,shuh,0.03180789866521715
+Archaeology,25,country,0.030253482901139984
+Archaeology,26,king,0.030172626386624334
+Archaeology,27,emperor,0.029657193951934432
+Archaeology,28,situated,0.029472679045555512
+Archaeology,29,people,0.02886486582281909
+Archaeology,30,year,0.027327654491182716
+Architecture,1,chinese,0.07463139335510144
+Architecture,2,architecture,0.042120950719765654
+Architecture,3,one,0.04149831790536876
+Architecture,4,ling,0.040803671359143624
+Architecture,5,pagodas,0.03798237604118473
+Architecture,6,tent,0.037938301492816476
+Architecture,7,hall,0.033026291639970964
+Architecture,8,roof,0.03215864725580871
+Architecture,9,essays,0.030155094853875006
+Architecture,10,would,0.029674388174921358
+Architecture,11,examination,0.02794436626480161
+Architecture,12,feet,0.02782774191388733
+Architecture,13,china,0.026999699502133146
+Architecture,14,two,0.025416789835897072
+Architecture,15,buildings,0.025136884256504285
+Architecture,16,also,0.02492525146110734
+Architecture,17,rooms,0.024279491635698775
+Architecture,18,members,0.023955129888719617
+Architecture,19,pagoda,0.02364159330747297
+Architecture,20,tents,0.023585599051798238
+Architecture,21,stages,0.022863436407184197
+Architecture,22,emperor,0.022745376479143542
+Architecture,23,entrance,0.021245044940505456
+Architecture,24,tower,0.021119630035949265
+Architecture,25,cells,0.01951212019956618
+Architecture,26,hsi,0.01904192658572649
+Architecture,27,first,0.0190254512757973
+Architecture,28,great,0.018857282728891388
+Architecture,29,like,0.01865715969925187
+Architecture,30,theory,0.01828671249300647
+Art,1,chinese,0.16806647829601454
+Art,2,art,0.1292798673459555
+Art,3,bottles,0.12926737965262924
+Art,4,china,0.09703712212422669
+Art,5,one,0.08563954101617308
+Art,6,paper,0.07898179455875516
+Art,7,greek,0.06928995086149198
+Art,8,rubbings,0.06878568088387045
+Art,9,wares,0.06762449579900014
+Art,10,pictures,0.06453748258680383
+Art,11,porcelain,0.06228998483392144
+Art,12,colour,0.06191765707220471
+Art,13,found,0.05946354573527103
+Art,14,work,0.05889201664558394
+Art,15,may,0.0580212148938073
+Art,16,egypt,0.05370507035604225
+Art,17,iacovleff,0.0510218660870841
+Art,18,used,0.04956367347185403
+Art,19,dial,0.04863339842339697
+Art,20,inscriptions,0.04729246103225715
+Art,21,nature,0.04473449378193337
+Art,22,silk,0.0435735740182949
+Art,23,human,0.04324823709321529
+Art,24,made,0.043075476978102226
+Art,25,ancient,0.04195284473095395
+Art,26,life,0.040921739640929
+Art,27,small,0.040834400511873474
+Art,28,red,0.03850005384210378
+Art,29,also,0.03838139559754066
+Art,30,time,0.03661595073488245
+Asia,1,fol,0.5800699922466656
+Asia,2,shih,0.38743668279511406
+Asia,3,ahmad,0.08053745615536319
+Asia,4,iii,0.06995374295560366
+Asia,5,xiii,0.05702890643051203
+Asia,6,vii,0.05673357289125511
+Asia,7,xii,0.05673357289125511
+Asia,8,viii,0.05673357289125511
+Asia,9,history,0.05079854301709176
+Asia,10,sung,0.04822781289612733
+Asia,11,yen,0.04793823395565173
+Asia,12,made,0.04328681338899726
+Asia,13,one,0.04015944504518349
+Asia,14,historical,0.03589191638954451
+Asia,15,monk,0.03436944063102453
+Asia,16,dynasty,0.03417762168184857
+Asia,17,october,0.031711438777712216
+Asia,18,clan,0.02998017555240157
+Asia,19,chinese,0.026531073990037332
+Asia,20,historian,0.026307107686709987
+Asia,21,kao,0.026179323268856032
+Asia,22,ssu,0.02335621740885833
+Asia,23,son,0.023128698120914903
+Asia,24,first,0.022586728913699474
+Asia,25,great,0.022561454299165652
+Asia,26,may,0.021993904594021802
+Asia,27,finchan,0.021544581688792606
+Asia,28,sons,0.0210941980414258
+Asia,29,two,0.020966198824763853
+Asia,30,kau,0.02095391461027876
+"Associations, institutions, etc.",1,society,0.02825
+"Associations, institutions, etc.",2,esq,0.019
+"Associations, institutions, etc.",3,years,0.016
+"Associations, institutions, etc.",4,chinese,0.01325
+"Associations, institutions, etc.",5,china,0.012
+"Associations, institutions, etc.",6,president,0.00875
+"Associations, institutions, etc.",7,rev,0.00725
+"Associations, institutions, etc.",8,first,0.007
+"Associations, institutions, etc.",9,many,0.007
+"Associations, institutions, etc.",10,honorary,0.00675
+"Associations, institutions, etc.",11,sir,0.00675
+"Associations, institutions, etc.",12,members,0.006500000000000001
+"Associations, institutions, etc.",13,journal,0.00625
+"Associations, institutions, etc.",14,member,0.006
+"Associations, institutions, etc.",15,shanghai,0.00575
+"Associations, institutions, etc.",16,time,0.0055
+"Associations, institutions, etc.",17,work,0.0055
+"Associations, institutions, etc.",18,one,0.005
+"Associations, institutions, etc.",19,joined,0.00375
+"Associations, institutions, etc.",20,became,0.00375
+"Associations, institutions, etc.",21,much,0.00375
+"Associations, institutions, etc.",22,asiatic,0.00375
+"Associations, institutions, etc.",23,present,0.0035
+"Associations, institutions, etc.",24,contributed,0.0035
+"Associations, institutions, etc.",25,library,0.0035
+"Associations, institutions, etc.",26,meeting,0.0035
+"Associations, institutions, etc.",27,may,0.0035
+"Associations, institutions, etc.",28,royal,0.0035
+"Associations, institutions, etc.",29,edkins,0.0035
+"Associations, institutions, etc.",30,held,0.0032500000000000003
+Astronomy,1,shadows,0.11608199133612748
+Astronomy,2,size,0.11095818627303887
+Astronomy,3,year,0.10438222451296691
+Astronomy,4,chinese,0.10349782512569793
+Astronomy,5,sunspots,0.09671451582599133
+Astronomy,6,eclipses,0.09132686276178986
+Astronomy,7,recorded,0.08361768678101911
+Astronomy,8,spots,0.06784737740683819
+Astronomy,9,total,0.0654262185092248
+Astronomy,10,cycle,0.061224385782315094
+Astronomy,11,black,0.06051465297811202
+Astronomy,12,plum,0.058102426530408466
+Astronomy,13,occurrence,0.058102426530408466
+Astronomy,14,years,0.05808375239725472
+Astronomy,15,sun,0.05733529434080775
+Astronomy,16,china,0.05607913987240573
+Astronomy,17,solar,0.05584430982861934
+Astronomy,18,day,0.055721313517032404
+Astronomy,19,works,0.0554026183920536
+Astronomy,20,observed,0.05472230027306513
+Astronomy,21,first,0.053753214333520385
+Astronomy,22,two,0.053645708415220164
+Astronomy,23,egg,0.05113483512233903
+Astronomy,24,cocoons,0.04964030081715081
+Astronomy,25,month,0.04640728130584461
+Astronomy,26,eclipsed,0.04602215762218412
+Astronomy,27,may,0.04384955634290386
+Astronomy,28,section,0.04202542853583575
+Astronomy,29,one,0.04085483949770576
+Astronomy,30,name,0.03950815714002288
+Biography,1,wang,0.08983409036072287
+Biography,2,tsi,0.08004410774337732
+Biography,3,kwo,0.07764278451107601
+Biography,4,king,0.06248837482891832
+Biography,5,one,0.055413474991114306
+Biography,6,emperor,0.05488786530859812
+Biography,7,people,0.04954206547561004
+Biography,8,chinese,0.04557777632298842
+Biography,9,men,0.04536894238227951
+Biography,10,duke,0.039276007744093344
+Biography,11,yueh,0.039048065312829415
+Biography,12,legend,0.038715169691112473
+Biography,13,great,0.038493046716221294
+Biography,14,said,0.037245815286499354
+Biography,15,time,0.03513255168784679
+Biography,16,state,0.034670879187114034
+Biography,17,mang,0.03200792886448742
+Biography,18,government,0.031818255778149854
+Biography,19,wushun,0.03164553304619425
+Biography,20,would,0.031156529859173034
+Biography,21,yaou,0.029008405292344726
+Biography,22,army,0.028725612667008075
+Biography,23,years,0.02823190618843824
+Biography,24,man,0.02818365239988299
+Biography,25,shih,0.028147316538884408
+Biography,26,son,0.027611112035317555
+Biography,27,shun,0.02669336681226952
+Biography,28,dynasty,0.02628052864760576
+Biography,29,first,0.024857197443856643
+Biography,30,chung,0.02443127170231643
+Botany,1,det,0.15840854526995019
+Botany,2,soochow,0.1571875122907793
+Botany,3,linn,0.1330773759123453
+Botany,4,china,0.13070548449790717
+Botany,5,chinese,0.12161157223317803
+Botany,6,leaves,0.11969417838273531
+Botany,7,flowers,0.11307443065267517
+Botany,8,lour,0.10432499307387612
+Botany,9,plants,0.09520034289104266
+Botany,10,sin,0.09371085916730876
+Botany,11,shu,0.08842895983008409
+Botany,12,plant,0.08238204915539028
+Botany,13,species,0.07619509232331884
+Botany,14,jour,0.07409431956175089
+Botany,15,name,0.07368825360987034
+Botany,16,osb,0.07363296892829103
+Botany,17,var,0.0713912204527285
+Botany,18,sorgo,0.06917786910186177
+Botany,19,yeh,0.0644248124763282
+Botany,20,cochin,0.06439038608068262
+Botany,21,names,0.06349655634510008
+Botany,22,one,0.05833757023718357
+Botany,23,wils,0.05780191986445775
+Botany,24,rehd,0.0564072557918463
+Botany,25,also,0.053465746376965016
+Botany,26,arb,0.05279262953302019
+Botany,27,canton,0.05248571204896929
+Botany,28,hgk,0.05045771225348922
+Botany,29,two,0.048348996989507995
+Botany,30,like,0.04811131885142694
+Bronzes,1,bronze,0.021857367357629276
+Bronzes,2,dynasty,0.020048192771084338
+Bronzes,3,figures,0.019952405896879445
+Bronzes,4,chinese,0.018714959215744967
+Bronzes,5,early,0.017143455810820926
+Bronzes,6,figure,0.016865581297297972
+Bronzes,7,bronzes,0.015810222255481555
+Bronzes,8,forms,0.014952929731347752
+Bronzes,9,ideas,0.013988390284994826
+Bronzes,10,tripod,0.012515928149732214
+Bronzes,11,one,0.01247653969916935
+Bronzes,12,two,0.011571653071914989
+Bronzes,13,ideographs,0.011043466014469601
+Bronzes,14,also,0.010809848088004191
+Bronzes,15,inscriptions,0.010307234946838294
+Bronzes,16,used,0.009619396842026492
+Bronzes,17,earliest,0.00919075057995959
+Bronzes,18,made,0.009095562373718478
+Bronzes,19,called,0.008952480730374916
+Bronzes,20,objects,0.00883477281157568
+Bronzes,21,writing,0.00883477281157568
+Bronzes,22,mind,0.00883477281157568
+Bronzes,23,front,0.008834352108108462
+Bronzes,24,unicorn,0.008834352108108462
+Bronzes,25,wei,0.008834352108108462
+Bronzes,26,ting,0.008428945596048792
+Bronzes,27,found,0.008333458055825789
+Bronzes,28,china,0.008285863952705232
+Bronzes,29,chou,0.008098541743944374
+Bronzes,30,statuary,0.008031229189189512
+Buddhism,1,lake,0.11886407572653555
+Buddhism,2,chinese,0.06663710192817855
+Buddhism,3,buddha,0.06655811015247128
+Buddhism,4,buddhist,0.059274566367563016
+Buddhism,5,one,0.05136502803301141
+Buddhism,6,body,0.04427170674695436
+Buddhism,7,amida,0.041320274045261667
+Buddhism,8,tsang,0.04033048114378541
+Buddhism,9,great,0.04004764907488632
+Buddhism,10,also,0.038453626294711225
+Buddhism,11,river,0.0380393740661338
+Buddhism,12,hua,0.03757831095095191
+Buddhism,13,ching,0.03607517851291383
+Buddhism,14,chapter,0.03602873648963679
+Buddhism,15,first,0.033633381863146884
+Buddhism,16,nirvana,0.03139219044506878
+Buddhism,17,thus,0.031382045309995936
+Buddhism,18,india,0.03133460067086923
+Buddhism,19,work,0.0305568572238187
+Buddhism,20,sanskrit,0.030501971570707432
+Buddhism,21,called,0.030183362629212923
+Buddhism,22,doctrine,0.030051055440526428
+Buddhism,23,sutra,0.029946349619976633
+Buddhism,24,therefore,0.029894706277557283
+Buddhism,25,anavatapta,0.02971601893163389
+Buddhism,26,may,0.02912204663969772
+Buddhism,27,king,0.02903242404876163
+Buddhism,28,life,0.028802725068877703
+Buddhism,29,non,0.028464484225611136
+Buddhism,30,many,0.028378272353826263
+China--Religion,1,confucius,0.07755025453958708
+China--Religion,2,one,0.07238624053743763
+China--Religion,3,may,0.06220310610223581
+China--Religion,4,wei,0.05278583915090106
+China--Religion,5,figures,0.05124482430993968
+China--Religion,6,chinese,0.0432948878101489
+China--Religion,7,heaven,0.042700138776465627
+China--Religion,8,gods,0.038977440278926696
+China--Religion,9,first,0.03890574423145314
+China--Religion,10,people,0.03770051825521487
+China--Religion,11,time,0.03695972995708498
+China--Religion,12,god,0.03647736666482487
+China--Religion,13,two,0.03528382876964898
+China--Religion,14,made,0.03421877936136559
+China--Religion,15,great,0.033550676089344235
+China--Religion,16,religion,0.03291105475975712
+China--Religion,17,china,0.031453386283115364
+China--Religion,18,genesis,0.031172976554713
+China--Religion,19,ch,0.03082624153178276
+China--Religion,20,period,0.03029752321697344
+China--Religion,21,would,0.028669010777559775
+China--Religion,22,spirits,0.02863352752477699
+China--Religion,23,ien,0.028543136666150003
+China--Religion,24,said,0.02788855170358854
+China--Religion,25,earth,0.027683551267348023
+China--Religion,26,tombs,0.02751177726084166
+China--Religion,27,government,0.027251007788358768
+China--Religion,28,priesthood,0.02708009456656393
+China--Religion,29,confucianism,0.02690464784533783
+China--Religion,30,figure,0.02675383260280442
+Christianity,1,christ,0.09454250614114053
+Christianity,2,one,0.07487498559478081
+Christianity,3,picture,0.05814646309814504
+Christianity,4,bishop,0.055768564514401486
+Christianity,5,two,0.0451980741905171
+Christianity,6,professor,0.04444823811370671
+Christianity,7,nestorian,0.04356900025690782
+Christianity,8,great,0.04257190735380592
+Christianity,9,heavenly,0.04242229054645348
+Christianity,10,china,0.04182779294129459
+Christianity,11,giles,0.041238158213917624
+Christianity,12,three,0.040152200214964955
+Christianity,13,buddha,0.03772474782020755
+Christianity,14,would,0.037052955473693916
+Christianity,15,says,0.03679742668874998
+Christianity,16,chinese,0.0345708351291388
+Christianity,17,lao,0.03455844931155443
+Christianity,18,della,0.03373653902723053
+Christianity,19,chiesa,0.03373653902723053
+Christianity,20,confucius,0.033658479468794106
+Christianity,21,god,0.03296154466117423
+Christianity,22,tzu,0.032000568982285614
+Christianity,23,priests,0.03150779448374784
+Christianity,24,marco,0.031128427298455063
+Christianity,25,also,0.030933002353547016
+Christianity,26,first,0.029331260504632604
+Christianity,27,country,0.028408966906388992
+Christianity,28,called,0.027479220418498693
+Christianity,29,said,0.02691727804919419
+Christianity,30,polo,0.026635572901820274
+"Chronology, Historical",1,yuan,0.06011119625753584
+"Chronology, Historical",2,first,0.052084818042264856
+"Chronology, Historical",3,hao,0.042178465725241907
+"Chronology, Historical",4,nien,0.041124716075117695
+"Chronology, Historical",5,year,0.040978785659636724
+"Chronology, Historical",6,day,0.035170194744662826
+"Chronology, Historical",7,week,0.033896840451650555
+"Chronology, Historical",8,reign,0.03201728733643627
+"Chronology, Historical",9,chinese,0.03183461694099992
+"Chronology, Historical",10,days,0.031354577417776766
+"Chronology, Historical",11,chih,0.030507156406485502
+"Chronology, Historical",12,shih,0.029523976683660212
+"Chronology, Historical",13,table,0.029523976683660212
+"Chronology, Historical",14,second,0.026296345445281616
+"Chronology, Historical",15,tables,0.02493997483639854
+"Chronology, Historical",16,tsung,0.024255228433039178
+"Chronology, Historical",17,date,0.02372360698793147
+"Chronology, Historical",18,emperor,0.023191985542823763
+"Chronology, Historical",19,titles,0.023191985542823763
+"Chronology, Historical",20,moule,0.02288036730486413
+"Chronology, Historical",21,kubilai,0.02288036730486413
+"Chronology, Historical",22,gives,0.02288036730486413
+"Chronology, Historical",23,names,0.02191250773941969
+"Chronology, Historical",24,column,0.021616107687683055
+"Chronology, Historical",25,one,0.021380886294311983
+"Chronology, Historical",26,title,0.02055286479746764
+"Chronology, Historical",27,name,0.019837349624583667
+"Chronology, Historical",28,period,0.018876486961593344
+"Chronology, Historical",29,years,0.018741327251965548
+"Chronology, Historical",30,seven,0.018643262248407805
+Confucianism,1,confucius,0.047538261178714666
+Confucianism,2,one,0.02536355904080934
+Confucianism,3,altar,0.024466114700770276
+Confucianism,4,heaven,0.023421122444360183
+Confucianism,5,chinese,0.022340871349645627
+Confucianism,6,sage,0.020374867715729494
+Confucianism,7,temple,0.01789680525794082
+Confucianism,8,two,0.017088910061904484
+Confucianism,9,tsi,0.01591302170908046
+Confucianism,10,north,0.015458845304582901
+Confucianism,11,south,0.014800707728596998
+Confucianism,12,east,0.01476568706614222
+Confucianism,13,west,0.014609186356881408
+Confucianism,14,great,0.014542797668334804
+Confucianism,15,paper,0.014469861877161568
+Confucianism,16,three,0.014073126754659122
+Confucianism,17,court,0.013287976112535696
+Confucianism,18,china,0.01285571677752408
+Confucianism,19,emperor,0.01272062349564369
+Confucianism,20,said,0.012650594116635548
+Confucianism,21,would,0.012548180060751056
+Confucianism,22,terrace,0.012325931744012855
+Confucianism,23,hall,0.012253774840135625
+Confucianism,24,also,0.011976878640461647
+Confucianism,25,first,0.011655986291948814
+Confucianism,26,may,0.011634630491130966
+Confucianism,27,spirits,0.011601712638186032
+Confucianism,28,time,0.011469780621334634
+Confucianism,29,worship,0.011406843835348238
+Confucianism,30,men,0.010769212746924153
+Decorative arts,1,chinese,0.0434428244740148
+Decorative arts,2,wood,0.03123255795795921
+Decorative arts,3,work,0.028964577320189457
+Decorative arts,4,bronze,0.026838926316514914
+Decorative arts,5,art,0.021772043329437767
+Decorative arts,6,design,0.020482802829503446
+Decorative arts,7,carving,0.01983019552886299
+Decorative arts,8,used,0.018856994668579645
+Decorative arts,9,brass,0.016103355789908947
+Decorative arts,10,decorative,0.013979570185808251
+Decorative arts,11,metal,0.0137200156720632
+Decorative arts,12,china,0.012929452140145965
+Decorative arts,13,forms,0.012860522005440316
+Decorative arts,14,dynasty,0.010107582651609812
+Decorative arts,15,made,0.00960890568359272
+Decorative arts,16,fine,0.009394032266936999
+Decorative arts,17,often,0.008972368446164329
+Decorative arts,18,panel,0.00842783309976677
+Decorative arts,19,one,0.008189887926785868
+Decorative arts,20,ming,0.007707376983846324
+Decorative arts,21,bronzes,0.007354643297779304
+Decorative arts,22,though,0.007277630150534882
+Decorative arts,23,decoration,0.007277630150534882
+Decorative arts,24,two,0.006985743586634739
+Decorative arts,25,relief,0.006847883317223441
+Decorative arts,26,show,0.006710023047812142
+Decorative arts,27,may,0.006572162778400843
+Decorative arts,28,beautiful,0.006357289361745122
+Decorative arts,29,motive,0.006357289361745122
+Decorative arts,30,form,0.0062883592270394735
+East Asian languages,1,manchu,0.12135666856199934
+East Asian languages,2,wen,0.10727373647667485
+East Asian languages,3,classifier,0.1054367106444991
+East Asian languages,4,shuo,0.09777013304593528
+East Asian languages,5,radical,0.07436324572752888
+East Asian languages,6,ang,0.06444711089078435
+East Asian languages,7,form,0.06090063207909713
+East Asian languages,8,hsi,0.057717337440074755
+East Asian languages,9,chinese,0.056963091816167474
+East Asian languages,10,new,0.052546622054285674
+East Asian languages,11,found,0.04697949905055457
+East Asian languages,12,plates,0.04045946069782467
+East Asian languages,13,characters,0.038305639203315735
+East Asian languages,14,system,0.03731257107466002
+East Asian languages,15,language,0.036080476126374675
+East Asian languages,16,character,0.0342290390882414
+East Asian languages,17,modern,0.03282154179966155
+East Asian languages,18,given,0.030151377357369363
+East Asian languages,19,words,0.028789627835420648
+East Asian languages,20,old,0.02848149824661331
+East Asian languages,21,one,0.028218505446121953
+East Asian languages,22,terms,0.02707886824087884
+East Asian languages,23,dictionary,0.02693481302621933
+East Asian languages,24,forms,0.026661977266399246
+East Asian languages,25,sound,0.025235190439321292
+East Asian languages,26,use,0.02422261213606686
+East Asian languages,27,meaning,0.024168333129221654
+East Asian languages,28,writing,0.024110335619761343
+East Asian languages,29,chalfant,0.02193083581405581
+East Asian languages,30,english,0.02140278833877654
+Economics,1,taels,0.1517689304976292
+Economics,2,salt,0.11607432168138816
+Economics,3,associ,0.09036453214453512
+Economics,4,gold,0.0857114432984595
+Economics,5,union,0.0824184424964712
+Economics,6,soci,0.07185613399444961
+Economics,7,sommes,0.06750121678266478
+Economics,8,year,0.06441508322290822
+Economics,9,vers,0.05879138235909514
+Economics,10,chinese,0.05274945980686069
+Economics,11,tls,0.052281152102455354
+Economics,12,china,0.05086714740872253
+Economics,13,tax,0.04476227166310698
+Economics,14,tangut,0.04462904310411027
+Economics,15,shanghai,0.04347823245373071
+Economics,16,kiang,0.04309011222234062
+Economics,17,silver,0.04200574914720788
+Economics,18,one,0.03822477909553118
+Economics,19,nan,0.03727298811642877
+Economics,20,guild,0.035532760180377675
+Economics,21,years,0.03546443649740036
+Economics,22,land,0.03452321607398923
+Economics,23,bars,0.03380317088676101
+Economics,24,money,0.03327199629171629
+Economics,25,argent,0.033038870577692545
+Economics,26,peking,0.03235658197878759
+Economics,27,likin,0.03234319775302076
+Economics,28,une,0.030484420482493772
+Economics,29,sap,0.030484420482493772
+Economics,30,customs,0.03006303728405355
+Education,1,chinese,0.04668275893068401
+Education,2,music,0.04130275326593093
+Education,3,scholars,0.029725841927569066
+Education,4,one,0.028177540921837003
+Education,5,chih,0.02624199893665292
+Education,6,great,0.025654925301533422
+Education,7,college,0.025617189438161186
+Education,8,plato,0.024802862596007638
+Education,9,vol,0.02311795144419424
+Education,10,part,0.020291106258572045
+Education,11,beauty,0.019950128609832227
+Education,12,character,0.019406988601917967
+Education,13,japanese,0.0184266249590622
+Education,14,also,0.018311409197391448
+Education,15,japan,0.017719108361086373
+Education,16,language,0.017441762918286228
+Education,17,science,0.01699927322999142
+Education,18,art,0.016481056974388796
+Education,19,study,0.016000050998538955
+Education,20,sciences,0.015347947966259854
+Education,21,first,0.015236818871242449
+Education,22,may,0.015010552611757521
+Education,23,new,0.014964291507187975
+Education,24,dutch,0.01451688915520158
+Education,25,physics,0.01451688915520158
+Education,26,class,0.01451688915520158
+Education,27,prince,0.014023284287061384
+Education,28,confucius,0.014019009293395621
+Education,29,natural,0.013706358591009226
+Education,30,moral,0.013220856567914462
+Ethnology,1,chinese,0.3783709372393057
+Ethnology,2,one,0.19049786625957132
+Ethnology,3,china,0.1505702706546401
+Ethnology,4,tai,0.1410086539914645
+Ethnology,5,name,0.1386476615117445
+Ethnology,6,two,0.11700421184837564
+Ethnology,7,tungus,0.11167531633437817
+Ethnology,8,great,0.11106527321620736
+Ethnology,9,time,0.10839165369026615
+Ethnology,10,also,0.10245509713984059
+Ethnology,11,may,0.10210005522436248
+Ethnology,12,buriats,0.10096253996731887
+Ethnology,13,first,0.09654881923689834
+Ethnology,14,lao,0.08785640556550152
+Ethnology,15,among,0.08715668507277537
+Ethnology,16,people,0.08671900133439568
+Ethnology,17,ancient,0.08578986697202567
+Ethnology,18,history,0.07938232654038266
+Ethnology,19,called,0.07934640591009409
+Ethnology,20,man,0.07639281318364098
+Ethnology,21,would,0.07405414700603113
+Ethnology,22,shanghai,0.07350718757226689
+Ethnology,23,early,0.07308352638716731
+Ethnology,24,race,0.07221054895117753
+Ethnology,25,tribes,0.07210369193317974
+Ethnology,26,years,0.07178818569717464
+Ethnology,27,many,0.07044957119680273
+Ethnology,28,hainan,0.06962068924493228
+Ethnology,29,made,0.06918764024596313
+Ethnology,30,men,0.06781180325050244
+Folklore,1,foot,0.0792184784200533
+Folklore,2,measure,0.06443891155064038
+Folklore,3,tungus,0.04068639032134036
+Folklore,4,period,0.02878323402470269
+Folklore,5,inches,0.02778558571449631
+Folklore,6,dynasty,0.02674486070895067
+Folklore,7,english,0.02235607447609297
+Folklore,8,one,0.022248808983765984
+Folklore,9,shamanism,0.021614644858212066
+Folklore,10,word,0.02138010593371242
+Folklore,11,may,0.02016694133920311
+Folklore,12,measures,0.020100210942401584
+Folklore,13,saman,0.01949556202897559
+Folklore,14,dead,0.019319587480240267
+Folklore,15,length,0.018917845592848554
+Folklore,16,chinese,0.01586409833246148
+Folklore,17,ancestral,0.0144896906101802
+Folklore,18,long,0.01408032464971869
+Folklore,19,spirits,0.013987610578971382
+Folklore,20,shaman,0.013985946672960749
+Folklore,21,ang,0.013486264515298258
+Folklore,22,china,0.012754169006976256
+Folklore,23,sung,0.01250613145249442
+Folklore,24,also,0.012503208166508767
+Folklore,25,chin,0.0123817228201415
+Folklore,26,among,0.011879819389948951
+Folklore,27,two,0.011749069360233035
+Folklore,28,first,0.011707304328907802
+Folklore,29,wang,0.011606912128156583
+Folklore,30,ancestor,0.010733104155689037
+Folklore | Mythology,1,spirits,0.01375720394125302
+Folklore | Mythology,2,one,0.01189812232757018
+Folklore | Mythology,3,shanghai,0.008923591745677636
+Folklore | Mythology,4,folk,0.007808142777467931
+Folklore | Mythology,5,lore,0.007436326454731362
+Folklore | Mythology,6,people,0.007436326454731362
+Folklore | Mythology,7,life,0.006506785647889942
+Folklore | Mythology,8,supposed,0.00594906116378509
+Folklore | Mythology,9,person,0.0057631530024168055
+Folklore | Mythology,10,gods,0.0057631530024168055
+Folklore | Mythology,11,god,0.0057631530024168055
+Folklore | Mythology,12,take,0.005205428518311954
+Folklore | Mythology,13,man,0.0050195203569436695
+Folklore | Mythology,14,place,0.0042758877114705334
+Folklore | Mythology,15,spirit,0.004089979550102249
+Folklore | Mythology,16,may,0.004089979550102249
+Folklore | Mythology,17,sickness,0.0039040713887339654
+Folklore | Mythology,18,evil,0.0039040713887339654
+Folklore | Mythology,19,paper,0.0039040713887339654
+Folklore | Mythology,20,day,0.003532255065997397
+Folklore | Mythology,21,human,0.003532255065997397
+Folklore | Mythology,22,death,0.003532255065997397
+Folklore | Mythology,23,idol,0.003346346904629113
+Folklore | Mythology,24,made,0.003346346904629113
+Folklore | Mythology,25,power,0.003346346904629113
+Folklore | Mythology,26,children,0.003346346904629113
+Folklore | Mythology,27,also,0.003346346904629113
+Folklore | Mythology,28,water,0.003346346904629113
+Folklore | Mythology,29,called,0.003346346904629113
+Folklore | Mythology,30,taken,0.003160438743260829
+Geography,1,lampacao,0.1894605318122716
+Geography,2,chinese,0.18347074130930124
+Geography,3,one,0.15019103981568538
+Geography,4,would,0.14044973929207316
+Geography,5,great,0.1398122979749146
+Geography,6,china,0.13052024482489363
+Geography,7,giles,0.12541297438344767
+Geography,8,may,0.10699862393274835
+Geography,9,macao,0.09386175471488749
+Geography,10,islands,0.09337946707977283
+Geography,11,name,0.09169000479924304
+Geography,12,portuguese,0.09020302442730392
+Geography,13,made,0.08594102386921972
+Geography,14,outau,0.08428181957497169
+Geography,15,les,0.08185530831881531
+Geography,16,two,0.08170353637753991
+Geography,17,ship,0.08003647681714131
+Geography,18,also,0.07741016594982085
+Geography,19,miautsz,0.07580410190857508
+Geography,20,emperor,0.0744981568549384
+Geography,21,genghis,0.0741884554545666
+Geography,22,place,0.07403414590000469
+Geography,23,river,0.07254153233426068
+Geography,24,time,0.06880901512637685
+Geography,25,called,0.06853234493316063
+Geography,26,country,0.06759948086891564
+Geography,27,map,0.06702190796449116
+Geography,28,god,0.06691731008757741
+Geography,29,men,0.06629107185616163
+Geography,30,charts,0.06456219523641663
+Geology,1,coal,0.2509213334866376
+Geology,2,limestone,0.15063614880747622
+Geology,3,one,0.13992476226248796
+Geology,4,dikes,0.13324226212890095
+Geology,5,feet,0.12015627412755113
+Geology,6,water,0.11047919938374122
+Geology,7,rocks,0.1063552344823897
+Geology,8,river,0.10136388926436532
+Geology,9,rock,0.08484507175951914
+Geology,10,may,0.08227982115982452
+Geology,11,per,0.08075690190586494
+Geology,12,found,0.07380859706706555
+Geology,13,beds,0.07328711405231067
+Geology,14,china,0.07310582979617719
+Geology,15,would,0.07269131897604814
+Geology,16,sea,0.07176380452985415
+Geology,17,miles,0.07130414267952034
+Geology,18,also,0.06959187960248456
+Geology,19,two,0.06942940662508108
+Geology,20,sediments,0.06851930162868411
+Geology,21,much,0.06712399361142615
+Geology,22,great,0.06498309191165147
+Geology,23,chinese,0.06465399468436318
+Geology,24,south,0.06388078006094113
+Geology,25,north,0.06074370622775853
+Geology,26,island,0.05886257651978461
+Geology,27,hills,0.05837371095701834
+Geology,28,near,0.058257059605548715
+Geology,29,marine,0.05751858245562498
+Geology,30,shan,0.055552307471862766
+Government,1,salt,0.08630472919394223
+Government,2,magistrate,0.07258973012760549
+Government,3,per,0.044182230258770966
+Government,4,hoppo,0.03373095337998266
+Government,5,chou,0.03319801966578318
+Government,6,uan,0.03243604773830155
+Government,7,may,0.031157369549410712
+Government,8,one,0.027754645761787884
+Government,9,duty,0.027713136411039067
+Government,10,book,0.027597746781132936
+Government,11,ssuch,0.026489438986279597
+Government,12,office,0.025179459184944616
+Government,13,district,0.025113636606241756
+Government,14,man,0.02400368198282181
+Government,15,tax,0.023345088963975358
+Government,16,cent,0.022704144921821472
+Government,17,iron,0.02269683463545563
+Government,18,permits,0.021083431029896006
+Government,19,hsien,0.020921867941933108
+Government,20,yen,0.020166342494266784
+Government,21,kuan,0.019506603062675647
+Government,22,made,0.01914744522578994
+Government,23,government,0.01887852480284808
+Government,24,money,0.018605068947661247
+Government,25,china,0.01834362349370065
+Government,26,must,0.018209202490422557
+Government,27,administration,0.017948606240806783
+Government,28,ang,0.017662931943379485
+Government,29,yamen,0.01734242474004649
+Government,30,duties,0.01704088562084128
+History,1,chinese,0.26582039338604974
+History,2,china,0.19190811920357911
+History,3,one,0.153988138812559
+History,4,time,0.13474804508501143
+History,5,history,0.12587463528284362
+History,6,emperor,0.11141312470735348
+History,7,city,0.10935518030647196
+History,8,dynasty,0.10498618041709691
+History,9,great,0.09744720304378986
+History,10,would,0.09662308870871465
+History,11,years,0.09582983051463385
+History,12,king,0.09472413460256905
+History,13,shanghai,0.09266096436277384
+History,14,two,0.09185880974244495
+History,15,called,0.09183911699620657
+History,16,changchow,0.09036818583571797
+History,17,first,0.08985360076008697
+History,18,made,0.08973297946755776
+History,19,name,0.08857067294777989
+History,20,year,0.08855412625774682
+History,21,people,0.08402233968460705
+History,22,corean,0.08006800932338803
+History,23,country,0.0790988961832896
+History,24,parker,0.07618197644169443
+History,25,may,0.07555551089545144
+History,26,place,0.07514678364552549
+History,27,said,0.07126542113679527
+History,28,portuguese,0.06922394700570955
+History,29,ancient,0.06869774488041835
+History,30,many,0.06563740206914927
+"History | History, Ancient",1,han,0.02796631681216035
+"History | History, Ancient",2,one,0.02307519617968339
+"History | History, Ancient",3,man,0.021827475017956764
+"History | History, Ancient",4,would,0.020964828231316044
+"History | History, Ancient",5,states,0.019975521521068233
+"History | History, Ancient",6,sung,0.018174508669081064
+"History | History, Ancient",7,league,0.017849443168553643
+"History | History, Ancient",8,conference,0.017849443168553643
+"History | History, Ancient",9,ritual,0.01632932784144613
+"History | History, Ancient",10,must,0.014549768524250802
+"History | History, Ancient",11,power,0.014527429563788729
+"History | History, Ancient",12,chou,0.014024562489577862
+"History | History, Ancient",13,hsu,0.014024562489577862
+"History | History, Ancient",14,hsiang,0.01393545490853067
+"History | History, Ancient",15,life,0.013919517720559845
+"History | History, Ancient",16,month,0.013916040991915037
+"History | History, Ancient",17,time,0.012270651204474865
+"History | History, Ancient",18,state,0.011834567757349562
+"History | History, Ancient",19,day,0.01151651026364987
+"History | History, Ancient",20,ang,0.011311536645875041
+"History | History, Ancient",21,china,0.011213087203388723
+"History | History, Ancient",22,spring,0.011171815613461915
+"History | History, Ancient",23,first,0.011107525830791581
+"History | History, Ancient",24,works,0.01090212350304556
+"History | History, Ancient",25,ming,0.01020582990090383
+"History | History, Ancient",26,also,0.01016072546078561
+"History | History, Ancient",27,people,0.010138386500323539
+"History | History, Ancient",28,war,0.01005689444933856
+"History | History, Ancient",29,chinese,0.010008670586677969
+"History | History, Ancient",30,long,0.009988147206802259
+"History | History, Modern (20th century)",1,road,0.011780697779791573
+"History | History, Modern (20th century)",2,frontier,0.01042138649750793
+"History | History, Modern (20th century)",3,india,0.01042138649750793
+"History | History, Modern (20th century)",4,country,0.01042138649750793
+"History | History, Modern (20th century)",5,would,0.008608971454463073
+"History | History, Modern (20th century)",6,waziristan,0.008608971454463073
+"History | History, Modern (20th century)",7,policy,0.007702763932940644
+"History | History, Modern (20th century)",8,one,0.006796556411418215
+"History | History, Modern (20th century)",9,mahsud,0.006343452650657001
+"History | History, Modern (20th century)",10,tribes,0.0058903488898957865
+"History | History, Modern (20th century)",11,north,0.005437245129134572
+"History | History, Modern (20th century)",12,british,0.005437245129134572
+"History | History, Modern (20th century)",13,territory,0.004984141368373358
+"History | History, Modern (20th century)",14,man,0.004531037607612144
+"History | History, Modern (20th century)",15,could,0.004531037607612144
+"History | History, Modern (20th century)",16,may,0.004531037607612144
+"History | History, Modern (20th century)",17,tribal,0.004531037607612144
+"History | History, Modern (20th century)",18,afridis,0.004531037607612144
+"History | History, Modern (20th century)",19,history,0.004077933846850929
+"History | History, Modern (20th century)",20,government,0.004077933846850929
+"History | History, Modern (20th century)",21,forward,0.004077933846850929
+"History | History, Modern (20th century)",22,afghanistan,0.004077933846850929
+"History | History, Modern (20th century)",23,afridi,0.004077933846850929
+"History | History, Modern (20th century)",24,time,0.004077933846850929
+"History | History, Modern (20th century)",25,perhaps,0.0036248300860897147
+"History | History, Modern (20th century)",26,must,0.0036248300860897147
+"History | History, Modern (20th century)",27,well,0.0036248300860897147
+"History | History, Modern (20th century)",28,political,0.0036248300860897147
+"History | History, Modern (20th century)",29,line,0.0036248300860897147
+"History | History, Modern (20th century)",30,good,0.0036248300860897147
+"History, Modern (20th century)",1,chinese,0.10068899954853054
+"History, Modern (20th century)",2,china,0.09263106337232292
+"History, Modern (20th century)",3,one,0.05858730387245458
+"History, Modern (20th century)",4,government,0.05825516819243016
+"History, Modern (20th century)",5,foreign,0.057184559212037536
+"History, Modern (20th century)",6,year,0.056214737733506895
+"History, Modern (20th century)",7,garnier,0.05148129470064819
+"History, Modern (20th century)",8,events,0.04935324953027407
+"History, Modern (20th century)",9,country,0.045935718857068104
+"History, Modern (20th century)",10,time,0.04560695551376328
+"History, Modern (20th century)",11,japan,0.044782634055895575
+"History, Modern (20th century)",12,shanghai,0.044236339721510656
+"History, Modern (20th century)",13,tong,0.044059748094770076
+"History, Modern (20th century)",14,retrospect,0.04377585920431032
+"History, Modern (20th century)",15,two,0.04359972766482762
+"History, Modern (20th century)",16,made,0.04241489638958939
+"History, Modern (20th century)",17,would,0.03990209034890672
+"History, Modern (20th century)",18,great,0.039268867417076025
+"History, Modern (20th century)",19,expedition,0.0366524156638334
+"History, Modern (20th century)",20,king,0.035016237209624504
+"History, Modern (20th century)",21,peking,0.0334132842974069
+"History, Modern (20th century)",22,foreigners,0.03331168964200839
+"History, Modern (20th century)",23,les,0.032925505823935566
+"History, Modern (20th century)",24,however,0.031770203848784026
+"History, Modern (20th century)",25,river,0.030090210247718095
+"History, Modern (20th century)",26,also,0.02929954043857608
+"History, Modern (20th century)",27,may,0.028491571346590198
+"History, Modern (20th century)",28,north,0.028023743507570968
+"History, Modern (20th century)",29,taken,0.0280021209668928
+"History, Modern (20th century)",30,first,0.027806595371663037
+Hydrology,1,river,0.1396012826191274
+Hydrology,2,bank,0.10862494367276071
+Hydrology,3,feet,0.08371468902617997
+Hydrology,4,water,0.08279925243890655
+Hydrology,5,bore,0.08093827106210842
+Hydrology,6,island,0.07272346947579378
+Hydrology,7,channel,0.06556583214065521
+Hydrology,8,canal,0.06484970854280825
+Hydrology,9,miles,0.0607865953272067
+Hydrology,10,may,0.05900426174302147
+Hydrology,11,iang,0.05773802387684549
+Hydrology,12,yellow,0.056950878923865265
+Hydrology,13,course,0.04933989723458026
+Hydrology,14,one,0.04794362976694225
+Hydrology,15,left,0.04721906862128939
+Hydrology,16,chiang,0.04495484038969383
+Hydrology,17,leaves,0.04107225223269616
+Hydrology,18,level,0.03976255524492927
+Hydrology,19,right,0.03959198541489965
+Hydrology,20,high,0.039263797176158424
+Hydrology,21,chow,0.038501342766737945
+Hydrology,22,passing,0.0374869339321832
+Hydrology,23,point,0.03734859932343871
+Hydrology,24,small,0.036549302546101586
+Hydrology,25,hainan,0.03379128231929051
+Hydrology,26,yong,0.03368051392815987
+Hydrology,27,north,0.03342274174487237
+Hydrology,28,south,0.03289886183771359
+Hydrology,29,china,0.03282648330692432
+Hydrology,30,chinese,0.030418447454450347
+Islam,1,mohammed,0.07791944344724457
+Islam,2,years,0.0705229460212267
+Islam,3,prophet,0.06298617154727298
+Islam,4,chinese,0.056193821884727255
+Islam,5,one,0.05442943904686116
+Islam,6,year,0.05193805866054756
+Islam,7,moslem,0.046766925036894516
+Islam,8,china,0.037996692763874414
+Islam,9,time,0.03712639206181252
+Islam,10,said,0.03612199359672215
+Islam,11,also,0.030283131109362496
+Islam,12,would,0.029467573079972283
+Islam,13,prayer,0.029030916304847148
+Islam,14,made,0.02788159151456976
+Islam,15,moslems,0.02598972077243331
+Islam,16,first,0.025540978826668715
+Islam,17,god,0.025493786930101917
+Islam,18,lunar,0.0253139710189478
+Islam,19,arabic,0.025209864506199817
+Islam,20,liu,0.024151720485822918
+Islam,21,given,0.02293888152137152
+Islam,22,three,0.022631829315169476
+Islam,23,dynasty,0.021640929022804713
+Islam,24,man,0.021567908856651753
+Islam,25,hegira,0.021064177738199172
+Islam,26,chen,0.020679190413446603
+Islam,27,chronology,0.018878898350968856
+Islam,28,may,0.018484453688009377
+Islam,29,upon,0.01805488770122252
+Islam,30,mosque,0.018013061023053677
+Judaism,1,heaven,0.010065949323151684
+Judaism,2,tao,0.009024644220756682
+Judaism,3,monument,0.009024644220756682
+Judaism,4,temple,0.008677542519958347
+Judaism,5,jewish,0.008677542519958347
+Judaism,6,honor,0.008677542519958347
+Judaism,7,kaifungfu,0.008330440819160014
+Judaism,8,year,0.006942034015966678
+Judaism,9,religion,0.006247830614370011
+Judaism,10,worship,0.005900728913571677
+Judaism,11,jews,0.0055536272127733426
+Judaism,12,may,0.004859423811176674
+Judaism,13,three,0.004859423811176674
+Judaism,14,true,0.004859423811176674
+Judaism,15,first,0.004859423811176674
+Judaism,16,good,0.004512322110378341
+Judaism,17,pure,0.004512322110378341
+Judaism,18,one,0.004512322110378341
+Judaism,19,books,0.004512322110378341
+Judaism,20,doctrine,0.004165220409580007
+Judaism,21,without,0.004165220409580007
+Judaism,22,dynasty,0.003818118708781673
+Judaism,23,day,0.003818118708781673
+Judaism,24,made,0.003818118708781673
+Judaism,25,faith,0.003818118708781673
+Judaism,26,chinese,0.003471017007983339
+Judaism,27,scriptures,0.003471017007983339
+Judaism,28,two,0.0031239153071850054
+Judaism,29,make,0.0031239153071850054
+Judaism,30,abraham,0.0031239153071850054
+Language and languages,1,chinese,0.027833803953206938
+Language and languages,2,words,0.01573215006050827
+Language and languages,3,english,0.012101653892698669
+Language and languages,4,word,0.011698265429608713
+Language and languages,5,one,0.01008471157724889
+Language and languages,6,meaning,0.009681323114158934
+Language and languages,7,may,0.008471157724889067
+Language and languages,8,found,0.00645421540943929
+Language and languages,9,china,0.00645421540943929
+Language and languages,10,common,0.0060508269463493344
+Language and languages,11,language,0.005244050020169423
+Language and languages,12,would,0.005244050020169423
+Language and languages,13,cognate,0.004840661557079467
+Language and languages,14,examples,0.004840661557079467
+Language and languages,15,shanghai,0.004437273093989512
+Language and languages,16,languages,0.004437273093989512
+Language and languages,17,skeat,0.004437273093989512
+Language and languages,18,etc,0.004437273093989512
+Language and languages,19,find,0.0036304961678096004
+Language and languages,20,says,0.0036304961678096004
+Language and languages,21,use,0.0036304961678096004
+Language and languages,22,another,0.0036304961678096004
+Language and languages,23,seen,0.0036304961678096004
+Language and languages,24,many,0.0036304961678096004
+Language and languages,25,less,0.003227107704719645
+Language and languages,26,root,0.003227107704719645
+Language and languages,27,law,0.003227107704719645
+Language and languages,28,people,0.003227107704719645
+Language and languages,29,man,0.003227107704719645
+Language and languages,30,means,0.003227107704719645
+Law,1,law,0.11898899258712753
+Law,2,chinese,0.10549478405823415
+Law,3,family,0.07589084783235099
+Law,4,one,0.06011736707669011
+Law,5,pao,0.05706367092298149
+Law,6,marriage,0.05428017767719257
+Law,7,may,0.053388174347810576
+Law,8,wife,0.049042875304995355
+Law,9,would,0.04681515926212166
+Law,10,china,0.043993292377491534
+Law,11,father,0.04257667323302589
+Law,12,case,0.04218127897355071
+Law,13,husband,0.04066374470118392
+Law,14,tai,0.03852040344534689
+Law,15,creditors,0.03831148647945661
+Law,16,code,0.034153703084033316
+Law,17,son,0.033115111772873906
+Law,18,partners,0.0326357107047223
+Law,19,time,0.032319978939932374
+Law,20,years,0.03069336810043738
+Law,21,upon,0.029759968823377878
+Law,22,property,0.029658528410504956
+Law,23,witchcraft,0.029479338926849275
+Law,24,debts,0.02679396118637619
+Law,25,made,0.026577552994206576
+Law,26,without,0.024590376863139807
+Law,27,death,0.024080328014587073
+Law,28,principles,0.023455886686627243
+Law,29,roman,0.023341818999486123
+Law,30,man,0.023220121111175294
+Literature,1,chinese,0.3654596169678542
+Literature,2,one,0.35089539249109136
+Literature,3,like,0.30372799648063
+Literature,4,library,0.22130467894856976
+Literature,5,may,0.17917313142624783
+Literature,6,apart,0.17455635293092434
+Literature,7,wassail,0.17247775753633715
+Literature,8,year,0.16250193093059545
+Literature,9,heart,0.16168012824798117
+Literature,10,china,0.1583324116855958
+Literature,11,two,0.1579655420669175
+Literature,12,see,0.15609788897292312
+Literature,13,long,0.1531935209418775
+Literature,14,dynasty,0.14649051656855877
+Literature,15,tsi,0.14594116870044105
+Literature,16,oh,0.14554683809866034
+Literature,17,great,0.13870434618392685
+Literature,18,would,0.13703305680628902
+Literature,19,emperor,0.1366516319887563
+Literature,20,love,0.13530630057916113
+Literature,21,fletcher,0.13228283722340153
+Literature,22,old,0.1281684159228477
+Literature,23,manchu,0.1269503257864854
+Literature,24,song,0.12568649905017332
+Literature,25,time,0.12501612431424533
+Literature,26,man,0.12490291184855208
+Literature,27,books,0.12463073606539536
+Literature,28,tones,0.1243667568581795
+Literature,29,esq,0.12343894460851293
+Literature,30,works,0.12228538640451488
+Manners and customs,1,one,0.3485528354221794
+Manners and customs,2,chinese,0.2970358194802614
+Manners and customs,3,king,0.27708931039015583
+Manners and customs,4,char,0.24546508033471326
+Manners and customs,5,game,0.20558183313729295
+Manners and customs,6,china,0.1787147735794156
+Manners and customs,7,two,0.17248713900242116
+Manners and customs,8,men,0.16912061872386464
+Manners and customs,9,may,0.16689150565884045
+Manners and customs,10,black,0.16650088431138205
+Manners and customs,11,son,0.15236364510113642
+Manners and customs,12,board,0.13981856452448904
+Manners and customs,13,year,0.13655208045855827
+Manners and customs,14,white,0.1315276571834151
+Manners and customs,15,would,0.1304803018789997
+Manners and customs,16,move,0.12374466519576577
+Manners and customs,17,first,0.12254308057316449
+Manners and customs,18,day,0.119248668414221
+Manners and customs,19,side,0.11786607384462455
+Manners and customs,20,time,0.11700142234268643
+Manners and customs,21,rice,0.11531635781582092
+Manners and customs,22,breadth,0.10978375775477496
+Manners and customs,23,man,0.10843750632429824
+Manners and customs,24,manchuria,0.10831978900427564
+Manners and customs,25,fig,0.10699504910278353
+Manners and customs,26,must,0.10602635906882125
+Manners and customs,27,dynasty,0.1050964914485741
+Manners and customs,28,takes,0.10469166345099637
+Manners and customs,29,three,0.1039446382421089
+Manners and customs,30,length,0.10263685120392689
+Medicine,1,shad,0.06684735111188914
+Medicine,2,chinese,0.05107064463369454
+Medicine,3,medical,0.03183332231364959
+Medicine,4,arsenic,0.03066770522517305
+Medicine,5,china,0.02260792970130657
+Medicine,6,cod,0.02228245037062971
+Medicine,7,consumption,0.02228245037062971
+Medicine,8,one,0.022069378947783692
+Medicine,9,hospital,0.021777871448097744
+Medicine,10,liver,0.01947749130194789
+Medicine,11,fish,0.018844149900104905
+Medicine,12,work,0.018751570512467695
+Medicine,13,use,0.017295767456650617
+Medicine,14,found,0.016821912106557098
+Medicine,15,iodine,0.016711837777972284
+Medicine,16,goitre,0.016711837777972284
+Medicine,17,yangtze,0.016711837777972284
+Medicine,18,called,0.01661552077234446
+Medicine,19,two,0.016197561740835704
+Medicine,20,made,0.015843856841848185
+Medicine,21,oil,0.01580386951550171
+Medicine,22,first,0.015323436018779122
+Medicine,23,useful,0.015129124504593076
+Medicine,24,water,0.014738218619380931
+Medicine,25,discovered,0.01338799946850383
+Medicine,26,season,0.01338799946850383
+Medicine,27,great,0.012676855499577373
+Medicine,28,pulse,0.012578247754948757
+Medicine,29,may,0.01215100235109482
+Medicine,30,employed,0.011708504289587411
+Meteorology,1,summer,0.32427254841146497
+Meteorology,2,drought,0.26590940573135813
+Meteorology,3,autumn,0.21326920292573368
+Meteorology,4,spring,0.19304648266076863
+Meteorology,5,great,0.18961706769598016
+Meteorology,6,chehkiang,0.1858230907452247
+Meteorology,7,bulb,0.18133512528175574
+Meteorology,8,nagasaki,0.1767884839245492
+Meteorology,9,honan,0.1639075347196594
+Meteorology,10,observations,0.15233620879291854
+Meteorology,11,chihli,0.1421299974523504
+Meteorology,12,hupeh,0.13766510802588022
+Meteorology,13,shensi,0.13734954773510794
+Meteorology,14,kiangsu,0.13203795033819765
+Meteorology,15,shansi,0.12719099807780987
+Meteorology,16,read,0.11676789533142405
+Meteorology,17,may,0.11085237001067991
+Meteorology,18,fahrenmur,0.11024912335642137
+Meteorology,19,de,0.11024912335642137
+Meteorology,20,feb,0.10817869079480363
+Meteorology,21,year,0.10407091063924863
+Meteorology,22,shantung,0.09907573908086098
+Meteorology,23,japan,0.09829874270837166
+Meteorology,24,fedorovitch,0.09780065932079574
+Meteorology,25,montigny,0.09780065932079574
+Meteorology,26,strelok,0.09780065932079574
+Meteorology,27,heit,0.09780065932079574
+Meteorology,28,reau,0.09780065932079574
+Meteorology,29,temperature,0.09601393132010849
+Meteorology,30,thermometrical,0.09545124152717942
+Military art and science | Science,1,tls,0.031713575147139815
+Military art and science | Science,2,chinese,0.024227780789385374
+Military art and science | Science,3,manchu,0.020135603268025278
+Military art and science | Science,4,fire,0.014687743472121359
+Military art and science | Science,5,tso,0.012081361960815168
+Military art and science | Science,6,gunpowder,0.011902136951546618
+Military art and science | Science,7,banners,0.011577971879114534
+Military art and science | Science,8,pay,0.01057119171571327
+Military art and science | Science,9,banner,0.010067801634012639
+Military art and science | Science,10,china,0.009699011332249154
+Military art and science | Science,11,men,0.009501277782080073
+Military art and science | Science,12,total,0.009061021470611375
+Military art and science | Science,13,use,0.008863293474555991
+Military art and science | Science,14,period,0.008863293474555991
+Military art and science | Science,15,peking,0.008776168718862129
+Military art and science | Science,16,infantry,0.008557631388910743
+Military art and science | Science,17,three,0.008422390872247606
+Military art and science | Science,18,may,0.008279511603293838
+Military art and science | Science,19,board,0.007881850331707066
+Military art and science | Science,20,troops,0.007047461143808846
+Military art and science | Science,21,eight,0.007047461143808846
+Military art and science | Science,22,lings,0.007047461143808846
+Military art and science | Science,23,first,0.007013861999535352
+Military art and science | Science,24,one,0.0070072794857895145
+Military art and science | Science,25,year,0.006994114458297839
+Military art and science | Science,26,rice,0.0065440710621082155
+Military art and science | Science,27,bannermen,0.0065440710621082155
+Military art and science | Science,28,guards,0.0065440710621082155
+Military art and science | Science,29,two,0.006464544774000361
+Military art and science | Science,30,also,0.006286558765068794
+Music,1,chinese,0.10920255704683186
+Music,2,music,0.0744487565829937
+Music,3,one,0.05678020528719178
+Music,4,inches,0.03954247507577957
+Music,5,notation,0.03867750351378326
+Music,6,instruments,0.03833107008358237
+Music,7,musical,0.03773050467113309
+Music,8,lyrics,0.03480687161742039
+Music,9,notes,0.03459261236134048
+Music,10,used,0.03369043862181283
+Music,11,may,0.033342259078812976
+Music,12,see,0.032263317845339395
+Music,13,made,0.030398307398840387
+Music,14,instrument,0.03035070162337009
+Music,15,ancient,0.03015673969063841
+Music,16,time,0.029211526866508696
+Music,17,thus,0.02700621312983391
+Music,18,called,0.026774227161696987
+Music,19,must,0.02596484285557516
+Music,20,like,0.024604587027086778
+Music,21,two,0.024282676294796073
+Music,22,fig,0.024080656281881503
+Music,23,rites,0.02361822670044224
+Music,24,little,0.02348091687036545
+Music,25,husband,0.02253315476965129
+Music,26,give,0.022368756980079858
+Music,27,writing,0.020928239027279683
+Music,28,drum,0.02048562052245427
+Music,29,use,0.02045519967075995
+Music,30,without,0.019908857457070963
+Mythology,1,chinese,0.0959482434070377
+Mythology,2,dragon,0.07292373673722621
+Mythology,3,one,0.06924875575059007
+Mythology,4,dove,0.06483140375038367
+Mythology,5,fox,0.050082841533555786
+Mythology,6,characters,0.04910007286911053
+Mythology,7,catalogue,0.043919528118771
+Mythology,8,old,0.04193940209821897
+Mythology,9,chiu,0.037627782777114996
+Mythology,10,china,0.03602711880288005
+Mythology,11,heaven,0.03539781372277652
+Mythology,12,called,0.034707375245119916
+Mythology,13,character,0.0320996782029696
+Mythology,14,vols,0.029279685412514
+Mythology,15,library,0.029279685412514
+Mythology,16,sur,0.029279685412514
+Mythology,17,hunter,0.029279685412514
+Mythology,18,may,0.02898012647928323
+Mythology,19,also,0.027133549802976577
+Mythology,20,honoured,0.026933737363881684
+Mythology,21,rain,0.02655910902338633
+Mythology,22,doves,0.02618191305303956
+Mythology,23,presented,0.026081181889224248
+Mythology,24,time,0.0259597233570968
+Mythology,25,collection,0.02593900097967835
+Mythology,26,men,0.025877149110020373
+Mythology,27,tauist,0.025595566579668796
+Mythology,28,bird,0.025558534170824328
+Mythology,29,und,0.024748785530696184
+Mythology,30,would,0.022945592600147034
+Numismatics,1,cash,0.1559537777521829
+Numismatics,2,reverse,0.14097523555783403
+Numismatics,3,coins,0.13462155181060265
+Numismatics,4,corea,0.1134353987913302
+Numismatics,5,silver,0.08492535465532068
+Numismatics,6,mint,0.08021256130619492
+Numismatics,7,pao,0.0795577965683375
+Numismatics,8,chinese,0.07556322715435561
+Numismatics,9,one,0.07167149143631273
+Numismatics,10,obverse,0.06712523380947423
+Numismatics,11,china,0.06610446068616624
+Numismatics,12,coinage,0.06454785661198682
+Numismatics,13,coin,0.06425985814192564
+Numismatics,14,copper,0.06094593430670658
+Numismatics,15,character,0.059201071536399814
+Numismatics,16,king,0.058999468566325416
+Numismatics,17,nos,0.05876266355141051
+Numismatics,18,pieces,0.05775848886573948
+Numismatics,19,two,0.05756094564295838
+Numismatics,20,currency,0.05742477673265793
+Numismatics,21,issued,0.057069105021874046
+Numismatics,22,rev,0.05364194553798903
+Numismatics,23,obv,0.05284065543077254
+Numismatics,24,diam,0.052640652298224344
+Numismatics,25,annam,0.052394508027182006
+Numismatics,26,value,0.04785086199511658
+Numismatics,27,republic,0.046760373889538014
+Numismatics,28,pau,0.04308460545690391
+Numismatics,29,province,0.03987027340351635
+Numismatics,30,characters,0.03970208000264101
+Painting,1,ku,0.028987200226155425
+Painting,2,ink,0.021911482754470267
+Painting,3,scroll,0.020705143018682443
+Painting,4,giles,0.017392320135693255
+Painting,5,painting,0.01659244949054163
+Painting,6,ch,0.015735908694198657
+Painting,7,tung,0.013776002806822292
+Painting,8,chih,0.013576515436866403
+Painting,9,ai,0.013251291531956765
+Painting,10,wang,0.013209913647342201
+Painting,11,dynasty,0.012161292538166177
+Painting,12,one,0.011525645282583045
+Painting,13,yuan,0.010829626849250106
+Painting,14,two,0.010783254785181412
+Painting,15,dr,0.01076667436971487
+Painting,16,remains,0.010434039406890604
+Painting,17,china,0.010434039406890604
+Painting,18,chang,0.010193979593666976
+Painting,19,museum,0.009604704402152539
+Painting,20,hills,0.009390635466201542
+Painting,21,time,0.009191730548559644
+Painting,22,artists,0.008347231525512483
+Painting,23,among,0.008347231525512483
+Painting,24,snow,0.008347231525512483
+Painting,25,british,0.008282057207472979
+Painting,26,text,0.008282057207472979
+Painting,27,chao,0.00801318016553077
+Painting,28,river,0.00801318016553077
+Painting,29,paintings,0.007860064859643573
+Painting,30,may,0.007836878827609226
+Philosophy,1,destiny,0.13647638838302162
+Philosophy,2,one,0.13596150667152435
+Philosophy,3,love,0.11827530443916985
+Philosophy,4,tsi,0.1047657883009458
+Philosophy,5,man,0.09941323661636045
+Philosophy,6,hsiung,0.08726915719776282
+Philosophy,7,hsi,0.08684384429779446
+Philosophy,8,meh,0.08516878403766895
+Philosophy,9,would,0.0839180380530061
+Philosophy,10,wang,0.08143825797732475
+Philosophy,11,nature,0.07889792963756298
+Philosophy,12,yang,0.07548845594771678
+Philosophy,13,great,0.07353729323310554
+Philosophy,14,time,0.07310530742140856
+Philosophy,15,men,0.07143144692926143
+Philosophy,16,people,0.06885624380298634
+Philosophy,17,heaven,0.06816788251991092
+Philosophy,18,mencius,0.06699504699356176
+Philosophy,19,tse,0.06525209994430677
+Philosophy,20,life,0.061891255586481675
+Philosophy,21,things,0.061010926720641505
+Philosophy,22,may,0.06055027480750046
+Philosophy,23,chu,0.06029240887408541
+Philosophy,24,soul,0.05829683564429734
+Philosophy,25,good,0.05811188625368189
+Philosophy,26,must,0.05801065929714898
+Philosophy,27,two,0.05756400221150975
+Philosophy,28,chinese,0.05677198020066149
+Philosophy,29,doctrine,0.056611808047754675
+Philosophy,30,confucius,0.056610070882430114
+Political science,1,wang,0.020852707477514092
+Political science,2,shih,0.014735057645857395
+Political science,3,one,0.014199238741315841
+Political science,4,party,0.013726723973529654
+Political science,5,yuan,0.013644156644802188
+Political science,6,men,0.012140419000109648
+Political science,7,dynasty,0.011864615416226777
+Political science,8,first,0.01129721998523684
+Political science,9,sung,0.011008234334690708
+Political science,10,scholars,0.01076053234850831
+Political science,11,hsi,0.010732430750807835
+Political science,12,nature,0.010678203222216718
+Political science,13,emperor,0.010454020970364032
+Political science,14,tsung,0.008907262196933805
+Political science,15,two,0.00870084387511514
+Political science,16,country,0.008494425553296475
+Political science,17,names,0.008384579317572942
+Political science,18,ing,0.007983233317707485
+Political science,19,new,0.007899797256793042
+Political science,20,way,0.0076942476671613535
+Political science,21,years,0.0076925102027873985
+Political science,22,made,0.0072919868936263494
+Political science,23,year,0.007277936094776113
+Political science,24,fei,0.007047614126663034
+Political science,25,man,0.006795714189074575
+Political science,26,law,0.0067816633902243375
+Political science,27,time,0.006740379725860605
+Political science,28,ching,0.006739510993673627
+Political science,29,chai,0.0066204859977743655
+Political science,30,han,0.006504991074154488
+Porcelain,1,ing,0.03416984202587918
+Porcelain,2,gorer,0.02477582722626572
+Porcelain,3,dynasty,0.01997168638035511
+Porcelain,4,tsun,0.019520348723724507
+Porcelain,5,shapes,0.017003056283242043
+Porcelain,6,period,0.016639213040141834
+Porcelain,7,art,0.016050448519488766
+Porcelain,8,neck,0.015015652864403466
+Porcelain,9,chinese,0.014738959011404831
+Porcelain,10,one,0.014095618004286735
+Porcelain,11,pottery,0.013063626260220687
+Porcelain,12,bronze,0.012195363975549735
+Porcelain,13,china,0.012086211002619671
+Porcelain,14,glaze,0.011388293509036543
+Porcelain,15,vessels,0.011126987907173667
+Porcelain,16,sung,0.010908681961313539
+Porcelain,17,ware,0.010854105474848509
+Porcelain,18,clay,0.010574607710830622
+Porcelain,19,kuan,0.010510957005082427
+Porcelain,20,porcelain,0.01050183906221058
+Porcelain,21,made,0.010410878251435527
+Porcelain,22,known,0.009913074541557513
+Porcelain,23,mouth,0.009760174361862254
+Porcelain,24,shape,0.009597192453229606
+Porcelain,25,hobson,0.009579000291074596
+Porcelain,26,body,0.009560808128919586
+Porcelain,27,fig,0.009488039480299543
+Porcelain,28,pieces,0.009324310020904447
+Porcelain,29,vase,0.009063004419041572
+Porcelain,30,called,0.008510624222698528
+Religion,1,shaman,0.13338388905468684
+Religion,2,one,0.131999198427305
+Religion,3,chinese,0.10509550247173498
+Religion,4,may,0.08945013234067485
+Religion,5,god,0.08791430092495879
+Religion,6,heaven,0.08263932191009425
+Religion,7,china,0.07762993993549724
+Religion,8,great,0.07493236440080303
+Religion,9,shamanism,0.06935962230843716
+Religion,10,two,0.06542311880996096
+Religion,11,chow,0.06328113977076921
+Religion,12,spirits,0.061545013023519446
+Religion,13,worship,0.0596618613768297
+Religion,14,sze,0.05802654395205099
+Religion,15,people,0.05737267238285079
+Religion,16,shan,0.05657233786219803
+Religion,17,first,0.056405387422952306
+Religion,18,would,0.05528233446218686
+Religion,19,clan,0.05515954861391039
+Religion,20,king,0.05448062627823797
+Religion,21,time,0.05115496223395146
+Religion,22,sacrifice,0.05028512854507653
+Religion,23,temple,0.04935141298452282
+Religion,24,family,0.048166558343407266
+Religion,25,tablet,0.04787477016065895
+Religion,26,also,0.046888599387253205
+Religion,27,ancient,0.04676224174007458
+Religion,28,many,0.04658801376686921
+Religion,29,bishop,0.04564961938562052
+Religion,30,three,0.04518176362290479
+Science,1,chinese,0.06669480519242911
+Science,2,china,0.03981018211707197
+Science,3,one,0.027575926400768513
+Science,4,first,0.020621485401830897
+Science,5,work,0.02003999284738215
+Science,6,science,0.01883359349089384
+Science,7,great,0.01715955365865196
+Science,8,bishop,0.015543493769547027
+Science,9,astronomical,0.014886616468675087
+Science,10,book,0.014416113861560597
+Science,11,time,0.01427132007274903
+Science,12,books,0.013748786314956473
+Science,13,many,0.013540641106272741
+Science,14,even,0.013455805801194867
+Science,15,years,0.01300437782267764
+Science,16,read,0.012974429609619694
+Science,17,moule,0.012681455921804537
+Science,18,two,0.01215000811870075
+Science,19,sun,0.011939264111805932
+Science,20,century,0.011632918460032131
+Science,21,also,0.011535128267237904
+Science,22,may,0.011434705556934942
+Science,23,notes,0.01119461947950962
+Science,24,made,0.011142225220977204
+Science,25,hangchow,0.011102495549676449
+Science,26,well,0.011015498972264259
+Science,27,works,0.010965915082451523
+Science,28,shanghai,0.01079121995276294
+Science,29,ancient,0.010738448956253834
+Science,30,printed,0.010490387079237759
+Sculpture,1,han,0.01075537768884442
+Sculpture,2,one,0.00975487743871936
+Sculpture,3,chinese,0.007503751875937968
+Sculpture,4,great,0.006753376688344172
+Sculpture,5,pillars,0.006503251625812906
+Sculpture,6,ssu,0.00625312656328164
+Sculpture,7,two,0.006003001500750374
+Sculpture,8,time,0.006003001500750374
+Sculpture,9,sculpture,0.005752876438219109
+Sculpture,10,stone,0.005502751375687844
+Sculpture,11,uan,0.0050025012506253125
+Sculpture,12,first,0.0050025012506253125
+Sculpture,13,statue,0.004502251125562781
+Sculpture,14,china,0.004502251125562781
+Sculpture,15,style,0.004252126063031515
+Sculpture,16,liang,0.004252126063031515
+Sculpture,17,pillar,0.004252126063031515
+Sculpture,18,see,0.004252126063031515
+Sculpture,19,horse,0.00400200100050025
+Sculpture,20,monuments,0.00400200100050025
+Sculpture,21,man,0.00400200100050025
+Sculpture,22,dynasty,0.00400200100050025
+Sculpture,23,found,0.003751875937968984
+Sculpture,24,art,0.003751875937968984
+Sculpture,25,would,0.003751875937968984
+Sculpture,26,funeral,0.0035017508754377185
+Sculpture,27,place,0.0035017508754377185
+Sculpture,28,shantung,0.0035017508754377185
+Sculpture,29,well,0.0035017508754377185
+Sculpture,30,tombs,0.003251625812906453
+Taoism,1,tzu,0.05658496576948434
+Taoism,2,heart,0.042474007090499595
+Taoism,3,taoism,0.03672996324693145
+Taoism,4,one,0.03331129616818437
+Taoism,5,eight,0.02862017377453047
+Taoism,6,lao,0.026767069763934694
+Taoism,7,man,0.02663248307936534
+Taoism,8,tao,0.025846317957310752
+Taoism,9,way,0.025017339584125657
+Taoism,10,genii,0.023551463591659716
+Taoism,11,duke,0.020785396006966987
+Taoism,12,king,0.020588444141665562
+Taoism,13,would,0.020498989942497194
+Taoism,14,replied,0.019519077368467072
+Taoism,15,said,0.019438055864596734
+Taoism,16,may,0.01793463226495886
+Taoism,17,life,0.017545245620017975
+Taoism,18,immortals,0.01749510856878052
+Taoism,19,see,0.01739625550921653
+Taoism,20,great,0.016859888542585008
+Taoism,21,men,0.016726606080399192
+Taoism,22,without,0.016329707236139454
+Taoism,23,true,0.016004508895692222
+Taoism,24,chinese,0.015878146467911476
+Taoism,25,people,0.015294944010370251
+Taoism,26,nature,0.015213640356365157
+Taoism,27,says,0.015150652180904178
+Taoism,28,three,0.01508160570121282
+Taoism,29,spirit,0.014926082778014363
+Taoism,30,confucius,0.014743857112692757
+Telecommunication,1,river,0.07691431002381457
+Telecommunication,2,canal,0.0609248178934745
+Telecommunication,3,rockhill,0.060355613602335594
+Telecommunication,4,china,0.0513424071839344
+Telecommunication,5,trade,0.04431785802014893
+Telecommunication,6,yunnan,0.0420325817633757
+Telecommunication,7,route,0.03685456265357211
+Telecommunication,8,tibet,0.02681475257114404
+Telecommunication,9,cheo,0.026264782287504753
+Telecommunication,10,road,0.02516050285484611
+Telecommunication,11,yellow,0.022315208545115314
+Telecommunication,12,kueichou,0.021540665382070053
+Telecommunication,13,water,0.020825168503227173
+Telecommunication,14,days,0.02025267490557232
+Telecommunication,15,grand,0.02000307935446541
+Telecommunication,16,chinese,0.019474338822034542
+Telecommunication,17,great,0.019417693773348094
+Telecommunication,18,yangtsze,0.019411759204712237
+Telecommunication,19,province,0.018315138775449772
+Telecommunication,20,ssu,0.01822671686175158
+Telecommunication,21,two,0.01776101022744414
+Telecommunication,22,goods,0.017707842815052856
+Telecommunication,23,routes,0.017229970894221628
+Telecommunication,24,western,0.017013432692257954
+Telecommunication,25,roads,0.01698451115315713
+Telecommunication,26,peking,0.016894824841976044
+Telecommunication,27,society,0.01678638335802706
+Telecommunication,28,uan,0.01637787611105663
+Telecommunication,29,north,0.016356074765256218
+Telecommunication,30,one,0.016275466635384633
+Travel,1,one,0.311649415351371
+Travel,2,var,0.21469251159030917
+Travel,3,une,0.21306442294347477
+Travel,4,chinese,0.1968141850564339
+Travel,5,river,0.19019523316592785
+Travel,6,two,0.1826924886033502
+Travel,7,trachelomonas,0.17027337126127967
+Travel,8,city,0.16149346073307178
+Travel,9,great,0.15601186386230437
+Travel,10,lemm,0.1406606110419267
+Travel,11,miles,0.13785035332139314
+Travel,12,fig,0.13093972464633427
+Travel,13,may,0.12118995208694823
+Travel,14,day,0.11998404794742962
+Travel,15,yedo,0.11993005909986088
+Travel,16,feet,0.11553486441646615
+Travel,17,water,0.11526983030790805
+Travel,18,large,0.11442361199258239
+Travel,19,made,0.11130665852238383
+Travel,20,skvortz,0.1110478508225737
+Travel,21,three,0.11037319476274594
+Travel,22,temple,0.10686380951437832
+Travel,23,hills,0.10664037224724486
+Travel,24,journey,0.10421670262226651
+Travel,25,china,0.10384977224309166
+Travel,26,also,0.10325376957416728
+Travel,27,north,0.10233553765006395
+Travel,28,small,0.10107358077969333
+Travel,29,ehrenb,0.09994306574031633
+Travel,30,south,0.09986303564249158
+Zoology,1,species,0.22253632563309822
+Zoology,2,birds,0.19321769093406824
+Zoology,3,one,0.18145130856475775
+Zoology,4,china,0.17828639079475728
+Zoology,5,chinese,0.16081864900993223
+Zoology,6,family,0.1593925985259692
+Zoology,7,genus,0.15189222444864514
+Zoology,8,specimens,0.1498914867338222
+Zoology,9,seen,0.13830618771549047
+Zoology,10,inhale,0.1355376820262754
+Zoology,11,fokien,0.12827900350413884
+Zoology,12,museum,0.1266137034580732
+Zoology,13,two,0.12603886038810408
+Zoology,14,meteorite,0.12552428197145596
+Zoology,15,black,0.12010051119357387
+Zoology,16,long,0.11933609540085945
+Zoology,17,may,0.1185311227231946
+Zoology,18,found,0.11799263281786898
+Zoology,19,brown,0.11707754413139207
+Zoology,20,bird,0.11579469372156183
+Zoology,21,orn,0.11499346206652719
+Zoology,22,tail,0.11277986894560077
+Zoology,23,white,0.10680424418296228
+Zoology,24,bill,0.10306291161537322
+Zoology,25,small,0.10276300652029358
+Zoology,26,also,0.10213471745843074
+Zoology,27,chambers,0.09871915885062725
+Zoology,28,fumes,0.09791837267417057
+Zoology,29,charcoal,0.09687085523826064
+Zoology,30,tenths,0.09681200160173799

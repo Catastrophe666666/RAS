@@ -1,4 +1,4 @@
-"""TF-IDF diagnostics plus a lightweight LDA probe for RAS topic modeling."""
+﻿"""TF-IDF diagnostics plus a lightweight LDA probe for RAS topic modeling."""
 
 from __future__ import annotations
 
@@ -245,9 +245,9 @@ def tfidf_overall_from_counts(
 def split_group_values(value: object) -> list[str]:
     text = "" if pd.isna(value) else str(value).strip()
     if not text:
-        return ["Unknown"]
+        return []
     parts = [part.strip() for part in re.split(r"\s*\|\s*|\s*;\s*", text) if part.strip()]
-    return parts or ["Unknown"]
+    return [part for part in parts if part.lower() != "unknown"]
 
 
 def grouped_tfidf_from_counts(articles: pd.DataFrame, doc_counts: list[Counter], group_col: str, top_n: int) -> pd.DataFrame:
@@ -553,3 +553,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
