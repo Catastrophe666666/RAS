@@ -1,0 +1,55 @@
+subject_l1,subject_l2,weighted_article_count,article_count,author_count,first_year,last_year,share
+Literature and Language,Literature,57.0,57,38,1859,1946,0.0871559633027523
+Geography and Travel,Travel,44.0,44,34,1858,1936,0.0672782874617737
+Natural Sciences,Zoology,37.0,37,25,1859,1948,0.0565749235474006
+History and Chronology,History,36.0,39,34,1866,1946,0.055045871559633
+Anthropology and Social Customs,Ethnology,33.0,33,24,1858,1946,0.0504587155963302
+Religion and Philosophy,Religion,26.0,26,22,1869,1948,0.0397553516819571
+Geography and Travel,Geography,24.0,24,20,1876,1940,0.036697247706422
+Arts and Archaeology,Archaeology,23.0,23,19,1865,1946,0.0351681957186544
+Natural Sciences,Geology,23.0,23,16,1860,1929,0.0351681957186544
+Anthropology and Social Customs,Manners and customs,23.0,23,18,1864,1923,0.0351681957186544
+Natural Sciences,Agriculture,21.0,21,15,1859,1937,0.0321100917431192
+Natural Sciences,Meteorology,18.0,18,15,1858,1914,0.0275229357798165
+Religion and Philosophy,Philosophy,17.0,17,12,1859,1933,0.0259938837920489
+Natural Sciences,Botany,16.0,16,11,1865,1931,0.0244648318042813
+Religion and Philosophy,Christianity,15.5,16,10,1865,1948,0.0237003058103975
+History and Chronology,"History, Modern (20th century)",15.5,16,10,1859,1931,0.0237003058103975
+"Economy, Trade, and Technology",Economics,15.0,15,10,1868,1940,0.0229357798165137
+Arts and Archaeology,Art,13.5,14,11,1887,1937,0.0206422018348623
+Religion and Philosophy,Buddhism,11.0,11,9,1858,1934,0.0168195718654434
+Religion and Philosophy,China--Religion,11.0,11,10,1924,1931,0.0168195718654434
+Natural Sciences,Hydrology,11.0,11,10,1859,1918,0.0168195718654434
+Arts and Archaeology,Numismatics,11.0,11,8,1858,1917,0.0168195718654434
+"Politics, Government, and Law",Law,10.0,10,8,1859,1946,0.0152905198776758
+Arts and Archaeology,Antiquities,9.0,9,9,1864,1932,0.0137614678899082
+Natural Sciences,Astronomy,9.0,9,7,1860,1935,0.0137614678899082
+History and Chronology,Biography,9.0,9,8,1868,1928,0.0137614678899082
+Literature and Language,Language and languages,9.0,9,8,1885,1948,0.0137614678899082
+Religion and Philosophy,Confucianism,7.0,7,6,1860,1936,0.010703363914373
+Natural Sciences,Science,6.0,7,7,1869,1946,0.0091743119266055
+Arts and Archaeology,Architecture,6.0,6,6,1866,1936,0.0091743119266055
+History and Chronology,"Chronology, Historical",6.0,6,5,1867,1934,0.0091743119266055
+Literature and Language,East Asian languages,6.0,6,6,1924,1931,0.0091743119266055
+Natural Sciences,Medicine,6.0,6,4,1864,1940,0.0091743119266055
+Arts and Archaeology,Music,6.0,6,6,1859,1910,0.0091743119266055
+Arts and Archaeology,Painting,6.0,6,2,1914,1935,0.0091743119266055
+Anthropology and Social Customs,Mythology,5.5,6,5,1859,1917,0.0084097859327217
+Geography and Travel,Asia,5.0,5,4,1925,1929,0.0076452599388379
+"Politics, Government, and Law",Government,5.0,5,4,1882,1900,0.0076452599388379
+Religion and Philosophy,Islam,5.0,5,2,1918,1931,0.0076452599388379
+Religion and Philosophy,Taoism,5.0,5,4,1888,1923,0.0076452599388379
+Anthropology and Social Customs,Folklore,4.5,5,4,1886,1928,0.0068807339449541
+Education,Education,4.0,4,4,1859,1928,0.0061162079510703
+Arts and Archaeology,Porcelain,4.0,4,3,1887,1932,0.0061162079510703
+Arts and Archaeology,Decorative arts,3.0,3,1,1912,1914,0.0045871559633027
+"Economy, Trade, and Technology",Telecommunication,3.0,3,3,1884,1896,0.0045871559633027
+History and Chronology,"History, Ancient",2.5,5,5,1871,1936,0.0038226299694189
+Anthropology and Social Customs,Anthropology,2.0,2,2,1932,1934,0.0030581039755351
+Arts and Archaeology,Bronzes,2.0,2,1,1916,1917,0.0030581039755351
+"Politics, Government, and Law",Political science,2.0,2,2,1927,1928,0.0030581039755351
+Military,Military art and science,1.0,2,2,1869,1887,0.0015290519877675
+"Politics, Government, and Law","Associations, institutions, etc.",1.0,1,1,1928,1928,0.0015290519877675
+Natural Sciences,Chemistry,1.0,1,1,1864,1864,0.0015290519877675
+Religion and Philosophy,Judaism,1.0,1,1,1906,1906,0.0015290519877675
+Arts and Archaeology,Sculpture,1.0,1,1,1917,1917,0.0015290519877675

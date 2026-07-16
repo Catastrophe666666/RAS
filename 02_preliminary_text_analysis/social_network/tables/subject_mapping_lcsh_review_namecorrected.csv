@@ -1,0 +1,62 @@
+"subject_raw","subject_raw_norm","subject_split","subject_l2","subject_l1","mapping_note","article_rows"
+"Literature","literature","literature","Literature","Literature and Language","",57
+"Travel","travel","travel","Travel","Geography and Travel","",44
+"Zoology","zoology","zoology","Zoology","Natural Sciences","",37
+"Ethnology","ethnology","ethnology","Ethnology","Anthropology and Social Customs","",33
+"History","history","history","History","History and Chronology","",33
+"Religion","religion","religion","Religion","Religion and Philosophy","",26
+"Geography","geography","geography","Geography","Geography and Travel","",24
+"Archaeology","archaeology","archaeology","Archaeology","Arts and Archaeology","",23
+"Manners and customs","manners and customs","manners","Manners and customs","Anthropology and Social Customs","Corrected exact old subject: Manners and customs",23
+"Geology","geology","geology","Geology","Natural Sciences","",22
+"Agriculture","agriculture","agriculture","Agriculture","Natural Sciences","",21
+"Meteorology","meteorology","meteorology","Meteorology","Natural Sciences","",18
+"Philosophy","philosophy","philosophy","Philosophy","Religion and Philosophy","",17
+"Botany","botany","botany","Botany","Natural Sciences","",16
+"Christianity","christianity","christianity","Christianity","Religion and Philosophy","",16
+"Contemporary History","contemporary history","contemporary history","History, Modern (20th century)","History and Chronology","Use 20th century, not docx 21st century",15
+"Economics","economics","economics","Economics","Economy, Trade, and Technology","",14
+"Art","art","art","Art","Arts and Archaeology","Corrected exact old subject: Art",14
+"Numismatics","numismatics","numismatics","Numismatics","Arts and Archaeology","",11
+"Hydrology","hydrology","hydrology","Hydrology","Natural Sciences","",11
+"Buddhism","buddhism","buddhism","Buddhism","Religion and Philosophy","",11
+"China--Religion","china--religion","china--religion","China--Religion","Religion and Philosophy","Corrected exact old subject: China--Religion",11
+"Law","law","law","Law","Politics, Government, and Law","",10
+"Antiquities","antiquities","antiquities","Antiquities","Arts and Archaeology","",9
+"Biography","biography","biography","Biography","History and Chronology","",9
+"Astronomy","astronomy","astronomy","Astronomy","Natural Sciences","",9
+"Language and languages","language and languages","language","Language and languages","Literature and Language","LCSH standard form",9
+"Confucianism","confucianism","confucianism","Confucianism","Religion and Philosophy","",7
+"Mythology","mythology","mythology","Mythology","Anthropology and Social Customs","",6
+"Architecture","architecture","architecture","Architecture","Arts and Archaeology","",6
+"Music","music","music","Music","Arts and Archaeology","",6
+"Painting","painting","painting","Painting","Arts and Archaeology","",6
+"Medicine","medicine","medicine","Medicine","Natural Sciences","",6
+"East Asian languages","east asian languages","east asian languages","East Asian languages","Literature and Language","Corrected exact old subject: East Asian languages",6
+"Chronology, Historical","chronology, historical","chronology","Chronology, Historical","History and Chronology","LCSH standard form",6
+"Asia","asia","asia","Asia","Geography and Travel","",5
+"History, Ancient","history, ancient","history","History","History and Chronology","",5
+"Government","government","government","Government","Politics, Government, and Law","",5
+"Islam","islam","islam","Islam","Religion and Philosophy","",5
+"Taoism","taoism","taoism","Taoism","Religion and Philosophy","",5
+"Science","science","science","Science","Natural Sciences","Corrected exact old subject: Science",5
+"History, Ancient","history, ancient","ancient","History, Ancient","History and Chronology","Corrected split from History, Ancient",5
+"Folklore","folklore","folklore","Folklore","Anthropology and Social Customs","",4
+"Porcelain","porcelain","porcelain","Porcelain","Arts and Archaeology","",4
+"Education","education","education","Education","Education","",4
+"Decorative arts","decorative arts","decorative arts","Decorative arts","Arts and Archaeology","",3
+"Telecommunication","telecommunication","telecommunication","Telecommunication","Economy, Trade, and Technology","Corrected exact old subject: Telecommunication",3
+"Anthropology","anthropology","anthropology","Anthropology","Anthropology and Social Customs","",2
+"Political science","political science","political science","Political science","Politics, Government, and Law","",2
+"Bronzes","bronzes","bronzes","Bronzes","Arts and Archaeology","Corrected exact old subject: Bronzes",2
+"Military art and science","military art and science","science","Science","Natural Sciences","Corrected exact old subject: Science",2
+"Military art and science","military art and science","military art","Military art and science","Military","Corrected split from Military art and science",2
+"Sculpture","sculpture","sculpture","Sculpture","Arts and Archaeology","",1
+"History, Modern","history, modern","history","History","History and Chronology","",1
+"Chemistry","chemistry","chemistry","Chemistry","Natural Sciences","",1
+"Judaism","judaism","judaism","Judaism","Religion and Philosophy","",1
+"Geology / History","geology / history","geology / history","Geology","Natural Sciences","Corrected compound Geology / History",1
+"Folkore","folkore","folkore","Folklore","Anthropology and Social Customs","Corrected misspelling: Folkore",1
+"Associations, institutions, etc.","associations, institutions, etc.","associations","Associations, institutions, etc.","Politics, Government, and Law","Corrected split from Associations, institutions, etc.",1
+"History, Modern","history, modern","modern","History, Modern (20th century)","History and Chronology","Corrected split from History, Modern",1
+"Political Economy","political economy","political economy","Economics","Economy, Trade, and Technology","User-reviewed category",1

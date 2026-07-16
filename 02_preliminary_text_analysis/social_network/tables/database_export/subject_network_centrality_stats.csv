@@ -23,7 +23,7 @@ time_window,subject_l1,subject_l2,strength,article_count,author_count,degree,bet
 1858-1867,Natural Sciences,Meteorology,9.0,9,7,7,405.0
 1858-1867,Natural Sciences,Zoology,5.0,5,3,3,121.0
 1858-1867,"Politics, Government, and Law",Law,2.0,2,2,2,61.0
-1858-1867,Religion and Philosophy,Buddhism,2.0,2,2,2,181.33333333333331
+1858-1867,Religion and Philosophy,Buddhism,2.0,2,2,2,181.3333333333333
 1858-1867,Religion and Philosophy,Christianity,3.0,3,3,3,3.0
 1858-1867,Religion and Philosophy,Confucianism,1.0,1,1,1,0.0
 1858-1867,Religion and Philosophy,Philosophy,2.0,2,2,2,61.0
@@ -171,7 +171,7 @@ time_window,subject_l1,subject_l2,strength,article_count,author_count,degree,bet
 1918-1927,History and Chronology,History,2.5,3,3,3,386.2773809523807
 1918-1927,History and Chronology,"History, Ancient",0.5,1,1,1,0.0
 1918-1927,Literature and Language,East Asian languages,2.0,2,2,2,84.0
-1918-1927,Literature and Language,Literature,19.0,19,11,11,914.9416666666671
+1918-1927,Literature and Language,Literature,19.0,19,11,11,914.9416666666672
 1918-1927,Natural Sciences,Agriculture,6.0,6,3,3,167.0
 1918-1927,Natural Sciences,Botany,3.0,3,3,3,167.0
 1918-1927,Natural Sciences,Geology,5.0,5,5,5,26.0
@@ -202,7 +202,7 @@ time_window,subject_l1,subject_l2,strength,article_count,author_count,degree,bet
 1928-1937,Geography and Travel,Travel,4.0,4,3,3,167.0
 1928-1937,History and Chronology,Biography,1.0,1,1,1,0.0
 1928-1937,History and Chronology,"Chronology, Historical",2.0,2,1,1,0.0
-1928-1937,History and Chronology,History,7.0,9,9,9,904.3333333333333
+1928-1937,History and Chronology,History,7.0,9,9,9,904.3333333333331
 1928-1937,History and Chronology,"History, Ancient",1.5,3,3,3,3.5
 1928-1937,History and Chronology,"History, Modern (20th century)",0.5,1,1,1,0.0
 1928-1937,Literature and Language,East Asian languages,4.0,4,4,4,264.66666666666674

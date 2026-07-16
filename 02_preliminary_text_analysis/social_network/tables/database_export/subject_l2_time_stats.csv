@@ -1,0 +1,239 @@
+time_window,subject_l1,subject_l2,weighted_article_count,article_count,author_count,share
+1858-1867,Anthropology and Social Customs,Ethnology,2.0,2,2,0.0238095238095238
+1858-1867,Anthropology and Social Customs,Manners and customs,2.0,2,2,0.0238095238095238
+1858-1867,Anthropology and Social Customs,Mythology,2.0,2,2,0.0238095238095238
+1858-1867,Arts and Archaeology,Antiquities,1.0,1,1,0.0119047619047619
+1858-1867,Arts and Archaeology,Archaeology,1.0,1,1,0.0119047619047619
+1858-1867,Arts and Archaeology,Architecture,1.0,1,1,0.0119047619047619
+1858-1867,Arts and Archaeology,Music,1.0,1,1,0.0119047619047619
+1858-1867,Arts and Archaeology,Numismatics,1.0,1,1,0.0119047619047619
+1858-1867,Education,Education,1.0,1,1,0.0119047619047619
+1858-1867,Geography and Travel,Travel,13.0,13,11,0.1547619047619047
+1858-1867,History and Chronology,"Chronology, Historical",1.0,1,1,0.0119047619047619
+1858-1867,History and Chronology,History,2.0,2,1,0.0238095238095238
+1858-1867,History and Chronology,"History, Modern (20th century)",6.0,6,5,0.0714285714285714
+1858-1867,Literature and Language,Literature,4.0,4,4,0.0476190476190476
+1858-1867,Natural Sciences,Agriculture,5.0,5,4,0.0595238095238095
+1858-1867,Natural Sciences,Astronomy,3.0,3,2,0.0357142857142857
+1858-1867,Natural Sciences,Botany,1.0,1,1,0.0119047619047619
+1858-1867,Natural Sciences,Chemistry,1.0,1,1,0.0119047619047619
+1858-1867,Natural Sciences,Geology,6.0,6,5,0.0714285714285714
+1858-1867,Natural Sciences,Hydrology,5.0,5,5,0.0595238095238095
+1858-1867,Natural Sciences,Medicine,1.0,1,1,0.0119047619047619
+1858-1867,Natural Sciences,Meteorology,9.0,9,7,0.1071428571428571
+1858-1867,Natural Sciences,Zoology,5.0,5,3,0.0595238095238095
+1858-1867,"Politics, Government, and Law",Law,2.0,2,2,0.0238095238095238
+1858-1867,Religion and Philosophy,Buddhism,2.0,2,2,0.0238095238095238
+1858-1867,Religion and Philosophy,Christianity,3.0,3,3,0.0357142857142857
+1858-1867,Religion and Philosophy,Confucianism,1.0,1,1,0.0119047619047619
+1858-1867,Religion and Philosophy,Philosophy,2.0,2,2,0.0238095238095238
+1868-1877,Anthropology and Social Customs,Ethnology,5.0,5,5,0.0757575757575757
+1868-1877,Anthropology and Social Customs,Manners and customs,3.0,3,3,0.0454545454545454
+1868-1877,Anthropology and Social Customs,Mythology,2.0,2,2,0.0303030303030303
+1868-1877,Arts and Archaeology,Antiquities,2.0,2,2,0.0303030303030303
+1868-1877,Arts and Archaeology,Archaeology,2.0,2,2,0.0303030303030303
+1868-1877,Arts and Archaeology,Music,3.0,3,3,0.0454545454545454
+1868-1877,"Economy, Trade, and Technology",Economics,2.0,2,1,0.0303030303030303
+1868-1877,Education,Education,1.0,1,1,0.0151515151515151
+1868-1877,Geography and Travel,Geography,1.0,1,1,0.0151515151515151
+1868-1877,Geography and Travel,Travel,4.0,4,4,0.0606060606060606
+1868-1877,History and Chronology,Biography,2.0,2,2,0.0303030303030303
+1868-1877,History and Chronology,History,5.5,6,6,0.0833333333333333
+1868-1877,History and Chronology,"History, Ancient",0.5,1,1,0.0075757575757575
+1868-1877,History and Chronology,"History, Modern (20th century)",8.0,8,5,0.1212121212121212
+1868-1877,Literature and Language,Literature,2.0,2,2,0.0303030303030303
+1868-1877,Military,Military art and science,0.5,1,1,0.0075757575757575
+1868-1877,Natural Sciences,Agriculture,2.0,2,1,0.0303030303030303
+1868-1877,Natural Sciences,Geology,4.0,4,3,0.0606060606060606
+1868-1877,Natural Sciences,Hydrology,1.0,1,1,0.0151515151515151
+1868-1877,Natural Sciences,Medicine,3.0,3,1,0.0454545454545454
+1868-1877,Natural Sciences,Meteorology,4.0,4,3,0.0606060606060606
+1868-1877,Natural Sciences,Science,1.5,2,2,0.0227272727272727
+1868-1877,Natural Sciences,Zoology,2.0,2,2,0.0303030303030303
+1868-1877,Religion and Philosophy,Buddhism,2.0,2,2,0.0303030303030303
+1868-1877,Religion and Philosophy,Confucianism,1.0,1,1,0.0151515151515151
+1868-1877,Religion and Philosophy,Religion,2.0,2,2,0.0303030303030303
+1878-1887,Anthropology and Social Customs,Ethnology,1.0,1,1,0.0120481927710843
+1878-1887,Anthropology and Social Customs,Folklore,1.0,1,0,0.0120481927710843
+1878-1887,Anthropology and Social Customs,Manners and customs,4.0,4,2,0.0481927710843373
+1878-1887,Arts and Archaeology,Antiquities,1.0,1,1,0.0120481927710843
+1878-1887,Arts and Archaeology,Art,1.0,1,1,0.0120481927710843
+1878-1887,Arts and Archaeology,Numismatics,3.0,3,3,0.036144578313253
+1878-1887,Arts and Archaeology,Porcelain,1.0,1,1,0.0120481927710843
+1878-1887,"Economy, Trade, and Technology",Economics,2.0,2,2,0.0240963855421686
+1878-1887,"Economy, Trade, and Technology",Telecommunication,1.0,1,1,0.0120481927710843
+1878-1887,Education,Education,1.0,1,1,0.0120481927710843
+1878-1887,Geography and Travel,Geography,7.0,7,4,0.0843373493975903
+1878-1887,Geography and Travel,Travel,9.0,9,7,0.108433734939759
+1878-1887,History and Chronology,Biography,1.0,1,1,0.0120481927710843
+1878-1887,History and Chronology,"Chronology, Historical",2.0,2,2,0.0240963855421686
+1878-1887,History and Chronology,History,3.0,3,3,0.036144578313253
+1878-1887,Literature and Language,Language and languages,2.0,2,1,0.0240963855421686
+1878-1887,Literature and Language,Literature,14.0,14,10,0.1686746987951807
+1878-1887,Military,Military art and science,0.5,1,1,0.0060240963855421
+1878-1887,Natural Sciences,Agriculture,3.0,3,3,0.036144578313253
+1878-1887,Natural Sciences,Astronomy,1.0,1,1,0.0120481927710843
+1878-1887,Natural Sciences,Botany,3.0,3,2,0.036144578313253
+1878-1887,Natural Sciences,Geology,5.0,5,3,0.0602409638554216
+1878-1887,Natural Sciences,Hydrology,1.0,1,1,0.0120481927710843
+1878-1887,Natural Sciences,Meteorology,4.0,4,4,0.0481927710843373
+1878-1887,Natural Sciences,Science,0.5,1,1,0.0060240963855421
+1878-1887,Natural Sciences,Zoology,2.0,2,2,0.0240963855421686
+1878-1887,"Politics, Government, and Law",Government,2.0,2,1,0.0240963855421686
+1878-1887,"Politics, Government, and Law",Law,2.0,2,1,0.0240963855421686
+1878-1887,Religion and Philosophy,Buddhism,1.0,1,1,0.0120481927710843
+1878-1887,Religion and Philosophy,Confucianism,1.0,1,1,0.0120481927710843
+1878-1887,Religion and Philosophy,Philosophy,1.0,1,1,0.0120481927710843
+1878-1887,Religion and Philosophy,Religion,2.0,2,2,0.0240963855421686
+1888-1897,Anthropology and Social Customs,Ethnology,4.0,4,3,0.0833333333333333
+1888-1897,Anthropology and Social Customs,Manners and customs,2.0,2,1,0.0416666666666666
+1888-1897,Arts and Archaeology,Architecture,3.0,3,3,0.0625
+1888-1897,Arts and Archaeology,Numismatics,4.0,4,4,0.0833333333333333
+1888-1897,"Economy, Trade, and Technology",Economics,5.0,5,2,0.1041666666666666
+1888-1897,"Economy, Trade, and Technology",Telecommunication,2.0,2,2,0.0416666666666666
+1888-1897,Geography and Travel,Geography,1.0,1,1,0.0208333333333333
+1888-1897,Geography and Travel,Travel,2.0,2,2,0.0416666666666666
+1888-1897,History and Chronology,History,8.0,8,8,0.1666666666666666
+1888-1897,Literature and Language,Literature,2.0,2,1,0.0416666666666666
+1888-1897,Natural Sciences,Agriculture,1.0,1,1,0.0208333333333333
+1888-1897,Natural Sciences,Astronomy,1.0,1,1,0.0208333333333333
+1888-1897,Natural Sciences,Botany,4.0,4,2,0.0833333333333333
+1888-1897,Natural Sciences,Hydrology,2.0,2,2,0.0416666666666666
+1888-1897,Natural Sciences,Zoology,1.0,1,1,0.0208333333333333
+1888-1897,"Politics, Government, and Law",Government,1.0,1,1,0.0208333333333333
+1888-1897,"Politics, Government, and Law",Law,1.0,1,1,0.0208333333333333
+1888-1897,Religion and Philosophy,Buddhism,1.0,1,1,0.0208333333333333
+1888-1897,Religion and Philosophy,Christianity,1.0,1,1,0.0208333333333333
+1888-1897,Religion and Philosophy,Philosophy,1.0,1,1,0.0208333333333333
+1888-1897,Religion and Philosophy,Taoism,1.0,1,1,0.0208333333333333
+1898-1907,Anthropology and Social Customs,Ethnology,4.0,4,2,0.1111111111111111
+1898-1907,Anthropology and Social Customs,Folklore,0.5,1,1,0.0138888888888888
+1898-1907,Anthropology and Social Customs,Manners and customs,4.0,4,4,0.1111111111111111
+1898-1907,Anthropology and Social Customs,Mythology,0.5,1,1,0.0138888888888888
+1898-1907,Arts and Archaeology,Art,1.0,1,1,0.0277777777777777
+1898-1907,Arts and Archaeology,Numismatics,2.0,2,2,0.0555555555555555
+1898-1907,"Economy, Trade, and Technology",Economics,2.0,2,2,0.0555555555555555
+1898-1907,Geography and Travel,Travel,3.0,3,3,0.0833333333333333
+1898-1907,History and Chronology,Biography,2.0,2,2,0.0555555555555555
+1898-1907,History and Chronology,History,2.0,2,2,0.0555555555555555
+1898-1907,Natural Sciences,Agriculture,3.0,3,2,0.0833333333333333
+1898-1907,Natural Sciences,Astronomy,1.0,1,1,0.0277777777777777
+1898-1907,Natural Sciences,Botany,1.0,1,1,0.0277777777777777
+1898-1907,"Politics, Government, and Law",Government,2.0,2,2,0.0555555555555555
+1898-1907,"Politics, Government, and Law",Law,2.0,2,2,0.0555555555555555
+1898-1907,Religion and Philosophy,Confucianism,1.0,1,1,0.0277777777777777
+1898-1907,Religion and Philosophy,Judaism,1.0,1,1,0.0277777777777777
+1898-1907,Religion and Philosophy,Philosophy,3.0,3,3,0.0833333333333333
+1898-1907,Religion and Philosophy,Religion,1.0,1,1,0.0277777777777777
+1908-1917,Anthropology and Social Customs,Ethnology,1.0,1,1,0.0136986301369863
+1908-1917,Anthropology and Social Customs,Manners and customs,4.0,4,3,0.0547945205479452
+1908-1917,Anthropology and Social Customs,Mythology,1.0,1,1,0.0136986301369863
+1908-1917,Arts and Archaeology,Antiquities,1.0,1,1,0.0136986301369863
+1908-1917,Arts and Archaeology,Archaeology,6.0,6,6,0.0821917808219178
+1908-1917,Arts and Archaeology,Architecture,1.0,1,1,0.0136986301369863
+1908-1917,Arts and Archaeology,Art,4.5,5,3,0.0616438356164383
+1908-1917,Arts and Archaeology,Bronzes,2.0,2,1,0.0273972602739726
+1908-1917,Arts and Archaeology,Decorative arts,3.0,3,1,0.0410958904109589
+1908-1917,Arts and Archaeology,Music,2.0,2,2,0.0273972602739726
+1908-1917,Arts and Archaeology,Numismatics,1.0,1,1,0.0136986301369863
+1908-1917,Arts and Archaeology,Painting,2.0,2,1,0.0273972602739726
+1908-1917,Arts and Archaeology,Sculpture,1.0,1,1,0.0136986301369863
+1908-1917,Geography and Travel,Travel,2.0,2,2,0.0273972602739726
+1908-1917,History and Chronology,"Chronology, Historical",1.0,1,1,0.0136986301369863
+1908-1917,History and Chronology,History,3.0,3,3,0.0410958904109589
+1908-1917,History and Chronology,"History, Modern (20th century)",1.0,1,1,0.0136986301369863
+1908-1917,Literature and Language,Language and languages,1.0,1,1,0.0136986301369863
+1908-1917,Literature and Language,Literature,7.0,7,5,0.0958904109589041
+1908-1917,Natural Sciences,Astronomy,1.0,1,1,0.0136986301369863
+1908-1917,Natural Sciences,Botany,1.0,1,1,0.0136986301369863
+1908-1917,Natural Sciences,Geology,1.0,1,1,0.0136986301369863
+1908-1917,Natural Sciences,Hydrology,1.0,1,1,0.0136986301369863
+1908-1917,Natural Sciences,Meteorology,1.0,1,1,0.0136986301369863
+1908-1917,Natural Sciences,Zoology,8.0,8,7,0.1095890410958904
+1908-1917,"Politics, Government, and Law",Law,2.0,2,2,0.0273972602739726
+1908-1917,Religion and Philosophy,Buddhism,3.0,3,1,0.0410958904109589
+1908-1917,Religion and Philosophy,Christianity,2.5,3,1,0.0342465753424657
+1908-1917,Religion and Philosophy,Confucianism,2.0,2,2,0.0273972602739726
+1908-1917,Religion and Philosophy,Philosophy,1.0,1,1,0.0136986301369863
+1908-1917,Religion and Philosophy,Religion,4.0,4,4,0.0547945205479452
+1908-1917,Religion and Philosophy,Taoism,1.0,1,1,0.0136986301369863
+1918-1927,Anthropology and Social Customs,Ethnology,10.0,10,9,0.078125
+1918-1927,Anthropology and Social Customs,Folklore,2.0,2,2,0.015625
+1918-1927,Anthropology and Social Customs,Manners and customs,4.0,4,4,0.03125
+1918-1927,Arts and Archaeology,Antiquities,2.0,2,2,0.015625
+1918-1927,Arts and Archaeology,Archaeology,2.0,2,1,0.015625
+1918-1927,Arts and Archaeology,Art,5.0,5,5,0.0390625
+1918-1927,Arts and Archaeology,Painting,1.0,1,1,0.0078125
+1918-1927,Geography and Travel,Asia,3.0,3,3,0.0234375
+1918-1927,Geography and Travel,Geography,5.0,5,5,0.0390625
+1918-1927,Geography and Travel,Travel,7.0,7,5,0.0546875
+1918-1927,History and Chronology,Biography,3.0,3,3,0.0234375
+1918-1927,History and Chronology,History,2.5,3,3,0.01953125
+1918-1927,History and Chronology,"History, Ancient",0.5,1,1,0.00390625
+1918-1927,Literature and Language,East Asian languages,2.0,2,2,0.015625
+1918-1927,Literature and Language,Literature,19.0,19,11,0.1484375
+1918-1927,Natural Sciences,Agriculture,6.0,6,3,0.046875
+1918-1927,Natural Sciences,Botany,3.0,3,3,0.0234375
+1918-1927,Natural Sciences,Geology,5.0,5,5,0.0390625
+1918-1927,Natural Sciences,Hydrology,1.0,1,1,0.0078125
+1918-1927,Natural Sciences,Science,1.0,1,1,0.0078125
+1918-1927,Natural Sciences,Zoology,16.0,16,10,0.125
+1918-1927,"Politics, Government, and Law",Political science,1.0,1,1,0.0078125
+1918-1927,Religion and Philosophy,Buddhism,1.0,1,1,0.0078125
+1918-1927,Religion and Philosophy,China--Religion,5.0,5,5,0.0390625
+1918-1927,Religion and Philosophy,Christianity,3.0,3,2,0.0234375
+1918-1927,Religion and Philosophy,Islam,3.0,3,2,0.0234375
+1918-1927,Religion and Philosophy,Philosophy,5.0,5,5,0.0390625
+1918-1927,Religion and Philosophy,Religion,7.0,7,7,0.0546875
+1918-1927,Religion and Philosophy,Taoism,3.0,3,2,0.0234375
+1928-1937,Anthropology and Social Customs,Anthropology,2.0,2,2,0.019047619047619
+1928-1937,Anthropology and Social Customs,Ethnology,3.0,3,3,0.0285714285714285
+1928-1937,Anthropology and Social Customs,Folklore,1.0,1,1,0.0095238095238095
+1928-1937,Arts and Archaeology,Antiquities,2.0,2,2,0.019047619047619
+1928-1937,Arts and Archaeology,Archaeology,7.0,7,5,0.0666666666666666
+1928-1937,Arts and Archaeology,Architecture,1.0,1,1,0.0095238095238095
+1928-1937,Arts and Archaeology,Art,2.0,2,2,0.019047619047619
+1928-1937,Arts and Archaeology,Painting,3.0,3,2,0.0285714285714285
+1928-1937,Arts and Archaeology,Porcelain,3.0,3,2,0.0285714285714285
+1928-1937,"Economy, Trade, and Technology",Economics,3.0,3,3,0.0285714285714285
+1928-1937,Education,Education,1.0,1,1,0.0095238095238095
+1928-1937,Geography and Travel,Asia,2.0,2,2,0.019047619047619
+1928-1937,Geography and Travel,Geography,9.0,9,9,0.0857142857142857
+1928-1937,Geography and Travel,Travel,4.0,4,3,0.0380952380952381
+1928-1937,History and Chronology,Biography,1.0,1,1,0.0095238095238095
+1928-1937,History and Chronology,"Chronology, Historical",2.0,2,1,0.019047619047619
+1928-1937,History and Chronology,History,7.0,9,9,0.0666666666666666
+1928-1937,History and Chronology,"History, Ancient",1.5,3,3,0.0142857142857142
+1928-1937,History and Chronology,"History, Modern (20th century)",0.5,1,1,0.0047619047619047
+1928-1937,Literature and Language,East Asian languages,4.0,4,4,0.0380952380952381
+1928-1937,Literature and Language,Language and languages,2.0,2,2,0.019047619047619
+1928-1937,Literature and Language,Literature,8.0,8,8,0.0761904761904762
+1928-1937,Natural Sciences,Agriculture,1.0,1,1,0.0095238095238095
+1928-1937,Natural Sciences,Astronomy,2.0,2,2,0.019047619047619
+1928-1937,Natural Sciences,Botany,3.0,3,3,0.0285714285714285
+1928-1937,Natural Sciences,Geology,2.0,2,1,0.019047619047619
+1928-1937,Natural Sciences,Medicine,1.0,1,1,0.0095238095238095
+1928-1937,Natural Sciences,Science,1.0,1,1,0.0095238095238095
+1928-1937,Natural Sciences,Zoology,1.0,1,1,0.0095238095238095
+1928-1937,"Politics, Government, and Law","Associations, institutions, etc.",1.0,1,1,0.0095238095238095
+1928-1937,"Politics, Government, and Law",Political science,1.0,1,1,0.0095238095238095
+1928-1937,Religion and Philosophy,Buddhism,1.0,1,1,0.0095238095238095
+1928-1937,Religion and Philosophy,China--Religion,6.0,6,6,0.0571428571428571
+1928-1937,Religion and Philosophy,Christianity,4.0,4,1,0.0380952380952381
+1928-1937,Religion and Philosophy,Confucianism,1.0,1,1,0.0095238095238095
+1928-1937,Religion and Philosophy,Islam,2.0,2,1,0.019047619047619
+1928-1937,Religion and Philosophy,Philosophy,4.0,4,4,0.0380952380952381
+1928-1937,Religion and Philosophy,Religion,5.0,5,4,0.0476190476190476
+1938-1948,Anthropology and Social Customs,Ethnology,3.0,3,3,0.0967741935483871
+1938-1948,Arts and Archaeology,Archaeology,5.0,5,5,0.1612903225806451
+1938-1948,"Economy, Trade, and Technology",Economics,1.0,1,1,0.032258064516129
+1938-1948,Geography and Travel,Geography,1.0,1,1,0.032258064516129
+1938-1948,History and Chronology,History,3.0,3,3,0.0967741935483871
+1938-1948,Literature and Language,Language and languages,4.0,4,4,0.1290322580645161
+1938-1948,Literature and Language,Literature,1.0,1,1,0.032258064516129
+1938-1948,Natural Sciences,Medicine,1.0,1,1,0.032258064516129
+1938-1948,Natural Sciences,Science,2.0,2,2,0.064516129032258
+1938-1948,Natural Sciences,Zoology,2.0,2,2,0.064516129032258
+1938-1948,"Politics, Government, and Law",Law,1.0,1,1,0.032258064516129
+1938-1948,Religion and Philosophy,Christianity,2.0,2,2,0.064516129032258
+1938-1948,Religion and Philosophy,Religion,5.0,5,5,0.1612903225806451

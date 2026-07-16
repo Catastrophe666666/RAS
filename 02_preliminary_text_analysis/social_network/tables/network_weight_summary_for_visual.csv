@@ -1,0 +1,41 @@
+section,label,weight
+First-level subject weight,Natural Sciences,148.0
+First-level subject weight,Religion and Philosophy,98.5
+First-level subject weight,Arts and Archaeology,84.5
+First-level subject weight,Geography and Travel,73.0
+First-level subject weight,Literature and Language,72.0
+First-level subject weight,History and Chronology,69.0
+First-level subject weight,Anthropology and Social Customs,68.0
+First-level subject weight,"Economy, Trade, and Technology",18.0
+First-level subject weight,"Politics, Government, and Law",18.0
+First-level subject weight,Education,4.0
+Second-level subject network weight,Literature,55.0
+Second-level subject network weight,Travel,42.0
+Second-level subject network weight,Zoology,37.0
+Second-level subject network weight,History,35.0
+Second-level subject network weight,Ethnology,33.0
+Second-level subject network weight,Religion,26.0
+Second-level subject network weight,Geography,24.0
+Second-level subject network weight,Geology,23.0
+Second-level subject network weight,Archaeology,23.0
+Second-level subject network weight,Manners and customs,21.0
+Author network weight,"Kingsmill, T. W.",23.0
+Author network weight,"Ferguson, J. C.",23.0
+Author network weight,"Parker, E. H.",16.0
+Author network weight,"Edkins, J.",14.0
+Author network weight,"Morgan, E.",13.0
+Author network weight,"Chatley, H.",11.0
+Author network weight,"Macgowan, D. J.",10.0
+Author network weight,"Edgar, J. H.",9.0
+Author network weight,"Stanley, A.",9.0
+Author network weight,"Moule, A. C.",8.0
+Author-subject connection weight,"Kingsmill, T. W. - Ethnology",7.0
+Author-subject connection weight,"Hudson, E. - Literature",6.0
+Author-subject connection weight,"Jacot, A. P. - Zoology",5.0
+Author-subject connection weight,"Ferguson, J. C. - Painting",5.0
+Author-subject connection weight,"Parker, E. H. - Economics",5.0
+Author-subject connection weight,"Editorial Committee - History, Modern (20th century)",4.0
+Author-subject connection weight,"Ferguson, J. C. - Literature",4.0
+Author-subject connection weight,"Kingsmill, T. W. - Geology",4.0
+Author-subject connection weight,"Mason, I. - Islam",4.0
+Author-subject connection weight,"Saeki, P. Y. - Christianity",4.0
