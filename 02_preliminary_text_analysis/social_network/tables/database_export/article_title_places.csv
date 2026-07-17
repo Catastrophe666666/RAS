@@ -1,45 +1,45 @@
 master_id,time_window,author_raw,title,year_start,historical_name,modern_name,place_label,lat,lon
-MASTER_00012,1858-1867,"Ward, J.","Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,woosung,Wusong,Wusong（woosung）,31.4,121.5
-MASTER_00012,1858-1867,"Ward, J.","Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,hankow,Hankou,Hankou（hankow）,30.6,114.3
-MASTER_00012,1858-1867,"Ward, J.","Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,yang-tsze kiang; yang - tsze kiang,Yangtzi River,Yangtzi River（yang-tsze kiang; yang - tsze kiang）,30.6,114.3
-MASTER_00016,1858-1867,"Swinhoe, R.",Narrative of a visit to the island of Formosa,1859,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
-MASTER_00017,1858-1867,"Swinhoe, R.",Notes on some new species of birds found on the island of Formosa,1859,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
-MASTER_00037,1858-1867,"Dickson, W.","Narrative of an overland trip, through Hunan, from Canton to Hankow",1864,hankow,Hankou,Hankou（hankow）,30.6,114.3
-MASTER_00038,1858-1867,"Wylie, A.","Overland journey from St. Petersburg to Pekin, The",1864,pekin,Beijing,Beijing（pekin）,39.9,116.4
-MASTER_00049,1858-1867,"Swinhoe, R.",Birds and beasts of Formosa,1865,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
-MASTER_00074,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,canton,Guangzhou,Guangzhou（canton）,23.1,113.3
-MASTER_00074,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,kwang tung; kwang-tung; kwangtung,Guangdong,Guangdong（kwang tung; kwang-tung; kwangtung）,23.1,113.3
-MASTER_00074,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,kwangsi,Guangxi Province,Guangxi Province（kwangsi）,22.8,108.3
-MASTER_00074,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,hunan,Hunan,Hunan,28.2,112.9
-MASTER_00074,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,hankow,Hankou,Hankou（hankow）,30.6,114.3
-MASTER_00077,1858-1867,"Williamson, A.","Notes on the productions, chiefly mineral of Shantung",1867,shan tung; shantung,Shandong,Shandong（shan tung; shantung）,36.7,117.0
-MASTER_00092,1868-1877,"Preston, C. F.","Lok Ping Chiung, late Governor General of Sze - chuen, Notices of",1868,sze chuen; szechuen,Sichuan,Sichuan（sze chuen; szechuen）,30.7,104.1
-MASTER_00137,1868-1877,"Taintor, E. C.",The Aborigines of Northern Formosa,1875,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
-MASTER_00139,1868-1877,"Cordier, H.",Narrative of recent events in Tong - king,1875,tong-king,Tonkin,Tonkin（tong-king）,21.0,105.8
-MASTER_00142,1868-1877,"Holcombe, C.",Notes made on a tour through Shan - hsi and Shen - hsi,1876,shan-hsi,Shanxi Province,Shanxi Province（shan-hsi）,37.9,112.5
-MASTER_00142,1868-1877,"Holcombe, C.",Notes made on a tour through Shan - hsi and Shen - hsi,1876,shen-hsi,Shaanxi Province,Shaanxi Province（shen-hsi）,34.3,108.9
-MASTER_00165,1878-1887,"Rhein, J.",Rock inscriptions at the north side of Yentai Hill *,1879,yentai hill,Yantai Hill,Yantai Hill（yentai hill）,37.5,121.4
-MASTER_00176,1878-1887,"Anderson, G. C.",Notes on the south coast of Saghalien,1882,saghalien,Sakhalin,Sakhalin（saghalien）,50.7,143.0
-MASTER_00186,1878-1887,"Little, A. J.",Notes on Szechuen and the Yangtse valley,1883,sze chuen; szechuen,Sichuan,Sichuan（sze chuen; szechuen）,30.7,104.1
-MASTER_00186,1878-1887,"Little, A. J.",Notes on Szechuen and the Yangtse valley,1883,yangtse,Yangtzi River,Yangtzi River（yangtse）,30.6,114.3
-MASTER_00190,1878-1887,"Parker, E. H.","Journey from Foochow to Wenchow, through Central Fukien, A",1884,foochow,Fuzhou,Fuzhou（foochow）,26.1,119.3
-MASTER_00190,1878-1887,"Parker, E. H.","Journey from Foochow to Wenchow, through Central Fukien, A",1884,fukien,Fujian Province,Fujian Province（fukien）,26.1,117.9
-MASTER_00229,1878-1887,"Becher, H. M.",Notes on the mineral resources of Eastern Shantung,1887,shan tung; shantung,Shandong,Shandong（shan tung; shantung）,36.7,117.0
-MASTER_00261,1888-1897,"Rosthorn, A. von","Salt administration of Ssuch'uan, The",1892,ssuch'uan,Sichuan,Sichuan（ssuch'uan）,30.7,104.1
-MASTER_00292,1898-1907,"Vale, J.",Irrigation of the Ch'eng tu Plain,1900,ch'eng tu; cheng tu,Chengdu,Chengdu（ch'eng tu; cheng tu）,30.7,104.1
-MASTER_00296,1898-1907,"Walshe, W. G.","Ancient city of Shaohing, The",1900,shaohing,Shaoxing,Shaoxing（shaohing）,30.0,120.6
-MASTER_00305,1898-1907,"Carey, F. W.",Notes of an overland journey from Szemao to Rangoon *,1905,szemao,Pu'er,Pu'er（szemao）,22.8,100.9
-MASTER_00305,1898-1907,"Carey, F. W.",Notes of an overland journey from Szemao to Rangoon *,1905,rangoon,Yangon,Yangon（rangoon）,16.8,96.2
-MASTER_00307,1898-1907,"Watson, W. C. H.",Journey to Sungp ' an *,1905,sungp'an,Songpan,Songpan（sungp'an）,32.7,103.6
+MASTER_00010,1858-1867,"Ward, J.","Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,woosung,Wusong,Wusong（woosung）,31.4,121.5
+MASTER_00010,1858-1867,"Ward, J.","Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,hankow,Hankou,Hankou（hankow）,30.6,114.3
+MASTER_00010,1858-1867,"Ward, J.","Sailing directions for the Yang - tsze Kiang, from Woosung to Hankow",1859,yang-tsze kiang; yang - tsze kiang,Yangtzi River,Yangtzi River（yang-tsze kiang; yang - tsze kiang）,30.6,114.3
+MASTER_00014,1858-1867,"Swinhoe, R.",Narrative of a visit to the island of Formosa,1859,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
+MASTER_00015,1858-1867,"Swinhoe, R.",Notes on some new species of birds found on the island of Formosa,1859,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
+MASTER_00035,1858-1867,"Dickson, W.","Narrative of an overland trip, through Hunan, from Canton to Hankow",1864,hankow,Hankou,Hankou（hankow）,30.6,114.3
+MASTER_00036,1858-1867,"Wylie, A.","Overland journey from St. Petersburg to Pekin, The",1864,pekin,Beijing,Beijing（pekin）,39.9,116.4
+MASTER_00047,1858-1867,"Swinhoe, R.",Birds and beasts of Formosa,1865,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
+MASTER_00071,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,canton,Guangzhou,Guangzhou（canton）,23.1,113.3
+MASTER_00071,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,kwang-tung; kwang tung; kwangtung,Guangdong,Guangdong（kwang-tung; kwang tung; kwangtung）,23.1,113.3
+MASTER_00071,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,kwangsi,Guangxi Province,Guangxi Province（kwangsi）,22.8,108.3
+MASTER_00071,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,hunan,Hunan,Hunan,28.2,112.9
+MASTER_00071,1858-1867,"Bickmore, A. S.","Sketch of a journey from Canton to Hankow through the Provinces of Kwangtung, Kwangsi, and Hunan, with geological notes *",1867,hankow,Hankou,Hankou（hankow）,30.6,114.3
+MASTER_00074,1858-1867,"Williamson, A.","Notes on the productions, chiefly mineral of Shantung",1867,shan tung; shantung,Shandong,Shandong（shan tung; shantung）,36.7,117.0
+MASTER_00089,1868-1877,"Preston, C. F.","Lok Ping Chiung, late Governor General of Sze - chuen, Notices of",1868,sze chuen; szechuen,Sichuan,Sichuan（sze chuen; szechuen）,30.7,104.1
+MASTER_00134,1868-1877,"Taintor, E. C.",The Aborigines of Northern Formosa,1875,formosa,Taiwan,Taiwan（formosa）,23.7,121.0
+MASTER_00136,1868-1877,"Cordier, H.",Narrative of recent events in Tong - king,1875,tong-king,Tonkin,Tonkin（tong-king）,21.0,105.8
+MASTER_00139,1868-1877,"Holcombe, C.",Notes made on a tour through Shan - hsi and Shen - hsi,1876,shan-hsi,Shanxi Province,Shanxi Province（shan-hsi）,37.9,112.5
+MASTER_00139,1868-1877,"Holcombe, C.",Notes made on a tour through Shan - hsi and Shen - hsi,1876,shen-hsi,Shaanxi Province,Shaanxi Province（shen-hsi）,34.3,108.9
+MASTER_00162,1878-1887,"Rhein, J.",Rock inscriptions at the north side of Yentai Hill *,1879,yentai hill,Yantai Hill,Yantai Hill（yentai hill）,37.5,121.4
+MASTER_00173,1878-1887,"Anderson, G. C.",Notes on the south coast of Saghalien,1882,saghalien,Sakhalin,Sakhalin（saghalien）,50.7,143.0
+MASTER_00183,1878-1887,"Little, A. J.",Notes on Szechuen and the Yangtse valley,1883,sze chuen; szechuen,Sichuan,Sichuan（sze chuen; szechuen）,30.7,104.1
+MASTER_00183,1878-1887,"Little, A. J.",Notes on Szechuen and the Yangtse valley,1883,yangtse,Yangtzi River,Yangtzi River（yangtse）,30.6,114.3
+MASTER_00187,1878-1887,"Parker, E. H.","Journey from Foochow to Wenchow, through Central Fukien, A",1884,foochow,Fuzhou,Fuzhou（foochow）,26.1,119.3
+MASTER_00187,1878-1887,"Parker, E. H.","Journey from Foochow to Wenchow, through Central Fukien, A",1884,fukien,Fujian Province,Fujian Province（fukien）,26.1,117.9
+MASTER_00224,1878-1887,"Becher, H. M.",Notes on the mineral resources of Eastern Shantung,1887,shan tung; shantung,Shandong,Shandong（shan tung; shantung）,36.7,117.0
+MASTER_00255,1888-1897,"Rosthorn, A. von","Salt administration of Ssuch'uan, The",1892,ssuch'uan,Sichuan,Sichuan（ssuch'uan）,30.7,104.1
+MASTER_00291,1898-1907,"Vale, J.",Irrigation of the Ch'eng tu Plain,1900,ch'eng tu; cheng tu,Chengdu,Chengdu（ch'eng tu; cheng tu）,30.7,104.1
+MASTER_00295,1898-1907,"Walshe, W. G.","Ancient city of Shaohing, The",1900,shaohing,Shaoxing,Shaoxing（shaohing）,30.0,120.6
+MASTER_00304,1898-1907,"Carey, F. W.",Notes of an overland journey from Szemao to Rangoon *,1905,szemao,Pu'er,Pu'er（szemao）,22.8,100.9
+MASTER_00304,1898-1907,"Carey, F. W.",Notes of an overland journey from Szemao to Rangoon *,1905,rangoon,Yangon,Yangon（rangoon）,16.8,96.2
+MASTER_00306,1898-1907,"Watson, W. C. H.",Journey to Sungp ' an *,1905,sungp'an,Songpan,Songpan（sungp'an）,32.7,103.6
 MASTER_00310,1898-1907,"Martin, W. A. P.","Jewish monument at Kaifungfu, The",1906,kaifungfu,Kaifengfu,Kaifengfu（kaifungfu）,34.8,114.3
 MASTER_00330,1908-1917,"Moule, A. C.",T'ai Shan *,1912,t'ai shan; tai shan,Tai Shan,Tai Shan（t'ai shan）,36.3,117.1
-MASTER_00348,1908-1917,"Edgar, J. H.",from Batang to Menkong * Through the land of deep corrosions,1914,batang,Batang,Batang,30.0,99.1
-MASTER_00348,1908-1917,"Edgar, J. H.",from Batang to Menkong * Through the land of deep corrosions,1914,menkong,Mangkang,Mangkang（menkong）,29.7,98.6
-MASTER_00351,1908-1917,"Couling, S.","Oracle - bones from Honan, The *",1914,honan,Henan Province,Henan Province（honan）,34.8,113.6
-MASTER_00394,1918-1927,"Hodous, L.","Kite Festival in Foochow, China, The",1918,foochow,Fuzhou,Fuzhou（foochow）,26.1,119.3
-MASTER_00396,1918-1927,"Ottewill, H. A.","Note on the Tu Ti'en Hui held at Chinkiang on the 31st May, 1917",1918,chinkiang,Zhenjiang,Zhenjiang（chinkiang）,32.2,119.5
-MASTER_00408,1918-1927,Yan Taz Chiu,Chemical industry in Kwangtung Province,1919,kwang tung; kwang-tung; kwangtung,Guangdong,Guangdong（kwang tung; kwang-tung; kwangtung）,23.1,113.3
-MASTER_00413,1918-1927,"King, G. E.",Notes on Kansu,1919,kansu,Gansu Province,Gansu Province（kansu）,36.1,103.8
-MASTER_00429,1918-1927,"Morse, H. B.","Lampacao, a mystery of the Far East",1921,lampacao,Lampacau,Lampacau（lampacao）,22.2,113.5
-MASTER_00431,1918-1927,"Kemp, E. G.","Highways and byways of Kweichow, The *",1921,kweichow,Guizhou,Guizhou（kweichow）,26.6,106.7
-MASTER_00432,1918-1927,"Werner, E. T. C.","Christ in the "" Li Tai Shen Hsien T'ung Chien """,1921,shen-hsi,Shaanxi Province,Shaanxi Province（shen-hsi）,34.3,108.9
+MASTER_00351,1908-1917,"Edgar, J. H.",from Batang to Menkong * Through the land of deep corrosions,1914,batang,Batang,Batang,30.0,99.1
+MASTER_00351,1908-1917,"Edgar, J. H.",from Batang to Menkong * Through the land of deep corrosions,1914,menkong,Mangkang,Mangkang（menkong）,29.7,98.6
+MASTER_00354,1908-1917,"Couling, S.","Oracle - bones from Honan, The *",1914,honan,Henan Province,Henan Province（honan）,34.8,113.6
+MASTER_00397,1918-1927,"Hodous, L.","Kite Festival in Foochow, China, The",1918,foochow,Fuzhou,Fuzhou（foochow）,26.1,119.3
+MASTER_00399,1918-1927,"Ottewill, H. A.","Note on the Tu Ti'en Hui held at Chinkiang on the 31st May, 1917",1918,chinkiang,Zhenjiang,Zhenjiang（chinkiang）,32.2,119.5
+MASTER_00411,1918-1927,Yan Taz Chiu,Chemical industry in Kwangtung Province,1919,kwang-tung; kwang tung; kwangtung,Guangdong,Guangdong（kwang-tung; kwang tung; kwangtung）,23.1,113.3
+MASTER_00416,1918-1927,"King, G. E.",Notes on Kansu,1919,kansu,Gansu Province,Gansu Province（kansu）,36.1,103.8
+MASTER_00432,1918-1927,"Morse, H. B.","Lampacao, a mystery of the Far East",1921,lampacao,Lampacau,Lampacau（lampacao）,22.2,113.5
+MASTER_00434,1918-1927,"Kemp, E. G.","Highways and byways of Kweichow, The *",1921,kweichow,Guizhou,Guizhou（kweichow）,26.6,106.7
+MASTER_00435,1918-1927,"Werner, E. T. C.","Christ in the "" Li Tai Shen Hsien T'ung Chien """,1921,shen-hsi,Shaanxi Province,Shaanxi Province（shen-hsi）,34.3,108.9

@@ -1,44 +1,70 @@
 time_window,subject_l1,subject_l2,place_label,modern_name,historical_name,lat,lon,place_count,article_count,share,idf,tfidf
-1858-1867,Geography and Travel,Travel,Beijing（pekin）,Beijing,pekin,39.9,116.4,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
-1858-1867,Geography and Travel,Travel,Hankou（hankow）,Hankou,hankow,30.6,114.3,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
-1858-1867,Geography and Travel,Travel,Taiwan（formosa）,Taiwan,formosa,23.7,121.0,1,1,0.3333333333333333,1.9808292530117264,1.9808292530117264
+1858-1867,"Economy, Trade, and Technology",Commerce,Shandong（shan tung; shantung）,Shandong,shan tung; shantung,36.7,117.0,1,1,1.0,1.9808292530117264,1.9808292530117264
+1858-1867,"Economy, Trade, and Technology",Industries,Shandong（shan tung; shantung）,Shandong,shan tung; shantung,36.7,117.0,1,1,1.0,1.9808292530117264,1.9808292530117264
+1858-1867,Geography and Travel,Travel,Hankou（hankow）,Hankou,hankow,30.6,114.3,2,2,0.25,2.386294361119891,4.772588722239782
+1858-1867,Geography and Travel,Travel,Beijing（pekin）,Beijing,pekin,39.9,116.4,1,1,0.125,2.386294361119891,2.386294361119891
+1858-1867,Geography and Travel,Travel,Guangdong（kwang-tung; kwang tung; kwangtung）,Guangdong,kwang-tung; kwang tung; kwangtung,23.1,113.3,1,1,0.125,1.9808292530117264,1.9808292530117264
+1858-1867,Geography and Travel,Travel,Guangxi Province（kwangsi）,Guangxi Province,kwangsi,22.8,108.3,1,1,0.125,2.386294361119891,2.386294361119891
+1858-1867,Geography and Travel,Travel,Guangzhou（canton）,Guangzhou,canton,23.1,113.3,1,1,0.125,2.386294361119891,2.386294361119891
+1858-1867,Geography and Travel,Travel,Hunan,Hunan,hunan,28.2,112.9,1,1,0.125,2.386294361119891,2.386294361119891
+1858-1867,Geography and Travel,Travel,Taiwan（formosa）,Taiwan,formosa,23.7,121.0,1,1,0.125,1.9808292530117264,1.9808292530117264
 1858-1867,Natural Sciences,Zoology,Taiwan（formosa）,Taiwan,formosa,23.7,121.0,2,2,1.0,1.9808292530117264,3.961658506023453
 1858-1867,Natural Sciences,Agriculture,Shandong（shan tung; shantung）,Shandong,shan tung; shantung,36.7,117.0,1,1,1.0,1.9808292530117264,1.9808292530117264
-1858-1867,Natural Sciences,Geology,Guangdong（kwang tung; kwang-tung; kwangtung）,Guangdong,kwang tung; kwang-tung; kwangtung,23.1,113.3,1,1,0.2,1.9808292530117264,1.9808292530117264
-1858-1867,Natural Sciences,Geology,Guangxi Province（kwangsi）,Guangxi Province,kwangsi,22.8,108.3,1,1,0.2,2.386294361119891,2.386294361119891
-1858-1867,Natural Sciences,Geology,Guangzhou（canton）,Guangzhou,canton,23.1,113.3,1,1,0.2,2.386294361119891,2.386294361119891
-1858-1867,Natural Sciences,Geology,Hankou（hankow）,Hankou,hankow,30.6,114.3,1,1,0.2,2.386294361119891,2.386294361119891
-1858-1867,Natural Sciences,Geology,Hunan,Hunan,hunan,28.2,112.9,1,1,0.2,2.386294361119891,2.386294361119891
+1858-1867,Natural Sciences,Geology,Guangdong（kwang-tung; kwang tung; kwangtung）,Guangdong,kwang-tung; kwang tung; kwangtung,23.1,113.3,1,1,0.1666666666666666,1.9808292530117264,1.9808292530117264
+1858-1867,Natural Sciences,Geology,Guangxi Province（kwangsi）,Guangxi Province,kwangsi,22.8,108.3,1,1,0.1666666666666666,2.386294361119891,2.386294361119891
+1858-1867,Natural Sciences,Geology,Guangzhou（canton）,Guangzhou,canton,23.1,113.3,1,1,0.1666666666666666,2.386294361119891,2.386294361119891
+1858-1867,Natural Sciences,Geology,Hankou（hankow）,Hankou,hankow,30.6,114.3,1,1,0.1666666666666666,2.386294361119891,2.386294361119891
+1858-1867,Natural Sciences,Geology,Hunan,Hunan,hunan,28.2,112.9,1,1,0.1666666666666666,2.386294361119891,2.386294361119891
+1858-1867,Natural Sciences,Geology,Shandong（shan tung; shantung）,Shandong,shan tung; shantung,36.7,117.0,1,1,0.1666666666666666,1.9808292530117264,1.9808292530117264
 1858-1867,Natural Sciences,Hydrology,Hankou（hankow）,Hankou,hankow,30.6,114.3,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
 1858-1867,Natural Sciences,Hydrology,Wusong（woosung）,Wusong,woosung,31.4,121.5,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
 1858-1867,Natural Sciences,Hydrology,Yangtzi River（yang-tsze kiang; yang - tsze kiang）,Yangtzi River,yang-tsze kiang; yang - tsze kiang,30.6,114.3,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
+1868-1877,Anthropology and Social Customs,Anthropology,Taiwan（formosa）,Taiwan,formosa,23.7,121.0,1,1,1.0,1.9808292530117264,1.9808292530117264
 1868-1877,Anthropology and Social Customs,Ethnology,Taiwan（formosa）,Taiwan,formosa,23.7,121.0,1,1,1.0,1.9808292530117264,1.9808292530117264
 1868-1877,Geography and Travel,Travel,Shaanxi Province（shen-hsi）,Shaanxi Province,shen-hsi,34.3,108.9,1,1,0.5,1.9808292530117264,1.9808292530117264
 1868-1877,Geography and Travel,Travel,Shanxi Province（shan-hsi）,Shanxi Province,shan-hsi,37.9,112.5,1,1,0.5,2.386294361119891,2.386294361119891
 1868-1877,History and Chronology,Biography,Sichuan（sze chuen; szechuen）,Sichuan,sze chuen; szechuen,30.7,104.1,1,1,1.0,1.9808292530117264,1.9808292530117264
 1868-1877,History and Chronology,"History, Modern (20th century)",Tonkin（tong-king）,Tonkin,tong-king,21.0,105.8,1,1,1.0,2.386294361119891,2.386294361119891
-1878-1887,Arts and Archaeology,Antiquities,Yantai Hill（yentai hill）,Yantai Hill,yentai hill,37.5,121.4,1,1,1.0,2.386294361119891,2.386294361119891
 1878-1887,Geography and Travel,Travel,Fujian Province（fukien）,Fujian Province,fukien,26.1,117.9,1,1,0.2,2.386294361119891,2.386294361119891
 1878-1887,Geography and Travel,Travel,Fuzhou（foochow）,Fuzhou,foochow,26.1,119.3,1,1,0.2,1.9808292530117264,1.9808292530117264
 1878-1887,Geography and Travel,Travel,Sakhalin（saghalien）,Sakhalin,saghalien,50.7,143.0,1,1,0.2,2.386294361119891,2.386294361119891
 1878-1887,Geography and Travel,Travel,Sichuan（sze chuen; szechuen）,Sichuan,sze chuen; szechuen,30.7,104.1,1,1,0.2,1.9808292530117264,1.9808292530117264
 1878-1887,Geography and Travel,Travel,Yangtzi River（yangtse）,Yangtzi River,yangtse,30.6,114.3,1,1,0.2,2.386294361119891,2.386294361119891
+1878-1887,Inscriptions and Miscellaneous,Inscriptions,Yantai Hill（yentai hill）,Yantai Hill,yentai hill,37.5,121.4,1,1,1.0,2.386294361119891,2.386294361119891
 1878-1887,Natural Sciences,Geology,Shandong（shan tung; shantung）,Shandong,shan tung; shantung,36.7,117.0,1,1,1.0,1.9808292530117264,1.9808292530117264
+1888-1897,"Economy, Trade, and Technology",Economics,Sichuan（ssuch'uan）,Sichuan,ssuch'uan,30.7,104.1,1,1,1.0,2.386294361119891,2.386294361119891
 1888-1897,"Politics, Government, and Law",Government,Sichuan（ssuch'uan）,Sichuan,ssuch'uan,30.7,104.1,1,1,1.0,2.386294361119891,2.386294361119891
+1888-1897,"Politics, Government, and Law",Political science--Philosophy,Sichuan（ssuch'uan）,Sichuan,ssuch'uan,30.7,104.1,1,1,1.0,2.386294361119891,2.386294361119891
+1898-1907,"Economy, Trade, and Technology",Commerce,Chengdu（ch'eng tu; cheng tu）,Chengdu,ch'eng tu; cheng tu,30.7,104.1,1,1,0.5,2.386294361119891,2.386294361119891
+1898-1907,"Economy, Trade, and Technology",Commerce,Songpan（sungp'an）,Songpan,sungp'an,32.7,103.6,1,1,0.5,2.386294361119891,2.386294361119891
+1898-1907,"Economy, Trade, and Technology",Industries,Chengdu（ch'eng tu; cheng tu）,Chengdu,ch'eng tu; cheng tu,30.7,104.1,1,1,0.5,2.386294361119891,2.386294361119891
+1898-1907,"Economy, Trade, and Technology",Industries,Songpan（sungp'an）,Songpan,sungp'an,32.7,103.6,1,1,0.5,2.386294361119891,2.386294361119891
 1898-1907,Geography and Travel,Travel,Pu'er（szemao）,Pu'er,szemao,22.8,100.9,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
 1898-1907,Geography and Travel,Travel,Songpan（sungp'an）,Songpan,sungp'an,32.7,103.6,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
 1898-1907,Geography and Travel,Travel,Yangon（rangoon）,Yangon,rangoon,16.8,96.2,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
 1898-1907,History and Chronology,History,Shaoxing（shaohing）,Shaoxing,shaohing,30.0,120.6,1,1,1.0,2.386294361119891,2.386294361119891
-1898-1907,Natural Sciences,Agriculture,Chengdu（ch'eng tu; cheng tu）,Chengdu,ch'eng tu; cheng tu,30.7,104.1,1,1,1.0,2.386294361119891,2.386294361119891
+1898-1907,Natural Sciences,Agriculture,Chengdu（ch'eng tu; cheng tu）,Chengdu,ch'eng tu; cheng tu,30.7,104.1,1,1,0.5,2.386294361119891,2.386294361119891
+1898-1907,Natural Sciences,Agriculture,Songpan（sungp'an）,Songpan,sungp'an,32.7,103.6,1,1,0.5,2.386294361119891,2.386294361119891
+1898-1907,Natural Sciences,Hydrology,Chengdu（ch'eng tu; cheng tu）,Chengdu,ch'eng tu; cheng tu,30.7,104.1,1,1,1.0,2.386294361119891,2.386294361119891
 1898-1907,Religion and Philosophy,Judaism,Kaifengfu（kaifungfu）,Kaifengfu,kaifungfu,34.8,114.3,1,1,1.0,2.386294361119891,2.386294361119891
-1908-1917,Arts and Archaeology,Archaeology,Henan Province（honan）,Henan Province,honan,34.8,113.6,1,1,1.0,2.386294361119891,2.386294361119891
+1908-1917,Arts and Archaeology,Archaeology,Henan Province（honan）,Henan Province,honan,34.8,113.6,1,1,0.5,2.386294361119891,2.386294361119891
+1908-1917,Arts and Archaeology,Archaeology,Tai Shan（t'ai shan）,Tai Shan,t'ai shan; tai shan,36.3,117.1,1,1,0.5,2.386294361119891,2.386294361119891
+1908-1917,Arts and Archaeology,Art,Tai Shan（t'ai shan）,Tai Shan,t'ai shan; tai shan,36.3,117.1,1,1,1.0,2.386294361119891,2.386294361119891
+1908-1917,Geography and Travel,Travel,Batang,Batang,batang,30.0,99.1,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
+1908-1917,Geography and Travel,Travel,Mangkang（menkong）,Mangkang,menkong,29.7,98.6,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
+1908-1917,Geography and Travel,Travel,Tai Shan（t'ai shan）,Tai Shan,t'ai shan; tai shan,36.3,117.1,1,1,0.3333333333333333,2.386294361119891,2.386294361119891
 1908-1917,Natural Sciences,Geology,Batang,Batang,batang,30.0,99.1,1,1,0.5,2.386294361119891,2.386294361119891
 1908-1917,Natural Sciences,Geology,Mangkang（menkong）,Mangkang,menkong,29.7,98.6,1,1,0.5,2.386294361119891,2.386294361119891
 1908-1917,Religion and Philosophy,Religion,Tai Shan（t'ai shan）,Tai Shan,t'ai shan; tai shan,36.3,117.1,1,1,1.0,2.386294361119891,2.386294361119891
+1918-1927,Anthropology and Social Customs,Anthropology,Guizhou（kweichow）,Guizhou,kweichow,26.6,106.7,1,1,1.0,2.386294361119891,2.386294361119891
+1918-1927,Anthropology and Social Customs,Ethnology,Guizhou（kweichow）,Guizhou,kweichow,26.6,106.7,1,1,1.0,2.386294361119891,2.386294361119891
 1918-1927,Anthropology and Social Customs,Manners and customs,Fuzhou（foochow）,Fuzhou,foochow,26.1,119.3,1,1,0.5,1.9808292530117264,1.9808292530117264
 1918-1927,Anthropology and Social Customs,Manners and customs,Zhenjiang（chinkiang）,Zhenjiang,chinkiang,32.2,119.5,1,1,0.5,2.386294361119891,2.386294361119891
+1918-1927,"Economy, Trade, and Technology",Commerce,Guangdong（kwang-tung; kwang tung; kwangtung）,Guangdong,kwang-tung; kwang tung; kwangtung,23.1,113.3,1,1,1.0,1.9808292530117264,1.9808292530117264
+1918-1927,"Economy, Trade, and Technology",Industries,Guangdong（kwang-tung; kwang tung; kwangtung）,Guangdong,kwang-tung; kwang tung; kwangtung,23.1,113.3,1,1,1.0,1.9808292530117264,1.9808292530117264
 1918-1927,Geography and Travel,Geography,Lampacau（lampacao）,Lampacau,lampacao,22.2,113.5,1,1,1.0,2.386294361119891,2.386294361119891
 1918-1927,Geography and Travel,Travel,Gansu Province（kansu）,Gansu Province,kansu,36.1,103.8,1,1,0.5,2.386294361119891,2.386294361119891
 1918-1927,Geography and Travel,Travel,Guizhou（kweichow）,Guizhou,kweichow,26.6,106.7,1,1,0.5,2.386294361119891,2.386294361119891
-1918-1927,Natural Sciences,Agriculture,Guangdong（kwang tung; kwang-tung; kwangtung）,Guangdong,kwang tung; kwang-tung; kwangtung,23.1,113.3,1,1,1.0,1.9808292530117264,1.9808292530117264
+1918-1927,Natural Sciences,Agriculture,Guangdong（kwang-tung; kwang tung; kwangtung）,Guangdong,kwang-tung; kwang tung; kwangtung,23.1,113.3,1,1,1.0,1.9808292530117264,1.9808292530117264
+1918-1927,Natural Sciences,Chemistry,Guangdong（kwang-tung; kwang tung; kwangtung）,Guangdong,kwang-tung; kwang tung; kwangtung,23.1,113.3,1,1,1.0,1.9808292530117264,1.9808292530117264
 1918-1927,Religion and Philosophy,Christianity,Shaanxi Province（shen-hsi）,Shaanxi Province,shen-hsi,34.3,108.9,1,1,1.0,1.9808292530117264,1.9808292530117264

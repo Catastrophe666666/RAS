@@ -1,4 +1,4 @@
----
+﻿---
 title: "RAS_Author_Subject"
 author: "Xiaoye Zhu"
 date: "2026-06-20"
@@ -23,7 +23,7 @@ if (requireNamespace("knitr", quietly = TRUE)) {
 # 1. Read data
 # ------------------------------------------------------------
 
-output_dir <- Sys.getenv("RAS_OUTPUT_DIR", "C:/ras_text_analysis")
+output_dir <- Sys.getenv("RAS_OUTPUT_DIR", "C:/ras_text_analysis/social_network_subject_correct")
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)
 }
@@ -183,6 +183,10 @@ if (any(final_partial, na.rm = TRUE)) {
   df$time_window_start[final_partial] <- df$time_window_start[final_partial] - window_size
   df$time_window_end[final_partial] <- network_end_year
 }
+final_window_start <- network_end_year - window_size
+final_window_rows <- df$time_window_start == final_window_start
+df$time_window_end[final_window_rows] <- network_end_year
+
 df$time_window <- paste0(df$time_window_start, "-", df$time_window_end)
 ```
 
@@ -313,6 +317,38 @@ lcsh_subject_mapping <- data.frame(
 )
 
 lcsh_subject_mapping$subject_split <- normalize_subject(lcsh_subject_mapping$subject_split)
+
+# Additional mappings required by 1858_1948_full_subject.csv.
+# These old-subject strings are conceptually covered by the expanded categories,
+# but their exact forms were not caught by the previous split rules.
+corrected_subject_mapping <- data.frame(
+  subject_split = c(
+    "art", "manners", "china--religion", "east asian languages", "historical",
+    "ancient", "science", "telecommunication", "bronzes", "military art",
+    "associations", "institutions", "etc", "etc.", "folkore", "geology / history", "modern", "customs"
+  ),
+  subject_l2 = c(
+    "Art", "Manners and customs", "China--Religion", "East Asian languages", "Chronology, Historical",
+    "History, Ancient", "Science", "Telecommunication", "Bronzes", "Military art and science",
+    "Associations, institutions, etc.", "Associations, institutions, etc.", "Associations, institutions, etc.", "Associations, institutions, etc.", "Folklore", "Geology", "History, Modern (20th century)", "Manners and customs"
+  ),
+  subject_l1 = c(
+    "Arts and Archaeology", "Anthropology and Social Customs", "Religion and Philosophy", "Literature and Language", "History and Chronology",
+    "History and Chronology", "Natural Sciences", "Economy, Trade, and Technology", "Arts and Archaeology", "Military",
+    "Politics, Government, and Law", "Politics, Government, and Law", "Politics, Government, and Law", "Politics, Government, and Law", "Anthropology and Social Customs", "Natural Sciences", "History and Chronology", "Anthropology and Social Customs"
+  ),
+  mapping_note = c(
+    "Corrected exact old subject: Art", "Corrected exact old subject: Manners and customs", "Corrected exact old subject: China--Religion", "Corrected exact old subject: East Asian languages", "Corrected split from Chronology, Historical",
+    "Corrected split from History, Ancient", "Corrected exact old subject: Science", "Corrected exact old subject: Telecommunication", "Corrected exact old subject: Bronzes", "Corrected split from Military art and science",
+    "Corrected split from Associations, institutions, etc.", "Corrected split from Associations, institutions, etc.", "Corrected split from Associations, institutions, etc.", "Corrected split from Associations, institutions, etc.", "Corrected misspelling: Folkore", "Corrected compound Geology / History", "Corrected split from History, Modern", "Corrected split from Manners and customs"
+  ),
+  stringsAsFactors = FALSE
+)
+corrected_subject_mapping$subject_split <- normalize_subject(corrected_subject_mapping$subject_split)
+lcsh_subject_mapping <- rbind(
+  lcsh_subject_mapping[!(lcsh_subject_mapping$subject_split %in% corrected_subject_mapping$subject_split), ],
+  corrected_subject_mapping
+)
 ```
 
 ```{r}
@@ -335,6 +371,16 @@ df_subject_expanded$mapping_note <- lcsh_subject_mapping$mapping_note[map_idx]
 df_subject_expanded$subject_l2[is.na(df_subject_expanded$subject_l2)] <- "Unknown"
 df_subject_expanded$subject_l1[is.na(df_subject_expanded$subject_l1)] <- "Unknown"
 df_subject_expanded$mapping_note[is.na(df_subject_expanded$mapping_note)] <- "No reviewed LCSH rule; assigned Unknown"
+# Keep reviewed non-empty article subjects in the network instead of assigning Unknown.
+inscription_rows <- df_subject_expanded$subject_split == "inscriptions"
+df_subject_expanded$subject_l2[inscription_rows] <- "Inscriptions"
+df_subject_expanded$subject_l1[inscription_rows] <- "Inscriptions and Miscellaneous"
+df_subject_expanded$mapping_note[inscription_rows] <- "Reviewed category: inscriptions"
+
+misc_rows <- df_subject_expanded$subject_split == "miscellaneous"
+df_subject_expanded$subject_l2[misc_rows] <- "Miscellaneous"
+df_subject_expanded$subject_l1[misc_rows] <- "Inscriptions and Miscellaneous"
+df_subject_expanded$mapping_note[misc_rows] <- "Reviewed category: miscellaneous"
 
 df_subject_expanded <- df_subject_expanded[
   !duplicated(paste(df_subject_expanded$master_id, df_subject_expanded$subject_l2, sep = "\r")),
@@ -968,7 +1014,7 @@ paste0('      <h1 class="title">RAS Author-Subject Network, ', journal_year_span
 '  if (!n) return;',
 '  const rows = articlesForNode(id);',
 '  panelTitle.textContent = n.label;',
-'  panelSub.textContent = n.type === "author" ? `Author · ${rows.length} article-subject links` : `${n.subject_l1} · ${rows.length} article links`;',
+'  panelSub.textContent = n.type === "author" ? `Author - ${rows.length} article-subject links` : `${n.subject_l1} - ${rows.length} article links`;',
 '  articleList.innerHTML = "";',
 '  if (!rows.length) { articleList.innerHTML = "<div class=\\"article-meta\\">No articles match the current filters.</div>"; draw(); return; }',
 '  rows.forEach(e => {',
@@ -1018,3 +1064,5 @@ paste0('      <h1 class="title">RAS Author-Subject Network, ', journal_year_span
 writeLines(html, html_path, useBytes = TRUE)
 writeLines(html, bundle_path, useBytes = TRUE)
 ```
+
+

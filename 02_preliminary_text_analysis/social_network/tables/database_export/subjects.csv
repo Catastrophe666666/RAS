@@ -15,41 +15,48 @@ SUBJ_00013,Arts and Archaeology,Numismatics
 SUBJ_00014,Arts and Archaeology,Painting
 SUBJ_00015,Arts and Archaeology,Porcelain
 SUBJ_00016,Arts and Archaeology,Sculpture
-SUBJ_00017,"Economy, Trade, and Technology",Economics
-SUBJ_00018,"Economy, Trade, and Technology",Telecommunication
-SUBJ_00019,Education,Education
-SUBJ_00020,Geography and Travel,Asia
-SUBJ_00021,Geography and Travel,Geography
-SUBJ_00022,Geography and Travel,Travel
-SUBJ_00023,History and Chronology,Biography
-SUBJ_00024,History and Chronology,"Chronology, Historical"
-SUBJ_00025,History and Chronology,History
-SUBJ_00026,History and Chronology,"History, Ancient"
-SUBJ_00027,History and Chronology,"History, Modern (20th century)"
-SUBJ_00028,Literature and Language,East Asian languages
-SUBJ_00029,Literature and Language,Language and languages
-SUBJ_00030,Literature and Language,Literature
-SUBJ_00031,Military,Military art and science
-SUBJ_00032,Natural Sciences,Agriculture
-SUBJ_00033,Natural Sciences,Astronomy
-SUBJ_00034,Natural Sciences,Botany
-SUBJ_00035,Natural Sciences,Chemistry
-SUBJ_00036,Natural Sciences,Geology
-SUBJ_00037,Natural Sciences,Hydrology
-SUBJ_00038,Natural Sciences,Medicine
-SUBJ_00039,Natural Sciences,Meteorology
-SUBJ_00040,Natural Sciences,Science
-SUBJ_00041,Natural Sciences,Zoology
-SUBJ_00042,"Politics, Government, and Law","Associations, institutions, etc."
-SUBJ_00043,"Politics, Government, and Law",Government
-SUBJ_00044,"Politics, Government, and Law",Law
-SUBJ_00045,"Politics, Government, and Law",Political science
-SUBJ_00046,Religion and Philosophy,Buddhism
-SUBJ_00047,Religion and Philosophy,China--Religion
-SUBJ_00048,Religion and Philosophy,Christianity
-SUBJ_00049,Religion and Philosophy,Confucianism
-SUBJ_00050,Religion and Philosophy,Islam
-SUBJ_00051,Religion and Philosophy,Judaism
-SUBJ_00052,Religion and Philosophy,Philosophy
-SUBJ_00053,Religion and Philosophy,Religion
-SUBJ_00054,Religion and Philosophy,Taoism
+SUBJ_00017,"Economy, Trade, and Technology",Commerce
+SUBJ_00018,"Economy, Trade, and Technology",Economics
+SUBJ_00019,"Economy, Trade, and Technology",Industries
+SUBJ_00020,"Economy, Trade, and Technology",Telecommunication
+SUBJ_00021,Education,Education
+SUBJ_00022,Geography and Travel,Asia
+SUBJ_00023,Geography and Travel,Geography
+SUBJ_00024,Geography and Travel,Navigation
+SUBJ_00025,Geography and Travel,Travel
+SUBJ_00026,History and Chronology,Biography
+SUBJ_00027,History and Chronology,"Chronology, Historical"
+SUBJ_00028,History and Chronology,History
+SUBJ_00029,History and Chronology,"History, Ancient"
+SUBJ_00030,History and Chronology,"History, Modern"
+SUBJ_00031,History and Chronology,"History, Modern (20th century)"
+SUBJ_00032,Inscriptions and Miscellaneous,Inscriptions
+SUBJ_00033,Inscriptions and Miscellaneous,Miscellaneous
+SUBJ_00034,Literature and Language,East Asian languages
+SUBJ_00035,Literature and Language,Language and languages
+SUBJ_00036,Literature and Language,Literature
+SUBJ_00037,Military,Military art and science
+SUBJ_00038,Natural Sciences,Agriculture
+SUBJ_00039,Natural Sciences,Astronomy
+SUBJ_00040,Natural Sciences,Botany
+SUBJ_00041,Natural Sciences,Chemistry
+SUBJ_00042,Natural Sciences,Geology
+SUBJ_00043,Natural Sciences,Hydrology
+SUBJ_00044,Natural Sciences,Medicine
+SUBJ_00045,Natural Sciences,Meteorology
+SUBJ_00046,Natural Sciences,Science
+SUBJ_00047,Natural Sciences,Zoology
+SUBJ_00048,"Politics, Government, and Law","Associations, institutions, etc."
+SUBJ_00049,"Politics, Government, and Law",Government
+SUBJ_00050,"Politics, Government, and Law",Law
+SUBJ_00051,"Politics, Government, and Law",Political science
+SUBJ_00052,"Politics, Government, and Law",Political science--Philosophy
+SUBJ_00053,Religion and Philosophy,Buddhism
+SUBJ_00054,Religion and Philosophy,China--Religion
+SUBJ_00055,Religion and Philosophy,Christianity
+SUBJ_00056,Religion and Philosophy,Confucianism
+SUBJ_00057,Religion and Philosophy,Islam
+SUBJ_00058,Religion and Philosophy,Judaism
+SUBJ_00059,Religion and Philosophy,Philosophy
+SUBJ_00060,Religion and Philosophy,Religion
+SUBJ_00061,Religion and Philosophy,Taoism

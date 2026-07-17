@@ -1,55 +1,62 @@
 subject_l1,subject_l2,weighted_article_count,article_count,author_count,first_year,last_year,share
-Literature and Language,Literature,57.0,57,38,1859,1946,0.0871559633027523
-Geography and Travel,Travel,44.0,44,34,1858,1936,0.0672782874617737
-Natural Sciences,Zoology,37.0,37,25,1859,1948,0.0565749235474006
-History and Chronology,History,36.0,39,34,1866,1946,0.055045871559633
-Anthropology and Social Customs,Ethnology,33.0,33,24,1858,1946,0.0504587155963302
-Religion and Philosophy,Religion,26.0,26,22,1869,1948,0.0397553516819571
-Geography and Travel,Geography,24.0,24,20,1876,1940,0.036697247706422
-Arts and Archaeology,Archaeology,23.0,23,19,1865,1946,0.0351681957186544
-Natural Sciences,Geology,23.0,23,16,1860,1929,0.0351681957186544
-Anthropology and Social Customs,Manners and customs,23.0,23,18,1864,1923,0.0351681957186544
-Natural Sciences,Agriculture,21.0,21,15,1859,1937,0.0321100917431192
-Natural Sciences,Meteorology,18.0,18,15,1858,1914,0.0275229357798165
-Religion and Philosophy,Philosophy,17.0,17,12,1859,1933,0.0259938837920489
-Natural Sciences,Botany,16.0,16,11,1865,1931,0.0244648318042813
-Religion and Philosophy,Christianity,15.5,16,10,1865,1948,0.0237003058103975
-History and Chronology,"History, Modern (20th century)",15.5,16,10,1859,1931,0.0237003058103975
-"Economy, Trade, and Technology",Economics,15.0,15,10,1868,1940,0.0229357798165137
-Arts and Archaeology,Art,13.5,14,11,1887,1937,0.0206422018348623
-Religion and Philosophy,Buddhism,11.0,11,9,1858,1934,0.0168195718654434
-Religion and Philosophy,China--Religion,11.0,11,10,1924,1931,0.0168195718654434
-Natural Sciences,Hydrology,11.0,11,10,1859,1918,0.0168195718654434
-Arts and Archaeology,Numismatics,11.0,11,8,1858,1917,0.0168195718654434
-"Politics, Government, and Law",Law,10.0,10,8,1859,1946,0.0152905198776758
-Arts and Archaeology,Antiquities,9.0,9,9,1864,1932,0.0137614678899082
-Natural Sciences,Astronomy,9.0,9,7,1860,1935,0.0137614678899082
-History and Chronology,Biography,9.0,9,8,1868,1928,0.0137614678899082
-Literature and Language,Language and languages,9.0,9,8,1885,1948,0.0137614678899082
-Religion and Philosophy,Confucianism,7.0,7,6,1860,1936,0.010703363914373
-Natural Sciences,Science,6.0,7,7,1869,1946,0.0091743119266055
-Arts and Archaeology,Architecture,6.0,6,6,1866,1936,0.0091743119266055
-History and Chronology,"Chronology, Historical",6.0,6,5,1867,1934,0.0091743119266055
-Literature and Language,East Asian languages,6.0,6,6,1924,1931,0.0091743119266055
-Natural Sciences,Medicine,6.0,6,4,1864,1940,0.0091743119266055
-Arts and Archaeology,Music,6.0,6,6,1859,1910,0.0091743119266055
-Arts and Archaeology,Painting,6.0,6,2,1914,1935,0.0091743119266055
-Anthropology and Social Customs,Mythology,5.5,6,5,1859,1917,0.0084097859327217
-Geography and Travel,Asia,5.0,5,4,1925,1929,0.0076452599388379
-"Politics, Government, and Law",Government,5.0,5,4,1882,1900,0.0076452599388379
-Religion and Philosophy,Islam,5.0,5,2,1918,1931,0.0076452599388379
-Religion and Philosophy,Taoism,5.0,5,4,1888,1923,0.0076452599388379
-Anthropology and Social Customs,Folklore,4.5,5,4,1886,1928,0.0068807339449541
-Education,Education,4.0,4,4,1859,1928,0.0061162079510703
-Arts and Archaeology,Porcelain,4.0,4,3,1887,1932,0.0061162079510703
-Arts and Archaeology,Decorative arts,3.0,3,1,1912,1914,0.0045871559633027
-"Economy, Trade, and Technology",Telecommunication,3.0,3,3,1884,1896,0.0045871559633027
-History and Chronology,"History, Ancient",2.5,5,5,1871,1936,0.0038226299694189
-Anthropology and Social Customs,Anthropology,2.0,2,2,1932,1934,0.0030581039755351
-Arts and Archaeology,Bronzes,2.0,2,1,1916,1917,0.0030581039755351
-"Politics, Government, and Law",Political science,2.0,2,2,1927,1928,0.0030581039755351
-Military,Military art and science,1.0,2,2,1869,1887,0.0015290519877675
-"Politics, Government, and Law","Associations, institutions, etc.",1.0,1,1,1928,1928,0.0015290519877675
-Natural Sciences,Chemistry,1.0,1,1,1864,1864,0.0015290519877675
-Religion and Philosophy,Judaism,1.0,1,1,1906,1906,0.0015290519877675
-Arts and Archaeology,Sculpture,1.0,1,1,1917,1917,0.0015290519877675
+Literature and Language,Language and languages,61.78333333333333,70,49,1859,1948,0.0938956433637284
+Geography and Travel,Travel,45.49999999999999,59,42,1858,1936,0.0691489361702127
+Natural Sciences,Zoology,38.75,45,29,1859,1948,0.0588905775075987
+History and Chronology,History,31.03333333333333,44,35,1866,1946,0.0471631205673758
+Anthropology and Social Customs,Manners and customs,26.33333333333333,31,24,1864,1923,0.0400202634245187
+Religion and Philosophy,Religion,24.366666666666667,29,25,1869,1948,0.037031408308004
+Arts and Archaeology,Archaeology,24.166666666666664,33,23,1865,1946,0.0367274569402228
+Natural Sciences,Geology,21.416666666666664,27,20,1860,1929,0.032548125633232
+Geography and Travel,Geography,19.16666666666666,30,23,1869,1940,0.029128672745694
+Natural Sciences,Botany,19.08333333333333,25,15,1860,1931,0.0290020263424518
+Anthropology and Social Customs,Ethnology,17.499999999999996,35,25,1858,1946,0.026595744680851
+Literature and Language,Literature,17.45,27,21,1866,1948,0.0265197568389057
+Natural Sciences,Meteorology,17.25,19,16,1858,1914,0.0262158054711246
+Religion and Philosophy,Philosophy,15.75,17,12,1859,1933,0.0239361702127659
+Religion and Philosophy,Christianity,15.666666666666666,17,10,1865,1948,0.0238095238095238
+Anthropology and Social Customs,Anthropology,15.499999999999998,33,23,1858,1934,0.0235562310030395
+History and Chronology,"History, Modern (20th century)",15.0,15,9,1859,1911,0.0227963525835866
+"Economy, Trade, and Technology",Economics,12.58333333333333,21,15,1868,1940,0.0191236068895643
+Natural Sciences,Hydrology,11.583333333333332,16,14,1859,1922,0.0176038500506585
+Religion and Philosophy,China--Religion,11.0,12,11,1924,1931,0.0167173252279635
+Religion and Philosophy,Buddhism,10.583333333333332,13,11,1858,1934,0.0160840932117527
+Arts and Archaeology,Numismatics,10.083333333333332,13,9,1858,1917,0.0153242147922998
+History and Chronology,Biography,10.0,11,10,1868,1928,0.0151975683890577
+Arts and Archaeology,Art,9.166666666666666,18,12,1898,1937,0.0139311043566362
+"Politics, Government, and Law",Law,8.75,11,9,1859,1946,0.0132978723404255
+Anthropology and Social Customs,Mythology,8.333333333333332,11,8,1859,1928,0.0126646403242147
+Natural Sciences,Agriculture,8.249999999999996,23,16,1859,1937,0.0125379939209726
+Natural Sciences,Astronomy,8.2,9,7,1866,1935,0.0124620060790273
+Inscriptions and Miscellaneous,Inscriptions,7.0,7,7,1864,1929,0.0106382978723404
+Arts and Archaeology,Music,6.583333333333333,9,9,1859,1928,0.0100050658561296
+History and Chronology,"Chronology, Historical",6.5,7,6,1867,1934,0.0098784194528875
+Religion and Philosophy,Confucianism,6.0,7,6,1860,1936,0.0091185410334346
+Literature and Language,East Asian languages,6.0,6,6,1924,1931,0.0091185410334346
+Arts and Archaeology,Painting,6.0,6,2,1914,1935,0.0091185410334346
+Geography and Travel,Asia,5.416666666666664,14,13,1924,1931,0.0082320162107396
+Arts and Archaeology,Architecture,5.0,6,6,1866,1936,0.0075987841945288
+Natural Sciences,Medicine,5.0,5,4,1864,1940,0.0075987841945288
+Religion and Philosophy,Taoism,5.0,5,4,1888,1923,0.0075987841945288
+"Economy, Trade, and Technology",Commerce,4.916666666666664,17,13,1859,1919,0.0074721377912867
+"Economy, Trade, and Technology",Industries,4.916666666666664,17,13,1859,1919,0.0074721377912867
+Religion and Philosophy,Islam,4.5,5,2,1918,1931,0.0068389057750759
+"Politics, Government, and Law",Government,3.83333333333333,12,7,1882,1921,0.0058257345491387
+"Economy, Trade, and Technology",Telecommunication,3.75,5,5,1867,1896,0.0056990881458966
+Arts and Archaeology,Decorative arts,3.5,4,1,1912,1914,0.0053191489361702
+Anthropology and Social Customs,Folklore,3.5,4,4,1924,1928,0.0053191489361702
+History and Chronology,"History, Ancient",3.5,4,4,1926,1936,0.0053191489361702
+Education,Education,3.333333333333333,5,5,1859,1928,0.0050658561296859
+Arts and Archaeology,Porcelain,3.25,4,3,1887,1932,0.0049392097264437
+"Politics, Government, and Law",Political science--Philosophy,3.166666666666664,10,7,1882,1921,0.0048125633232016
+Inscriptions and Miscellaneous,Miscellaneous,3.0,3,3,1871,1923,0.0045592705167173
+Natural Sciences,Science,3.0,3,3,1930,1946,0.0045592705167173
+History and Chronology,"History, Modern",2.75,6,5,1925,1931,0.0041793313069908
+"Politics, Government, and Law",Political science,2.333333333333333,3,3,1895,1928,0.0035460992907801
+Arts and Archaeology,Bronzes,2.0,2,1,1916,1917,0.0030395136778115
+Religion and Philosophy,Judaism,2.0,2,1,1864,1906,0.0030395136778115
+Military,Military art and science,2.0,2,2,1869,1887,0.0030395136778115
+Natural Sciences,Chemistry,1.5,3,3,1864,1919,0.0022796352583586
+Arts and Archaeology,Antiquities,1.333333333333333,2,2,1926,1932,0.0020263424518743
+Geography and Travel,Navigation,1.166666666666666,3,2,1877,1886,0.00177304964539
+"Politics, Government, and Law","Associations, institutions, etc.",1.0,1,1,1928,1928,0.0015197568389057
+Arts and Archaeology,Sculpture,1.0,1,1,1917,1917,0.0015197568389057

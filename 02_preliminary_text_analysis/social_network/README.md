@@ -17,5 +17,7 @@ Key files:
 Notes:
 
 - Unknown subjects are excluded from the corrected network and visual summaries.
+- The 2026-07-17 rebuild keeps `inscriptions` and `miscellaneous` as reviewed network categories under `Inscriptions and Miscellaneous`.
 - The final time window is normalized as `1938-1948`.
 - Short legacy table names are retained as compatibility copies of the corrected subject-expanded outputs.
+
